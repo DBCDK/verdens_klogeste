@@ -8,5 +8,5 @@ setup(name="verdens-klogeste",
     packages=["verdens_klogeste"],
     description="",
     provides=["verdens_klogeste"],
-    install_requires=["requests"]
+    install_requires=["requests", "ibm-watson>=4.2.1"]
 )
