@@ -13,7 +13,19 @@ class Watson(object):
         data = {
             "text": text,
             "features": {
-                "categories": {}
+                "concepts": {
+                    "limit": 10
+                },
+                "entities": {
+                    "emotion": True,
+                    "sentiment": True,
+                    "limit": 10
+                },
+                "keywords": {
+                    "sentiment": True,
+                    "emotion": True,
+                    "limit": 10
+                },
             }
         }
         response = requests.post(self.watson_url, auth=("apikey", self.api_key),

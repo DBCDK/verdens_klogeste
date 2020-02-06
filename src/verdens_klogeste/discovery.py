@@ -9,88 +9,96 @@ from ibm_watson import DiscoveryV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 
-def auth_discovery(url, apikey, version):
+class Discovery():
 
-    authenticator = IAMAuthenticator(f'{apikey}')
-    discovery = DiscoveryV1(
-        version=f'{version}',
-        authenticator=authenticator
-    )
+    def __init__(self, api_key, watson_url, version='2019-04-30'):
+        authenticator = IAMAuthenticator(api_key)
+        discovery = DiscoveryV1(
+            version=version,
+            authenticator=authenticator
+        )
+        discovery.set_service_url(watson_url)
+        self.discovery = discovery
 
-    discovery.set_service_url(f'{url}')
-    return discovery
+    def create_env(self, name, description):
+        env_info = self.discovery.create_environment(name=name, description=description)
+        return env_info
 
-    
-def create_env(discovery, name, description):
-    env_info = discovery.create_environment(name=name, description=description)
-    return env_info
+    def create_collection(self, env_id, name):
+        # if we dont give a configuration_id the default configuration will be used.
+        coll_info = self.discovery.create_collection(env_id, name)
+        return coll_info
 
+    def find_env_id(self, name):
+        env_id = ''
+        envs = self.discovery.list_environments()
+        for env in envs.result['environments']:
+            if env['name'] == name:
+                env_id = env['environment_id']
+        return env_id
 
-def find_env_id(discovery, name):
-    env_id = ''
-    envs = discovery.list_environments()
-    for env in envs.result['environments']:
-        if env['name'] == name:
-            env_id = env['environment_id']
-    return env_id
+    def find_coll_id(self, env_id, name):
+        coll_id = ''
+        colls = self.discovery.list_collections(env_id)
+        for coll in colls.result['collections']:
+            if coll['name'] == name:
+                coll_id = coll['collection_id']
+        return coll_id
 
+    def upload_doc(self, filename, metadata, env_name, coll_name):
+        env_id = self.find_env_id(env_name)
+        coll_id = self.find_coll_id(env_id, coll_name)
+        with open(filename, 'r') as f:
+            add_doc = self.discovery.add_document(
+                env_id,
+                coll_id,
+                file=f,
+                file_content_type='text/html',
+                metadata=json.dumps(metadata),
+            ).get_result()
+        return add_doc
 
-def create_collection(discovery, env_id, name):
-    # if we dont give a configuration_id the default configuration will be used.
-    coll_info = discovery.create_collection(env_id, name)
-    return coll_info
+    def setup_env_coll(self, env_name, env_description, coll_name):
+        env_info = self.create_env(env_name, env_description)
+        print(env_info)
+        env_id = self.find_env_id(env_name)
+        coll_info = self.create_collection(env_id, coll_name)
+        print(coll_info)
 
-
-def find_coll_id(discovery, env_id, name):
-    coll_id = ''
-    colls = discovery.list_collections(env_id)
-    for coll in colls.result['collections']:
-        if coll['name'] == name:
-            coll_id = coll['collection_id']
-    return coll_id
-
-
-def upload_doc(discovery, env_id, coll_id, doc_filename):
-    with open(doc_filename) as fileinfo:
-        add_doc = discovery.add_document(
-            env_id,
-            coll_id,
-            file=fileinfo).get_result()
-    return add_doc
-
+    def delete_coll(self, env_name, coll_name):
+        env_id = self.find_env_id(env_name)
+        coll_id = self.find_coll_id(env_id, coll_name)
+        self.discovery.delete_collection(env_id, coll_id)
 
 def chain(url, apikey, version):
     
     ENV_NAME = 'vktest_env'
     COLL_NAME = 'vktest_coll'
-    DOC_FILENAME = 'data/Sean_Astin.html'
+    DOC_FILENAME = 'data/Sean_Astin.txt'
+    ENV_DESC = 'Environment til Verdens Klogeste test'
     # NOTICE: Watson Discovery does not accept documents in txt-format
     # The document has just been renamed to .html in order to be accepted.
 
-    discovery = auth_discovery(url, apikey, version)
-    
-    # UNCOMMENT TO CREATE ENVIRONMENT
-    #env_info = create_env(discovery, ENV_NAME, 'Environment til Verdens Klogeste test')
-    #print(env_info)
-    
-    # find vktest_env identifier:
-    env_id = find_env_id(discovery, ENV_NAME)
-    print(f'Environment id: {env_id}')
+    discovery = Discovery(apikey, url)
 
-    # UNCOMMENT TO CREATE COLLECTION
-    #coll_info = create_collection(discovery, env_id, COLL_NAME)
-    #print(coll_info)
+    # discovery.delete_coll(ENV_NAME, COLL_NAME)
 
-    coll_id = find_coll_id(discovery, env_id, COLL_NAME)
-    print(f'Collection id:  {coll_id}')
+    # UNCOMMENT TO SETUP
+    # discovery.setup_env_coll(ENV_NAME, ENV_DESC, COLL_NAME)
+    # OR TO ONLY CREATE COLL:
+    # env_id = discovery.find_env_id(ENV_NAME)
+    # discovery.create_collection(env_id, COLL_NAME)
 
     # UNCOMMONT TO UPLOAD DOCUMENT
-    #doc_info = upload_doc(discovery, env_id, coll_id, DOC_FILENAME)
+    #doc_info = discovery.upload_doc(DOC_FILENAME, ENV_NAME, COLL_NAME)
     #print(doc_info)
 
     # doc_id = '480ddd55-9bd4-4e3b-a35e-40c54b3bd0c1'
-    result = discovery.query(env_id, coll_id, query='Sean')
+    env_id = discovery.find_env_id(ENV_NAME)
+    coll_id = discovery.find_coll_id(env_id, COLL_NAME)
+    result = discovery.discovery.query(env_id, coll_id, query='Sean')
     print(result)
+
 
     
 if __name__ == '__main__':
