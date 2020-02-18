@@ -23,3 +23,8 @@ Britney_Spears.txt
 George_W._Bush.txt
 Hillary_Clinton.txt
 ```
+
+Or parse all to txt with (filibuster.json -> filibuster.txt):
+```
+ls *json| ./parse-all-gen.py|sh
+```
