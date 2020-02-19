@@ -12,9 +12,9 @@ Herefter kan dokumenter fremsøges ved brug af Watson Discovery's API.
 
 # Eksempler
 
-Vi har valgt 1000 populære Wikipedia-artikler om personer som eksempler (se data).
+Vi har valgt 1000 populære Wikipedia-artikler om personer som eksempler (se `data`).
 
-Herefter har vi lavet et antal søgninger (se examples, søgningen svarer til filnavnet), hvor man kan se den rå response (*.json) og en parset version med hits og de første fem entities, concepts, keywords og categories (*.md).
+Herefter har vi lavet et antal søgninger (se `examples`, søgningen svarer til filnavnet), hvor man kan se den rå response (`*.json`) og en parset version med hits og de første fem entities, concepts, keywords og categories (`*.md`).
 
 
 
