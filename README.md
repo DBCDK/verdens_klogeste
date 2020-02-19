@@ -16,6 +16,13 @@ Vi har valgt 1000 populære Wikipedia-artikler om personer som eksempler (se `da
 
 Herefter har vi lavet et antal søgninger (se `examples`, søgningen svarer til filnavnet), hvor man kan se den rå response (`*.json`) og en parset version med hits og de første fem entities, concepts, keywords og categories (`*.md`).
 
+# Næste skridt?
+
+ * webservice oven på vores Watson
+
+  * fra søgning
+
+  * til resultater opdelt i grupper (clustering), så med eksempeldata ville fx skuespillere og politikere komme i hver sin gruppe
 
 
 
