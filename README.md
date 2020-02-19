@@ -18,10 +18,8 @@ Herefter har vi lavet et antal søgninger (se `examples`, søgningen svarer til 
 
 # Næste skridt?
 
- * webservice oven på vores Watson
-
+* webservice oven på vores Watson
   * fra søgning
-
   * til resultater opdelt i grupper (clustering), så med eksempeldata ville fx skuespillere og politikere komme i hver sin gruppe
 
 
