@@ -6,7 +6,7 @@ import sys
 if __name__ == "__main__":
     for l in sys.stdin:
         src = l.rstrip()
-        target = src.replace('json', 'txt') 
+        target = src.replace('json', 'md') 
         print("./parse-response.py < %s > %s" % (src, target))
 
 
