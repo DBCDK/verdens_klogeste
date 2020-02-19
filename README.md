@@ -22,5 +22,6 @@ Herefter har vi lavet et antal søgninger (se `examples`, søgningen svarer til 
   * fra søgning
   * til resultater opdelt i grupper (clustering), så med eksempeldata ville fx skuespillere og politikere komme i hver sin gruppe
 
+* når vi har de rigtige tekster, så erstatter vi eksemplerne med disse
 
 
