@@ -1,3 +1,7 @@
+# Internal testnotes -- please ignore outside DBC
+
+TODO: out of date, update when needed
+
 Setup env xpdev-p01:
 
 ```
