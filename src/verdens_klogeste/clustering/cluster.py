@@ -40,7 +40,7 @@ def cluster(X, num=3): #vectorizer, docs):
 
 
 def fit(vectorizer, kmeans, doc):
-    filename = doc['extracted_metadata']['filename']
+    filename = doc['metadata']['url']
     confidence = doc['result_metadata']['confidence']
     score = doc['result_metadata']['score']
     filename = f'{filename}  ({score:.2f}/{confidence:.2f})'
