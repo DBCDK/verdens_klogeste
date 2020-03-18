@@ -58,6 +58,12 @@ class Discovery():
             ).get_result()
         return add_doc
 
+    def delete_doc(self, doc_id, env_name, coll_name):
+        env_id = self.find_env_id(env_name)
+        coll_id = self.find_coll_id(env_id, coll_name)
+        response = self.discovery.delete_document(env_id, coll_id, doc_id)
+        return response
+        
     def setup_env_coll(self, env_name, env_description, coll_name):
         env_info = self.create_env(env_name, env_description)
         print(env_info)
