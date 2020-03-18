@@ -4,8 +4,8 @@ import argparse
 import glob
 import json
 import os
-from watson import Watson
-from discovery import Discovery
+from verdens_klogeste.watson import Watson
+from verdens_klogeste.discovery import Discovery
 
 
 DICOVERY_ENV_NAME = 'vktest_env'
