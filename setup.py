@@ -9,7 +9,7 @@ setup(name="verdens_klogeste",
     packages=find_packages(where='src'),
     description="",
     scripts=glob.glob('src/bin/*'),
-    install_requires=["requests", "ibm-watson>=4.2.1", "Wikipedia-API", "sklearn"]
+    install_requires=["requests", "ibm-watson>=4.2.1", "Wikipedia-API", "sklearn"],
     include_package_data=True,
     provides=["verdens_klogeste"],
     zip_safe=False
