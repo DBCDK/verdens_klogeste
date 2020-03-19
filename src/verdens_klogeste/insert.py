@@ -37,7 +37,7 @@ def create_neo_meta(metadata, filename):
     entities = fetch_text(metadata, 'entities')
 
     neo_meta = {'keywords': keywords, 'concepts': concepts, 'entitites': entities}
-    doc_title = filename.rsplit('/')[-1].rsplit('.')[0]
+    doc_title = filename.rsplit('/', 1)[-1].rsplit('.', 1)[0]
     neo_meta['url'] = f'https://simple.wikipedia.org/wiki/{doc_title}'
     return neo_meta
                             
