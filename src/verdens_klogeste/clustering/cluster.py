@@ -115,9 +115,9 @@ def query():
     print('\ncluster_id : filename  (discovery-score/discovery-confidence)')
     for doc in docs.result['results']:
         y, filename = fit(vectorizer, kmeans, doc)
-        print(f'{y}: {filename}')
+        #print(f'{y}: {filename}')
         clusters[y].append(filename)
-    print('\n\nResults by cluster:')
+    print('\nResults by cluster:')
     for i, clster in enumerate(clusters):
         print(f'#{i}')
         for filename in clster:
