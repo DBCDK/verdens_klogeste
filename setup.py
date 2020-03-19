@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import glob
 from setuptools import setup
 
 setup(name="verdens-klogeste",
@@ -7,6 +8,7 @@ setup(name="verdens-klogeste",
     package_dir={"": "src"},
     packages=["verdens_klogeste"],
     description="",
+    scripts=glob.glob('src/bin/*'),
     provides=["verdens_klogeste"],
     install_requires=["requests", "ibm-watson>=4.2.1", "Wikipedia-API", "sklearn"]
 )
