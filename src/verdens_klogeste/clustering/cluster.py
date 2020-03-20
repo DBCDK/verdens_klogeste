@@ -88,18 +88,13 @@ def main():
             print(f'  {filename}')
 
 
-def query():
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-q')
-    args = parser.parse_args()
-
+def query(query_string, n_results):
     from verdens_klogeste.insert import setup, DICOVERY_ENV_NAME, DICOVERY_COLL_NAME
 
     _, disc = setup()
     env_id = disc.find_env_id(DICOVERY_ENV_NAME)
     coll_id = disc.find_coll_id(env_id, DICOVERY_COLL_NAME)
-    response = disc.discovery.query(env_id, coll_id, query=args.q, count=50)
+    response = disc.discovery.query(env_id, coll_id, query=query_string, count=n_results)
     #print(response)
     for i, result in enumerate(response.result['results']):
         print(f'[{i}]: {result["metadata"]["url"]}')
@@ -122,6 +117,7 @@ def query():
         print(f'#{i}')
         for filename in clster:
             print(f'  {filename}')
+    return clusters
 
         
 def clustering(discovery_result, num_clusters=3):
@@ -130,4 +126,10 @@ def clustering(discovery_result, num_clusters=3):
             
 if __name__ == '__main__':
     #main()
-    query()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-q')
+    parser.add_argument("-n", "--results-count", default=50, type=int)
+    args = parser.parse_args()
+
+    query(args.q, args.results_count)
