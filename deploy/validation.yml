@@ -1,0 +1,6 @@
+- validation:
+  path: /query
+  method: post
+  data: 'P. Diddy'
+  response:
+    status_code: 200
