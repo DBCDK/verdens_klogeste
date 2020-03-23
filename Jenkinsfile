@@ -7,6 +7,7 @@ pipeline {
 	environment {
 		DOCKER_TAG = "${env.BRANCH_NAME}-${env.BUILD_NUMBER}"
 		GITLAB_PRIVATE_TOKEN = credentials("ai-gitlab-api-token")
+		AUTHKEY = credentials("VERDENS_KLOGESTE_AUTHKEY")
 	}
 	triggers {
 		pollSCM("H/02 * * * *")
@@ -68,7 +69,11 @@ pipeline {
 				branch "master"
 			}
 			steps {
-				sh "webservice_validation.py http://verdens-klogeste-1-0.mi-staging.svc.cloud.dbc.dk deploy/validation.yml"
+				sh """
+					rm -f deploy/validation-envsubst.yml
+					cat deploy/validation.yml | envsubst > deploy/validation-envsubst.yml
+					webservice_validation.py http://verdens-klogeste-1-0.mi-staging.svc.cloud.dbc.dk deploy/validation-envsubst.yml
+				"""
 			}
 		}
 		stage("update prod version number") {
@@ -99,7 +104,11 @@ pipeline {
 				branch "master"
 			}
 			steps {
-				sh "webservice_validation.py http://verdens-klogeste-1-0.mi-prod.svc.cloud.dbc.dk deploy/validation.yml"
+				sh """
+					rm -f deploy/validation-envsubst.yml
+					cat deploy/validation.yml | envsubst > deploy/validation-envsubst.yml
+					webservice_validation.py http://verdens-klogeste-1-0.mi-prod.svc.cloud.dbc.dk deploy/validation-envsubst.yml
+				"""
 			}
 		}
 	}

@@ -1,6 +1,6 @@
 - validation:
   path: /query
   method: post
-  data: 'P. Diddy'
+  data: '{"query": "P. Diddy", "key": "$AUTHKEY"}'
   response:
     status_code: 200
