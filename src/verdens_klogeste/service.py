@@ -3,6 +3,7 @@
 import argparse
 import json
 import logging
+import os
 
 import tornado
 from tornado.ioloop import IOLoop
@@ -16,6 +17,8 @@ from .clustering import cluster
 
 logger = rrflow.utils.setup_logging()
 
+AUTHKEY = os.environ["AUTHKEY"]
+
 def setup_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("-p", "--port", default=5000)
@@ -23,9 +26,16 @@ def setup_args():
 
 class QueryHandler(BaseHandler):
     def post(self):
-        data = self.request.body.decode("utf8")
+        data = json.loads(self.request.body.decode("utf8"))
+        if "query" not in data or "key" not in data:
+            self.set_status(415)
+            return self.write("Request body must contain a \"query\" and a \"key\" key.")
+        query = data["query"]
+        key = data["key"]
+        if key != AUTHKEY:
+            return self.set_status(401)
         n_results = self.get_argument("results-count", 50)
-        clusters = cluster.query(data, n_results)
+        clusters = cluster.query(query, n_results)
         response = {"clusters": clusters}
         self.write(f"{json.dumps(response)}\n")
 
