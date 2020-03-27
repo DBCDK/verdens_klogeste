@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-from verdens_klogeste.clustering.cluster import query
-query()
+from verdens_klogeste.clustering.cluster import main
+main()
