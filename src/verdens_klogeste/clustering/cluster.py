@@ -50,44 +50,6 @@ def fit(vectorizer, kmeans, doc):
     return y[0], filename #, score_str
 
 
-# def main_old():
-#     s = sys.stdin.read()
-#     doc = json.loads(s)
-#     converted = convert_results(doc)
-#     # print(converted)
-#     vectorizer = TfidfVectorizer()
-#     X = vectorizer.fit_transform(converted)
-#     print(vectorizer.get_feature_names())
-#     print(X.shape)
-#     vec = vectorizer.transform([converted[0]])
-#     print(vec)
-#     print('---')
-#     print(X[0])
-#     cluster(X)
-
-
-# def main():
-#     NUM_CLUSTERS = 3
-#     s = sys.stdin.read()
-#     docs = json.loads(s)
-#     converted = convert_results(docs)
-#     vectorizer = TfidfVectorizer()
-#     vectorizer.fit(converted)
-#     vec = vectorizer.transform(converted)
-#     kmeans = cluster(vec, num=NUM_CLUSTERS)
-#     clusters = [[] for i in range(NUM_CLUSTERS)]
-#     print('\ncluster_id : filename  (discovery-score/discovery-confidence)')
-#     for doc in docs['result']['results']:
-#         y, filename = fit(vectorizer, kmeans, doc)
-#         print(f'{y}: {filename}')
-#         clusters[y].append(filename)
-#     print('\n\nResults by cluster:')
-#     for i, clster in enumerate(clusters):
-#         print(f'#{i}')
-#         for filename in clster:
-#             print(f'  {filename}')
-
-
 def query(query_string, n_results=50, n_clusters=3):
     #print(f'{query_string}  {n_results}  {n_clusters}')
     #print(f'{type(n_results)}  {type(n_clusters)}')
