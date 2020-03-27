@@ -66,26 +66,26 @@ def fit(vectorizer, kmeans, doc):
 #     cluster(X)
 
 
-def main():
-    NUM_CLUSTERS = 3
-    s = sys.stdin.read()
-    docs = json.loads(s)
-    converted = convert_results(docs)
-    vectorizer = TfidfVectorizer()
-    vectorizer.fit(converted)
-    vec = vectorizer.transform(converted)
-    kmeans = cluster(vec, num=NUM_CLUSTERS)
-    clusters = [[] for i in range(NUM_CLUSTERS)]
-    print('\ncluster_id : filename  (discovery-score/discovery-confidence)')
-    for doc in docs['result']['results']:
-        y, filename = fit(vectorizer, kmeans, doc)
-        print(f'{y}: {filename}')
-        clusters[y].append(filename)
-    print('\n\nResults by cluster:')
-    for i, clster in enumerate(clusters):
-        print(f'#{i}')
-        for filename in clster:
-            print(f'  {filename}')
+# def main():
+#     NUM_CLUSTERS = 3
+#     s = sys.stdin.read()
+#     docs = json.loads(s)
+#     converted = convert_results(docs)
+#     vectorizer = TfidfVectorizer()
+#     vectorizer.fit(converted)
+#     vec = vectorizer.transform(converted)
+#     kmeans = cluster(vec, num=NUM_CLUSTERS)
+#     clusters = [[] for i in range(NUM_CLUSTERS)]
+#     print('\ncluster_id : filename  (discovery-score/discovery-confidence)')
+#     for doc in docs['result']['results']:
+#         y, filename = fit(vectorizer, kmeans, doc)
+#         print(f'{y}: {filename}')
+#         clusters[y].append(filename)
+#     print('\n\nResults by cluster:')
+#     for i, clster in enumerate(clusters):
+#         print(f'#{i}')
+#         for filename in clster:
+#             print(f'  {filename}')
 
 
 def query(query_string, n_results=50, n_clusters=3):
@@ -97,9 +97,18 @@ def query(query_string, n_results=50, n_clusters=3):
     env_id = disc.find_env_id(DICOVERY_ENV_NAME)
     coll_id = disc.find_coll_id(env_id, DICOVERY_COLL_NAME)
     response = disc.discovery.query(env_id, coll_id, query=query_string, count=n_results)
-    results = response.result['matching_results']    
-    if not results:
+    matching_results = response.result['matching_results']    
+    if matching_results == 0:
         return response.result
+
+    if len(response.result['results']) < n_clusters:
+        # There are requested more results than there are clusters.
+        # We will give all results cluster_id=0
+        for result in response.result['results']:
+            metadata = result['metadata']
+            metadata['cluster_id'] = 0
+        return response.result
+
     docs = response
     converted = convert_results(docs)
     vectorizer = TfidfVectorizer()
@@ -121,8 +130,8 @@ def query(query_string, n_results=50, n_clusters=3):
     return response.result
 
 
-def print_response(response):
-    results = response.result['results']
+def print_response(response, number_of_clusters):
+    results = response['results']
     #print('\nResults by cluster:')
     url2id = {}
     print('Results:')
@@ -131,14 +140,15 @@ def print_response(response):
         cluster_id = result['metadata']['cluster_id']
         print(f'[{i}] {url}')
         url2id[url] = cluster_id       
-    clusters = [[] for _ in range(args.number_of_clusters)]
+    clusters = [[] for _ in range(number_of_clusters)]
     for url, cluster_id in url2id.items():
         clusters[cluster_id].append(url)
     for i, clstrs in enumerate(clusters):
         print(f'\n#{i}')
         for url in clstrs:
             print(url)
-        
+
+
 def cli():
     import argparse
     parser = argparse.ArgumentParser()
@@ -148,8 +158,13 @@ def cli():
     args = parser.parse_args()
     return args
 
-if __name__ == '__main__':
+
+def main():
     args = cli()
     response = query(args.q, args.results_count, args.number_of_clusters)
     print(type(response))
-    print_response(response)
+    print_response(response, args.number_of_clusters)
+
+
+if __name__ == '__main__':
+    main()
