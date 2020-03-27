@@ -89,15 +89,17 @@ def main():
 
 
 def query(query_string, n_results=50, n_clusters=3):
-    print(f'{query_string}  {n_results}  {n_clusters}')
-    print(f'{type(n_results)}  {type(n_clusters)}')
+    #print(f'{query_string}  {n_results}  {n_clusters}')
+    #print(f'{type(n_results)}  {type(n_clusters)}')
     from verdens_klogeste.insert import setup, DICOVERY_ENV_NAME, DICOVERY_COLL_NAME
 
     _, disc = setup()
     env_id = disc.find_env_id(DICOVERY_ENV_NAME)
     coll_id = disc.find_coll_id(env_id, DICOVERY_COLL_NAME)
     response = disc.discovery.query(env_id, coll_id, query=query_string, count=n_results)
-
+    results = response.result['matching_results']    
+    if not results:
+        return response.result
     docs = response
     converted = convert_results(docs)
     vectorizer = TfidfVectorizer()
