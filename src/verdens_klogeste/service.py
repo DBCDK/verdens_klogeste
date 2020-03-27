@@ -34,9 +34,10 @@ class QueryHandler(BaseHandler):
         key = data["key"]
         if key != AUTHKEY:
             return self.set_status(401)
-        n_results = self.get_argument("results-count", 50)
-        clusters = cluster.query(query, n_results)
-        response = {"clusters": clusters}
+        n_results = int(self.get_argument("results-count", 50))
+        n_clusters = int(self.get_argument("num-clusters", 3))
+        response = cluster.query(query, n_results, n_clusters)
+        #response = {"clusters": clusters}
         self.write(f"{json.dumps(response)}\n")
 
 def main():
