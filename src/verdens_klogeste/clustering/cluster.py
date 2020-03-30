@@ -81,9 +81,9 @@ def query(query_string, disc, n_results=50, n_clusters=3):
     total_end_time = time.time()
     #print(f'Total: {total_end_time-total_start_time}')
     timings = {
-        'total_time': total_end_time-total_start_time,
-        'query_time': query_end_time-query_start_time,
-        'cluster_time': cluster_end_time-cluster_start_time,
+        'total_time': int((total_end_time-total_start_time)*1000),
+        'query_time': int((query_end_time-query_start_time)*1000),
+        'cluster_time': int((cluster_end_time-cluster_start_time)*1000),
         }
     response.result['timings'] = timings
     return response.result
