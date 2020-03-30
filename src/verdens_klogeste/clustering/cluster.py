@@ -2,22 +2,17 @@
 
 import json
 import sys
+import time 
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def convert_single(doc):
     NUM_KEYWORDS = 5
-    # print(doc['extracted_metadata']['filename'])
     entities = [e['text'] for e in doc['enriched_text']["entities"][:NUM_KEYWORDS]]
     concepts = [e['text'] for e in doc['enriched_text']["concepts"][:NUM_KEYWORDS]]
-    #keywords = [e['text'] for e in doc['metadata']["keywords"][:NUM_KEYWORDS]]
     keywords = doc['metadata']["keywords"][:NUM_KEYWORDS]
     categories = [e['label'] for e in doc['enriched_text']["categories"][:NUM_KEYWORDS]]
-    # print(f'E : {entities}')
-    # print(f'C1: {concepts}')
-    # print(f'K : {keywords}')
-    # print(f'C2: {categories}')
     lst = entities + concepts + keywords + categories
     lst = [x.replace(' ', '_') for x in lst]
     lst = ' '.join(lst)
@@ -26,39 +21,34 @@ def convert_single(doc):
 
 def convert_results(doc):
     results = doc.result['results']
-    #results = doc['result']['results']
     return [convert_single(result) for result in results]
 
 
-def cluster(X, num=3): #vectorizer, docs):
+def cluster(X, num=3):
     from sklearn.cluster import KMeans
     kmeans = KMeans(n_clusters=num)
     kmeans.fit(X)
-    #y_kmeans = kmeans.predict(X)
-    #print(y_kmeans)
     return kmeans
 
 
 def fit(vectorizer, kmeans, doc):
     filename = doc['metadata']['url']
-    # confidence = doc['result_metadata']['confidence']
-    # score = doc['result_metadata']['score']
-    # score_str = f'({score:.2f}/{confidence:.2f})'
     converted = convert_single(doc)
     vec = vectorizer.transform([converted])
     y = kmeans.predict(vec)
     return y[0], filename #, score_str
 
 
-def query(query_string, n_results=50, n_clusters=3):
-    #print(f'{query_string}  {n_results}  {n_clusters}')
-    #print(f'{type(n_results)}  {type(n_clusters)}')
-    from verdens_klogeste.insert import setup, DICOVERY_ENV_NAME, DICOVERY_COLL_NAME
-
-    _, disc = setup()
-    env_id = disc.find_env_id(DICOVERY_ENV_NAME)
-    coll_id = disc.find_coll_id(env_id, DICOVERY_COLL_NAME)
-    response = disc.discovery.query(env_id, coll_id, query=query_string, count=n_results)
+def query(query_string, disc, n_results=50, n_clusters=3):
+    total_start_time = time.time()
+    query_start_time = time.time()
+    discovery = disc['discovery']
+    env_id = disc['env_id']
+    coll_id = disc['coll_id']
+    response = discovery.discovery.query(env_id, coll_id, query=query_string, count=n_results)
+    query_end_time = time.time()
+    # print(f'Query: {query_end_time-query_start_time}')
+    cluster_start_time = time.time()
     matching_results = response.result['matching_results']    
     if matching_results == 0:
         return response.result
@@ -78,7 +68,6 @@ def query(query_string, n_results=50, n_clusters=3):
     vec = vectorizer.transform(converted)
     kmeans = cluster(vec, num=n_clusters)
     clusters = [[] for i in range(n_clusters)]
-    #print('\ncluster_id : filename  (discovery-score/discovery-confidence)')
     filename2y = {}
     for doc in docs.result['results']:
         y, filename = fit(vectorizer, kmeans, doc)
@@ -88,7 +77,15 @@ def query(query_string, n_results=50, n_clusters=3):
         metadata = result['metadata']
         url = metadata['url']
         metadata['cluster_id'] = int(filename2y[url])
-        # print(metadata)
+    cluster_end_time = time.time()
+    total_end_time = time.time()
+    #print(f'Total: {total_end_time-total_start_time}')
+    timings = {
+        'total_time': total_end_time-total_start_time,
+        'query_time': query_end_time-query_start_time,
+        'cluster_time': cluster_end_time-cluster_start_time,
+        }
+    response.result['timings'] = timings
     return response.result
 
 
@@ -122,9 +119,15 @@ def cli():
 
 
 def main():
+    from verdens_klogeste.insert import setup, DICOVERY_ENV_NAME, DICOVERY_COLL_NAME
     args = cli()
-    response = query(args.q, args.results_count, args.number_of_clusters)
+    _, discovery = setup()
+    env_id = discovery.find_env_id(DICOVERY_ENV_NAME)
+    coll_id = discovery.find_coll_id(env_id, DICOVERY_COLL_NAME)
+    disc = {'discovery': discovery, 'env_id': env_id, 'coll_id': coll_id}
+    response = query(args.q, disc, args.results_count, args.number_of_clusters)
     print(type(response))
+    print(response['timings'])
     print_response(response, args.number_of_clusters)
 
 
