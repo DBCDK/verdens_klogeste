@@ -15,9 +15,17 @@ from dbc_pyutils import build_info
 
 from .clustering import cluster
 
+from verdens_klogeste.insert import setup, DICOVERY_ENV_NAME, DICOVERY_COLL_NAME
+
 logger = rrflow.utils.setup_logging()
 
 AUTHKEY = os.environ["AUTHKEY"]
+
+_, discovery = setup()
+env_id = discovery.find_env_id(DICOVERY_ENV_NAME)
+coll_id = discovery.find_coll_id(env_id, DICOVERY_COLL_NAME)
+disc = {'discovery': discovery, 'env_id': env_id, 'coll_id': coll_id}
+
 
 def setup_args():
     parser = argparse.ArgumentParser()
@@ -36,7 +44,7 @@ class QueryHandler(BaseHandler):
             return self.set_status(401)
         n_results = int(self.get_argument("results-count", 50))
         n_clusters = int(self.get_argument("num-clusters", 3))
-        response = cluster.query(query, n_results, n_clusters)
+        response = cluster.query(query, disc, n_results, n_clusters)
         #response = {"clusters": clusters}
         self.write(f"{json.dumps(response)}\n")
 
