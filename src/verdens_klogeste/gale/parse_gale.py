@@ -13,7 +13,15 @@ def get_id(doc, namespaces):
             #print(ET.tostring(_id))
             val_el = _id.find('./meta:value', namespaces)
             pre_el = _id.find('./meta:prefix', namespaces)
-            return f'{pre_el.text}{val_el.text}'
+            value = val_el.text if val_el != None else ''
+            prefix = pre_el.text if pre_el != None else ''
+            #if val_el and pre_el and val_el.text and pre_el.text:
+            if value and prefix:
+                identifier = f'{prefix}{value}'
+                #print(f'ID: {identifier}')
+                return identifier
+            else:
+                return ''
     return ''
 
 
@@ -60,6 +68,8 @@ if __name__ == '__main__':
     
     outfile = '/data/verdens_klogeste_gale/vk_gale_data.json'
     filenames = glob.glob('/data/verdens_klogeste_gale/*/*.xml.gz')
+    #outfile = 'vk_gale_data.json'
+    #filenames = ['/data/verdens_klogeste_gale/Student/NREF-P10-0.xml.gz']
     #print(filenames)
     with open(outfile, 'w') as of:
         for i, filename in enumerate(filenames):
