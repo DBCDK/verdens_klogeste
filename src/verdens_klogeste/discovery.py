@@ -90,10 +90,10 @@ def chain(url, apikey, version):
     # discovery.delete_coll(ENV_NAME, COLL_NAME)
 
     # UNCOMMENT TO SETUP
-    # discovery.setup_env_coll(ENV_NAME, ENV_DESC, COLL_NAME)
+    discovery.setup_env_coll(ENV_NAME, ENV_DESC, COLL_NAME)
     # OR TO ONLY CREATE COLL:
-    # env_id = discovery.find_env_id(ENV_NAME)
-    # discovery.create_collection(env_id, COLL_NAME)
+    env_id = discovery.find_env_id(ENV_NAME)
+    discovery.create_collection(env_id, COLL_NAME)
 
     # UNCOMMONT TO UPLOAD DOCUMENT
     #doc_info = discovery.upload_doc(DOC_FILENAME, ENV_NAME, COLL_NAME)
@@ -109,6 +109,7 @@ def chain(url, apikey, version):
     
 if __name__ == '__main__':
     apikey = os.environ['WATSON_DISCOVERY_APIKEY']
-    url = 'https://api.eu-de.discovery.watson.cloud.ibm.com/instances/bf6c71cc-bd28-4cb1-9883-8dae849e7bd7'
+    #url = 'https://api.eu-de.discovery.watson.cloud.ibm.com/instances/bf6c71cc-bd28-4cb1-9883-8dae849e7bd7'
+    url = os.environ['WATSON_DISCOVERY_URL']
     version = '2019-04-30'
     chain(url, apikey, version)
