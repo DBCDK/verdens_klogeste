@@ -87,10 +87,10 @@ def chain(url, apikey, version):
 
     discovery = Discovery(apikey, url)
 
-    # discovery.delete_coll(ENV_NAME, COLL_NAME)
+    #discovery.delete_coll(ENV_NAME, COLL_NAME)
 
     # UNCOMMENT TO SETUP
-    discovery.setup_env_coll(ENV_NAME, ENV_DESC, COLL_NAME)
+    #discovery.setup_env_coll(ENV_NAME, ENV_DESC, COLL_NAME)
     # OR TO ONLY CREATE COLL:
     env_id = discovery.find_env_id(ENV_NAME)
     discovery.create_collection(env_id, COLL_NAME)

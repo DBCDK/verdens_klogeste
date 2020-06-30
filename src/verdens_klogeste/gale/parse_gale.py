@@ -2,7 +2,7 @@
 
 import gzip
 import xml.etree.ElementTree as ET
-
+from bs4 import BeautifulSoup
 
 def get_id(doc, namespaces):
     docids = doc.findall("./gift-doc:document/gift-doc:metadata/gift-doc:document-metadata/meta:document-ids", namespaces)
@@ -25,10 +25,23 @@ def get_id(doc, namespaces):
     return ''
 
 
+def get_title(doc, namespaces):
+    title_node =  doc.find("./gift-doc:document/gift-doc:metadata/gift-doc:document-metadata/gift-doc:document-titles/meta:title-display", namespaces)
+    title_with_tags =ET.tostring(title_node, 'unicode')
+    title = BeautifulSoup(title_with_tags, "lxml").text
+    title = title.strip()
+    title = title.replace('/', '_')
+    #print(title)
+    return title
+
 def parse_document(doc, namespaces):
     doc_id = get_id(doc, namespaces)
     if not doc_id:
-        return '', ''
+        return '', '', ''
+    try:
+        title = get_title(doc, namespaces)
+    except AttributeError as e:
+        return '', '', ''
     essay_divs = doc.findall("./gift-doc:document/gift-doc:body/essay:div", namespaces)
     text = []
     for essay_div in essay_divs:
@@ -36,7 +49,7 @@ def parse_document(doc, namespaces):
             if node.tag.startswith(f'{{{namespaces["essay"]}}}'):
                 if node.text:
                     text.append(node.text.strip())
-    return doc_id, ' '.join(text).strip()
+    return doc_id, title, ' '.join(text).strip()
 
 
 def fetch_documents_from_file(filename):
@@ -51,10 +64,11 @@ def fetch_documents_from_file(filename):
             'essay': 'http://www.gale.com/goldschema/essay',
         }
         for doc in root.findall('gold:document-instance', namespaces):
-            doc_id, text = parse_document(doc, namespaces)
+            doc_id, title, text = parse_document(doc, namespaces)
             if doc_id and text:
                 res = {
                     'docid': doc_id,
+                    'title': title,
                     'text': text,
                     'filename': filename
                 }

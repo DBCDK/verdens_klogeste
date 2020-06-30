@@ -31,23 +31,26 @@ def fetch_text(d, entity):
     return res
         
 
-def create_neo_meta(metadata, filename):
+def create_neo_meta(metadata, filename, docid):
     keywords = fetch_text(metadata, 'keywords')
     concepts = fetch_text(metadata, 'concepts')
     entities = fetch_text(metadata, 'entities')
 
     neo_meta = {'keywords': keywords, 'concepts': concepts, 'entitites': entities}
     doc_title = filename.rsplit('/', 1)[-1].rsplit('.', 1)[0]
-    neo_meta['url'] = f'https://simple.wikipedia.org/wiki/{doc_title}'
+    # neo_meta['url'] = f'https://simple.wikipedia.org/wiki/{doc_title}'
+    neo_meta['title'] = doc_title
+    neo_meta['docid'] = docid
     return neo_meta
                             
 
-def fetch_metadata(nlu, filename):
+def fetch_metadata(nlu, filename, docid):
     with open(filename, 'r') as infile:
+        #print(filename)
         data = infile.read()
         metadata = nlu.query_watson_nlu(data)            
         #print(json.dumps(metadata))
-    return create_neo_meta(metadata, filename)
+    return create_neo_meta(metadata, filename, docid)
 
 
 def insert(discovery, metadata, filename):
@@ -56,13 +59,26 @@ def insert(discovery, metadata, filename):
 
     
 def run(datadir):
-    nlu, discovery = setup()
+    import joblib
+    title2id = joblib.load('/data/verdens_klogeste_gale/jda_test/title2id.joblib')
     
-    filenames = glob.glob(f'{datadir}/*.txt')
-    for filename in filenames:
-        metadata = fetch_metadata(nlu, filename)
-        print(doc_info)
+    nlu, discovery = setup()
 
+    filenames = glob.glob(f'{datadir}/documents/*.txt')
+
+    def dump_meta(filenames):
+        doc_title = filename.rsplit('/', 1)[-1].rsplit('.', 1)[0]
+        docid = title2id[doc_title]
+        metadata = fetch_metadata(nlu, filename, docid)
+        #with open(f'{datadir}/metadata/{gale_id}.json', 'w') as of:
+        #    json.dump(metadata, of)
+        return metadata
+
+    #print(filenames)
+    for filename in filenames:
+        metadata = dump_meta(filename, )
+        insert(discovery, metadata, filename)
+    
         
 def cli():
     parser = argparse.ArgumentParser()
