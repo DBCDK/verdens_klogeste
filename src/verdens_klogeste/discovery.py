@@ -79,7 +79,7 @@ class Discovery():
 def chain(url, apikey, version):
     
     ENV_NAME = 'vktest_env'
-    COLL_NAME = 'vktest_coll'
+    COLL_NAME = 'vkgale_coll'
     DOC_FILENAME = 'data/Sean_Astin.txt'
     ENV_DESC = 'Environment til Verdens Klogeste test'
     # NOTICE: Watson Discovery does not accept documents in txt-format

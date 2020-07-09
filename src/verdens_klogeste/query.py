@@ -8,7 +8,7 @@ def run(query):
     watson_discovery_url = os.environ['WATSON_DISCOVERY_URL']
 
     DISCOVERY_ENV_NAME = 'vktest_env'
-    DISCOVERY_COLL_NAME = 'vktest_coll'
+    DISCOVERY_COLL_NAME = 'vkgale_coll'
     
     discovery = Discovery(watson_discovery_apikey, watson_discovery_url)
     env_id = discovery.find_env_id(DISCOVERY_ENV_NAME)

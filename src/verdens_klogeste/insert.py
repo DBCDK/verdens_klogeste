@@ -9,7 +9,7 @@ from verdens_klogeste.discovery import Discovery
 
 
 DICOVERY_ENV_NAME = 'vktest_env'
-DICOVERY_COLL_NAME = 'vktest_coll'
+DICOVERY_COLL_NAME = 'vkgale_coll'
 
 def setup():
     watson_nlu_apikey = os.environ['WATSON_NLU_APIKEY']
@@ -18,7 +18,7 @@ def setup():
     watson_discovery_url = os.environ['WATSON_DISCOVERY_URL']
 
     DICOVERY_ENV_NAME = 'vktest_env'
-    DICOVERY_COLL_NAME = 'vktest_coll'
+    DICOVERY_COLL_NAME = 'vkgale_coll'
 
     watson_nlu_url += '/v1/analyze?version=2019-07-12'
     nlu = Watson(watson_nlu_apikey, watson_nlu_url)
@@ -60,11 +60,11 @@ def insert(discovery, metadata, filename):
     
 def run(datadir):
     import joblib
-    title2id = joblib.load('/data/verdens_klogeste_gale/jda_test/title2id.joblib')
+    #title2id = joblib.load('/data/verdens_klogeste_gale/jda_test/title2id.joblib')
     
     nlu, discovery = setup()
 
-    filenames = glob.glob(f'{datadir}/documents/*.txt')
+    #filenames = glob.glob(f'{datadir}/documents/*.txt')
 
     def dump_meta(filenames):
         doc_title = filename.rsplit('/', 1)[-1].rsplit('.', 1)[0]
