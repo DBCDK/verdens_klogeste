@@ -2,6 +2,7 @@
 
 import json
 import csv
+from operator import itemgetter
 
 def read_data(filename):
     data = []
@@ -20,12 +21,24 @@ def read_data(filename):
 def dump_json(dump_filename, data):
     with open(f'{dump_filename}.json', 'w') as f:
         json.dump(data, f)
-        
+
+
+def normalize(text):
+    remove = '()"\''
+    text = ''.join(c for c in text if c not in remove)
+    return text
+
 
 def dump_text(dump_filename, data):
     with open(f'{dump_filename}.txt', 'w') as f:
+        # normalize
+        triples = []
         for d in data:
-            text = f'{d["galeid"]}\t{d["title"]}\n'
+            triple = (d['galeid'], d['title'], normalize(d['title']))
+            triples.append(triple)
+        sort_data = sorted(triples, key=itemgetter(2))
+        for triple in sort_data:
+            text = f'{triple[0]}\t{triple[1]}\n'
             f.write(text)
 
 
