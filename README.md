@@ -45,6 +45,13 @@ Dokumenterne der er lagt i Discovery er taget fra Gale og udvalgt udfra størrel
 
 Dokumenterne er taget fra følgende samlinger ("used" er det antal der er lagt ind i Discovery):
 
+|*collection*|*total*|*used*|*used percentage*|
+| --- | --- | --- | --- |
+|Biography|763176|77779|10.2%|
+|Science|66703|16124|24.2%|
+|Student|161841|45451|28.1%|
+|GlobalIssues|107199|12040|11.2%|
+
 ![Documents](stuff/table.png)
 
 # Watson Discovery
