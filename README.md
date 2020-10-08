@@ -18,16 +18,17 @@ Dette vil give json retur, svarende til Watson Discoverys API, men hvor der for 
 
 * "cluster_id" som angiver hvilket cluster resultatet tilhører.
 
-* "gale" som indeholder:
+* `gale` som indeholder:
 
-  * "gale-collection" der angiver hvilken Gale-collection dokumentet kommer fra
+  * `gale-collection` der angiver hvilken Gale-collection dokumentet kommer fra
 
-  * "gale-fake-level" der er en int 0-99 der kan bruges til at simulere niveau (fx folkeskole/gymnasium)
+  * `gale-fake-level` der er en int 0-99 der kan bruges til at simulere niveau (fx folkeskole/gymnasium)
   
-  * "gale-fake-waiting" der er en int 0-99 der kan bruges til at simulere hvor lang tid der går før materialet kan leveres
+  * `gale-fake-waiting` der er en int 0-99 der kan bruges til at simulere hvor lang tid der går før materialet kan leveres
 
 Eksempel:
 ```
+...
            "title" : "Donald John Trump",
             "gale" : {
                "gale-fake-level" : 88,
@@ -36,6 +37,7 @@ Eksempel:
             },
             "docid" : "EJ1667000175",
            "cluster_id" : 0
+ ...
  ```
 
 
