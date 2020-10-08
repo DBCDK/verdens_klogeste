@@ -1,3 +1,44 @@
+# Wrapper service
+
+DBC har lavet en wrapper service der:
+
+* sender en søgning videre mod Watson Discovery
+
+* laver clustering: resultaterne opdeles i tre klasser baseret på metadata
+
+* tilføjer Gale-metadata
+
+Eksempel (hvor `key` er en token der udleveres af DBC):
+
+```
+curl -X POST http://verdens-klogeste-1-0.mi-prod.svc.cloud.dbc.dk/query -d '{"query": "trump", "key": "xxxxxxxx"}'
+```
+
+Dette vil give json retur, svarende til Watson Discoverys API, men hvor der for hvert resultat i `results` under `metadata` er tilføjet:
+
+* "cluster_id" som angiver hvilket cluster resultatet tilhører.
+
+* "gale" som indeholder:
+
+  * "gale-collection" der angiver hvilken Gale-collection dokumentet kommer fra
+
+  * "gale-fake-level" der er en int 0-99 der kan bruges til at simulere niveau (fx folkeskole/gymnasium)
+  
+  * "gale-fake-waiting" der er en int 0-99 der kan bruges til at simulere hvor lang tid der går før materialet kan leveres
+
+Eksempel:
+```
+           "title" : "Donald John Trump",
+            "gale" : {
+               "gale-fake-level" : 88,
+               "gale-collection" : "Student",
+               "gale-fake-waiting" : 41
+            },
+            "docid" : "EJ1667000175",
+           "cluster_id" : 0
+ ```
+
+
 # Watson Discovery
 
 Dette er kode til indlæsning af dokumenter i Watson Discovery (se src).
@@ -10,18 +51,5 @@ Processen er:
 
 Herefter kan dokumenter fremsøges ved brug af Watson Discovery's API.
 
-# Eksempler
-
-Vi har valgt 1000 populære Wikipedia-artikler om personer som eksempler (se `data`).
-
-Herefter har vi lavet et antal søgninger (se `examples`, søgningen svarer til filnavnet), hvor man kan se den rå response (`*.json`) og en parset version med hits og de første fem entities, concepts, keywords og categories (`*.md`).
-
-# Næste skridt?
-
-* webservice oven på vores Watson
-  * fra søgning
-  * til resultater opdelt i grupper (clustering), så med eksempeldata ville fx skuespillere og politikere komme i hver sin gruppe
-
-* når vi har de rigtige tekster, så erstatter vi eksemplerne med disse
 
 
