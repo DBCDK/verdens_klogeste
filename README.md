@@ -39,7 +39,13 @@ Eksempel:
            "cluster_id" : 0
  ...
  ```
+# Data
 
+Dokumenterne der er lagt i Discovery er taget fra Gale og udvalgt udfra størrelse, dvs. kun dokumenter over en vis størrelse er lagt ind (for at systemet har tekst at arbejde på).
+
+Dokumenterne er taget fra følgende samlinger ("used" er det antal der er lagt ind i Discovery):
+
+![Documents](stuff/table.png)
 
 # Watson Discovery
 
