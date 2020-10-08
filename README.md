@@ -43,7 +43,7 @@ Eksempel:
 
 Dokumenterne der er lagt i Discovery er taget fra Gale og udvalgt udfra størrelse, dvs. kun dokumenter over en vis størrelse er lagt ind (for at systemet har tekst at arbejde på).
 
-Dokumenterne er taget fra følgende samlinger ("used" er det antal der er lagt ind i Discovery):
+Dokumenterne er taget fra følgende Gale collections ("used" er det antal der er lagt ind i Discovery):
 
 |*collection*|*total*|*used*|*used percentage*|
 | --- | --- | --- | --- |
@@ -52,7 +52,6 @@ Dokumenterne er taget fra følgende samlinger ("used" er det antal der er lagt i
 |Student|161841|45451|28.1%|
 |GlobalIssues|107199|12040|11.2%|
 
-![Documents](stuff/table.png)
 
 # Watson Discovery
 
