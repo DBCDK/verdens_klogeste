@@ -1,0 +1,3211 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 6d412bd7-82d8-429c-9bfd-85e5d88c329a
+		[:result_metadata:confidence]
+			 0.22997178977074131
+		[:result_metadata:score]
+			 9.949084
+	[:text]
+		 no title
+
+Philosopher and educator Christina Hoff Sommers's principle work, Hoff Sommers lays blame for the degradation of feminism, ironica[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.556848
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 -0.506812
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Christina Hoff Sommers
+				[0:relevance]
+					 0.876863
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Christina Hoff Sommers
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Christina_Hoff_Sommers
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Elizabeth Cady Stanton
+				[1:relevance]
+					 0.128657
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 HallOfFameInductee
+					[1:disambiguation:name]
+						 Elizabeth Cady Stanton
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 -0.501867
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Betty Friedan
+				[2:relevance]
+					 0.123551
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 HallOfFameInductee
+					[2:disambiguation:name]
+						 Betty Friedan
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Betty_Friedan
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 -0.616095
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 American university
+				[3:relevance]
+					 0.10601
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[3:disambiguation:name]
+						 American University
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_University
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.607171
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Jean Bethke Elshtain
+				[4:relevance]
+					 0.092539
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Jean Bethke Elshtain
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jean_Bethke_Elshtain
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 -0.330439
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 anorexia
+				[5:relevance]
+					 0.072805
+				[5:type]
+					 HealthCondition
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.64113
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 rape
+				[6:relevance]
+					 0.072615
+				[6:type]
+					 Crime
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.498462
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 poststructuralists
+				[7:relevance]
+					 0.071948
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 prostitution
+				[8:relevance]
+					 0.068068
+				[8:type]
+					 Crime
+		[:enriched_text:concepts]
+				[0:text]
+					 Feminism
+				[0:relevance]
+					 0.937638
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[1:text]
+					 Gender
+				[1:relevance]
+					 0.421073
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[2:text]
+					 Christina Hoff Sommers
+				[2:relevance]
+					 0.321491
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Christina_Hoff_Sommers
+				[3:text]
+					 Sexism
+				[3:relevance]
+					 0.301133
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexism
+				[4:text]
+					 Elizabeth Cady Stanton
+				[4:relevance]
+					 0.272667
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+				[5:text]
+					 Domestic violence
+				[5:relevance]
+					 0.25135
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Domestic_violence
+				[6:text]
+					 Betty Friedan
+				[6:relevance]
+					 0.241633
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Betty_Friedan
+				[7:text]
+					 Women's rights
+				[7:relevance]
+					 0.239919
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_rights
+		[:enriched_text:categories]
+				[0:score]
+					 0.932236
+				[0:label]
+					 /society/sex
+				[1:score]
+					 0.930618
+				[1:label]
+					 /health and fitness/women's health
+				[2:score]
+					 0.912135
+				[2:label]
+					 /health and fitness/sexuality
+		[:metadata:docid]
+			 K2410000240
+		[:metadata:concepts]
+			[0]
+				 Feminism
+			[1]
+				 Gender
+			[2]
+				 Christina Hoff Sommers
+			[3]
+				 Sexism
+			[4]
+				 Elizabeth Cady Stanton
+			[5]
+				 Domestic violence
+			[6]
+				 Betty Friedan
+			[7]
+				 Women's rights
+			[8]
+				 Women's suffrage
+			[9]
+				 Lucy Stone
+		[:metadata:keywords]
+			[0]
+				 Hoff Sommers
+			[1]
+				 degradation of feminism
+			[2]
+				 women's oppression
+			[3]
+				 academic feminists
+			[4]
+				 Hoff Sommers's work
+			[5]
+				 contemporary feminism
+			[6]
+				 American university
+			[7]
+				 views of sexist culture
+			[8]
+				 gender feminists
+			[9]
+				 equity feminism
+		[:metadata:entitites]
+			[0]
+				 Hoff Sommers
+			[1]
+				 Christina Hoff Sommers
+			[2]
+				 Jean Bethke Elshtain
+			[3]
+				 Elizabeth Cady Stanton
+			[4]
+				 Betty Friedan
+			[5]
+				 American university
+			[6]
+				 blunt
+			[7]
+				 Friedan
+			[8]
+				 Stanton
+			[9]
+				 Stanton
+		[:metadata:title]
+			 Christina Hoff Sommers
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 6
+			[:metadata:gale:gale-fake-waiting]
+				 77
+		[:extracted_metadata:sha1]
+			 7ae7f99d1fad5239018dd6f56f96ec1f60ff5f23
+		[:extracted_metadata:filename]
+			 Christina Hoff Sommers.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 e215cba7-bd8a-4e53-a928-03fe3dd6fab3
+		[:result_metadata:confidence]
+			 0.21078717294383947
+		[:result_metadata:score]
+			 9.889076
+	[:text]
+		 no title
+
+The feminism of writer/educator Gayatri Chakravorty Spivak is informed by postcolonial thought. Much of her work addresses the imp[...]
+				[:enriched_text:sentiment:document:score]
+					 0.374233
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 -0.259593
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Gayatri Chakravorty Spivak
+				[0:relevance]
+					 0.905383
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[0:disambiguation:name]
+						 Gayatri Chakravorty Spivak
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Jacques Derrida
+				[1:relevance]
+					 0.158476
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[1:disambiguation:name]
+						 Jacques Derrida
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacques_Derrida
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 writer
+				[2:relevance]
+					 0.136019
+				[2:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Jacques Derrida
+				[0:relevance]
+					 0.975064
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Jacques_Derrida
+				[1:text]
+					 Feminism
+				[1:relevance]
+					 0.957024
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[2:text]
+					 Postcolonialism
+				[2:relevance]
+					 0.907189
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Postcolonialism
+				[3:text]
+					 Deconstruction
+				[3:relevance]
+					 0.865826
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Deconstruction
+				[4:text]
+					 Gayatri Chakravorty Spivak
+				[4:relevance]
+					 0.796451
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[5:text]
+					 Feminist theory
+				[5:relevance]
+					 0.693593
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[6:text]
+					 Gender
+				[6:relevance]
+					 0.664552
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[7:text]
+					 Judith Butler
+				[7:relevance]
+					 0.614912
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Judith_Butler
+		[:enriched_text:categories]
+				[0:score]
+					 0.914708
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.794837
+				[1:label]
+					 /society/sex
+				[2:score]
+					 0.776342
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 EJ2101211142
+		[:metadata:concepts]
+			[0]
+				 Jacques Derrida
+			[1]
+				 Feminism
+			[2]
+				 Postcolonialism
+			[3]
+				 Deconstruction
+			[4]
+				 Gayatri Chakravorty Spivak
+			[5]
+				 Feminist theory
+			[6]
+				 Gender
+			[7]
+				 Judith Butler
+			[8]
+				 Intersectionality
+			[9]
+				 Postcolonial feminism
+		[:metadata:keywords]
+			[0]
+				 educator Gayatri Chakravorty Spivak
+			[1]
+				 Subaltern Speak
+			[2]
+				 feminism of writer
+			[3]
+				 anti-sexism
+			[4]
+				 Spivak's writing
+			[5]
+				 wish of intellectuals
+			[6]
+				 single discourse
+			[7]
+				 subaltern historiography
+			[8]
+				 use of multiple discourses
+			[9]
+				 types of feminist criticism
+		[:metadata:entitites]
+			[0]
+				 Spivak
+			[1]
+				 Gayatri Chakravorty Spivak
+			[2]
+				 Jacques Derrida
+		[:metadata:title]
+			 Gayatri Chakravorty Spivak: Overview
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 43
+			[:metadata:gale:gale-fake-waiting]
+				 16
+		[:extracted_metadata:sha1]
+			 39e2fa08dc9537244ba5636778e1b9bad64b2071
+		[:extracted_metadata:filename]
+			 Gayatri Chakravorty Spivak: Overview.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 22754b6e-1602-4bb7-9d24-d853fa27a77a
+		[:result_metadata:confidence]
+			 0.21078717294383947
+		[:result_metadata:score]
+			 9.889076
+	[:text]
+		 no title
+
+The feminism of writer/educator Gayatri Chakravorty Spivak is informed by postcolonial thought. Much of her work addresses the imp[...]
+				[:enriched_text:sentiment:document:score]
+					 0.374233
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 -0.259593
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Gayatri Chakravorty Spivak
+				[0:relevance]
+					 0.905383
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[0:disambiguation:name]
+						 Gayatri Chakravorty Spivak
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Jacques Derrida
+				[1:relevance]
+					 0.158476
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[1:disambiguation:name]
+						 Jacques Derrida
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacques_Derrida
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 writer
+				[2:relevance]
+					 0.136019
+				[2:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Jacques Derrida
+				[0:relevance]
+					 0.975064
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Jacques_Derrida
+				[1:text]
+					 Feminism
+				[1:relevance]
+					 0.957024
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[2:text]
+					 Postcolonialism
+				[2:relevance]
+					 0.907189
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Postcolonialism
+				[3:text]
+					 Deconstruction
+				[3:relevance]
+					 0.865826
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Deconstruction
+				[4:text]
+					 Gayatri Chakravorty Spivak
+				[4:relevance]
+					 0.796451
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[5:text]
+					 Feminist theory
+				[5:relevance]
+					 0.693593
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[6:text]
+					 Gender
+				[6:relevance]
+					 0.664552
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[7:text]
+					 Judith Butler
+				[7:relevance]
+					 0.614912
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Judith_Butler
+		[:enriched_text:categories]
+				[0:score]
+					 0.914708
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.794837
+				[1:label]
+					 /society/sex
+				[2:score]
+					 0.776342
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 H1420007620
+		[:metadata:concepts]
+			[0]
+				 Jacques Derrida
+			[1]
+				 Feminism
+			[2]
+				 Postcolonialism
+			[3]
+				 Deconstruction
+			[4]
+				 Gayatri Chakravorty Spivak
+			[5]
+				 Feminist theory
+			[6]
+				 Gender
+			[7]
+				 Judith Butler
+			[8]
+				 Intersectionality
+			[9]
+				 Postcolonial feminism
+		[:metadata:keywords]
+			[0]
+				 educator Gayatri Chakravorty Spivak
+			[1]
+				 Subaltern Speak
+			[2]
+				 feminism of writer
+			[3]
+				 anti-sexism
+			[4]
+				 Spivak's writing
+			[5]
+				 wish of intellectuals
+			[6]
+				 single discourse
+			[7]
+				 subaltern historiography
+			[8]
+				 use of multiple discourses
+			[9]
+				 types of feminist criticism
+		[:metadata:entitites]
+			[0]
+				 Spivak
+			[1]
+				 Gayatri Chakravorty Spivak
+			[2]
+				 Jacques Derrida
+		[:metadata:title]
+			 Gayatri Chakravorty Spivak: Overview
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 16
+			[:metadata:gale:gale-fake-waiting]
+				 36
+		[:extracted_metadata:sha1]
+			 39e2fa08dc9537244ba5636778e1b9bad64b2071
+		[:extracted_metadata:filename]
+			 Gayatri Chakravorty Spivak: Overview.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 77cc147a-0fcb-41c0-825a-aa5cc049f286
+		[:result_metadata:confidence]
+			 0.21078717294383947
+		[:result_metadata:score]
+			 9.889076
+	[:text]
+		 no title
+
+The feminism of writer/educator Gayatri Chakravorty Spivak is informed by postcolonial thought. Much of her work addresses the imp[...]
+				[:enriched_text:sentiment:document:score]
+					 0.390186
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 -0.259593
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Gayatri Chakravorty Spivak
+				[0:relevance]
+					 0.905446
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[0:disambiguation:name]
+						 Gayatri Chakravorty Spivak
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Jacques Derrida
+				[1:relevance]
+					 0.158493
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[1:disambiguation:name]
+						 Jacques Derrida
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacques_Derrida
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 writer
+				[2:relevance]
+					 0.136021
+				[2:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Jacques Derrida
+				[0:relevance]
+					 0.975064
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Jacques_Derrida
+				[1:text]
+					 Feminism
+				[1:relevance]
+					 0.957024
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[2:text]
+					 Postcolonialism
+				[2:relevance]
+					 0.907189
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Postcolonialism
+				[3:text]
+					 Deconstruction
+				[3:relevance]
+					 0.865826
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Deconstruction
+				[4:text]
+					 Gayatri Chakravorty Spivak
+				[4:relevance]
+					 0.796451
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gayatri_Chakravorty_Spivak
+				[5:text]
+					 Feminist theory
+				[5:relevance]
+					 0.693593
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[6:text]
+					 Gender
+				[6:relevance]
+					 0.664552
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[7:text]
+					 Judith Butler
+				[7:relevance]
+					 0.614912
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Judith_Butler
+		[:enriched_text:categories]
+				[0:score]
+					 0.913605
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.795325
+				[1:label]
+					 /society/sex
+				[2:score]
+					 0.775841
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K2410000246
+		[:metadata:concepts]
+			[0]
+				 Jacques Derrida
+			[1]
+				 Feminism
+			[2]
+				 Postcolonialism
+			[3]
+				 Deconstruction
+			[4]
+				 Gayatri Chakravorty Spivak
+			[5]
+				 Feminist theory
+			[6]
+				 Gender
+			[7]
+				 Judith Butler
+			[8]
+				 Intersectionality
+			[9]
+				 Postcolonial feminism
+		[:metadata:keywords]
+			[0]
+				 educator Gayatri Chakravorty Spivak
+			[1]
+				 Subaltern Speak
+			[2]
+				 feminism of writer
+			[3]
+				 anti-sexism
+			[4]
+				 Spivak's writing
+			[5]
+				 wish of intellectuals
+			[6]
+				 single discourse
+			[7]
+				 subaltern historiography
+			[8]
+				 use of multiple discourses
+			[9]
+				 types of feminist criticism
+		[:metadata:entitites]
+			[0]
+				 Spivak
+			[1]
+				 Gayatri Chakravorty Spivak
+			[2]
+				 Jacques Derrida
+		[:metadata:title]
+			 Gayatri Chakravorty Spivak
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 49
+			[:metadata:gale:gale-fake-waiting]
+				 54
+		[:extracted_metadata:sha1]
+			 74be31c25ea51789b1a308e957af8af0a9995399
+		[:extracted_metadata:filename]
+			 Gayatri Chakravorty Spivak.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 c0ae9bed-8d3d-4f98-a2d9-b1e530db78ac
+		[:result_metadata:confidence]
+			 0.2099604261915006
+		[:result_metadata:score]
+			 9.88649
+	[:text]
+		 no title
+
+The American women's movement and heightened consciousness about forms of oppression has politicized some Hispanic women who have [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.401905
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 12
+					[0:sentiment:score]
+						 -0.305754
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mexican American Women
+				[0:relevance]
+					 0.871661
+				[0:type]
+					 Organization
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.600724
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.174521
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[1:disambiguation:name]
+						 United States
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Margarita Melville
+				[2:relevance]
+					 0.16886
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Marta Cotera
+				[3:relevance]
+					 0.167811
+				[3:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Gender
+				[0:relevance]
+					 0.987955
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[1:text]
+					 Gender role
+				[1:relevance]
+					 0.984564
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender_role
+				[2:text]
+					 Feminism
+				[2:relevance]
+					 0.969396
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[3:text]
+					 Feminist theory
+				[3:relevance]
+					 0.574642
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[4:text]
+					 Patriarchy
+				[4:relevance]
+					 0.514616
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Patriarchy
+				[5:text]
+					 Culture
+				[5:relevance]
+					 0.494818
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Culture
+				[6:text]
+					 Women's rights
+				[6:relevance]
+					 0.489786
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_rights
+				[7:text]
+					 Woman
+				[7:relevance]
+					 0.480273
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Woman
+		[:enriched_text:categories]
+				[0:score]
+					 0.951046
+				[0:label]
+					 /health and fitness/women's health
+				[1:score]
+					 0.896049
+				[1:label]
+					 /health and fitness/sexuality
+				[2:score]
+					 0.867179
+				[2:label]
+					 /society/sex
+		[:metadata:docid]
+			 EJ2116207298
+		[:metadata:concepts]
+			[0]
+				 Gender
+			[1]
+				 Gender role
+			[2]
+				 Feminism
+			[3]
+				 Feminist theory
+			[4]
+				 Patriarchy
+			[5]
+				 Culture
+			[6]
+				 Women's rights
+			[7]
+				 Woman
+			[8]
+				 High school
+			[9]
+				 Gender equality
+		[:metadata:keywords]
+			[0]
+				 Hispanic women
+			[1]
+				 American women's movement
+			[2]
+				 educational needs
+			[3]
+				 underlying assumption of feminism
+			[4]
+				 women's organizations
+			[5]
+				 economic necessity
+			[6]
+				 Hispanic community
+			[7]
+				 women's movement
+			[8]
+				 traditional Hispanic attitudes
+			[9]
+				 educational opportunities
+		[:metadata:entitites]
+			[0]
+				 Margarita Melville
+			[1]
+				 Marta Cotera
+			[2]
+				 United States
+		[:metadata:title]
+			 Hispanic Women and Feminism
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 94
+			[:metadata:gale:gale-fake-waiting]
+				 55
+		[:extracted_metadata:sha1]
+			 a5f9636f9da700b815de67757e2440562e00e9a0
+		[:extracted_metadata:filename]
+			 Hispanic Women and Feminism.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 cb01b8a0-d7a3-46c4-acfe-193676483c77
+		[:result_metadata:confidence]
+			 0.2060607135522768
+		[:result_metadata:score]
+			 9.874292
+	[:text]
+		 no title
+
+In the late 19th and early 20th centuries, colonized countries challenged Western imperialism. Thinking about such nationalist mov[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.26045
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 12
+					[0:sentiment:score]
+						 -0.17739
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Kumari Jayawardena
+				[0:relevance]
+					 0.891407
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Kumari Jayawardena
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kumari_Jayawardena
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.481052
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Jayawardena
+				[1:relevance]
+					 0.30656
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 City
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Institute of Social Studies
+				[2:relevance]
+					 0.299829
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 International Institute of Social Studies
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/International_Institute_of_Social_Studies
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 London School of Economics
+				[3:relevance]
+					 0.276844
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 Facility
+						[3]
+							 TouristAttraction
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[3:disambiguation:name]
+						 London School of Economics
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/London_School_of_Economics
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Maria Mies
+				[4:relevance]
+					 0.276542
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Maria Mies
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Maria_Mies
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Sri Lanka
+				[5:relevance]
+					 0.243547
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 Country
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Political Science Department
+				[6:relevance]
+					 0.224511
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Colombo University
+				[7:relevance]
+					 0.205743
+				[7:type]
+					 Organization
+		[:enriched_text:concepts]
+				[0:text]
+					 Feminism
+				[0:relevance]
+					 0.953174
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[1:text]
+					 Feminist theory
+				[1:relevance]
+					 0.775935
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[2:text]
+					 Sociology
+				[2:relevance]
+					 0.612187
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Sociology
+				[3:text]
+					 Gender
+				[3:relevance]
+					 0.557294
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[4:text]
+					 Nationalism
+				[4:relevance]
+					 0.506777
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Nationalism
+				[5:text]
+					 Feminist movement
+				[5:relevance]
+					 0.504508
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_movement
+				[6:text]
+					 Second-wave feminism
+				[6:relevance]
+					 0.503191
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Second-wave_feminism
+				[7:text]
+					 Colonialism
+				[7:relevance]
+					 0.493054
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Colonialism
+		[:enriched_text:categories]
+				[0:score]
+					 0.835838
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.833212
+				[1:label]
+					 /health and fitness/women's health
+				[2:score]
+					 0.7657
+				[2:label]
+					 /society/sex
+		[:metadata:docid]
+			 K2410000139
+		[:metadata:concepts]
+			[0]
+				 Feminism
+			[1]
+				 Feminist theory
+			[2]
+				 Sociology
+			[3]
+				 Gender
+			[4]
+				 Nationalism
+			[5]
+				 Feminist movement
+			[6]
+				 Second-wave feminism
+			[7]
+				 Colonialism
+			[8]
+				 Difference
+			[9]
+				 Women's suffrage
+		[:metadata:keywords]
+			[0]
+				 women's movements
+			[1]
+				 Kumari Jayawardena challenges readers
+			[2]
+				 histories of other areas
+			[3]
+				 Western imperialism
+			[4]
+				 earliest work
+			[5]
+				 first book
+			[6]
+				 Western feminists
+			[7]
+				 such nationalist movements
+			[8]
+				 early 20th centuries
+			[9]
+				 contributions of women
+		[:metadata:entitites]
+			[0]
+				 Jayawardena
+			[1]
+				 Kumari Jayawardena
+			[2]
+				 Political Science Department
+			[3]
+				 Colombo University
+			[4]
+				 Women's Studies Programme
+			[5]
+				 Institute of Social Studies
+			[6]
+				 I.S.S.
+			[7]
+				 Maria Mies
+			[8]
+				 Ghandi
+			[9]
+				 London School of Economics
+		[:metadata:title]
+			 Visakha Kumari Jayawardena
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 31
+			[:metadata:gale:gale-fake-waiting]
+				 45
+		[:extracted_metadata:sha1]
+			 91b2c104ab4f0e96753f3de5a71a4b66f0946849
+		[:extracted_metadata:filename]
+			 Visakha Kumari Jayawardena.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 24ebea98-21c7-471e-8c34-da795d8d6e4f
+		[:result_metadata:confidence]
+			 0.20108552679284025
+		[:result_metadata:score]
+			 9.85873
+	[:text]
+		 no title
+
+Feminism is a social movement focused on the political, economic, and social rights of women. It was founded on the principle that[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.439565
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 4
+					[0:sentiment:score]
+						 0.29315
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 United States
+				[0:relevance]
+					 0.828584
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[0:disambiguation:name]
+						 United States
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 France
+				[1:relevance]
+					 0.536106
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmDirector
+						[4]
+							 Country
+					[1:disambiguation:name]
+						 France
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/France
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Elizabeth Cady Stanton
+				[2:relevance]
+					 0.490003
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 HallOfFameInductee
+					[2:disambiguation:name]
+						 Elizabeth Cady Stanton
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 -0.456835
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Seneca Falls
+				[3:relevance]
+					 0.488372
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+					[3:disambiguation:name]
+						 Seneca Falls (hamlet), New York
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Seneca_Falls_(hamlet),_New_York
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Simone de Beauvoir
+				[4:relevance]
+					 0.484498
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Dedicator
+						[2]
+							 Philosopher
+					[4:disambiguation:name]
+						 Simone de Beauvoir
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Simone_de_Beauvoir
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Mary Wollstonecraft
+				[5:relevance]
+					 0.483333
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Mary Wollstonecraft
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mary_Wollstonecraft
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 England—based
+				[6:relevance]
+					 0.448355
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.365233
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Seneca Falls Conference
+				[7:relevance]
+					 0.44511
+				[7:type]
+					 Organization
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Alice Paul
+				[8:relevance]
+					 0.444033
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 HallOfFameInductee
+					[8:disambiguation:name]
+						 Alice Paul
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alice_Paul
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Washington
+				[9:relevance]
+					 0.443069
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[9:disambiguation:name]
+						 Washington, D.C.
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Congress
+				[10:relevance]
+					 0.441869
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[10:disambiguation:name]
+						 United States Congress
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0.29315
+					[11:sentiment:label]
+						 positive
+				[11:text]
+					 House of Representatives
+				[11:relevance]
+					 0.437791
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[11:disambiguation:name]
+						 United States House of Representatives
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_House_of_Representatives
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 -0.648283
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 harassment
+				[12:relevance]
+					 0.418171
+				[12:type]
+					 Crime
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 England
+				[13:relevance]
+					 0.409276
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[13:disambiguation:name]
+						 England
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Asian
+				[14:relevance]
+					 0.405137
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.29315
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Senate
+				[15:relevance]
+					 0.403557
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[15:disambiguation:name]
+						 United States Senate
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Britain
+				[16:relevance]
+					 0.394671
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 Country
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 -0.233707
+					[17:sentiment:label]
+						 negative
+				[17:text]
+					 America
+				[17:relevance]
+					 0.383105
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Continent
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 New York
+				[18:relevance]
+					 0.375234
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 City
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Italy
+				[19:relevance]
+					 0.360182
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 Country
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 -0.233707
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Europe
+				[20:relevance]
+					 0.350667
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 Continent
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 seventy-fifth
+				[21:relevance]
+					 0.350667
+				[21:type]
+					 Quantity
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 #MeToo
+				[22:relevance]
+					 0.350667
+				[22:type]
+					 Hashtag
+		[:enriched_text:concepts]
+				[0:text]
+					 Feminism
+				[0:relevance]
+					 0.979387
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[1:text]
+					 Women's rights
+				[1:relevance]
+					 0.59894
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_rights
+				[2:text]
+					 Feminist theory
+				[2:relevance]
+					 0.545518
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[3:text]
+					 Gender
+				[3:relevance]
+					 0.476514
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[4:text]
+					 Women's suffrage
+				[4:relevance]
+					 0.457381
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_suffrage
+				[5:text]
+					 Elizabeth Cady Stanton
+				[5:relevance]
+					 0.441845
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+				[6:text]
+					 United States Constitution
+				[6:relevance]
+					 0.440781
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Constitution
+				[7:text]
+					 Second-wave feminism
+				[7:relevance]
+					 0.424558
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Second-wave_feminism
+		[:enriched_text:categories]
+				[0:score]
+					 0.958182
+				[0:label]
+					 /health and fitness/women's health
+				[1:score]
+					 0.910559
+				[1:label]
+					 /health and fitness/sexuality
+				[2:score]
+					 0.886633
+				[2:label]
+					 /society/sex
+		[:metadata:docid]
+			 EJ2181500095
+		[:metadata:concepts]
+			[0]
+				 Feminism
+			[1]
+				 Women's rights
+			[2]
+				 Feminist theory
+			[3]
+				 Gender
+			[4]
+				 Women's suffrage
+			[5]
+				 Elizabeth Cady Stanton
+			[6]
+				 United States Constitution
+			[7]
+				 Second-wave feminism
+			[8]
+				 Simone de Beauvoir
+			[9]
+				 Third-wave feminism
+		[:metadata:keywords]
+			[0]
+				 feminist writers
+			[1]
+				 Second Wave
+			[2]
+				 social movement
+			[3]
+				 political issues
+			[4]
+				 social rights of women
+			[5]
+				 feminist authors
+			[6]
+				 United States
+			[7]
+				 human history
+			[8]
+				 feminist movement
+			[9]
+				 Elizabeth Cady Stanton
+		[:metadata:entitites]
+			[0]
+				 America
+			[1]
+				 seventy-fifth
+			[2]
+				 Lucretia Mott
+			[3]
+				 France
+			[4]
+				 England
+			[5]
+				 Mary Wollstonecraft
+			[6]
+				 Alice Paul
+			[7]
+				 Elizabeth Cady Stanton
+			[8]
+				 Seneca Falls
+			[9]
+				 Simone de Beauvoir
+		[:metadata:title]
+			 Feminism
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 2
+			[:metadata:gale:gale-fake-waiting]
+				 40
+		[:extracted_metadata:sha1]
+			 fdad1a121c9b1ca398b6eacdb073a73f43b2ca15
+		[:extracted_metadata:filename]
+			 Feminism.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 9696a72c-acc4-421c-8f34-f890dfe2b007
+		[:result_metadata:confidence]
+			 0.17890946783073455
+		[:result_metadata:score]
+			 9.789365
+	[:text]
+		 no title
+
+MORGAN, Robin (b. 29 January 1941), writer, activist. Robin Morgan was born in Lake Worth, Florida. She was raised by her mother a[...]
+				[:enriched_text:sentiment:document:score]
+					 0.389797
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 0.162103
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 executive editor
+				[0:relevance]
+					 0.823285
+				[0:type]
+					 JobTitle
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 -0.514739
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 New York Radical Women
+				[1:relevance]
+					 0.594184
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 New York Radical Women
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Radical_Women
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 -0.389518
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 New York City
+				[2:relevance]
+					 0.449877
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[2:disambiguation:name]
+						 New York City
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 New York
+				[3:relevance]
+					 0.277508
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Florida
+				[4:relevance]
+					 0.2718
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 Florida
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Kenneth Pitchford
+				[5:relevance]
+					 0.268927
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Kenneth Pitchford
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kenneth_Pitchford
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Robin
+				[6:relevance]
+					 0.267266
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 writer
+				[7:relevance]
+					 0.258565
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Lake Worth
+				[8:relevance]
+					 0.253742
+				[8:type]
+					 GeographicFeature
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.37248
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Atlantic City
+				[9:relevance]
+					 0.245524
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+					[9:disambiguation:name]
+						 Atlantic City, New Jersey
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Radio
+				[10:relevance]
+					 0.244344
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 -0.221845
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 University of Chicago
+				[11:relevance]
+					 0.240017
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 CollegeUniversity
+					[11:disambiguation:name]
+						 University of Chicago
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Chicago
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Blake
+				[12:relevance]
+					 0.233692
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Mount Vernon
+				[13:relevance]
+					 0.233035
+				[13:type]
+					 GeographicFeature
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Dagmar
+				[14:relevance]
+					 0.231691
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Grove Press
+				[15:relevance]
+					 0.229271
+				[15:type]
+					 Facility
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 editor
+				[16:relevance]
+					 0.22474
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 sixteen Morgan
+				[17:relevance]
+					 0.222845
+				[17:type]
+					 Quantity
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 twenty years
+				[18:relevance]
+					 0.222845
+				[18:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Feminism
+				[0:relevance]
+					 0.974771
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[1:text]
+					 Feminist theory
+				[1:relevance]
+					 0.707018
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[2:text]
+					 Radical feminism
+				[2:relevance]
+					 0.601464
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Radical_feminism
+				[3:text]
+					 New York City
+				[3:relevance]
+					 0.51552
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/New_York_City
+				[4:text]
+					 Gender
+				[4:relevance]
+					 0.505426
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[5:text]
+					 Socialist feminism
+				[5:relevance]
+					 0.46942
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Socialist_feminism
+				[6:text]
+					 Second-wave feminism
+				[6:relevance]
+					 0.460526
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Second-wave_feminism
+				[7:text]
+					 Lesbian
+				[7:relevance]
+					 0.445793
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Lesbian
+		[:enriched_text:categories]
+				[0:score]
+					 0.968655
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.953636
+				[1:label]
+					 /society/gay life
+				[2:score]
+					 0.93298
+				[2:label]
+					 /society/sex
+		[:metadata:docid]
+			 K3403600340
+		[:metadata:concepts]
+			[0]
+				 Feminism
+			[1]
+				 Feminist theory
+			[2]
+				 Radical feminism
+			[3]
+				 New York City
+			[4]
+				 Gender
+			[5]
+				 Socialist feminism
+			[6]
+				 Second-wave feminism
+			[7]
+				 Lesbian
+			[8]
+				 Lesbian feminism
+			[9]
+				 New York Stock Exchange
+		[:metadata:keywords]
+			[0]
+				 first women's liberation group
+			[1]
+				 own radio show
+			[2]
+				 Robin Morgan
+			[3]
+				 New York
+			[4]
+				 New York Radical Women
+			[5]
+				 radical feminism
+			[6]
+				 pivotal role
+			[7]
+				 women's movement
+			[8]
+				 MORGAN
+			[9]
+				 prominent player
+		[:metadata:entitites]
+			[0]
+				 Morgan
+			[1]
+				 MORGAN, Robin
+			[2]
+				 Robin Morgan
+			[3]
+				 sixteen Morgan
+			[4]
+				 Kenneth Pitchford
+			[5]
+				 New York Radical Women
+			[6]
+				 Yippies
+			[7]
+				 New York City
+			[8]
+				 Lake Worth
+			[9]
+				 Dagmar
+		[:metadata:title]
+			 Robin Morgan
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 79
+			[:metadata:gale:gale-fake-waiting]
+				 85
+		[:extracted_metadata:sha1]
+			 212f42397b0de2bb39a40963695b066b30d65539
+		[:extracted_metadata:filename]
+			 Robin Morgan.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 b4fb0d36-bd20-464b-b15c-eb24916218f4
+		[:result_metadata:confidence]
+			 0.17465232948806325
+		[:result_metadata:score]
+			 9.776049
+	[:text]
+		 no title
+
+Gayle Rubin has been one of the most influential voices in the second wave of the feminist movement. She has worked for many years[...]
+				[:enriched_text:sentiment:document:score]
+					 0.524806
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 12
+					[0:sentiment:score]
+						 0.099772
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Gayle Rubin
+				[0:relevance]
+					 0.916151
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Gayle Rubin
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gayle_Rubin
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 -0.546565
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Judith Butler
+				[1:relevance]
+					 0.215977
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[1:disambiguation:name]
+						 Judith Butler
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Judith_Butler
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0.356742
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Heidi Hartmann
+				[2:relevance]
+					 0.167977
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Heidi Hartmann
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Heidi_Hartmann
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 writer
+				[3:relevance]
+					 0.159489
+				[3:type]
+					 JobTitle
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.271535
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Juliet Mitchell
+				[4:relevance]
+					 0.157489
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Juliet Mitchell
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Juliet_Mitchell
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 University of Michigan
+				[5:relevance]
+					 0.157374
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[5:disambiguation:name]
+						 University of Michigan
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Michigan
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 U.S.
+				[6:relevance]
+					 0.153728
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[6:disambiguation:name]
+						 United States
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Donna Haraway
+				[7:relevance]
+					 0.145569
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 AwardWinner
+					[7:disambiguation:name]
+						 Donna Haraway
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donna_Haraway
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Nine years
+				[8:relevance]
+					 0.145569
+				[8:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Feminist theory
+				[0:relevance]
+					 0.966104
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[1:text]
+					 Feminism
+				[1:relevance]
+					 0.860635
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[2:text]
+					 Gender
+				[2:relevance]
+					 0.665988
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[3:text]
+					 Radical feminism
+				[3:relevance]
+					 0.605174
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Radical_feminism
+				[4:text]
+					 Sociology
+				[4:relevance]
+					 0.590431
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Sociology
+				[5:text]
+					 Socialist feminism
+				[5:relevance]
+					 0.558614
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Socialist_feminism
+				[6:text]
+					 Transgender
+				[6:relevance]
+					 0.492871
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Transgender
+				[7:text]
+					 Judith Butler
+				[7:relevance]
+					 0.49126
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Judith_Butler
+		[:enriched_text:categories]
+				[0:score]
+					 0.999373
+				[0:label]
+					 /health and fitness/sexuality
+				[1:score]
+					 0.997516
+				[1:label]
+					 /society/sex
+				[2:score]
+					 0.968228
+				[2:label]
+					 /society/sex/pornography
+		[:metadata:docid]
+			 K2410000223
+		[:metadata:concepts]
+			[0]
+				 Feminist theory
+			[1]
+				 Feminism
+			[2]
+				 Gender
+			[3]
+				 Radical feminism
+			[4]
+				 Sociology
+			[5]
+				 Socialist feminism
+			[6]
+				 Transgender
+			[7]
+				 Judith Butler
+			[8]
+				 Gender studies
+			[9]
+				 Sexual intercourse
+		[:metadata:keywords]
+			[0]
+				 Gayle Rubin
+			[1]
+				 second wave of the feminist movement
+			[2]
+				 feminist theory
+			[3]
+				 Rubin's groundbreaking work
+			[4]
+				 gender system
+			[5]
+				 vocal proponent of sexual minority movements
+			[6]
+				 Radical Theory of the Politics of Sexuality
+			[7]
+				 Political Economy
+			[8]
+				 western culture
+			[9]
+				 Marxist feminism
+		[:metadata:entitites]
+			[0]
+				 Rubin
+			[1]
+				 Gayle Rubin
+			[2]
+				 Heidi Hartmann
+			[3]
+				 Juliet Mitchell
+			[4]
+				 University of Michigan
+			[5]
+				 Donna Haraway
+			[6]
+				 Judith Butler
+			[7]
+				 Nine years
+			[8]
+				 U.S.
+			[9]
+				 Butler
+		[:metadata:title]
+			 Gayle Rubin
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 41
+			[:metadata:gale:gale-fake-waiting]
+				 50
+		[:extracted_metadata:sha1]
+			 fc68367552d94609c456b0abebda48c1a5138a1b
+		[:extracted_metadata:filename]
+			 Gayle Rubin.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 34162195-54a5-468e-ab43-ec9513c9f9e4
+		[:result_metadata:confidence]
+			 0.17013815155185713
+		[:result_metadata:score]
+			 9.761929
+	[:text]
+		 no title
+
+Jessica Valenti became the founder and executive editor of Feministing.com, a popular blog and online community. As a blogger, spe[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.30839
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 18
+					[0:sentiment:score]
+						 -0.067425
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Jessica Valenti
+				[0:relevance]
+					 0.844079
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Jessica Valenti
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jessica_Valenti
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 womenÕs
+				[1:relevance]
+					 0.166588
+				[1:type]
+					 Company
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 National Organization for Women
+				[2:relevance]
+					 0.147317
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 National Organization for Women
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Organization_for_Women
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Rutgers University
+				[3:relevance]
+					 0.121705
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[3:disambiguation:name]
+						 Rutgers University
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rutgers_University
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 founder
+				[4:relevance]
+					 0.120714
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 writer
+				[5:relevance]
+					 0.120431
+				[5:type]
+					 JobTitle
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 executive editor
+				[6:relevance]
+					 0.119477
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 New York
+				[7:relevance]
+					 0.118726
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.403008
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 UN Dispatch
+				[8:relevance]
+					 0.118508
+				[8:type]
+					 PrintMedia
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 lecturer
+				[9:relevance]
+					 0.110819
+				[9:type]
+					 JobTitle
+				[10:count]
+					 3
+					[10:sentiment:score]
+						 0.403008
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 co-founder
+				[10:relevance]
+					 0.110512
+				[10:type]
+					 JobTitle
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Education Fund
+				[11:relevance]
+					 0.106959
+				[11:type]
+					 Organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 deputy publisher
+				[12:relevance]
+					 0.106897
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Andrew Golis
+				[13:relevance]
+					 0.093618
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 ten years
+				[14:relevance]
+					 0.093618
+				[14:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Blog
+				[0:relevance]
+					 0.963633
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Blog
+				[1:text]
+					 Gender
+				[1:relevance]
+					 0.907168
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+				[2:text]
+					 Third-wave feminism
+				[2:relevance]
+					 0.861249
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Third-wave_feminism
+				[3:text]
+					 Feminism
+				[3:relevance]
+					 0.774644
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminism
+				[4:text]
+					 Women's rights
+				[4:relevance]
+					 0.769042
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_rights
+				[5:text]
+					 Feminist theory
+				[5:relevance]
+					 0.736089
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[6:text]
+					 Women's suffrage
+				[6:relevance]
+					 0.725577
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Women's_suffrage
+				[7:text]
+					 Website
+				[7:relevance]
+					 0.723694
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Website
+		[:enriched_text:categories]
+				[0:score]
+					 0.894458
+				[0:label]
+					 /society/sex
+				[1:score]
+					 0.890612
+				[1:label]
+					 /health and fitness/sexuality
+				[2:score]
+					 0.833527
+				[2:label]
+					 /health and fitness/women's health
+		[:metadata:docid]
+			 K1650007272
+		[:metadata:concepts]
+			[0]
+				 Blog
+			[1]
+				 Gender
+			[2]
+				 Third-wave feminism
+			[3]
+				 Feminism
+			[4]
+				 Women's rights
+			[5]
+				 Feminist theory
+			[6]
+				 Women's suffrage
+			[7]
+				 Website
+			[8]
+				 Femininity
+			[9]
+				 Simone de Beauvoir
+		[:metadata:keywords]
+			[0]
+				 Jessica Valenti
+			[1]
+				 young women
+			[2]
+				 much work
+			[3]
+				 feminist household
+			[4]
+				 ÒOne of the big reasons
+			[5]
+				 supporters of womenÕs rights
+			[6]
+				 Women's Legal Defense
+			[7]
+				 sharp intelligence
+			[8]
+				 Web site
+			[9]
+				 National Organization
+		[:metadata:entitites]
+			[0]
+				 Valenti
+			[1]
+				 Ó Valenti
+			[2]
+				 Jessica Valenti
+			[3]
+				 Feministing.com
+			[4]
+				 National Organization for Women's Legal Defense and Education Fund
+			[5]
+				 Rutgers University
+			[6]
+				 ten years
+			[7]
+				 Andrew Golis
+			[8]
+				 New York
+			[9]
+				 UN
+		[:metadata:title]
+			 Jessica Valenti
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 61
+			[:metadata:gale:gale-fake-waiting]
+				 79
+		[:extracted_metadata:sha1]
+			 049201a67b9942214f1e1c2a954e17aa887677a7
+		[:extracted_metadata:filename]
+			 Jessica Valenti.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

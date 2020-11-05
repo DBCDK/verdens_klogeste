@@ -1,0 +1,6115 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 f47407f1-c8e5-4ec9-9136-05c065cf9447
+		[:result_metadata:confidence]
+			 0.10813024235249719
+		[:result_metadata:score]
+			 7.152025
+	[:text]
+		 no title
+
+The planet Mars has attracted human interest throughout much of its modern history. For instance, Although it is now known that in[...]
+				[:enriched_text:sentiment:document:score]
+					 0.564119
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 -0.334551
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars Landing
+				[0:relevance]
+					 0.281968
+				[0:type]
+					 GeographicFeature
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.611263
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Mars Joint Exploration Initiative
+				[1:relevance]
+					 0.253652
+				[1:type]
+					 Organization
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.301105
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 NASA
+				[2:relevance]
+					 0.190378
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[2:disambiguation:name]
+						 NASA
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.295634
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 European Space Agency
+				[3:relevance]
+					 0.167769
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[3:disambiguation:name]
+						 European Space Agency
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 United States
+				[4:relevance]
+					 0.161275
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[4:disambiguation:name]
+						 United States
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.665309
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 MRO
+				[5:relevance]
+					 0.149015
+				[5:type]
+					 Company
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 National Aeronautics and Space
+				[6:relevance]
+					 0.146714
+				[6:type]
+					 Organization
+				[7:count]
+					 4
+					[7:sentiment:score]
+						 0.425792
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 China
+				[7:relevance]
+					 0.143252
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 Country
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 China National Space Administration
+				[8:relevance]
+					 0.138665
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 SpaceAgency
+						[2]
+							 SpacecraftManufacturer
+					[8:disambiguation:name]
+						 China National Space Administration
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/China_National_Space_Administration
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.381945
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Russian Federal Space Agency
+				[9:relevance]
+					 0.135293
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Russian Federal Space Agency
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russian_Federal_Space_Agency
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 -0.310115
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 European Union
+				[10:relevance]
+					 0.133791
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MembershipOrganization
+						[4]
+							 AwardWinner
+					[10:disambiguation:name]
+						 European Union
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Union
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 -0.471391
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Russia
+				[11:relevance]
+					 0.106439
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 Country
+					[11:disambiguation:name]
+						 Russia
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russia
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Russia
+				[12:relevance]
+					 0.104066
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 FilmFestivalFocus
+						[4]
+							 Country
+					[12:disambiguation:name]
+						 Poland
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Poland
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 MEJI
+				[13:relevance]
+					 0.092258
+				[13:type]
+					 Organization
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 The The The The In
+				[14:relevance]
+					 -0.026794
+				[14:type]
+					 PrintMedia
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 three-month
+				[15:relevance]
+					 -0.026794
+				[15:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.974992
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[1:text]
+					 NASA
+				[1:relevance]
+					 0.787136
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[2:text]
+					 Space exploration
+				[2:relevance]
+					 0.640303
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_exploration
+				[3:text]
+					 Human spaceflight
+				[3:relevance]
+					 0.474834
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_spaceflight
+				[4:text]
+					 Manned mission to Mars
+				[4:relevance]
+					 0.412816
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Manned_mission_to_Mars
+				[5:text]
+					 Mars exploration
+				[5:relevance]
+					 0.363207
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_exploration
+				[6:text]
+					 Colonization of Mars
+				[6:relevance]
+					 0.362453
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Colonization_of_Mars
+				[7:text]
+					 Oxygen
+				[7:relevance]
+					 0.357064
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+		[:enriched_text:categories]
+				[0:score]
+					 0.700061
+				[0:label]
+					 /automotive and vehicles/vehicle brands
+				[1:score]
+					 0.66805
+				[1:label]
+					 /science
+				[2:score]
+					 0.660569
+				[2:label]
+					 /business and industrial/energy
+		[:metadata:docid]
+			 CV2643750248
+		[:metadata:concepts]
+			[0]
+				 Mars
+			[1]
+				 NASA
+			[2]
+				 Space exploration
+			[3]
+				 Human spaceflight
+			[4]
+				 Manned mission to Mars
+			[5]
+				 Mars exploration
+			[6]
+				 Colonization of Mars
+			[7]
+				 Oxygen
+			[8]
+				 Atmosphere of Mars
+			[9]
+				 International Space Station
+		[:metadata:keywords]
+			[0]
+				 planet Mars
+			[1]
+				 European Space Agency
+			[2]
+				 primary goals
+			[3]
+				 needs water
+			[4]
+				 Mars missions
+			[5]
+				 United States
+			[6]
+				 Russian Federal Space Agency
+			[7]
+				 human interest
+			[8]
+				 plan of the National Aeronautics
+			[9]
+				 organic carbon
+		[:metadata:entitites]
+			[0]
+				 NASA
+			[1]
+				 National Aeronautics and Space
+			[2]
+				 Red Planet
+			[3]
+				 three-month
+			[4]
+				 European Space Agency
+			[5]
+				 United States
+			[6]
+				 cold
+			[7]
+				 Russian Federal Space Agency
+			[8]
+				 China National Space Administration
+			[9]
+				 Russia
+		[:metadata:title]
+			 Mars Missions
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 48
+			[:metadata:gale:gale-fake-waiting]
+				 62
+		[:extracted_metadata:sha1]
+			 18ea51c827f0ad0717b162f4ea6d2109d2ac6b4d
+		[:extracted_metadata:filename]
+			 Mars Missions.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 c87d0180-f22d-4663-8af0-b418817e770f
+		[:result_metadata:confidence]
+			 0.10699157468333571
+		[:result_metadata:score]
+			 7.14778
+	[:text]
+		 no title
+
+A Mars base could be the key to making the planet Mars part of humanity's future. Explorers at a base could explore Mars for years[...]
+				[:enriched_text:sentiment:document:score]
+					 0.368375
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 15
+					[0:sentiment:score]
+						 -0.350582
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.888646
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 City
+					[0:disambiguation:name]
+						 Mars, Pennsylvania
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mars,_Pennsylvania
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.391831
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Mars
+				[1:relevance]
+					 0.279627
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 United States
+				[2:relevance]
+					 0.171963
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[2:disambiguation:name]
+						 United States
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 National Aeronautics and Space Administration
+				[3:relevance]
+					 0.168928
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[3:disambiguation:name]
+						 NASA
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 National Aeronautics If
+				[4:relevance]
+					 0.159141
+				[4:type]
+					 Organization
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 China National Space Administration
+				[5:relevance]
+					 0.15823
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 SpaceAgency
+						[2]
+							 SpacecraftManufacturer
+					[5:disambiguation:name]
+						 China National Space Administration
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/China_National_Space_Administration
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.294618
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 European Space Agency
+				[6:relevance]
+					 0.151561
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[6:disambiguation:name]
+						 European Space Agency
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.306892
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Russian Federal Space Agency
+				[7:relevance]
+					 0.151539
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Russian Federal Space Agency
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russian_Federal_Space_Agency
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Wernher von Braun
+				[8:relevance]
+					 0.134381
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Inventor
+						[2]
+							 MilitaryPerson
+						[3]
+							 TVActor
+						[4]
+							 TVCharacter
+					[8:disambiguation:name]
+						 Wernher von Braun
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wernher_von_Braun
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 North America
+				[9:relevance]
+					 0.123515
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 Continent
+					[9:disambiguation:name]
+						 North America
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_America
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 -0.676354
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 Mt
+				[10:relevance]
+					 0.119804
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Virginia
+				[11:relevance]
+					 0.118144
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[11:disambiguation:name]
+						 Virginia
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Virginia
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Hellas basin
+				[12:relevance]
+					 0.117177
+				[12:type]
+					 GeographicFeature
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Jamestown
+				[13:relevance]
+					 0.115948
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 City
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 -0.471391
+					[14:sentiment:label]
+						 negative
+				[14:text]
+					 Russia
+				[14:relevance]
+					 0.110777
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 Country
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 0.44186
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 China
+				[15:relevance]
+					 0.105974
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 Country
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 1%
+				[16:relevance]
+					 0.105974
+				[16:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 NASA
+				[0:relevance]
+					 0.983216
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[1:text]
+					 Space exploration
+				[1:relevance]
+					 0.982745
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_exploration
+				[2:text]
+					 Human spaceflight
+				[2:relevance]
+					 0.621529
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_spaceflight
+				[3:text]
+					 Mars
+				[3:relevance]
+					 0.542326
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[4:text]
+					 Manned mission to Mars
+				[4:relevance]
+					 0.538785
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Manned_mission_to_Mars
+				[5:text]
+					 International Space Station
+				[5:relevance]
+					 0.49854
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/International_Space_Station
+				[6:text]
+					 China National Space Administration
+				[6:relevance]
+					 0.496766
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/China_National_Space_Administration
+				[7:text]
+					 Space agencies
+				[7:relevance]
+					 0.431676
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_agencies
+		[:enriched_text:categories]
+				[0:score]
+					 0.698463
+				[0:label]
+					 /business and industrial/energy/renewable energy/solar energy
+				[1:score]
+					 0.675763
+				[1:label]
+					 /business and industrial/business operations/business plans
+				[2:score]
+					 0.655568
+				[2:label]
+					 /society/unrest and war
+		[:metadata:docid]
+			 CV2643750246
+		[:metadata:concepts]
+			[0]
+				 NASA
+			[1]
+				 Space exploration
+			[2]
+				 Human spaceflight
+			[3]
+				 Mars
+			[4]
+				 Manned mission to Mars
+			[5]
+				 International Space Station
+			[6]
+				 China National Space Administration
+			[7]
+				 Space agencies
+			[8]
+				 Space colonization
+			[9]
+				 Mariner 4
+		[:metadata:keywords]
+			[0]
+				 Mars base
+			[1]
+				 planet Mars part of humanity
+			[2]
+				 space shuttle
+			[3]
+				 human exploration of Mars
+			[4]
+				 historic Mars plans
+			[5]
+				 permanent Mars settlement
+			[6]
+				 national space agencies
+			[7]
+				 National Aeronautics
+			[8]
+				 European Space Agency
+			[9]
+				 first Mars base takes
+		[:metadata:entitites]
+			[0]
+				 Mt. Everest
+			[1]
+				 Hellas basin
+			[2]
+				 1%
+			[3]
+				 Jamestown
+			[4]
+				 Antarctica
+			[5]
+				 United States
+			[6]
+				 Wernher von Braun
+			[7]
+				 North America
+			[8]
+				 Virginia
+			[9]
+				 Earth
+		[:metadata:title]
+			 Mars Bases
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 95
+			[:metadata:gale:gale-fake-waiting]
+				 24
+		[:extracted_metadata:sha1]
+			 8dcf5fb6ed457c00fdba6132acde37c51624509f
+		[:extracted_metadata:filename]
+			 Mars Bases.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 89479d2b-52c9-4d5f-b1a9-2402fd13cee3
+		[:result_metadata:confidence]
+			 0.10586969867403034
+		[:result_metadata:score]
+			 7.1435976
+	[:text]
+		 no title
+
+Mars is the fourth planet from the sun, orbiting the sun once every 687 (Earth) days at a mean distance of 141 million mi (227 mil[...]
+				[:enriched_text:sentiment:document:score]
+					 0.355526
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 -0.389094
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars Global Surveyor
+				[0:relevance]
+					 0.235765
+				[0:type]
+					 Company
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Mars Reconnaissance Orbiter
+				[1:relevance]
+					 0.226351
+				[1:type]
+					 Facility
+				[2:count]
+					 7
+					[2:sentiment:score]
+						 0.273482
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 National Aeronautics and Space Administration
+				[2:relevance]
+					 0.208293
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[2:disambiguation:name]
+						 NASA
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Mars Express
+				[3:relevance]
+					 0.196186
+				[3:type]
+					 Organization
+				[4:count]
+					 7
+					[4:sentiment:score]
+						 -0.480464
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Percival Lowell
+				[4:relevance]
+					 0.180933
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 Scientist
+					[4:disambiguation:name]
+						 Percival Lowell
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Percival_Lowell
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Arizona
+				[5:relevance]
+					 0.149209
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[5:disambiguation:name]
+						 Arizona
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Arizona
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Lowell Observatory
+				[6:relevance]
+					 0.148439
+				[6:type]
+					 Facility
+					[6:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 AstronomicalObservatory
+						[3]
+							 Building
+					[6:disambiguation:name]
+						 Lowell Observatory
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lowell_Observatory
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.551207
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Pathfinder
+				[7:relevance]
+					 0.148078
+				[7:type]
+					 Company
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.566231
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Martian lake
+				[8:relevance]
+					 0.148055
+				[8:type]
+					 GeographicFeature
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.539923
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Hawaiian Islands
+				[9:relevance]
+					 0.132981
+				[9:type]
+					 GeographicFeature
+					[9:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 IslandGroup
+					[9:disambiguation:name]
+						 Hawaiian Islands
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hawaiian_Islands
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Carl Sagan
+				[10:relevance]
+					 0.131356
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 AwardNominee
+						[3]
+							 AwardWinner
+						[4]
+							 Scientist
+						[5]
+							 TVPersonality
+						[6]
+							 TVProducer
+						[7]
+							 FilmWriter
+						[8]
+							 TVActor
+						[9]
+							 TVWriter
+					[10:disambiguation:name]
+						 Carl Sagan
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Carl_Sagan
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Crater Stickney
+				[11:relevance]
+					 0.130588
+				[11:type]
+					 GeographicFeature
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 NASA Johnson Space Center
+				[12:relevance]
+					 0.129288
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 Lyndon B. Johnson Space Center
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lyndon_B._Johnson_Space_Center
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0.464824
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 rovers
+				[13:relevance]
+					 0.128843
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 Rovers F.C.
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rovers_F.C.
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Crater Hall
+				[14:relevance]
+					 0.128821
+				[14:type]
+					 Facility
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 International Astronomical Union
+				[15:relevance]
+					 0.128502
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 International Astronomical Union
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/International_Astronomical_Union
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Indian Space Research Organization
+				[16:relevance]
+					 0.126337
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+					[16:disambiguation:name]
+						 Indian Space Research Organisation
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Indian_Space_Research_Organisation
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Giovanni Schiaparelli
+				[17:relevance]
+					 0.126266
+				[17:type]
+					 Person
+					[17:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 AwardWinner
+						[3]
+							 Scientist
+					[17:disambiguation:name]
+						 Giovanni Schiaparelli
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Giovanni_Schiaparelli
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0.315128
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Flagstaff
+				[18:relevance]
+					 0.124951
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 City
+					[18:disambiguation:name]
+						 Flagstaff, Arizona
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Flagstaff,_Arizona
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 scientist
+				[19:relevance]
+					 0.12429
+				[19:type]
+					 JobTitle
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Argyre
+				[20:relevance]
+					 0.123972
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 City
+				[21:count]
+					 2
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 ALH84001
+				[21:relevance]
+					 0.119464
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Ares Vallis
+				[22:relevance]
+					 0.118513
+				[22:type]
+					 Facility
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Valles Marinaris
+				[23:relevance]
+					 0.117837
+				[23:type]
+					 GeographicFeature
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 US
+				[24:relevance]
+					 0.116057
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[24:disambiguation:name]
+						 United States
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Antarctica
+				[25:relevance]
+					 0.115937
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 Country
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Yogi
+				[26:relevance]
+					 0.115684
+				[26:type]
+					 Person
+				[27:count]
+					 2
+					[27:sentiment:score]
+						 -0.387896
+					[27:sentiment:label]
+						 negative
+				[27:text]
+					 Sojourner
+				[27:relevance]
+					 0.115058
+				[27:type]
+					 Person
+				[28:count]
+					 2
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Bill
+				[28:relevance]
+					 0.11471
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 European space Agency
+				[29:relevance]
+					 0.114324
+				[29:type]
+					 Organization
+					[29:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[29:disambiguation:name]
+						 European Space Agency
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Mt
+				[30:relevance]
+					 0.113516
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 -0.351428
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 Chile
+				[31:relevance]
+					 0.111542
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[31:disambiguation:name]
+						 Chile
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chile
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 -0.351428
+					[32:sentiment:label]
+						 negative
+				[32:text]
+					 Pacific Ocean
+				[32:relevance]
+					 0.111478
+				[32:type]
+					 GeographicFeature
+					[32:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[32:disambiguation:name]
+						 Pacific Ocean
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pacific_Ocean
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Official
+				[33:relevance]
+					 0.1104
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Boston
+				[34:relevance]
+					 0.108272
+				[34:type]
+					 Location
+					[34:disambiguation:subtype]
+						[0]
+							 City
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Stanford University
+				[35:relevance]
+					 0.108103
+				[35:type]
+					 Organization
+					[35:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 SportsAssociation
+						[3]
+							 AcademicInstitution
+						[4]
+							 ChivalricOrderMember
+						[5]
+							 CollegeUniversity
+						[6]
+							 University
+					[35:disambiguation:name]
+						 Stanford University
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stanford_University
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 3.6 billion years
+				[36:relevance]
+					 0.108103
+				[36:type]
+					 Quantity
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 141 million mi
+				[37:relevance]
+					 0.108103
+				[37:type]
+					 Quantity
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 227 million km
+				[38:relevance]
+					 0.108103
+				[38:type]
+					 Quantity
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 billion years
+				[39:relevance]
+					 0.108103
+				[39:type]
+					 Quantity
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 $170 million
+				[40:relevance]
+					 0.108103
+				[40:type]
+					 Quantity
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 fourteen-ton
+				[41:relevance]
+					 0.108103
+				[41:type]
+					 Quantity
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 two decades
+				[42:relevance]
+					 0.108103
+				[42:type]
+					 Quantity
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 10 percent
+				[43:relevance]
+					 0.108103
+				[43:type]
+					 Quantity
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 20 degrees
+				[44:relevance]
+					 0.108103
+				[44:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.929666
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[1:text]
+					 Mars Exploration Rover
+				[1:relevance]
+					 0.329624
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Exploration_Rover
+				[2:text]
+					 NASA
+				[2:relevance]
+					 0.302442
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[3:text]
+					 Mars Reconnaissance Orbiter
+				[3:relevance]
+					 0.276776
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Reconnaissance_Orbiter
+				[4:text]
+					 Mars Science Laboratory
+				[4:relevance]
+					 0.272867
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Science_Laboratory
+				[5:text]
+					 Mars Global Surveyor
+				[5:relevance]
+					 0.265286
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Global_Surveyor
+				[6:text]
+					 Phobos
+				[6:relevance]
+					 0.239921
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Phobos_(moon)
+				[7:text]
+					 Mars Pathfinder
+				[7:relevance]
+					 0.237219
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Pathfinder
+		[:enriched_text:categories]
+				[0:score]
+					 0.905298
+				[0:label]
+					 /science/geology/volcanology/volcanic eruptions
+				[1:score]
+					 0.71972
+				[1:label]
+					 /science/geology/mineralogy
+				[2:score]
+					 0.599039
+				[2:label]
+					 /science/geology/seismology/earthquakes
+		[:metadata:docid]
+			 CV2644031371
+		[:metadata:concepts]
+			[0]
+				 Mars
+			[1]
+				 Mars Exploration Rover
+			[2]
+				 NASA
+			[3]
+				 Mars Reconnaissance Orbiter
+			[4]
+				 Mars Science Laboratory
+			[5]
+				 Mars Global Surveyor
+			[6]
+				 Phobos
+			[7]
+				 Mars Pathfinder
+			[8]
+				 Solar System
+			[9]
+				 Exploration of Mars
+		[:metadata:keywords]
+			[0]
+				 fourth planet
+			[1]
+				 Percival Lowell
+			[2]
+				 large impact crater basins
+			[3]
+				 Mars
+			[4]
+				 words of mission scientist
+			[5]
+				 Mars Pathfinder mission
+			[6]
+				 thin Martian atmosphere
+			[7]
+				 Martian surface
+			[8]
+				 red planet
+			[9]
+				 twin Mars exploration rovers
+		[:metadata:entitites]
+			[0]
+				 Percival Lowell
+			[1]
+				 Lowell
+			[2]
+				 NASA
+			[3]
+				 141 million mi
+			[4]
+				 227 million km
+			[5]
+				 Giovanni Schiaparelli
+			[6]
+				 61 cm
+			[7]
+				 Flagstaff
+			[8]
+				 2,111 mi
+			[9]
+				 3,397 km
+		[:metadata:title]
+			 Mars
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 14
+			[:metadata:gale:gale-fake-waiting]
+				 8
+		[:extracted_metadata:sha1]
+			 65561ca45593c57e66276a09244dadfef9ea5365
+		[:extracted_metadata:filename]
+			 Mars.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 b72d0c78-5d60-43bd-b0f0-4d54969bf50f
+		[:result_metadata:confidence]
+			 0.10540513835925533
+		[:result_metadata:score]
+			 7.1418657
+	[:text]
+		 no title
+
+Mars, the fourth planet from the Sun, was named for the Roman god of war. It is a barren, desolate, crater-covered world prone to [...]
+				[:enriched_text:sentiment:document:score]
+					 0.326247
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 17
+					[0:sentiment:score]
+						 -0.438855
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.894176
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 City
+				[1:count]
+					 10
+					[1:sentiment:score]
+						 -0.130463
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 National Aeronautics and Space Administration
+				[1:relevance]
+					 0.266502
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[1:disambiguation:name]
+						 NASA
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 -0.470368
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 landers
+				[2:relevance]
+					 0.182696
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 European Space Agency
+				[3:relevance]
+					 0.159301
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[3:disambiguation:name]
+						 European Space Agency
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.798767
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Earthlike
+				[4:relevance]
+					 0.139217
+				[4:type]
+					 Company
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0.485654
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Italian Space Agency
+				[5:relevance]
+					 0.138605
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 SpacecraftManufacturer
+					[5:disambiguation:name]
+						 Italian Space Agency
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Italian_Space_Agency
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Valle Mariner
+				[6:relevance]
+					 0.138131
+				[6:type]
+					 GeographicFeature
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Soviet Union
+				[7:relevance]
+					 0.136063
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[7:disambiguation:name]
+						 Soviet Union
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.521722
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Grand Canyon
+				[8:relevance]
+					 0.129435
+				[8:type]
+					 GeographicFeature
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.233685
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Mariners
+				[9:relevance]
+					 0.120179
+				[9:type]
+					 Organization
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 100 degrees Fahrenheit
+				[10:relevance]
+					 0.120179
+				[10:type]
+					 Quantity
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 225 million kilometers
+				[11:relevance]
+					 0.120179
+				[11:type]
+					 Quantity
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 80 degrees Fahrenheit
+				[12:relevance]
+					 0.120179
+				[12:type]
+					 Quantity
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 27 degrees Celsius
+				[13:relevance]
+					 0.120179
+				[13:type]
+					 Quantity
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 73 degrees Celsius
+				[14:relevance]
+					 0.120179
+				[14:type]
+					 Quantity
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 6,800 kilometers
+				[15:relevance]
+					 0.120179
+				[15:type]
+					 Quantity
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 4,000-kilometer
+				[16:relevance]
+					 0.120179
+				[16:type]
+					 Quantity
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 600 kilometers
+				[17:relevance]
+					 0.120179
+				[17:type]
+					 Quantity
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 24-kilometer
+				[18:relevance]
+					 0.120179
+				[18:type]
+					 Quantity
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 2,500-mile
+				[19:relevance]
+					 0.120179
+				[19:type]
+					 Quantity
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 15-mile
+				[20:relevance]
+					 0.120179
+				[20:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.960198
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[1:text]
+					 NASA
+				[1:relevance]
+					 0.673934
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[2:text]
+					 Oxygen
+				[2:relevance]
+					 0.499874
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+				[3:text]
+					 Mars Exploration Rover
+				[3:relevance]
+					 0.45977
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Exploration_Rover
+				[4:text]
+					 Space exploration
+				[4:relevance]
+					 0.456557
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_exploration
+				[5:text]
+					 Sun
+				[5:relevance]
+					 0.451474
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Sun
+				[6:text]
+					 European Space Agency
+				[6:relevance]
+					 0.439914
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/European_Space_Agency
+				[7:text]
+					 Mars Science Laboratory
+				[7:relevance]
+					 0.426616
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Science_Laboratory
+		[:enriched_text:categories]
+				[0:score]
+					 0.829471
+				[0:label]
+					 /science/geology/volcanology/volcanic eruptions
+				[1:score]
+					 0.67932
+				[1:label]
+					 /science/geology/mineralogy
+				[2:score]
+					 0.557142
+				[2:label]
+					 /science/weather
+		[:metadata:docid]
+			 CV2644300625
+		[:metadata:concepts]
+			[0]
+				 Mars
+			[1]
+				 NASA
+			[2]
+				 Oxygen
+			[3]
+				 Mars Exploration Rover
+			[4]
+				 Space exploration
+			[5]
+				 Sun
+			[6]
+				 European Space Agency
+			[7]
+				 Mars Science Laboratory
+			[8]
+				 Earth
+			[9]
+				 Water
+		[:metadata:keywords]
+			[0]
+				 various space missions
+			[1]
+				 Physical Properties of Mars Mars
+			[2]
+				 liquid water
+			[3]
+				 atmospheric pressure
+			[4]
+				 Temperatures range
+			[5]
+				 soil samples
+			[6]
+				 Space Administration
+			[7]
+				 Soviet Union
+			[8]
+				 Mars
+			[9]
+				 degrees Fahrenheit
+		[:metadata:entitites]
+			[0]
+				 80 degrees Fahrenheit
+			[1]
+				 27 degrees Celsius
+			[2]
+				 100 degrees Fahrenheit
+			[3]
+				 73 degrees Celsius
+			[4]
+				 225 million kilometers
+			[5]
+				 6,800 kilometers
+			[6]
+				 NASA
+			[7]
+				 15-mile
+			[8]
+				 24-kilometer
+			[9]
+				 600 kilometers
+		[:metadata:title]
+			 Mars
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 88
+			[:metadata:gale:gale-fake-waiting]
+				 68
+		[:extracted_metadata:sha1]
+			 348525366ed6eb7166558312933a0d0710936f7e
+		[:extracted_metadata:filename]
+			 Mars.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 3179e587-0dcb-42b5-922b-b59694f03098
+		[:result_metadata:confidence]
+			 0.10432502690968802
+		[:result_metadata:score]
+			 7.137839
+	[:text]
+		 no title
+
+Before the invention of the telescope, Mars was just another of the "wanderers" that traveled through the sky. Its only distinguis[...]
+				[:enriched_text:sentiment:document:score]
+					 0.301429
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 2
+					[0:sentiment:score]
+						 -0.568378
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars Global Surveyor
+				[0:relevance]
+					 0.314928
+				[0:type]
+					 Company
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Mars Global Surveyor
+				[1:relevance]
+					 0.251392
+				[1:type]
+					 Organization
+				[2:count]
+					 8
+					[2:sentiment:score]
+						 -0.066075
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Giovanni Schiaparelli
+				[2:relevance]
+					 0.219872
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 AwardWinner
+						[3]
+							 Scientist
+					[2:disambiguation:name]
+						 Giovanni Schiaparelli
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Giovanni_Schiaparelli
+				[3:count]
+					 5
+					[3:sentiment:score]
+						 -0.14503
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 NASA
+				[3:relevance]
+					 0.19199
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[3:disambiguation:name]
+						 NASA
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 -0.039728
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Christiaan Huygens
+				[4:relevance]
+					 0.19007
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 Inventor
+						[3]
+							 Scientist
+					[4:disambiguation:name]
+						 Christiaan Huygens
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Christiaan_Huygens
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Martian
+				[5:relevance]
+					 0.185725
+				[5:type]
+					 Company
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 -0.528594
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Syrtis Major
+				[6:relevance]
+					 0.175768
+				[6:type]
+					 GeographicFeature
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[6:disambiguation:name]
+						 Gulf of Sidra
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gulf_of_Sidra
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 -0.695122
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Percival Lowell
+				[7:relevance]
+					 0.159175
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 Scientist
+					[7:disambiguation:name]
+						 Percival Lowell
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Percival_Lowell
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 William Herschel
+				[8:relevance]
+					 0.1461
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 Academic
+						[3]
+							 Astronomer
+						[4]
+							 ChivalricOrderMember
+						[5]
+							 MusicalGroupMember
+						[6]
+							 Scientist
+					[8:disambiguation:name]
+						 William Herschel
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Herschel
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 -0.27988
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Giacomo Filippo Maraldi
+				[9:relevance]
+					 0.145585
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Giacomo F. Maraldi
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Giacomo_F._Maraldi
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Flagstaff
+				[10:relevance]
+					 0.1353
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Flagstaff, Arizona
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Flagstaff,_Arizona
+				[11:count]
+					 3
+					[11:sentiment:score]
+						 -0.48088
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Rovers
+				[11:relevance]
+					 0.132525
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 Rovers F.C.
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rovers_F.C.
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 U.S.
+				[12:relevance]
+					 0.128615
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[12:disambiguation:name]
+						 United States
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Arizona
+				[13:relevance]
+					 0.127923
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[13:disambiguation:name]
+						 Arizona
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Arizona
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Kaiser Sea
+				[14:relevance]
+					 0.126615
+				[14:type]
+					 GeographicFeature
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 Syrtis Major Planum
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Syrtis_Major_Planum
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 European Space Agency
+				[15:relevance]
+					 0.125463
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[15:disambiguation:name]
+						 European Space Agency
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Sojourner
+				[16:relevance]
+					 0.121656
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Mariner
+				[17:relevance]
+					 0.121229
+				[17:type]
+					 Organization
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 -0.43463
+					[18:sentiment:label]
+						 negative
+				[18:text]
+					 Pacific Ocean
+				[18:relevance]
+					 0.121034
+				[18:type]
+					 GeographicFeature
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[18:disambiguation:name]
+						 Pacific Ocean
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pacific_Ocean
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Great Lakes
+				[19:relevance]
+					 0.117015
+				[19:type]
+					 GeographicFeature
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[19:disambiguation:name]
+						 Great Lakes
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Great_Lakes
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Valles Marineris
+				[20:relevance]
+					 0.11365
+				[20:type]
+					 GeographicFeature
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Meridiani Planum
+				[21:relevance]
+					 0.109459
+				[21:type]
+					 Person
+				[22:count]
+					 3
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 24 hours
+				[22:relevance]
+					 0.109459
+				[22:type]
+					 Quantity
+				[23:count]
+					 2
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 39 minutes
+				[23:relevance]
+					 0.109459
+				[23:type]
+					 Quantity
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 billion-dollar
+				[24:relevance]
+					 0.109459
+				[24:type]
+					 Quantity
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 21.67 seconds
+				[25:relevance]
+					 0.109459
+				[25:type]
+					 Quantity
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 six months
+				[26:relevance]
+					 0.109459
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 26 months
+				[27:relevance]
+					 0.109459
+				[27:type]
+					 Quantity
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 one month
+				[28:relevance]
+					 0.109459
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 3218 km
+				[29:relevance]
+					 0.109459
+				[29:type]
+					 Quantity
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 24 km
+				[30:relevance]
+					 0.109459
+				[30:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.929904
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[1:text]
+					 Water
+				[1:relevance]
+					 0.265849
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Water
+				[2:text]
+					 NASA
+				[2:relevance]
+					 0.243095
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[3:text]
+					 Polar ice cap
+				[3:relevance]
+					 0.237236
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Polar_ice_cap
+				[4:text]
+					 Polar region
+				[4:relevance]
+					 0.208645
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Polar_region
+				[5:text]
+					 Earth
+				[5:relevance]
+					 0.203696
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Earth
+				[6:text]
+					 Mars Exploration Rover
+				[6:relevance]
+					 0.197406
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_Exploration_Rover
+				[7:text]
+					 Martian
+				[7:relevance]
+					 0.196582
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Martian
+		[:enriched_text:categories]
+				[0:score]
+					 0.834092
+				[0:label]
+					 /science/physics/space and astronomy
+				[1:score]
+					 0.766191
+				[1:label]
+					 /science/geology/volcanology/volcanic eruptions
+				[2:score]
+					 0.631354
+				[2:label]
+					 /science/geology/mineralogy
+		[:metadata:docid]
+			 CV1648500365
+		[:metadata:concepts]
+			[0]
+				 Mars
+			[1]
+				 Water
+			[2]
+				 NASA
+			[3]
+				 Polar ice cap
+			[4]
+				 Polar region
+			[5]
+				 Earth
+			[6]
+				 Mars Exploration Rover
+			[7]
+				 Martian
+			[8]
+				 Exploration of Mars
+			[9]
+				 Mars Express
+		[:metadata:keywords]
+			[0]
+				 first drawings of Mars
+			[1]
+				 late eighteenth century
+			[2]
+				 Martian ice cap
+			[3]
+				 Italian astronomer Giovanni Schiaparelli
+			[4]
+				 NASA's billion-dollar Mars Observer
+			[5]
+				 European Space Agency
+			[6]
+				 surface of the planet
+			[7]
+				 unmanned missions
+			[8]
+				 Christiaan Huygens
+			[9]
+				 Mars's period
+		[:metadata:entitites]
+			[0]
+				 Huygens
+			[1]
+				 39 minutes
+			[2]
+				 Christiaan Huygens
+			[3]
+				 24 hours
+			[4]
+				 26 months
+			[5]
+				 Giacomo Filippo Maraldi
+			[6]
+				 Herschel
+			[7]
+				 Maraldi
+			[8]
+				 21.67 seconds
+			[9]
+				 Giovanni Schiaparelli
+		[:metadata:title]
+			 Mars
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 9
+			[:metadata:gale:gale-fake-waiting]
+				 26
+		[:extracted_metadata:sha1]
+			 7c02c9092105ff1d83e27fb9ccfa69fe9e1ef588
+		[:extracted_metadata:filename]
+			 Mars.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 f384de24-a38d-4314-bd47-e073f59469e2
+		[:result_metadata:confidence]
+			 0.10358442350932187
+		[:result_metadata:score]
+			 7.135078
+	[:text]
+		 no title
+
+The Mars Direct concept for a human mission to Mars has been vigorously championed since 1990 by U.S. aerospace engineer Robert Zu[...]
+				[:enriched_text:sentiment:document:score]
+					 0.533894
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 5
+					[0:sentiment:score]
+						 -0.576899
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Mars Direct
+				[0:relevance]
+					 0.83475
+				[0:type]
+					 Company
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0.356634
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Robert Zubrin
+				[1:relevance]
+					 0.478267
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Robert Zubrin
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_Zubrin
+				[2:count]
+					 7
+					[2:sentiment:score]
+						 -0.418864
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 National Aeronautics and Space Administration
+				[2:relevance]
+					 0.45284
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[2:disambiguation:name]
+						 NASA
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Mars
+				[3:relevance]
+					 0.391289
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 5
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 David Baker
+				[4:relevance]
+					 0.298382
+				[4:type]
+					 Person
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 U.S.
+				[5:relevance]
+					 0.295226
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[5:disambiguation:name]
+						 United States
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 NASA Kennedy Space Center
+				[6:relevance]
+					 0.230088
+				[6:type]
+					 Facility
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0.356634
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 engineer
+				[7:relevance]
+					 0.20809
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.659137
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Space Exploration Initiative
+				[8:relevance]
+					 0.205695
+				[8:type]
+					 Organization
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 -0.012561
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 President George H. W. Bush
+				[9:relevance]
+					 0.20515
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 President
+						[3]
+							 Appointer
+						[4]
+							 BoardMember
+						[5]
+							 ChivalricOrderMember
+						[6]
+							 MilitaryPerson
+						[7]
+							 PoliticalAppointer
+						[8]
+							 U.S.Congressperson
+						[9]
+							 USPresident
+						[10]
+							 USVicePresident
+						[11]
+							 FilmActor
+						[12]
+							 TVActor
+					[9:disambiguation:name]
+						 George H. W. Bush
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_H._W._Bush
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.507885
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Martin Marietta Corporation
+				[10:relevance]
+					 0.202409
+				[10:type]
+					 Company
+					[10:disambiguation:subtype]
+						[0]
+							 AircraftManufacturer
+						[1]
+							 RocketManufacturer
+					[10:disambiguation:name]
+						 Martin Marietta
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Martin_Marietta
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Constellation
+				[11:relevance]
+					 0.191068
+				[11:type]
+					 Company
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Florida
+				[12:relevance]
+					 0.169011
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Jet Propulsion Laboratory
+				[13:relevance]
+					 0.15776
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+					[13:disambiguation:name]
+						 Jet Propulsion Laboratory
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jet_Propulsion_Laboratory
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Robert Ash
+				[14:relevance]
+					 0.157671
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Giulio Varsi
+				[15:relevance]
+					 0.144838
+				[15:type]
+					 Person
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 William Dowler
+				[16:relevance]
+					 0.135748
+				[16:type]
+					 Person
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 800 kilometers
+				[17:relevance]
+					 0.135748
+				[17:type]
+					 Quantity
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 107 tons
+				[18:relevance]
+					 0.135748
+				[18:type]
+					 Quantity
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 500-day
+				[19:relevance]
+					 0.135748
+				[19:type]
+					 Quantity
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 16,000 kilometers
+				[20:relevance]
+					 0.135748
+				[20:type]
+					 Quantity
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 $400 billion
+				[21:relevance]
+					 0.135748
+				[21:type]
+					 Quantity
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 4.9 meters
+				[22:relevance]
+					 0.135748
+				[22:type]
+					 Quantity
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 8.4 meters
+				[23:relevance]
+					 0.135748
+				[23:type]
+					 Quantity
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 six months
+				[24:relevance]
+					 0.135748
+				[24:type]
+					 Quantity
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 27.5 feet
+				[25:relevance]
+					 0.135748
+				[25:type]
+					 Quantity
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 six-month
+				[26:relevance]
+					 0.135748
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 5.8 tons
+				[27:relevance]
+					 0.135748
+				[27:type]
+					 Quantity
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 16 feet
+				[28:relevance]
+					 0.135748
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 38-ton
+				[29:relevance]
+					 0.135748
+				[29:type]
+					 Quantity
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 40-ton
+				[30:relevance]
+					 0.135748
+				[30:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars
+				[0:relevance]
+					 0.94572
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[1:text]
+					 NASA
+				[1:relevance]
+					 0.810515
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[2:text]
+					 Space Shuttle
+				[2:relevance]
+					 0.679913
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_Shuttle
+				[3:text]
+					 Human spaceflight
+				[3:relevance]
+					 0.67929
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_spaceflight
+				[4:text]
+					 Rocket
+				[4:relevance]
+					 0.655571
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Rocket
+				[5:text]
+					 Manned mission to Mars
+				[5:relevance]
+					 0.624125
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Manned_mission_to_Mars
+				[6:text]
+					 Space exploration
+				[6:relevance]
+					 0.616769
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_exploration
+				[7:text]
+					 International Space Station
+				[7:relevance]
+					 0.609497
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/International_Space_Station
+		[:enriched_text:categories]
+				[0:score]
+					 0.823503
+				[0:label]
+					 /automotive and vehicles/vehicle brands
+				[1:score]
+					 0.6988
+				[1:label]
+					 /business and industrial/energy
+				[2:score]
+					 0.671748
+				[2:label]
+					 /business and industrial/energy/renewable energy/fuel cell
+		[:metadata:docid]
+			 CV2643750247
+		[:metadata:concepts]
+			[0]
+				 Mars
+			[1]
+				 NASA
+			[2]
+				 Space Shuttle
+			[3]
+				 Human spaceflight
+			[4]
+				 Rocket
+			[5]
+				 Manned mission to Mars
+			[6]
+				 Space exploration
+			[7]
+				 International Space Station
+			[8]
+				 Mars Direct
+			[9]
+				 Mars Society
+		[:metadata:keywords]
+			[0]
+				 Mars Direct concept
+			[1]
+				 program cancellations
+			[2]
+				 cargo lander
+			[3]
+				 rocket consisting of a space shuttle
+			[4]
+				 Space Administration
+			[5]
+				 Constellation program
+			[6]
+				 U.S. aerospace engineer Robert Zubrin
+			[7]
+				 Mars exploration
+			[8]
+				 crew spacecraft
+			[9]
+				 external tank
+		[:metadata:entitites]
+			[0]
+				 Zubrin
+			[1]
+				 NASA
+			[2]
+				 500-day
+			[3]
+				 Robert Zubrin
+			[4]
+				 Martin Marietta Corporation
+			[5]
+				 Design Reference Mission
+			[6]
+				 President George H. W. Bush
+			[7]
+				 Space Exploration Initiative
+			[8]
+				 107 tons
+			[9]
+				 U.S.
+		[:metadata:title]
+			 Mars Direct
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 59
+			[:metadata:gale:gale-fake-waiting]
+				 22
+		[:extracted_metadata:sha1]
+			 17c26b7365d60e725ed88cee729ec79c2acb02e0
+		[:extracted_metadata:filename]
+			 Mars Direct.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 778707c1-c4ee-43ad-bbee-186f3ff029ee
+		[:result_metadata:confidence]
+			 0.10182961458313723
+		[:result_metadata:score]
+			 7.128536
+	[:text]
+		 no title
+
+An unmanned spacecraft, also called a space probe, is a spacecraft with no human pilots or passengers on board that can carry out [...]
+				[:enriched_text:sentiment:document:score]
+					 0.312814
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 12
+					[0:sentiment:score]
+						 -0.224704
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 NASA
+				[0:relevance]
+					 0.788306
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 GovernmentAgency
+						[2]
+							 AirportOperator
+						[3]
+							 AwardPresentingOrganization
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 SpaceAgency
+						[6]
+							 SpacecraftManufacturer
+					[0:disambiguation:name]
+						 NASA
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/NASA
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 -0.518168
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Mars Global Surveyor
+				[1:relevance]
+					 0.686164
+				[1:type]
+					 Company
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 -0.255008
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Mars Rovers
+				[2:relevance]
+					 0.503109
+				[2:type]
+					 Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Mars The Soviet Union
+				[3:relevance]
+					 0.476244
+				[3:type]
+					 Organization
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Hubble Space Telescope
+				[4:relevance]
+					 0.354519
+				[4:type]
+					 Facility
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 U.S. National Aeronautics and Space Administration
+				[5:relevance]
+					 0.348992
+				[5:type]
+					 Organization
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.423052
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 European Space Agency
+				[6:relevance]
+					 0.343603
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RocketManufacturer
+						[2]
+							 SpaceAgency
+						[3]
+							 SpacecraftManufacturer
+					[6:disambiguation:name]
+						 European Space Agency
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Space_Agency
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Kepler Space Observatory
+				[7:relevance]
+					 0.338153
+				[7:type]
+					 Facility
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 U.S.
+				[8:relevance]
+					 0.298844
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[8:disambiguation:name]
+						 United States
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 rovers
+				[9:relevance]
+					 0.278739
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Rovers F.C.
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rovers_F.C.
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Soviet Union
+				[10:relevance]
+					 0.27718
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[10:disambiguation:name]
+						 Soviet Union
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 landers
+				[11:relevance]
+					 0.242385
+				[11:type]
+					 Person
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Orbital radar
+				[12:relevance]
+					 0.231042
+				[12:type]
+					 Company
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Kuiper Belt
+				[13:relevance]
+					 0.229467
+				[13:type]
+					 GeographicFeature
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Vega
+				[14:relevance]
+					 0.217702
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Twenty years
+				[15:relevance]
+					 0.207387
+				[15:type]
+					 Quantity
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 90 percent
+				[16:relevance]
+					 0.207387
+				[16:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 NASA
+				[0:relevance]
+					 0.94263
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/NASA
+				[1:text]
+					 Mars
+				[1:relevance]
+					 0.743046
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[2:text]
+					 Space exploration
+				[2:relevance]
+					 0.6281
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Space_exploration
+				[3:text]
+					 Solar System
+				[3:relevance]
+					 0.5056
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Solar_System
+				[4:text]
+					 Jupiter
+				[4:relevance]
+					 0.476022
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Jupiter
+				[5:text]
+					 Planet
+				[5:relevance]
+					 0.467917
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Planet
+				[6:text]
+					 Voyager 1
+				[6:relevance]
+					 0.421465
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Voyager_1
+				[7:text]
+					 Dwarf planet
+				[7:relevance]
+					 0.394174
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Dwarf_planet
+		[:enriched_text:categories]
+				[0:score]
+					 0.918375
+				[0:label]
+					 /science/physics/space and astronomy
+		[:metadata:docid]
+			 CV2644300892
+		[:metadata:concepts]
+			[0]
+				 NASA
+			[1]
+				 Mars
+			[2]
+				 Space exploration
+			[3]
+				 Solar System
+			[4]
+				 Jupiter
+			[5]
+				 Planet
+			[6]
+				 Voyager 1
+			[7]
+				 Dwarf planet
+			[8]
+				 Pluto
+			[9]
+				 New Horizons
+		[:metadata:keywords]
+			[0]
+				 space probe
+			[1]
+				 Space probes
+			[2]
+				 Mars Rovers
+			[3]
+				 unmanned spacecraft
+			[4]
+				 planet Venus
+			[5]
+				 solar panels
+			[6]
+				 time NASA
+			[7]
+				 U.S. National Aeronautics
+			[8]
+				 Mars Global Surveyor
+			[9]
+				 space missions
+		[:metadata:entitites]
+			[0]
+				 NASA
+			[1]
+				 U.S. National Aeronautics and Space Administration
+			[2]
+				 Kepler Space Observatory
+			[3]
+				 Venera
+			[4]
+				 Soviet Union
+			[5]
+				 Mars Global Surveyor
+			[6]
+				 Vega
+			[7]
+				 Venus
+			[8]
+				 Twenty years
+			[9]
+				 U.S.
+		[:metadata:title]
+			 Spacecraft, Unmanned
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 61
+			[:metadata:gale:gale-fake-waiting]
+				 31
+		[:extracted_metadata:sha1]
+			 307c2849c02969ad4e7be86367aae8b264b6faec
+		[:extracted_metadata:filename]
+			 Spacecraft, Unmanned.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 35304c70-78fa-4a93-841d-487fb834251e
+		[:result_metadata:confidence]
+			 0.1016156952742665
+		[:result_metadata:score]
+			 7.1277385
+	[:text]
+		 no title
+
+Bruno Mars is an American singer-songwriter who has written numerous top-of-the-chart hits for himself and other artists. Some of [...]
+				[:enriched_text:sentiment:document:score]
+					 0.634209
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 36
+					[0:sentiment:score]
+						 -0.052129
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Bruno Mars
+				[0:relevance]
+					 0.853013
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Bruno Mars
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bruno_Mars
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Travie McCoy
+				[1:relevance]
+					 0.180984
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Travie McCoy
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Travie_McCoy
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Flo Rida
+				[2:relevance]
+					 0.154826
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 AwardNominee
+						[3]
+							 BroadcastArtist
+						[4]
+							 Celebrity
+						[5]
+							 Lyricist
+						[6]
+							 MusicalGroupMember
+					[2:disambiguation:name]
+						 Flo Rida
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Flo_Rida
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.249953
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Mark Ronson
+				[3:relevance]
+					 0.145438
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 AwardNominee
+						[3]
+							 AwardWinner
+						[4]
+							 BroadcastArtist
+						[5]
+							 MusicalGroupMember
+						[6]
+							 RecordingEngineer
+						[7]
+							 RecordProducer
+					[3:disambiguation:name]
+						 Mark Ronson
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mark_Ronson
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Bruno Sammartino
+				[4:relevance]
+					 0.132776
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Athlete
+						[1]
+							 TVPersonality
+						[2]
+							 Wrestler
+					[4:disambiguation:name]
+						 Bruno Sammartino
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bruno_Sammartino
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Grammy Awards
+				[5:relevance]
+					 0.130765
+				[5:type]
+					 Award
+					[5:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+					[5:disambiguation:name]
+						 Grammy Award
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Grammy_Award
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 President Theodore Roosevelt High School
+				[6:relevance]
+					 0.12151
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[6:disambiguation:name]
+						 President Theodore Roosevelt High School
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/President_Theodore_Roosevelt_High_School
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Bruno
+				[7:relevance]
+					 0.120386
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.355039
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Hawaii
+				[8:relevance]
+					 0.119758
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MilitaryPost
+						[4]
+							 USState
+						[5]
+							 StateOrCounty
+					[8:disambiguation:name]
+						 Hawaii
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hawaii
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.369517
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Motown Records
+				[9:relevance]
+					 0.119707
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 RecordLabel
+						[2]
+							 FilmMusicContributor
+					[9:disambiguation:name]
+						 Motown
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Motown
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Honolulu
+				[10:relevance]
+					 0.116387
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Honolulu
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Honolulu
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.326485
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Michael Jackson
+				[11:relevance]
+					 0.115185
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 FilmCharacter
+						[2]
+							 MusicalArtist
+						[3]
+							 Profession
+						[4]
+							 AwardNominee
+						[5]
+							 AwardWinner
+						[6]
+							 BroadcastArtist
+						[7]
+							 Celebrity
+						[8]
+							 FilmDirector
+						[9]
+							 FilmEditor
+						[10]
+							 FilmMusicContributor
+						[11]
+							 FilmProducer
+						[12]
+							 HallOfFameInductee
+						[13]
+							 Lyricist
+						[14]
+							 MusicalGroupMember
+						[15]
+							 RecordProducer
+						[16]
+							 Songwriter
+						[17]
+							 TVPersonality
+						[18]
+							 VideoGameDesigner
+						[19]
+							 FilmActor
+						[20]
+							 FilmWriter
+						[21]
+							 TVActor
+					[11:disambiguation:name]
+						 Michael Jackson
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michael_Jackson
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Philip Lawrence
+				[12:relevance]
+					 0.113117
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 Murder of Philip Lawrence
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Murder_of_Philip_Lawrence
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0.435228
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Elvis Presley
+				[13:relevance]
+					 0.111824
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 FilmCharacter
+						[2]
+							 MusicalArtist
+						[3]
+							 AwardWinner
+						[4]
+							 BroadcastArtist
+						[5]
+							 Celebrity
+						[6]
+							 Guitarist
+						[7]
+							 HallOfFameInductee
+						[8]
+							 MilitaryPerson
+						[9]
+							 MusicalGroupMember
+						[10]
+							 TheatricalComposer
+						[11]
+							 TheatricalLyricist
+						[12]
+							 FilmActor
+						[13]
+							 TVActor
+					[13:disambiguation:name]
+						 Elvis Presley
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elvis_Presley
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 MTV
+				[14:relevance]
+					 0.109896
+				[14:type]
+					 Broadcaster
+					[14:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Broadcast
+						[2]
+							 BroadcastContent
+						[3]
+							 Company
+						[4]
+							 AwardPresentingOrganization
+						[5]
+							 ProductionCompany
+						[6]
+							 TVNetwork
+						[7]
+							 AwardWinner
+						[8]
+							 TVProducer
+						[9]
+							 TelevisionStation
+					[14:disambiguation:name]
+						 MTV
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/MTV
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.451479
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Waikiki
+				[15:relevance]
+					 0.108763
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 -0.67185
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 Motown
+				[16:relevance]
+					 0.108039
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Atlantic Records
+				[17:relevance]
+					 0.104635
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+						[0]
+							 RecordLabel
+					[17:disambiguation:name]
+						 Atlantic Records
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_Records
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0.360328
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Cee-Lo Green
+				[18:relevance]
+					 0.101648
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Cee Lo Green
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cee_Lo_Green
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 -0.332824
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 Michael Chabon
+				[19:relevance]
+					 0.100872
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmWriter
+						[4]
+							 TVActor
+					[19:disambiguation:name]
+						 Michael Chabon
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michael_Chabon
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 K'Naan
+				[20:relevance]
+					 0.098984
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 MusicalGroupMember
+					[20:disambiguation:name]
+						 K'naan
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/K'naan
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Far East Movement
+				[21:relevance]
+					 0.098303
+				[21:type]
+					 Facility
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Ari Levine
+				[22:relevance]
+					 0.094974
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 -0.369517
+					[23:sentiment:label]
+						 negative
+				[23:text]
+					 Los Angeles
+				[23:relevance]
+					 0.094018
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 City
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 B.o.B
+				[24:relevance]
+					 0.093044
+				[24:type]
+					 MusicGroup
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 -0.275834
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 engineer
+				[25:relevance]
+					 0.09028
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Brandy
+				[26:relevance]
+					 0.089633
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 producer
+				[27:relevance]
+					 0.088982
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 official
+				[28:relevance]
+					 0.086476
+				[28:type]
+					 JobTitle
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Kevin Parker
+				[29:relevance]
+					 0.082492
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 three years
+				[30:relevance]
+					 0.082492
+				[30:type]
+					 Quantity
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 ten years
+				[31:relevance]
+					 0.082492
+				[31:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mark Ronson
+				[0:relevance]
+					 0.960455
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mark_Ronson
+				[1:text]
+					 Flo Rida
+				[1:relevance]
+					 0.955158
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Flo_Rida
+				[2:text]
+					 Album
+				[2:relevance]
+					 0.813457
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Album
+				[3:text]
+					 Nothin' on You
+				[3:relevance]
+					 0.798008
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Nothin'_on_You
+				[4:text]
+					 Single
+				[4:relevance]
+					 0.788257
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Single_(music)
+				[5:text]
+					 Release
+				[5:relevance]
+					 0.738358
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Release_(music)
+				[6:text]
+					 Theodore Roosevelt
+				[6:relevance]
+					 0.694948
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Theodore_Roosevelt
+				[7:text]
+					 Audience
+				[7:relevance]
+					 0.691882
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Audience
+		[:enriched_text:categories]
+				[0:score]
+					 0.981964
+				[0:label]
+					 /art and entertainment/music/recording industry/music awards
+				[1:score]
+					 0.820331
+				[1:label]
+					 /art and entertainment/music/music genres/pop music
+		[:metadata:docid]
+			 K1650007516
+		[:metadata:concepts]
+			[0]
+				 Mark Ronson
+			[1]
+				 Flo Rida
+			[2]
+				 Album
+			[3]
+				 Nothin' on You
+			[4]
+				 Single
+			[5]
+				 Release
+			[6]
+				 Theodore Roosevelt
+			[7]
+				 Audience
+			[8]
+				 Performance
+			[9]
+				 Motown
+		[:metadata:keywords]
+			[0]
+				 Bruno Mars
+			[1]
+				 Mars' music
+			[2]
+				 last name Mars
+			[3]
+				 second album
+			[4]
+				 high school diploma
+			[5]
+				 featured artist
+			[6]
+				 release of the album
+			[7]
+				 rapper Flo Rida
+			[8]
+				 American singer-songwriter
+			[9]
+				 President Theodore Roosevelt High School
+		[:metadata:entitites]
+			[0]
+				 Bruno Mars
+			[1]
+				 Travie McCoy
+			[2]
+				 Bruno Sammartino
+			[3]
+				 Flo Rida
+			[4]
+				 President Theodore Roosevelt High School
+			[5]
+				 Motown Records
+			[6]
+				 Mark Ronson
+			[7]
+				 Philip Lawrence
+			[8]
+				 Ari Levine
+			[9]
+				 Grammy Awards
+		[:metadata:title]
+			 Bruno Mars
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 26
+			[:metadata:gale:gale-fake-waiting]
+				 75
+		[:extracted_metadata:sha1]
+			 5f18b16b096d28c2f99a4e441cf1a3d77d36bbd2
+		[:extracted_metadata:filename]
+			 Bruno Mars.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 f21a223d-da8e-44ef-8aba-19b871b8ee85
+		[:result_metadata:confidence]
+			 0.10102605587017904
+		[:result_metadata:score]
+			 7.1255403
+	[:text]
+		 no title
+
+Terraforming is the process of altering a planet to make it more suitable for life (habitable). Usually this means making the plan[...]
+				[:enriched_text:sentiment:document:score]
+					 0.493725
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 13
+					[0:sentiment:score]
+						 -0.294364
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Earth
+				[0:relevance]
+					 0.54253
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 Region
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 chlorofluorocarbons
+				[1:relevance]
+					 0.16982
+				[1:type]
+					 Company
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 -0.553188
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 driest
+				[2:relevance]
+					 0.144272
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 Region
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 one hundred thousand years
+				[3:relevance]
+					 0.144272
+				[3:type]
+					 Quantity
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 one hundred million years
+				[4:relevance]
+					 0.144272
+				[4:type]
+					 Quantity
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 one hundred years
+				[5:relevance]
+					 0.144272
+				[5:type]
+					 Quantity
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 10,200 kilograms
+				[6:relevance]
+					 0.144272
+				[6:type]
+					 Quantity
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 eight meters
+				[7:relevance]
+					 0.144272
+				[7:type]
+					 Quantity
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 three feet
+				[8:relevance]
+					 0.144272
+				[8:type]
+					 Quantity
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 one meter
+				[9:relevance]
+					 0.144272
+				[9:type]
+					 Quantity
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 26 feet
+				[10:relevance]
+					 0.144272
+				[10:type]
+					 Quantity
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 140°C
+				[11:relevance]
+					 0.144272
+				[11:type]
+					 Quantity
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 220°F
+				[12:relevance]
+					 0.144272
+				[12:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Carbon dioxide
+				[0:relevance]
+					 0.944622
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Carbon_dioxide
+				[1:text]
+					 Oxygen
+				[1:relevance]
+					 0.938811
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+				[2:text]
+					 Mars
+				[2:relevance]
+					 0.880234
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars
+				[3:text]
+					 Life
+				[3:relevance]
+					 0.776106
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Life
+				[4:text]
+					 Water
+				[4:relevance]
+					 0.698964
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Water
+				[5:text]
+					 Atmosphere
+				[5:relevance]
+					 0.642184
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Atmosphere
+				[6:text]
+					 Earth
+				[6:relevance]
+					 0.505107
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Earth
+				[7:text]
+					 Sun
+				[7:relevance]
+					 0.498336
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Sun
+		[:enriched_text:categories]
+				[0:score]
+					 0.839242
+				[0:label]
+					 /business and industrial/energy
+				[1:score]
+					 0.771828
+				[1:label]
+					 /business and industrial/green solutions
+				[2:score]
+					 0.745248
+				[2:label]
+					 /science
+		[:metadata:docid]
+			 CV2643750279
+		[:metadata:concepts]
+			[0]
+				 Carbon dioxide
+			[1]
+				 Oxygen
+			[2]
+				 Mars
+			[3]
+				 Life
+			[4]
+				 Water
+			[5]
+				 Atmosphere
+			[6]
+				 Earth
+			[7]
+				 Sun
+			[8]
+				 Methane
+			[9]
+				 Planet
+		[:metadata:keywords]
+			[0]
+				 restoration of Mars
+			[1]
+				 enough carbon dioxide
+			[2]
+				 Earth life
+			[3]
+				 planet Mars
+			[4]
+				 habitable conditions
+			[5]
+				 Ecological Changes
+			[6]
+				 extreme environments
+			[7]
+				 possible candidates
+			[8]
+				 Mars
+			[9]
+				 first step
+		[:metadata:entitites]
+			[0]
+				 140°C
+			[1]
+				 220°F
+			[2]
+				 eight meters
+			[3]
+				 26 feet
+			[4]
+				 one meter
+			[5]
+				 10,200 kilograms
+			[6]
+				 arctic
+			[7]
+				 three feet
+			[8]
+				 one hundred thousand years
+			[9]
+				 one hundred million years
+		[:metadata:title]
+			 Terraforming
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 19
+			[:metadata:gale:gale-fake-waiting]
+				 0
+		[:extracted_metadata:sha1]
+			 f3373126df5e772776b2d78d3cf8a5c11578e01c
+		[:extracted_metadata:filename]
+			 Terraforming.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 2cdfa2f2-42da-49c9-8f27-c646d0f4d4a2
+		[:result_metadata:confidence]
+			 0.09859365250369533
+		[:result_metadata:score]
+			 7.1164722
+	[:text]
+		 no title
+
+Forrest Mars Jr. became co-owner of the Mars Incorporated candy and pet-food company in 1973, with his brother, John, when their f[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.259822
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 4
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Forrest Mars Sr.
+				[0:relevance]
+					 0.793212
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 CompanyFounder
+					[0:disambiguation:name]
+						 Forrest Mars, Sr.
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Forrest_Mars,_Sr.
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Forrest Mars Jr.
+				[1:relevance]
+					 0.634037
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Forrest Mars, Jr.
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Forrest_Mars,_Jr.
+				[2:count]
+					 7
+					[2:sentiment:score]
+						 -0.285085
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Mars
+				[2:relevance]
+					 0.578227
+				[2:type]
+					 Company
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 John Mars
+				[3:relevance]
+					 0.573934
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[3:disambiguation:name]
+						 John Franklyn Mars
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Franklyn_Mars
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Forrest Jr.
+				[4:relevance]
+					 0.482951
+				[4:type]
+					 Person
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Mars Incorporated
+				[5:relevance]
+					 0.377821
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+						[0]
+							 CandyBarManufacturer
+					[5:disambiguation:name]
+						 Mars, Incorporated
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mars,_Incorporated
+				[6:count]
+					 4
+					[6:sentiment:score]
+						 -0.644978
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Hershey
+				[6:relevance]
+					 0.314163
+				[6:type]
+					 Company
+				[7:count]
+					 4
+					[7:sentiment:score]
+						 0.331496
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Joel Glenn Brenner
+				[7:relevance]
+					 0.303134
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Glenn Brenner
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Glenn_Brenner
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.055798
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Forrest
+				[8:relevance]
+					 0.301044
+				[8:type]
+					 Person
+				[9:count]
+					 4
+					[9:sentiment:score]
+						 -0.600522
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 United States
+				[9:relevance]
+					 0.269478
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[9:disambiguation:name]
+						 United States
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Audrey
+				[10:relevance]
+					 0.228639
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Campbell Soup Company
+				[11:relevance]
+					 0.202708
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 Campbell Soup Company
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Campbell_Soup_Company
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Pricewaterhouse Coopers
+				[12:relevance]
+					 0.197088
+				[12:type]
+					 Company
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 PricewaterhouseCoopers
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/PricewaterhouseCoopers
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Congressman Albert W. Cretella
+				[13:relevance]
+					 0.196219
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryPerson
+						[2]
+							 U.S.Congressperson
+					[13:disambiguation:name]
+						 Albert W. Cretella
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Albert_W._Cretella
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 England
+				[14:relevance]
+					 0.195061
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[14:disambiguation:name]
+						 England
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Connecticut
+				[15:relevance]
+					 0.193026
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[15:disambiguation:name]
+						 Connecticut
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Connecticut
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 co-owner
+				[16:relevance]
+					 0.192234
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 -0.660021
+					[17:sentiment:label]
+						 negative
+				[17:text]
+					 Dove Bar International Incorporated
+				[17:relevance]
+					 0.184458
+				[17:type]
+					 Company
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Royal Canin
+				[18:relevance]
+					 0.183599
+				[18:type]
+					 Company
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Royal Canin
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Royal_Canin
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0.286069
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 Virginia Mae Cretella
+				[19:relevance]
+					 0.18321
+				[19:type]
+					 Facility
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 -0.555666
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Chicago
+				[20:relevance]
+					 0.181368
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 City
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 -0.401287
+					[21:sentiment:label]
+						 negative
+				[21:text]
+					 industry standard
+				[21:relevance]
+					 0.17853
+				[21:type]
+					 PrintMedia
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Lakeville
+				[22:relevance]
+					 0.177394
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 City
+					[22:disambiguation:name]
+						 Lakeville, Connecticut
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lakeville,_Connecticut
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Yale University
+				[23:relevance]
+					 0.174526
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 FieldOfStudy
+						[2]
+							 Company
+						[3]
+							 AcademicInstitution
+						[4]
+							 PeriodicalPublisher
+						[5]
+							 CollegeUniversity
+						[6]
+							 University
+					[23:disambiguation:name]
+						 Yale University
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yale_University
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Slough
+				[24:relevance]
+					 0.171989
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0.402737
+					[25:sentiment:label]
+						 positive
+				[25:text]
+					 Hotchkiss Prep School
+				[25:relevance]
+					 0.171302
+				[25:type]
+					 Organization
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Alfred Poe
+				[26:relevance]
+					 0.169624
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Europe
+				[27:relevance]
+					 0.169177
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[27:disambiguation:name]
+						 Europe
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 -0.555666
+					[28:sentiment:label]
+						 negative
+				[28:text]
+					 London
+				[28:relevance]
+					 0.165577
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 City
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 TheStreet.com
+				[29:relevance]
+					 0.165348
+				[29:type]
+					 Company
+					[29:disambiguation:subtype]
+						[0]
+							 Website
+					[29:disambiguation:name]
+						 TheStreet.com
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/TheStreet.com
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 editor
+				[30:relevance]
+					 0.163993
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0.510081
+					[31:sentiment:label]
+						 positive
+				[31:text]
+					 Katherine Hobson
+				[31:relevance]
+					 0.162047
+				[31:type]
+					 Person
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Super Nutrition Corporation
+				[32:relevance]
+					 0.15928
+				[32:type]
+					 Company
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 senior executive
+				[33:relevance]
+					 0.157058
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Almond Joy
+				[34:relevance]
+					 0.155619
+				[34:type]
+					 Person
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 the Netherlands
+				[35:relevance]
+					 0.154607
+				[35:type]
+					 Location
+					[35:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Kingdom
+						[4]
+							 Country
+					[35:disambiguation:name]
+						 Netherlands
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Netherlands
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 president
+				[36:relevance]
+					 0.153895
+				[36:type]
+					 JobTitle
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 -0.414178
+					[37:sentiment:label]
+						 negative
+				[37:text]
+					 Peter Paul/Cadbury
+				[37:relevance]
+					 0.152836
+				[37:type]
+					 Person
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 -0.660021
+					[38:sentiment:label]
+						 negative
+				[38:text]
+					 M&M
+				[38:relevance]
+					 0.149655
+				[38:type]
+					 Company
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 America
+				[39:relevance]
+					 0.14157
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 Continent
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 30 years
+				[40:relevance]
+					 0.14157
+				[40:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mars, Incorporated
+				[0:relevance]
+					 0.973044
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars,_Incorporated
+				[1:text]
+					 Mars family
+				[1:relevance]
+					 0.667513
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Mars_family
+				[2:text]
+					 Forrest Mars, Sr.
+				[2:relevance]
+					 0.55123
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Forrest_Mars,_Sr.
+				[3:text]
+					 M&M's
+				[3:relevance]
+					 0.540492
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/M&M's
+				[4:text]
+					 Franklin Clarence Mars
+				[4:relevance]
+					 0.526686
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Franklin_Clarence_Mars
+				[5:text]
+					 Candy bars
+				[5:relevance]
+					 0.484641
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Candy_bars
+				[6:text]
+					 Ice cream
+				[6:relevance]
+					 0.458022
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Ice_cream
+				[7:text]
+					 Candy
+				[7:relevance]
+					 0.454263
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Candy
+		[:enriched_text:categories]
+				[0:score]
+					 0.893919
+				[0:label]
+					 /food and drink/food/candy and sweets
+				[1:score]
+					 0.691196
+				[1:label]
+					 /business and industrial/business operations
+				[2:score]
+					 0.671738
+				[2:label]
+					 /business and industrial/business operations/business plans
+		[:metadata:docid]
+			 K1650003217
+		[:metadata:concepts]
+			[0]
+				 Mars, Incorporated
+			[1]
+				 Mars family
+			[2]
+				 Forrest Mars, Sr.
+			[3]
+				 M&M's
+			[4]
+				 Franklin Clarence Mars
+			[5]
+				 Candy bars
+			[6]
+				 Ice cream
+			[7]
+				 Candy
+			[8]
+				 1973 oil crisis
+			[9]
+				 Slough
+		[:metadata:keywords]
+			[0]
+				 Forrest Mars Jr.
+			[1]
+				 Forrest Mars Sr.
+			[2]
+				 pet-food company
+			[3]
+				 owner of the Mars
+			[4]
+				 Young Mars ranks
+			[5]
+				 rare letter
+			[6]
+				 archrival Hershey
+			[7]
+				 magazine editor
+			[8]
+				 richest people
+			[9]
+				 peanut butter
+		[:metadata:entitites]
+			[0]
+				 Forrest Mars Jr.
+			[1]
+				 Forrest Jr.
+			[2]
+				 Forrest Sr.
+			[3]
+				 Mars Incorporated candy and pet
+			[4]
+				 Forrest Mars Sr.
+			[5]
+				 Young Mars
+			[6]
+				 Price Waterhouse
+			[7]
+				 Joel Glenn Brenner
+			[8]
+				 Forrest Sr.
+			[9]
+				 Hotchkiss Prep School
+		[:metadata:title]
+			 Forrest Edward Mars, Jr.
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 0
+			[:metadata:gale:gale-fake-waiting]
+				 8
+		[:extracted_metadata:sha1]
+			 95974ec4953f209e8be5fc6afe8ad6eadeb6a4df
+		[:extracted_metadata:filename]
+			 Forrest Edward Mars, Jr..txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

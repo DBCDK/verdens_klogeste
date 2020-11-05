@@ -1,0 +1,4322 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 677adeaf-ce9d-48db-9ba0-bb9fcc147e75
+		[:result_metadata:confidence]
+			 0.16829345091082337
+		[:result_metadata:score]
+			 2.9384682
+	[:text]
+		 no title
+
+In the past several decades, scholars in literature, history, and print culture have attempted to historicize the definition of "a[...]
+				[:enriched_text:sentiment:document:score]
+					 0.463915
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 14
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 publisher
+				[0:relevance]
+					 0.755254
+				[0:type]
+					 JobTitle
+				[1:count]
+					 8
+					[1:sentiment:score]
+						 0.103366
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 writer
+				[1:relevance]
+					 0.617063
+				[1:type]
+					 JobTitle
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 -0.42521
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Anne Bradstreet
+				[2:relevance]
+					 0.5043
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Anne Bradstreet
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Anne_Bradstreet
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 England
+				[3:relevance]
+					 0.369745
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[3:disambiguation:name]
+						 England
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0.366141
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Association of American Authors
+				[4:relevance]
+					 0.365518
+				[4:type]
+					 Organization
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Noah Webster
+				[5:relevance]
+					 0.3631
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Noah Webster
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Noah_Webster
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Pierre Bourdieu
+				[6:relevance]
+					 0.356698
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[6:disambiguation:name]
+						 Pierre Bourdieu
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pierre_Bourdieu
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 North America
+				[7:relevance]
+					 0.350524
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 Continent
+					[7:disambiguation:name]
+						 North America
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_America
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0.304277
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 New York
+				[8:relevance]
+					 0.338831
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[8:disambiguation:name]
+						 New York City
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 James Fenimore Cooper
+				[9:relevance]
+					 0.338778
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 FilmWriter
+						[2]
+							 MilitaryPerson
+					[9:disambiguation:name]
+						 James Fenimore Cooper
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Fenimore_Cooper
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 James T. Fields
+				[10:relevance]
+					 0.33357
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 James Thomas Fields
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Thomas_Fields
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 America
+				[11:relevance]
+					 0.331814
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 Continent
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Authors League of America
+				[12:relevance]
+					 0.330005
+				[12:type]
+					 Organization
+				[13:count]
+					 3
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Roland Barthes
+				[13:relevance]
+					 0.328517
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[13:disambiguation:name]
+						 Roland Barthes
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Roland_Barthes
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 New England
+				[14:relevance]
+					 0.32446
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 Region
+					[14:disambiguation:name]
+						 New England
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_England
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Thomas Harriot
+				[15:relevance]
+					 0.321784
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 Scientist
+					[15:disambiguation:name]
+						 Thomas Harriot
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Thomas_Harriot
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 George Percy
+				[16:relevance]
+					 0.315102
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+					[16:disambiguation:name]
+						 George Percy
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_Percy
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Jürgen Habermas
+				[17:relevance]
+					 0.314647
+				[17:type]
+					 Person
+					[17:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Philosopher
+					[17:disambiguation:name]
+						 Jürgen Habermas
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jürgen_Habermas
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Fletcher Harper
+				[18:relevance]
+					 0.314544
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Fletcher Harper
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fletcher_Harper
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0.456928
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 Cotton Mather
+				[19:relevance]
+					 0.313572
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 Cotton Mather
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cotton_Mather
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 England
+				[20:relevance]
+					 0.308763
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[20:disambiguation:name]
+						 Kingdom of England
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kingdom_of_England
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Statute of Anne
+				[21:relevance]
+					 0.307629
+				[21:type]
+					 PrintMedia
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 New England
+				[22:relevance]
+					 0.305954
+				[22:type]
+					 PrintMedia
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 U.S. Congress
+				[23:relevance]
+					 0.305676
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[23:disambiguation:name]
+						 United States Congress
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Samuel Purchas
+				[24:relevance]
+					 0.305504
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+					[24:disambiguation:name]
+						 Samuel Purchas
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Samuel_Purchas
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Stephen King
+				[25:relevance]
+					 0.303314
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Writer
+						[2]
+							 AwardNominee
+						[3]
+							 AwardWinner
+						[4]
+							 CompanyFounder
+						[5]
+							 FilmDirector
+						[6]
+							 FilmProducer
+						[7]
+							 FilmWriter
+						[8]
+							 TVProducer
+						[9]
+							 TVWriter
+						[10]
+							 FilmActor
+						[11]
+							 TVActor
+					[25:disambiguation:name]
+						 Stephen King
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stephen_King
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Boston
+				[26:relevance]
+					 0.302662
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 City
+					[26:disambiguation:name]
+						 Boston
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Boston
+				[27:count]
+					 2
+					[27:sentiment:score]
+						 0.469317
+					[27:sentiment:label]
+						 positive
+				[27:text]
+					 Connecticut
+				[27:relevance]
+					 0.301709
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[27:disambiguation:name]
+						 Connecticut
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Connecticut
+				[28:count]
+					 2
+					[28:sentiment:score]
+						 -0.319742
+					[28:sentiment:label]
+						 negative
+				[28:text]
+					 John Usher
+				[28:relevance]
+					 0.298542
+				[28:type]
+					 Person
+					[28:disambiguation:subtype]
+					[28:disambiguation:name]
+						 John Usher (cricketer)
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Usher_(cricketer)
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Britain
+				[29:relevance]
+					 0.297639
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[29:disambiguation:name]
+						 Kingdom of Great Britain
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kingdom_of_Great_Britain
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 New England
+				[30:relevance]
+					 0.296451
+				[30:type]
+					 Facility
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Michael Warner
+				[31:relevance]
+					 0.29555
+				[31:type]
+					 Person
+					[31:disambiguation:subtype]
+					[31:disambiguation:name]
+						 Michael Warner
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michael_Warner
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Bowdoin College
+				[32:relevance]
+					 0.295287
+				[32:type]
+					 Organization
+					[32:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[32:disambiguation:name]
+						 Bowdoin College
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bowdoin_College
+				[33:count]
+					 2
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 General Court
+				[33:relevance]
+					 0.29479
+				[33:type]
+					 Organization
+				[34:count]
+					 2
+					[34:sentiment:score]
+						 0.343328
+					[34:sentiment:label]
+						 positive
+				[34:text]
+					 James M. Cain
+				[34:relevance]
+					 0.292654
+				[34:type]
+					 Person
+					[34:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardWinner
+						[2]
+							 FilmWriter
+					[34:disambiguation:name]
+						 James M. Cain
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_M._Cain
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Michel Foucault
+				[35:relevance]
+					 0.291781
+				[35:type]
+					 Person
+					[35:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[35:disambiguation:name]
+						 Michel Foucault
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michel_Foucault
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Delaware
+				[36:relevance]
+					 0.290948
+				[36:type]
+					 Location
+					[36:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[36:disambiguation:name]
+						 Delaware
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Delaware
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Harriet Beecher Stowe
+				[37:relevance]
+					 0.290472
+				[37:type]
+					 Person
+					[37:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 HallOfFameInductee
+					[37:disambiguation:name]
+						 Harriet Beecher Stowe
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harriet_Beecher_Stowe
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 New England
+				[38:relevance]
+					 0.287687
+				[38:type]
+					 Location
+					[38:disambiguation:subtype]
+						[0]
+							 City
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Nathaniel Hawthorne
+				[39:relevance]
+					 0.28689
+				[39:type]
+					 Person
+					[39:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 Dedicatee
+						[2]
+							 FilmWriter
+					[39:disambiguation:name]
+						 Nathaniel Hawthorne
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nathaniel_Hawthorne
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 United States Constitution
+				[40:relevance]
+					 0.284652
+				[40:type]
+					 Organization
+				[41:count]
+					 2
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 London
+				[41:relevance]
+					 0.284568
+				[41:type]
+					 Location
+					[41:disambiguation:subtype]
+						[0]
+							 City
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 Massachusetts
+				[42:relevance]
+					 0.284048
+				[42:type]
+					 Location
+					[42:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[42:disambiguation:name]
+						 Massachusetts
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Belletristic
+				[43:relevance]
+					 0.283526
+				[43:type]
+					 Person
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 U.S.
+				[44:relevance]
+					 0.282327
+				[44:type]
+					 Location
+					[44:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[44:disambiguation:name]
+						 United States
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[45:count]
+					 2
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 Ned Buntline
+				[45:relevance]
+					 0.282014
+				[45:type]
+					 Person
+					[45:disambiguation:subtype]
+					[45:disambiguation:name]
+						 Ned Buntline
+					[45:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ned_Buntline
+		[:enriched_text:concepts]
+				[0:text]
+					 Copyright
+				[0:relevance]
+					 0.977827
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright
+				[1:text]
+					 Statute of Anne
+				[1:relevance]
+					 0.681637
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Statute_of_Anne
+				[2:text]
+					 Publishing
+				[2:relevance]
+					 0.623014
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Publishing
+				[3:text]
+					 Property
+				[3:relevance]
+					 0.618794
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Property
+				[4:text]
+					 Author
+				[4:relevance]
+					 0.58954
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Author
+				[5:text]
+					 Copyright law
+				[5:relevance]
+					 0.578902
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright_law
+				[6:text]
+					 Writer
+				[6:relevance]
+					 0.538141
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Writer
+				[7:text]
+					 Public domain
+				[7:relevance]
+					 0.499248
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Public_domain
+		[:enriched_text:categories]
+				[0:score]
+					 0.866168
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.80942
+				[1:label]
+					 /art and entertainment/books and literature
+				[2:score]
+					 0.752192
+				[2:label]
+					 /society/unrest and war
+		[:metadata:docid]
+			 BT2350030153
+		[:metadata:concepts]
+			[0]
+				 Copyright
+			[1]
+				 Statute of Anne
+			[2]
+				 Publishing
+			[3]
+				 Property
+			[4]
+				 Author
+			[5]
+				 Copyright law
+			[6]
+				 Writer
+			[7]
+				 Public domain
+			[8]
+				 Royalties
+			[9]
+				 Copyright Act of 1790
+		[:metadata:keywords]
+			[0]
+				 modern definition of an author
+			[1]
+				 imaginative creator of literary work
+			[2]
+				 career of authors
+			[3]
+				 nineteenth century
+			[4]
+				 individual writers
+			[5]
+				 emergence of American copyright law
+			[6]
+				 American context
+			[7]
+				 state control
+			[8]
+				 such Book
+			[9]
+				 seventeenth-century New England
+		[:metadata:entitites]
+			[0]
+				 fourteen-year
+			[1]
+				 New England
+			[2]
+				 Anne
+			[3]
+				 Thomas Harriot
+			[4]
+				 George Percy
+			[5]
+				 Samuel Purchas
+			[6]
+				 America
+			[7]
+				 Anne Bradstreet
+			[8]
+				 Mary Rowlandson
+			[9]
+				 General Court
+		[:metadata:title]
+			 Authorship, Intellectual Property, and Copyright
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 32
+			[:metadata:gale:gale-fake-waiting]
+				 40
+		[:extracted_metadata:sha1]
+			 6db1270a4e93220760161cd3b2b5a0581fe16d49
+		[:extracted_metadata:filename]
+			 Authorship, Intellectual Property, and Copyright.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 ed9c6bbd-8be3-4a41-8d9f-5026d4b2afc1
+		[:result_metadata:confidence]
+			 0.13692516915815442
+		[:result_metadata:score]
+			 2.9242709
+	[:text]
+		 no title
+
+Amin Malak is a literature professor whose interests include comparative world literature; postcolonial theory and literature; and[...]
+				[:enriched_text:sentiment:document:score]
+					 0.499997
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 6
+					[0:sentiment:score]
+						 0.144489
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Amin Malak
+				[0:relevance]
+					 0.822821
+				[0:type]
+					 Person
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Che Husna Azhari
+				[1:relevance]
+					 0.329792
+				[1:type]
+					 Facility
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Salman Rushdie
+				[2:relevance]
+					 0.314801
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 Dedicatee
+						[4]
+							 Dedicator
+					[2:disambiguation:name]
+						 Salman Rushdie
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Salman_Rushdie
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Ahdaf Soueif
+				[3:relevance]
+					 0.272832
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Rokeya Sakhawat Hossain
+				[4:relevance]
+					 0.223457
+				[4:type]
+					 Person
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Zaynab Alkali
+				[5:relevance]
+					 0.21911
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Zaynab Alkali
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Zaynab_Alkali
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Adib Khan
+				[6:relevance]
+					 0.21524
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Adib Khan
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Adib_Khan
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 professor
+				[7:relevance]
+					 0.204304
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Nuruddin Farah
+				[8:relevance]
+					 0.195191
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+					[8:disambiguation:name]
+						 Nuruddin Farah
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nuruddin_Farah
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Ahmed Ali
+				[9:relevance]
+					 0.194075
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Ahmed Ali Kamel
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ahmed_Ali_Kamel
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Farhana Sheikh
+				[10:relevance]
+					 0.193993
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Nigeria
+				[11:relevance]
+					 0.18452
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[11:disambiguation:name]
+						 Nigeria
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nigeria
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Pakistan
+				[12:relevance]
+					 0.179772
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[12:disambiguation:name]
+						 Pakistan
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pakistan
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Malaysia
+				[13:relevance]
+					 0.179178
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[13:disambiguation:name]
+						 Malaysia
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Malaysia
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Egypt
+				[14:relevance]
+					 0.179155
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 CityTown
+						[2]
+							 Country
+					[14:disambiguation:name]
+						 Egypt
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Egypt
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Abdelrazak Gurnah
+				[15:relevance]
+					 0.161776
+				[15:type]
+					 Person
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Writing
+				[16:relevance]
+					 0.152707
+				[16:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Postcolonial literature
+				[0:relevance]
+					 0.969737
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Postcolonial_literature
+				[1:text]
+					 Novel
+				[1:relevance]
+					 0.626496
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Novel
+				[2:text]
+					 Writing
+				[2:relevance]
+					 0.60115
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Writing
+				[3:text]
+					 Fiction
+				[3:relevance]
+					 0.542165
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Fiction
+				[4:text]
+					 Neocolonialism
+				[4:relevance]
+					 0.508086
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Neocolonialism
+				[5:text]
+					 Salman Rushdie
+				[5:relevance]
+					 0.470863
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Salman_Rushdie
+				[6:text]
+					 Writer
+				[6:relevance]
+					 0.464033
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Writer
+				[7:text]
+					 Colonialism
+				[7:relevance]
+					 0.463531
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Colonialism
+		[:enriched_text:categories]
+				[0:score]
+					 0.979993
+				[0:label]
+					 /religion and spirituality/islam
+				[1:score]
+					 0.883345
+				[1:label]
+					 /art and entertainment/books and literature
+		[:metadata:docid]
+			 H1000186242
+		[:metadata:concepts]
+			[0]
+				 Postcolonial literature
+			[1]
+				 Novel
+			[2]
+				 Writing
+			[3]
+				 Fiction
+			[4]
+				 Neocolonialism
+			[5]
+				 Salman Rushdie
+			[6]
+				 Colonialism
+			[7]
+				 Writer
+			[8]
+				 Postcolonialism
+			[9]
+				 English language
+		[:metadata:keywords]
+			[0]
+				 works of a wide range of authors
+			[1]
+				 topic of his first book
+			[2]
+				 Amin Malak
+			[3]
+				 Muslim cultural discourse
+			[4]
+				 examples of Muslim narratives
+			[5]
+				 author focuses
+			[6]
+				 Salman Rushdie
+			[7]
+				 Rushdie's controversial novel Writing
+			[8]
+				 Ahdaf Soueif
+			[9]
+				 writings of Muslim women
+		[:metadata:entitites]
+			[0]
+				 Malak
+			[1]
+				 Ahdaf Soueif
+			[2]
+				 Che Husna Azhari
+			[3]
+				 Amin Malak
+			[4]
+				 Abdelrazak Gurnah
+			[5]
+				 Nuruddin Farah
+			[6]
+				 Adib Khan
+			[7]
+				 Ahmed Ali
+			[8]
+				 Farhana Sheikh
+			[9]
+				 Zaynab Alkali
+		[:metadata:title]
+			 Amin Malak
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 48
+			[:metadata:gale:gale-fake-waiting]
+				 58
+		[:extracted_metadata:sha1]
+			 a38c0800eeab094a17c4dfe2423ac5ec2070abb4
+		[:extracted_metadata:filename]
+			 Amin Malak.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 279c848f-4b38-4e7b-9f63-6b92adf530b9
+		[:result_metadata:confidence]
+			 0.135088229074536
+		[:result_metadata:score]
+			 2.9234395
+	[:text]
+		 no title
+
+WILLIAM MURRAY MANSFIELD (1705-1793), a British jurist and member of the House of Lords who argued for copyright protection and mo[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.332582
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 4
+					[0:sentiment:score]
+						 -0.879478
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Copyright Office
+				[0:relevance]
+					 0.57902
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[0:disambiguation:name]
+						 United States Copyright Office
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Copyright_Office
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 -0.327875
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 publisher
+				[1:relevance]
+					 0.34471
+				[1:type]
+					 JobTitle
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 -0.440133
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Statute of Anne
+				[2:relevance]
+					 0.27703
+				[2:type]
+					 PrintMedia
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Congress
+				[3:relevance]
+					 0.272301
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[3:disambiguation:name]
+						 United States Congress
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 -0.391598
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Anne
+				[4:relevance]
+					 0.257445
+				[4:type]
+					 Person
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 England
+				[5:relevance]
+					 0.244902
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[5:disambiguation:name]
+						 England
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 United States
+				[6:relevance]
+					 0.236317
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[6:disambiguation:name]
+						 United States
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 WILLIAM MURRAY MANSFIELD
+				[7:relevance]
+					 0.232229
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Chancellor
+					[7:disambiguation:name]
+						 William Murray, 1st Earl of Mansfield
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Murray,_1st_Earl_of_Mansfield
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 OLIVER WENDELL HOLMES
+				[8:relevance]
+					 0.226109
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Judge
+						[2]
+							 MilitaryPerson
+					[8:disambiguation:name]
+						 Oliver Wendell Holmes, Jr.
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Oliver_Wendell_Holmes,_Jr.
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 British Parliament
+				[9:relevance]
+					 0.222187
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[9:disambiguation:name]
+						 Parliament of the United Kingdom
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 House of Lords
+				[10:relevance]
+					 0.221121
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[10:disambiguation:name]
+						 House of Lords
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/House_of_Lords
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Europe
+				[11:relevance]
+					 0.22096
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[11:disambiguation:name]
+						 Europe
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Parliament
+				[12:relevance]
+					 0.210079
+				[12:type]
+					 Organization
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 JOSEPH
+				[13:relevance]
+					 0.201642
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 JR.
+				[14:relevance]
+					 0.200244
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 England
+				[15:relevance]
+					 0.195303
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[15:disambiguation:name]
+						 Kingdom of England
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kingdom_of_England
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Library of Congress
+				[16:relevance]
+					 0.190191
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 Building
+						[4]
+							 GovernmentAgency
+						[5]
+							 SoftwareDeveloper
+					[16:disambiguation:name]
+						 Library of Congress
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Library_of_Congress
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 District of Columbia
+				[17:relevance]
+					 0.181123
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MilitaryPost
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 CityTown
+					[17:disambiguation:name]
+						 Washington, D.C.
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Washington
+				[18:relevance]
+					 0.171836
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 twenty-eight years
+				[19:relevance]
+					 0.171836
+				[19:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Copyright
+				[0:relevance]
+					 0.974721
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright
+				[1:text]
+					 Copyright infringement
+				[1:relevance]
+					 0.716024
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright_infringement
+				[2:text]
+					 Property
+				[2:relevance]
+					 0.715064
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Property
+				[3:text]
+					 Copyright law
+				[3:relevance]
+					 0.585099
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright_law
+				[4:text]
+					 Law
+				[4:relevance]
+					 0.567975
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[5:text]
+					 Common law
+				[5:relevance]
+					 0.561786
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[6:text]
+					 United States copyright law
+				[6:relevance]
+					 0.558668
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_copyright_law
+				[7:text]
+					 Fair use
+				[7:relevance]
+					 0.495269
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fair_use
+		[:enriched_text:categories]
+				[0:score]
+					 0.925752
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.839731
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.760505
+				[2:label]
+					 /law, govt and politics/government/government contracting and procurement
+		[:metadata:docid]
+			 BT2104241330
+		[:metadata:concepts]
+			[0]
+				 Copyright
+			[1]
+				 Copyright infringement
+			[2]
+				 Property
+			[3]
+				 Copyright law
+			[4]
+				 Law
+			[5]
+				 Common law
+			[6]
+				 United States copyright law
+			[7]
+				 Fair use
+			[8]
+				 Statutory law
+			[9]
+				 Printing press
+		[:metadata:keywords]
+			[0]
+				 copyright law
+			[1]
+				 nature of originality of works
+			[2]
+				 copyright protection
+			[3]
+				 authors JOSEPH STORY
+			[4]
+				 statutory law
+			[5]
+				 Common law
+			[6]
+				 creators of original works
+			[7]
+				 future definitions of copyright infringement
+			[8]
+				 exclusive right
+			[9]
+				 unwritten law
+		[:metadata:entitites]
+			[0]
+				 Stationers' Company
+			[1]
+				 WILLIAM MURRAY MANSFIELD
+			[2]
+				 OLIVER WENDELL HOLMES, JR.
+			[3]
+				 Copyright Office
+			[4]
+				 Stationers
+			[5]
+				 Anne
+			[6]
+				 JOSEPH STORY
+			[7]
+				 Stationers' monopoly
+			[8]
+				 Congress
+			[9]
+				 House of Lords
+		[:metadata:title]
+			 Copyright Law Updated in 1909, March 4, 1909
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 26
+			[:metadata:gale:gale-fake-waiting]
+				 64
+		[:extracted_metadata:sha1]
+			 e47ea620c71fb3b5b572a1601cfea682b89a903a
+		[:extracted_metadata:filename]
+			 Copyright Law Updated in 1909, March 4, 1909.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 a6ce17b5-29ac-40db-892f-8ca567d02907
+		[:result_metadata:confidence]
+			 0.135088229074536
+		[:result_metadata:score]
+			 2.9234395
+	[:text]
+		 no title
+
+WILLIAM MURRAY MANSFIELD (1705-1793), a British jurist and member of the House of Lords who argued for copyright protection and mo[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.332582
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 4
+					[0:sentiment:score]
+						 -0.879478
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Copyright Office
+				[0:relevance]
+					 0.57902
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[0:disambiguation:name]
+						 United States Copyright Office
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Copyright_Office
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 -0.327875
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 publisher
+				[1:relevance]
+					 0.34471
+				[1:type]
+					 JobTitle
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 -0.440133
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Statute of Anne
+				[2:relevance]
+					 0.27703
+				[2:type]
+					 PrintMedia
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Congress
+				[3:relevance]
+					 0.272301
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[3:disambiguation:name]
+						 United States Congress
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 -0.391598
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Anne
+				[4:relevance]
+					 0.257445
+				[4:type]
+					 Person
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 England
+				[5:relevance]
+					 0.244902
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[5:disambiguation:name]
+						 England
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 United States
+				[6:relevance]
+					 0.236317
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[6:disambiguation:name]
+						 United States
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 WILLIAM MURRAY MANSFIELD
+				[7:relevance]
+					 0.232229
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Chancellor
+					[7:disambiguation:name]
+						 William Murray, 1st Earl of Mansfield
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Murray,_1st_Earl_of_Mansfield
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 OLIVER WENDELL HOLMES
+				[8:relevance]
+					 0.226109
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Judge
+						[2]
+							 MilitaryPerson
+					[8:disambiguation:name]
+						 Oliver Wendell Holmes, Jr.
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Oliver_Wendell_Holmes,_Jr.
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 British Parliament
+				[9:relevance]
+					 0.222187
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[9:disambiguation:name]
+						 Parliament of the United Kingdom
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 House of Lords
+				[10:relevance]
+					 0.221121
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[10:disambiguation:name]
+						 House of Lords
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/House_of_Lords
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Europe
+				[11:relevance]
+					 0.22096
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[11:disambiguation:name]
+						 Europe
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Parliament
+				[12:relevance]
+					 0.210079
+				[12:type]
+					 Organization
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 JOSEPH
+				[13:relevance]
+					 0.201642
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 JR.
+				[14:relevance]
+					 0.200244
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 England
+				[15:relevance]
+					 0.195303
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[15:disambiguation:name]
+						 Kingdom of England
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kingdom_of_England
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Library of Congress
+				[16:relevance]
+					 0.190191
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 Building
+						[4]
+							 GovernmentAgency
+						[5]
+							 SoftwareDeveloper
+					[16:disambiguation:name]
+						 Library of Congress
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Library_of_Congress
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 District of Columbia
+				[17:relevance]
+					 0.181123
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MilitaryPost
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 CityTown
+					[17:disambiguation:name]
+						 Washington, D.C.
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Washington
+				[18:relevance]
+					 0.171836
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 twenty-eight years
+				[19:relevance]
+					 0.171836
+				[19:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Copyright
+				[0:relevance]
+					 0.974721
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright
+				[1:text]
+					 Copyright infringement
+				[1:relevance]
+					 0.716024
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright_infringement
+				[2:text]
+					 Property
+				[2:relevance]
+					 0.715064
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Property
+				[3:text]
+					 Copyright law
+				[3:relevance]
+					 0.585099
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Copyright_law
+				[4:text]
+					 Law
+				[4:relevance]
+					 0.567975
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[5:text]
+					 Common law
+				[5:relevance]
+					 0.561786
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[6:text]
+					 United States copyright law
+				[6:relevance]
+					 0.558668
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_copyright_law
+				[7:text]
+					 Fair use
+				[7:relevance]
+					 0.495269
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fair_use
+		[:enriched_text:categories]
+				[0:score]
+					 0.925752
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.839731
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.760505
+				[2:label]
+					 /law, govt and politics/government/government contracting and procurement
+		[:metadata:docid]
+			 EJ2104241330
+		[:metadata:concepts]
+			[0]
+				 Copyright
+			[1]
+				 Copyright infringement
+			[2]
+				 Property
+			[3]
+				 Copyright law
+			[4]
+				 Law
+			[5]
+				 Common law
+			[6]
+				 United States copyright law
+			[7]
+				 Fair use
+			[8]
+				 Statutory law
+			[9]
+				 Printing press
+		[:metadata:keywords]
+			[0]
+				 copyright law
+			[1]
+				 nature of originality of works
+			[2]
+				 copyright protection
+			[3]
+				 authors JOSEPH STORY
+			[4]
+				 statutory law
+			[5]
+				 Common law
+			[6]
+				 creators of original works
+			[7]
+				 future definitions of copyright infringement
+			[8]
+				 exclusive right
+			[9]
+				 unwritten law
+		[:metadata:entitites]
+			[0]
+				 Stationers' Company
+			[1]
+				 WILLIAM MURRAY MANSFIELD
+			[2]
+				 OLIVER WENDELL HOLMES, JR.
+			[3]
+				 Copyright Office
+			[4]
+				 Stationers
+			[5]
+				 Anne
+			[6]
+				 JOSEPH STORY
+			[7]
+				 Stationers' monopoly
+			[8]
+				 Congress
+			[9]
+				 House of Lords
+		[:metadata:title]
+			 Copyright Law Updated in 1909, March 4, 1909
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 55
+			[:metadata:gale:gale-fake-waiting]
+				 11
+		[:extracted_metadata:sha1]
+			 e47ea620c71fb3b5b572a1601cfea682b89a903a
+		[:extracted_metadata:filename]
+			 Copyright Law Updated in 1909, March 4, 1909.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 be6a1225-7b3a-43a6-8112-c6c14de63380
+		[:result_metadata:confidence]
+			 0.12323008927566045
+		[:result_metadata:score]
+			 2.9180725
+	[:text]
+		 no title
+
+Ava Seave is a cofounder and a principal of Quantum Media, a consulting firm that focuses on marketing and strategic planning for [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.337539
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Quantum Media
+				[0:relevance]
+					 0.297344
+				[0:type]
+					 Company
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Ava Seave
+				[1:relevance]
+					 0.267819
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0.666954
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 marketing and strategic planning
+				[2:relevance]
+					 0.173386
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 -0.482737
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Wayne Hurlbert
+				[3:relevance]
+					 0.169505
+				[3:type]
+					 Person
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Microsoft
+				[4:relevance]
+					 0.157771
+				[4:type]
+					 Company
+					[4:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 VentureFundedCompany
+						[4]
+							 VideoGameDeveloper
+						[5]
+							 VideoGamePublisher
+						[6]
+							 ProgrammingLanguageDesigner
+					[4:disambiguation:name]
+						 Microsoft
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Microsoft
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 CEO
+				[5:relevance]
+					 0.157247
+				[5:type]
+					 JobTitle
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 principal
+				[6:relevance]
+					 0.156668
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 YouTube
+				[7:relevance]
+					 0.154501
+				[7:type]
+					 Company
+					[7:disambiguation:subtype]
+						[0]
+							 Website
+						[1]
+							 BroadcastDistributor
+						[2]
+							 FilmDistributor
+						[3]
+							 VentureFundedCompany
+						[4]
+							 AwardWinner
+					[7:disambiguation:name]
+						 YouTube
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/YouTube
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.353458
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Bruce C. Greenwald
+				[8:relevance]
+					 0.153026
+				[8:type]
+					 Person
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Google
+				[9:relevance]
+					 0.15182
+				[9:type]
+					 Company
+					[9:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 AwardPresentingOrganization
+						[2]
+							 OperatingSystemDeveloper
+						[3]
+							 ProgrammingLanguageDeveloper
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 VentureFundedCompany
+					[9:disambiguation:name]
+						 Google
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Google
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 1995-2005
+				[10:relevance]
+					 0.151798
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Mary Whaley
+				[11:relevance]
+					 0.146616
+				[11:type]
+					 Person
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 -0.353458
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 Jonathan A. Knee
+				[12:relevance]
+					 0.1435
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 200 billion dollars
+				[13:relevance]
+					 0.138049
+				[13:type]
+					 Quantity
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 nine percent
+				[14:relevance]
+					 0.138049
+				[14:type]
+					 Quantity
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 2.5 percent
+				[15:relevance]
+					 0.138049
+				[15:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mass media
+				[0:relevance]
+					 0.967495
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mass_media
+				[1:text]
+					 Strategic management
+				[1:relevance]
+					 0.659608
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Strategic_management
+				[2:text]
+					 Advertising
+				[2:relevance]
+					 0.656976
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Advertising
+				[3:text]
+					 News media
+				[3:relevance]
+					 0.596931
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/News_media
+				[4:text]
+					 Journalism
+				[4:relevance]
+					 0.58828
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Journalism
+				[5:text]
+					 Art
+				[5:relevance]
+					 0.586548
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Art
+				[6:text]
+					 Media
+				[6:relevance]
+					 0.58396
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Media_(communication)
+				[7:text]
+					 Marshall McLuhan
+				[7:relevance]
+					 0.559145
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Marshall_McLuhan
+		[:enriched_text:categories]
+				[0:score]
+					 0.949588
+				[0:label]
+					 /finance/financial news
+				[1:score]
+					 0.871346
+				[1:label]
+					 /business and industrial/business operations
+				[2:score]
+					 0.869076
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 H1000199661
+		[:metadata:concepts]
+			[0]
+				 Mass media
+			[1]
+				 Strategic management
+			[2]
+				 Advertising
+			[3]
+				 News media
+			[4]
+				 Journalism
+			[5]
+				 Art
+			[6]
+				 Media
+			[7]
+				 Marshall McLuhan
+			[8]
+				 Publishing
+			[9]
+				 Mythology
+		[:metadata:keywords]
+			[0]
+				 principal of Quantum Media
+			[1]
+				 review of The authors
+			[2]
+				 various media companies
+			[3]
+				 current crisis
+			[4]
+				 author
+			[5]
+				 media moguls
+			[6]
+				 Ava Seave
+			[7]
+				 major media corporations
+			[8]
+				 various products
+			[9]
+				 Jonathan A. Knee
+		[:metadata:entitites]
+			[0]
+				 Ava Seave
+			[1]
+				 Quantum Media
+			[2]
+				 Jonathan A. Knee
+			[3]
+				 Bruce C. Greenwald
+			[4]
+				 "The authors
+			[5]
+				 Wayne Hurlbert
+			[6]
+				 200 billion dollars
+			[7]
+				 2.5 percent
+			[8]
+				 Seave
+			[9]
+				 nine percent
+		[:metadata:title]
+			 Ava Seave
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 87
+			[:metadata:gale:gale-fake-waiting]
+				 64
+		[:extracted_metadata:sha1]
+			 f8e9f10c4e767544c21243cff422deaac876b169
+		[:extracted_metadata:filename]
+			 Ava Seave.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 bc046210-4dba-4cd6-bc39-57645197808f
+		[:result_metadata:confidence]
+			 0.11640552765636364
+		[:result_metadata:score]
+			 2.9149837
+	[:text]
+		 no title
+
+Mary Ting Yi Lui is a historian whose research interests include Asian American history, urban history, women and gender studies, [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.540304
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 9
+					[0:sentiment:score]
+						 -0.385727
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 murder
+				[0:relevance]
+					 0.814162
+				[0:type]
+					 Crime
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 -0.397833
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 New York City
+				[1:relevance]
+					 0.59603
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[1:disambiguation:name]
+						 New York City
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 -0.336864
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Sigel
+				[2:relevance]
+					 0.563498
+				[2:type]
+					 Person
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 -0.39669
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Mary Ting Yi Lui
+				[3:relevance]
+					 0.414046
+				[3:type]
+					 Person
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 -0.37955
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Ling
+				[4:relevance]
+					 0.278108
+				[4:type]
+					 Person
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 assault
+				[5:relevance]
+					 0.205559
+				[5:type]
+					 Crime
+		[:enriched_text:concepts]
+				[0:text]
+					 Chinese American
+				[0:relevance]
+					 0.976073
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Chinese_American
+				[1:text]
+					 New York City
+				[1:relevance]
+					 0.846257
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/New_York_City
+				[2:text]
+					 United States
+				[2:relevance]
+					 0.824677
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[3:text]
+					 Overseas Chinese
+				[3:relevance]
+					 0.755537
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Overseas_Chinese
+				[4:text]
+					 Asian American
+				[4:relevance]
+					 0.635948
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Asian_American
+				[5:text]
+					 Chinese American history
+				[5:relevance]
+					 0.594257
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Chinese_American_history
+				[6:text]
+					 New Jersey
+				[6:relevance]
+					 0.52798
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/New_Jersey
+				[7:text]
+					 Chicago
+				[7:relevance]
+					 0.501385
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Chicago
+		[:enriched_text:categories]
+				[0:score]
+					 0.888891
+				[0:label]
+					 /society
+				[1:score]
+					 0.845921
+				[1:label]
+					 /society/crime/personal offense/homicide
+				[2:score]
+					 0.834528
+				[2:label]
+					 /society/racism
+		[:metadata:docid]
+			 H1000182676
+		[:metadata:concepts]
+			[0]
+				 Chinese American
+			[1]
+				 New York City
+			[2]
+				 United States
+			[3]
+				 Overseas Chinese
+			[4]
+				 Asian American
+			[5]
+				 Chinese American history
+			[6]
+				 New Jersey
+			[7]
+				 Chicago
+			[8]
+				 Immigration to the United States
+			[9]
+				 Han Chinese
+		[:metadata:keywords]
+			[0]
+				 New York City
+			[1]
+				 Sigel's unsolved murder
+			[2]
+				 city's Chinese immigrant population
+			[3]
+				 social context
+			[4]
+				 coverage of the Sigel murder investigation
+			[5]
+				 Mary Ting Yi Lui
+			[6]
+				 author
+			[7]
+				 Chinese immigrants
+			[8]
+				 newspaper articles
+			[9]
+				 media coverage
+		[:metadata:entitites]
+			[0]
+				 Sigel
+			[1]
+				 Mary Ting Yi Lui
+			[2]
+				 New York City
+			[3]
+				 Ling
+			[4]
+				 Lui
+			[5]
+				 New York
+		[:metadata:title]
+			 Mary Ting Yi Lui
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 95
+			[:metadata:gale:gale-fake-waiting]
+				 69
+		[:extracted_metadata:sha1]
+			 edcd13e373b64d7edd908723cf02dd28482ce9e9
+		[:extracted_metadata:filename]
+			 Mary Ting Yi Lui.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 d026e33a-fd3c-449c-ad2d-717763513ffc
+		[:result_metadata:confidence]
+			 0.11632444069332705
+		[:result_metadata:score]
+			 2.914947
+	[:text]
+		 no title
+
+Marcy L. North is a professor of English at Pennsylvania State University. Her special areas of interest include the history of th[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.340348
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 8
+					[0:sentiment:score]
+						 -0.062221
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Marcy L. North
+				[0:relevance]
+					 0.818485
+				[0:type]
+					 Person
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Pennsylvania State University
+				[1:relevance]
+					 0.373158
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 FootballTeam
+						[3]
+							 University
+					[1:disambiguation:name]
+						 Pennsylvania State University
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pennsylvania_State_University
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 professor of English
+				[2:relevance]
+					 0.333677
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Martin Marprelate
+				[3:relevance]
+					 0.332267
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Martin Marprelate
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Martin_Marprelate
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0.372844
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 England
+				[4:relevance]
+					 0.302933
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Country
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 -0.515765
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 writer
+				[5:relevance]
+					 0.292451
+				[5:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Literature
+				[0:relevance]
+					 0.978039
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Literature
+				[1:text]
+					 Writer
+				[1:relevance]
+					 0.877158
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Writer
+				[2:text]
+					 Anonymous
+				[2:relevance]
+					 0.773595
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Anonymous
+				[3:text]
+					 Middle Ages
+				[3:relevance]
+					 0.734498
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Middle_Ages
+				[4:text]
+					 Publishing
+				[4:relevance]
+					 0.701566
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Publishing
+				[5:text]
+					 Author
+				[5:relevance]
+					 0.693337
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Author
+				[6:text]
+					 Anonymous work
+				[6:relevance]
+					 0.644033
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Anonymous_work
+				[7:text]
+					 Pseudonymity
+				[7:relevance]
+					 0.625822
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Pseudonymity
+		[:enriched_text:categories]
+				[0:score]
+					 0.931502
+				[0:label]
+					 /art and entertainment/books and literature
+				[1:score]
+					 0.804799
+				[1:label]
+					 /art and entertainment/books and literature/poetry
+				[2:score]
+					 0.687003
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 H1000183107
+		[:metadata:concepts]
+			[0]
+				 Literature
+			[1]
+				 Writer
+			[2]
+				 Anonymous
+			[3]
+				 Middle Ages
+			[4]
+				 Publishing
+			[5]
+				 Author
+			[6]
+				 Anonymous work
+			[7]
+				 Pseudonymity
+			[8]
+				 Renaissance
+			[9]
+				 Anonymous works
+		[:metadata:keywords]
+			[0]
+				 anonymous authors of famous pieces
+			[1]
+				 Marcy L. North
+			[2]
+				 history of the book
+			[3]
+				 Protestant religious controversies
+			[4]
+				 anonymous work
+			[5]
+				 special areas of interest
+			[6]
+				 use of anonymity
+			[7]
+				 reasons authors
+			[8]
+				 scope of her book
+			[9]
+				 early modern poetry
+		[:metadata:entitites]
+			[0]
+				 Marcy L. North
+			[1]
+				 Pennsylvania State University
+			[2]
+				 Stuart
+			[3]
+				 England
+			[4]
+				 Martin Marprelate
+			[5]
+				 North
+		[:metadata:title]
+			 Marcy L. North
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 24
+			[:metadata:gale:gale-fake-waiting]
+				 94
+		[:extracted_metadata:sha1]
+			 700e818fc2831210ff048e260b164487cc33598a
+		[:extracted_metadata:filename]
+			 Marcy L. North.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 92a959fb-4c07-4696-9a00-9ab790137d06
+		[:result_metadata:confidence]
+			 0.11420469049339359
+		[:result_metadata:score]
+			 2.9139876
+	[:text]
+		 no title
+
+Susan R. Garrett is a theologian whose scholarly work focuses on the Gospels and how they reflect the worldview. She is interested[...]
+				[:enriched_text:sentiment:document:score]
+					 0.466298
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 4
+					[0:sentiment:score]
+						 -0.421033
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Susan R. Garrett
+				[0:relevance]
+					 0.814926
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 -0.492144
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Bible
+				[1:relevance]
+					 0.676214
+				[1:type]
+					 Organization
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0.271874
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Amy Plantinga Pauw
+				[2:relevance]
+					 0.395667
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Sam Wells
+				[3:relevance]
+					 0.356593
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Sam Wells
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sam_Wells
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.492144
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Trudy Bush
+				[4:relevance]
+					 0.350893
+				[4:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 God
+				[0:relevance]
+					 0.983424
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/God
+				[1:text]
+					 Judaism
+				[1:relevance]
+					 0.758761
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Judaism
+				[2:text]
+					 Bible
+				[2:relevance]
+					 0.739234
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Bible
+				[3:text]
+					 Angel
+				[3:relevance]
+					 0.683732
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Angel
+				[4:text]
+					 Religion
+				[4:relevance]
+					 0.643175
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Religion
+				[5:text]
+					 Jesus
+				[5:relevance]
+					 0.618901
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Jesus
+				[6:text]
+					 Theology
+				[6:relevance]
+					 0.594118
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Theology
+				[7:text]
+					 Supernatural
+				[7:relevance]
+					 0.572482
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Supernatural
+		[:enriched_text:categories]
+				[0:score]
+					 0.905475
+				[0:label]
+					 /religion and spirituality/christianity
+				[1:score]
+					 0.678862
+				[1:label]
+					 /religion and spirituality/judaism
+				[2:score]
+					 0.659246
+				[2:label]
+					 /religion and spirituality/christianity/orthodoxy
+		[:metadata:docid]
+			 H1000195346
+		[:metadata:concepts]
+			[0]
+				 God
+			[1]
+				 Judaism
+			[2]
+				 Bible
+			[3]
+				 Angel
+			[4]
+				 Religion
+			[5]
+				 Jesus
+			[6]
+				 Theology
+			[7]
+				 Supernatural
+			[8]
+				 Ontology
+			[9]
+				 New Testament
+		[:metadata:keywords]
+			[0]
+				 theology of biblical authors
+			[1]
+				 contemporary view of angels
+			[2]
+				 book Garrett
+			[3]
+				 Susan R. Garrett
+			[4]
+				 Biblical stories
+			[5]
+				 vantage points
+			[6]
+				 author notes
+			[7]
+				 God's likeness
+			[8]
+				 wide diversity of angels
+			[9]
+				 inner workings of the modern accounts
+		[:metadata:entitites]
+			[0]
+				 Susan R. Garrett
+			[1]
+				 Amy Plantinga Pauw
+			[2]
+				 Trudy Bush
+			[3]
+				 Garrett
+			[4]
+				 Bible
+			[5]
+				 Sam Wells
+		[:metadata:title]
+			 Susan R. Garrett
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 64
+			[:metadata:gale:gale-fake-waiting]
+				 29
+		[:extracted_metadata:sha1]
+			 b1297f365c86af02168c4f2006704086e7fae5c1
+		[:extracted_metadata:filename]
+			 Susan R. Garrett.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 cb7e9f53-cfbb-41b9-b028-d854515ae4ef
+		[:result_metadata:confidence]
+			 0.09213246564212046
+		[:result_metadata:score]
+			 2.9039977
+	[:text]
+		 no title
+
+Nadine Bérenguier is a French professor whose academic interests include eighteenth-century French literature, eighteenth-century [...]
+				[:enriched_text:sentiment:document:score]
+					 0.5706
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 12
+					[0:sentiment:score]
+						 0.070483
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Nadine Bérenguier
+				[0:relevance]
+					 0.902187
+				[0:type]
+					 Person
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 professor
+				[1:relevance]
+					 0.269146
+				[1:type]
+					 JobTitle
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Madeleine de Puisieux
+				[2:relevance]
+					 0.253768
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Madeleine de Puisieux
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Madeleine_de_Puisieux
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 First
+				[3:relevance]
+					 0.248637
+				[3:type]
+					 Person
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0.739796
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Berenguier
+				[4:relevance]
+					 0.238178
+				[4:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Sociology
+				[0:relevance]
+					 0.966706
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Sociology
+				[1:text]
+					 Social movement
+				[1:relevance]
+					 0.608502
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Social_movement
+				[2:text]
+					 Fiction
+				[2:relevance]
+					 0.585628
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Fiction
+				[3:text]
+					 Convention
+				[3:relevance]
+					 0.54384
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Convention_(norm)
+				[4:text]
+					 Literature
+				[4:relevance]
+					 0.543481
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Literature
+				[5:text]
+					 Norm
+				[5:relevance]
+					 0.52944
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Norm_(philosophy)
+				[6:text]
+					 Didacticism
+				[6:relevance]
+					 0.517573
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Didacticism
+				[7:text]
+					 Anxiety
+				[7:relevance]
+					 0.506046
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Anxiety
+		[:enriched_text:categories]
+				[0:score]
+					 0.896802
+				[0:label]
+					 /art and entertainment/books and literature
+				[1:score]
+					 0.785666
+				[1:label]
+					 /law, govt and politics/politics
+				[2:score]
+					 0.742287
+				[2:label]
+					 /education/homework and study tips
+		[:metadata:docid]
+			 H1000303294
+		[:metadata:concepts]
+			[0]
+				 Sociology
+			[1]
+				 Social movement
+			[2]
+				 Fiction
+			[3]
+				 Literature
+			[4]
+				 Convention
+			[5]
+				 Norm
+			[6]
+				 Didacticism
+			[7]
+				 Anxiety
+			[8]
+				 Norm
+			[9]
+				 Book
+		[:metadata:keywords]
+			[0]
+				 Nadine Bérenguier
+			[1]
+				 authors' decision
+			[2]
+				 conduct books
+			[3]
+				 book's introduction
+			[4]
+				 Bérenguier points
+			[5]
+				 final section
+			[6]
+				 book
+			[7]
+				 social norms
+			[8]
+				 next section
+			[9]
+				 social rules
+		[:metadata:entitites]
+			[0]
+				 Bérenguier
+			[1]
+				 Nadine Bérenguier
+			[2]
+				 Madeleine de Puisieux
+		[:metadata:title]
+			 Nadine Berenguier
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 20
+			[:metadata:gale:gale-fake-waiting]
+				 27
+		[:extracted_metadata:sha1]
+			 cfa3adc94ab633949cd002b71a16bafd7121ca93
+		[:extracted_metadata:filename]
+			 Nadine Berenguier.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 ede3977d-2170-484d-a55f-62345f2a877e
+		[:result_metadata:confidence]
+			 0.08452200122303594
+		[:result_metadata:score]
+			 2.9005532
+	[:text]
+		 no title
+
+Writer and journalist Elizabeth Gould and her husband, Paul Fitzgerald, have a long history of covering events in Afghanistan dati[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.349912
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 6
+					[0:sentiment:score]
+						 -0.439043
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Afghanistan
+				[0:relevance]
+					 0.92848
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Afghanistan
+				[1:relevance]
+					 0.38624
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 PoliticalParty
+						[2]
+							 Country
+					[1:disambiguation:name]
+						 Northern Alliance
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Northern_Alliance
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Elizabeth Gould
+				[2:relevance]
+					 0.343494
+				[2:type]
+					 Person
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 -0.562874
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 United States
+				[3:relevance]
+					 0.340401
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[3:disambiguation:name]
+						 United States
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.367933
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Osama bin Laden
+				[4:relevance]
+					 0.28145
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 MilitaryPerson
+						[1]
+							 ProjectParticipant
+						[2]
+							 FilmActor
+					[4:disambiguation:name]
+						 Osama bin Laden
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Osama_bin_Laden
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Paul Fitzgerald
+				[5:relevance]
+					 0.243777
+				[5:type]
+					 Person
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Ryan Croken
+				[6:relevance]
+					 0.243078
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Writer
+				[7:relevance]
+					 0.240307
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.513527
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 U.S. government
+				[8:relevance]
+					 0.22176
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Federal government of the United States
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Thirty years
+				[9:relevance]
+					 0.22176
+				[9:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Al-Qaeda
+				[0:relevance]
+					 0.975273
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Al-Qaeda
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.937956
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[2:text]
+					 Taliban
+				[2:relevance]
+					 0.932772
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Taliban
+				[3:text]
+					 Soviet war in Afghanistan
+				[3:relevance]
+					 0.77271
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_war_in_Afghanistan
+				[4:text]
+					 Osama bin Laden
+				[4:relevance]
+					 0.768227
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Osama_bin_Laden
+				[5:text]
+					 Special Activities Division
+				[5:relevance]
+					 0.762592
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Special_Activities_Division
+				[6:text]
+					 George W. Bush
+				[6:relevance]
+					 0.587716
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/George_W._Bush
+				[7:text]
+					 Al Jazeera
+				[7:relevance]
+					 0.581766
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Al_Jazeera
+		[:enriched_text:categories]
+				[0:score]
+					 0.965633
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.900393
+				[1:label]
+					 /law, govt and politics/armed forces
+				[2:score]
+					 0.815385
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 H1000193240
+		[:metadata:concepts]
+			[0]
+				 Al-Qaeda
+			[1]
+				 United States
+			[2]
+				 Taliban
+			[3]
+				 Soviet war in Afghanistan
+			[4]
+				 Osama bin Laden
+			[5]
+				 Special Activities Division
+			[6]
+				 George W. Bush
+			[7]
+				 Al Jazeera
+			[8]
+				 Mujahideen
+			[9]
+				 Ayman al-Zawahiri
+		[:metadata:keywords]
+			[0]
+				 historical look
+			[1]
+				 Afghanistan dating
+			[2]
+				 authors
+			[3]
+				 Russian occupation of the country
+			[4]
+				 various historical events
+			[5]
+				 United States
+			[6]
+				 U.S. government
+			[7]
+				 unauthorized insights
+			[8]
+				 unwarranted judgments
+			[9]
+				 book
+		[:metadata:entitites]
+			[0]
+				 Afghanistan
+			[1]
+				 Elizabeth Gould
+			[2]
+				 Paul Fitzgerald
+			[3]
+				 Ryan Croken
+			[4]
+				 Thirty years
+			[5]
+				 Alexander
+			[6]
+				 U.S. government
+			[7]
+				 U.S.
+			[8]
+				 Soviets
+			[9]
+				 Osama bin Laden
+		[:metadata:title]
+			 Elizabeth Gould
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 89
+			[:metadata:gale:gale-fake-waiting]
+				 38
+		[:extracted_metadata:sha1]
+			 7c6553152eb75d4986f0e9cdbb3f0fc901653e1f
+		[:extracted_metadata:filename]
+			 Elizabeth Gould.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

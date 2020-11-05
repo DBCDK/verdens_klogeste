@@ -1,0 +1,6162 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 cf14ad7b-1747-4209-8aef-d1af27ef0bfb
+		[:result_metadata:confidence]
+			 0.11289644458334804
+		[:result_metadata:score]
+			 8.25494
+	[:text]
+		 no title
+
+Even if John Gay had never written his bestknown poems and plays— Gay had a gift for friendship. In "A Farewell to London" (1715) [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.371139
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 36
+					[0:sentiment:score]
+						 -0.484525
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Thomas Gay
+				[0:relevance]
+					 0.913258
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Thomas Gay
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Thomas_Gay
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 0.535549
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Mr. Pope
+				[1:relevance]
+					 0.371091
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Gay
+				[2:relevance]
+					 0.339824
+				[2:type]
+					 Person
+				[3:count]
+					 9
+					[3:sentiment:score]
+						 -0.314563
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 London
+				[3:relevance]
+					 0.337454
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 John Gay
+				[4:relevance]
+					 0.336037
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 AwardNominee
+						[3]
+							 PeriodicalEditor
+					[4:disambiguation:name]
+						 John Gay
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Gay
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Barnstaple
+				[5:relevance]
+					 0.20301
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 EnglishCivilParish
+						[2]
+							 City
+					[5:disambiguation:name]
+						 Barnstaple
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barnstaple
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Edmund Curll
+				[6:relevance]
+					 0.200061
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Edmund Curll
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edmund_Curll
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.224917
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 In Book II
+				[7:relevance]
+					 0.193286
+				[7:type]
+					 PrintMedia
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Katherine Hanmer
+				[8:relevance]
+					 0.192436
+				[8:type]
+					 Person
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Swift
+				[9:relevance]
+					 0.19219
+				[9:type]
+					 Person
+				[10:count]
+					 3
+					[10:sentiment:score]
+						 0.296826
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 walker
+				[10:relevance]
+					 0.187824
+				[10:type]
+					 Person
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.19986
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 William Fortescue
+				[11:relevance]
+					 0.186405
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 William Fortescue
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Fortescue
+				[12:count]
+					 3
+					[12:sentiment:score]
+						 0.351433
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Princess Caroline
+				[12:relevance]
+					 0.18354
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 BritishRoyalty
+						[1]
+							 NoblePerson
+					[12:disambiguation:name]
+						 Princess Caroline of Great Britain
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Princess_Caroline_of_Great_Britain
+				[13:count]
+					 3
+					[13:sentiment:score]
+						 0.270019
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Henrietta Howard
+				[13:relevance]
+					 0.181946
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 NoblePerson
+					[13:disambiguation:name]
+						 Henrietta Howard, Countess of Suffolk
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Henrietta_Howard,_Countess_of_Suffolk
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 secretary
+				[14:relevance]
+					 0.181791
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 William Congreve
+				[15:relevance]
+					 0.180289
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Writer
+					[15:disambiguation:name]
+						 William Congreve
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Congreve
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Barnstaple Old Church
+				[16:relevance]
+					 0.177277
+				[16:type]
+					 Facility
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Fleet ditch
+				[17:relevance]
+					 0.176477
+				[17:type]
+					 GeographicFeature
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[17:disambiguation:name]
+						 River Fleet
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/River_Fleet
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 -0.318398
+					[18:sentiment:label]
+						 negative
+				[18:text]
+					 William Henry Irving
+				[18:relevance]
+					 0.175889
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 ChivalricOrderMember
+						[2]
+							 TheaterActor
+					[18:disambiguation:name]
+						 Henry Irving
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Henry_Irving
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Lord Burlington
+				[19:relevance]
+					 0.175447
+				[19:type]
+					 Person
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Walpole
+				[20:relevance]
+					 0.171245
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 local grammar school
+				[21:relevance]
+					 0.170465
+				[21:type]
+					 Organization
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 William
+				[22:relevance]
+					 0.16835
+				[22:type]
+					 Person
+				[23:count]
+					 2
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Bath
+				[23:relevance]
+					 0.167001
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 City
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 George I. His
+				[24:relevance]
+					 0.166311
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Devon
+				[25:relevance]
+					 0.164658
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[26:count]
+					 2
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Cloacina
+				[26:relevance]
+					 0.164527
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0.200782
+					[27:sentiment:label]
+						 positive
+				[27:text]
+					 William Pulteney
+				[27:relevance]
+					 0.164277
+				[27:type]
+					 Person
+					[27:disambiguation:subtype]
+						[0]
+							 Politician
+					[27:disambiguation:name]
+						 Sir William Pulteney, 5th Baronet
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sir_William_Pulteney,_5th_Baronet
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Edmund Spenser
+				[28:relevance]
+					 0.164195
+				[28:type]
+					 Person
+					[28:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 OperaCharacter
+					[28:disambiguation:name]
+						 Edmund Spenser
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edmund_Spenser
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Sparabella
+				[29:relevance]
+					 0.16273
+				[29:type]
+					 Company
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 -0.223606
+					[30:sentiment:label]
+						 negative
+				[30:text]
+					 Silenus
+				[30:relevance]
+					 0.161396
+				[30:type]
+					 Person
+				[31:count]
+					 2
+					[31:sentiment:score]
+						 0.674664
+					[31:sentiment:label]
+						 positive
+				[31:text]
+					 Marian
+				[31:relevance]
+					 0.160781
+				[31:type]
+					 Person
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Austin Dobson
+				[32:relevance]
+					 0.160253
+				[32:type]
+					 Person
+					[32:disambiguation:subtype]
+					[32:disambiguation:name]
+						 Austin Dobson
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Austin_Dobson
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Robert Luck
+				[33:relevance]
+					 0.159454
+				[33:type]
+					 Person
+				[34:count]
+					 2
+					[34:sentiment:score]
+						 0.202441
+					[34:sentiment:label]
+						 positive
+				[34:text]
+					 Virgil
+				[34:relevance]
+					 0.158503
+				[34:type]
+					 Person
+					[34:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 Lyricist
+					[34:disambiguation:name]
+						 Virgil
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Virgil
+				[35:count]
+					 2
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Hill
+				[35:relevance]
+					 0.158377
+				[35:type]
+					 Person
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Blouzelinda
+				[36:relevance]
+					 0.157847
+				[36:type]
+					 Person
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0.850264
+					[37:sentiment:label]
+						 positive
+				[37:text]
+					 Colin Clout
+				[37:relevance]
+					 0.15577
+				[37:type]
+					 Person
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0.823625
+					[38:sentiment:label]
+						 positive
+				[38:text]
+					 Sparabella
+				[38:relevance]
+					 0.155713
+				[38:type]
+					 Person
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Chiswick
+				[39:relevance]
+					 0.155321
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 City
+					[39:disambiguation:name]
+						 Chiswick
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chiswick
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 -0.414344
+					[40:sentiment:label]
+						 negative
+				[40:text]
+					 Exeter
+				[40:relevance]
+					 0.155255
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[40:disambiguation:name]
+						 Exeter
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Exeter
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 John Rysbrack
+				[41:relevance]
+					 0.154955
+				[41:type]
+					 Person
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0.35555
+					[42:sentiment:label]
+						 positive
+				[42:text]
+					 Wales
+				[42:relevance]
+					 0.154157
+				[42:type]
+					 Location
+					[42:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 FilmScreeningVenue
+						[3]
+							 Country
+					[42:disambiguation:name]
+						 Wales
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wales
+				[43:count]
+					 2
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Johnson
+				[43:relevance]
+					 0.153854
+				[43:type]
+					 Person
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 Spence
+				[44:relevance]
+					 0.151251
+				[44:type]
+					 Person
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 Lady Mary Wortley Montagu
+				[45:relevance]
+					 0.150008
+				[45:type]
+					 Person
+					[45:disambiguation:subtype]
+					[45:disambiguation:name]
+						 Lady Mary Wortley Montagu
+					[45:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lady_Mary_Wortley_Montagu
+				[46:count]
+					 2
+					[46:sentiment:score]
+						 0
+					[46:sentiment:label]
+						 neutral
+				[46:text]
+					 Burlington
+				[46:relevance]
+					 0.149138
+				[46:type]
+					 Location
+					[46:disambiguation:subtype]
+						[0]
+							 City
+				[47:count]
+					 1
+					[47:sentiment:score]
+						 -0.303373
+					[47:sentiment:label]
+						 negative
+				[47:text]
+					 Susan
+				[47:relevance]
+					 0.149
+				[47:type]
+					 Person
+				[48:count]
+					 1
+					[48:sentiment:score]
+						 -0.668719
+					[48:sentiment:label]
+						 negative
+				[48:text]
+					 Pall Mall
+				[48:relevance]
+					 0.14809
+				[48:type]
+					 Facility
+		[:enriched_text:concepts]
+				[0:text]
+					 Poetry
+				[0:relevance]
+					 0.885864
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Poetry
+				[1:text]
+					 Pastoral
+				[1:relevance]
+					 0.75939
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Pastoral
+				[2:text]
+					 Earl of Burlington
+				[2:relevance]
+					 0.708307
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Earl_of_Burlington
+				[3:text]
+					 Robert Walpole
+				[3:relevance]
+					 0.679645
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Robert_Walpole
+		[:enriched_text:categories]
+				[0:score]
+					 0.933546
+				[0:label]
+					 /art and entertainment/books and literature/poetry
+				[1:score]
+					 0.680711
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.674168
+				[2:label]
+					 /art and entertainment/shows and events
+		[:metadata:docid]
+			 EJ2101203875
+		[:metadata:concepts]
+			[0]
+				 Poetry
+			[1]
+				 Pastoral
+			[2]
+				 Earl of Burlington
+			[3]
+				 Robert Walpole
+		[:metadata:keywords]
+			[0]
+				 John Gay
+			[1]
+				 Book II Gay
+			[2]
+				 Gay's family
+			[3]
+				 bestknown poems
+			[4]
+				 Katherine Hanmer Gay
+			[5]
+				 following year Gay
+			[6]
+				 first time Gay
+			[7]
+				 school friend Hill
+			[8]
+				 Gay
+			[9]
+				 poet moves
+		[:metadata:entitites]
+			[0]
+				 Gay
+			[1]
+				 Pope
+			[2]
+				 Barnstaple
+			[3]
+				 London
+			[4]
+				 bestknown
+			[5]
+				 William Congreve
+			[6]
+				 Barnstaple Old Church
+			[7]
+				 Katherine Hanmer
+			[8]
+				 Thomas Gay
+			[9]
+				 Robert Luck
+		[:metadata:title]
+			 John Gay
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 16
+			[:metadata:gale:gale-fake-waiting]
+				 83
+		[:extracted_metadata:sha1]
+			 41d1283adc7b9f9fa172c56ea0aadd67e2e9f4a2
+		[:extracted_metadata:filename]
+			 John Gay.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 1527dc60-3119-465d-8cd4-db39ec472fb4
+		[:result_metadata:confidence]
+			 0.10989308543159536
+		[:result_metadata:score]
+			 8.250454
+	[:text]
+		 no title
+
+Prior to Whitmore once commented on his work: "I have been a gay activist since 1972, so it's only natural that my writing interes[...]
+				[:enriched_text:sentiment:document:score]
+					 0.430178
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 5
+					[0:sentiment:score]
+						 -0.408069
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 writer
+				[0:relevance]
+					 0.675065
+				[0:type]
+					 JobTitle
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Whitmore
+				[1:relevance]
+					 0.507424
+				[1:type]
+					 Person
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0.573402
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Thoreau
+				[2:relevance]
+					 0.397897
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Edmund White
+				[3:relevance]
+					 0.332726
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+					[3:disambiguation:name]
+						 Edmund White
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edmund_White
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Felice Picano
+				[4:relevance]
+					 0.330837
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+					[4:disambiguation:name]
+						 Felice Picano
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Felice_Picano
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Armistead Maupin
+				[5:relevance]
+					 0.326649
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardNominee
+						[2]
+							 MilitaryPerson
+						[3]
+							 Scientist
+						[4]
+							 TVProducer
+						[5]
+							 FilmWriter
+						[6]
+							 TVActor
+					[5:disambiguation:name]
+						 Armistead Maupin
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Armistead_Maupin
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.369958
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Paul Monette
+				[6:relevance]
+					 0.320696
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+					[6:disambiguation:name]
+						 Paul Monette
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paul_Monette
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.573402
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 New England
+				[7:relevance]
+					 0.318267
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+		[:enriched_text:concepts]
+				[0:text]
+					 Literature
+				[0:relevance]
+					 0.976298
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Literature
+				[1:text]
+					 Gay writers
+				[1:relevance]
+					 0.855021
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_writers
+				[2:text]
+					 Writing
+				[2:relevance]
+					 0.818065
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Writing
+				[3:text]
+					 LGBT social movements
+				[3:relevance]
+					 0.778612
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[4:text]
+					 Literary criticism
+				[4:relevance]
+					 0.729265
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Literary_criticism
+				[5:text]
+					 Writer
+				[5:relevance]
+					 0.686346
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Writer
+				[6:text]
+					 Journalism
+				[6:relevance]
+					 0.646806
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Journalism
+				[7:text]
+					 Sexual orientation
+				[7:relevance]
+					 0.625856
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+		[:enriched_text:categories]
+				[0:score]
+					 0.995004
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 H1000105779
+		[:metadata:concepts]
+			[0]
+				 Literature
+			[1]
+				 Gay writers
+			[2]
+				 Writing
+			[3]
+				 LGBT social movements
+			[4]
+				 Literary criticism
+			[5]
+				 Writer
+			[6]
+				 Journalism
+			[7]
+				 Sexual orientation
+			[8]
+				 Criticism
+			[9]
+				 Gay Liberation
+		[:metadata:keywords]
+			[0]
+				 gay activist
+			[1]
+				 first experience
+			[2]
+				 first book of poetry
+			[3]
+				 subjects of gay liberation
+			[4]
+				 gay life
+			[5]
+				 Edmund White
+			[6]
+				 writing interests
+			[7]
+				 major grant
+			[8]
+				 gay writer
+			[9]
+				 Felice Picano
+		[:metadata:entitites]
+			[0]
+				 Thoreau
+			[1]
+				 Whitmore
+			[2]
+				 New England
+			[3]
+				 Felice Picano
+			[4]
+				 Armistead Maupin
+			[5]
+				 Paul Monette
+			[6]
+				 Edmund White
+		[:metadata:title]
+			 George Whitmore
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 99
+			[:metadata:gale:gale-fake-waiting]
+				 54
+		[:extracted_metadata:sha1]
+			 765d735165df26074cefebf1da4143cd8357ebb6
+		[:extracted_metadata:filename]
+			 George Whitmore.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 15129051-dbd8-4def-ba2b-97131a4d81d1
+		[:result_metadata:confidence]
+			 0.10698680320293759
+		[:result_metadata:score]
+			 8.246113
+	[:text]
+		 no title
+
+With more than one hundred books to her credit, Kathlyn Gay has established herself as a prolific writer of nonfiction information[...]
+				[:enriched_text:sentiment:document:score]
+					 0.357192
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 17
+					[0:sentiment:score]
+						 -0.197419
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Arthur L. Gay
+				[0:relevance]
+					 0.904071
+				[0:type]
+					 Person
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 writer
+				[1:relevance]
+					 0.158978
+				[1:type]
+					 JobTitle
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Illinois
+				[2:relevance]
+					 0.15304
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[2:disambiguation:name]
+						 Illinois
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Illinois
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Northern Illinois University
+				[3:relevance]
+					 0.137432
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[3:disambiguation:name]
+						 Northern Illinois University
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Northern_Illinois_University
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 obesity
+				[4:relevance]
+					 0.132844
+				[4:type]
+					 HealthCondition
+					[4:disambiguation:subtype]
+						[0]
+							 DiseaseOrMedicalCondition
+						[1]
+							 DiseaseCause
+						[2]
+							 RiskFactor
+						[3]
+							 Symptom
+					[4:disambiguation:name]
+						 Obesity
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Obesity
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Patricia D. Lothrop
+				[5:relevance]
+					 0.127914
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Daniel Lothrop
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Daniel_Lothrop
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Zion
+				[6:relevance]
+					 0.121812
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Zion, Illinois
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Zion,_Illinois
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Elkhart
+				[7:relevance]
+					 0.120104
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+					[7:disambiguation:name]
+						 Elkhart, Indiana
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elkhart,_Indiana
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Barrington
+				[8:relevance]
+					 0.119343
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+					[8:disambiguation:name]
+						 Barrington, Illinois
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barrington,_Illinois
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.354586
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 China
+				[9:relevance]
+					 0.118729
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Kingdom
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 Country
+					[9:disambiguation:name]
+						 China
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/China
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.333443
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Ventura
+				[10:relevance]
+					 0.118305
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Ventura, California
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ventura,_California
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Indiana
+				[11:relevance]
+					 0.115291
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[11:disambiguation:name]
+						 Indiana
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Indiana
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 California
+				[12:relevance]
+					 0.113522
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[12:disambiguation:name]
+						 California
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Martin
+				[13:relevance]
+					 0.095477
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 thirty-six years
+				[14:relevance]
+					 0.095477
+				[14:type]
+					 Quantity
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 fifteen dollars
+				[15:relevance]
+					 0.095477
+				[15:type]
+					 Quantity
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 200 years
+				[16:relevance]
+					 0.095477
+				[16:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Gulf War
+				[0:relevance]
+					 0.972683
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Gulf_War
+				[1:text]
+					 2003 invasion of Iraq
+				[1:relevance]
+					 0.805956
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/2003_invasion_of_Iraq
+				[2:text]
+					 War
+				[2:relevance]
+					 0.778636
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/War
+				[3:text]
+					 Persian Gulf
+				[3:relevance]
+					 0.67074
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Persian_Gulf
+				[4:text]
+					 Title
+				[4:relevance]
+					 0.648555
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Title
+				[5:text]
+					 Iraq War
+				[5:relevance]
+					 0.626466
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Iraq_War
+				[6:text]
+					 American Revolutionary War
+				[6:relevance]
+					 0.625011
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/American_Revolutionary_War
+				[7:text]
+					 Writer
+				[7:relevance]
+					 0.603213
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Writer
+		[:enriched_text:categories]
+				[0:score]
+					 0.956972
+				[0:label]
+					 /society/gay life
+				[1:score]
+					 0.824217
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.726361
+				[2:label]
+					 /health and fitness/sexuality
+		[:metadata:docid]
+			 H1000035706
+		[:metadata:concepts]
+			[0]
+				 Gulf War
+			[1]
+				 2003 invasion of Iraq
+			[2]
+				 War
+			[3]
+				 Persian Gulf
+			[4]
+				 Iraq War
+			[5]
+				 American Revolutionary War
+			[6]
+				 Writer
+			[7]
+				 United Arab Emirates
+			[8]
+				 Iraq
+			[9]
+				 Title
+		[:metadata:keywords]
+			[0]
+				 Kathlyn Gay
+			[1]
+				 Gay's works
+			[2]
+				 environmental issues
+			[3]
+				 social concerns
+			[4]
+				 military history
+			[5]
+				 good informational title
+			[6]
+				 prolific writer of nonfiction information books
+			[7]
+				 Arthur L. Gay
+			[8]
+				 future husband
+			[9]
+				 Gay
+		[:metadata:entitites]
+			[0]
+				 Kathlyn Gay
+			[1]
+				 Arthur L. Gay
+			[2]
+				 Gay
+			[3]
+				 thirty-six years
+			[4]
+				 Illinois
+			[5]
+				 Northern Illinois University
+			[6]
+				 fifteen dollars
+			[7]
+				 Elkhart
+			[8]
+				 Zion
+			[9]
+				 Barrington
+		[:metadata:title]
+			 Kathlyn Gay
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 35
+			[:metadata:gale:gale-fake-waiting]
+				 50
+		[:extracted_metadata:sha1]
+			 22e7b174afdfd578c491b0250b50a88d0e98f782
+		[:extracted_metadata:filename]
+			 Kathlyn Gay.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 5c6dbc15-3d9c-4e43-8d59-ac528888d0d9
+		[:result_metadata:confidence]
+			 0.10510953635908725
+		[:result_metadata:score]
+			 8.243309
+	[:text]
+		 no title
+
+Gay is best known as the author of Gay was born in Barnstaple on the North Devon coast about June 30, 1685. His parents, William a[...]
+				[:enriched_text:sentiment:document:score]
+					 0.59205
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 21
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Thomas Gay
+				[0:relevance]
+					 0.9296
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Thomas Gay
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Thomas_Gay
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Katherine Hanmer Gay
+				[1:relevance]
+					 0.278861
+				[1:type]
+					 Person
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.310131
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 London
+				[2:relevance]
+					 0.223157
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 City
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Aaron Hill
+				[3:relevance]
+					 0.204763
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Aaron Hill (writer)
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Aaron_Hill_(writer)
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Barnstaple
+				[4:relevance]
+					 0.188209
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 EnglishCivilParish
+						[2]
+							 City
+					[4:disambiguation:name]
+						 Barnstaple
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barnstaple
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 -0.268426
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 William Fortescue
+				[5:relevance]
+					 0.175444
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 William Fortescue
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Fortescue
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 North Devon
+				[6:relevance]
+					 0.135813
+				[6:type]
+					 GeographicFeature
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Pope
+				[7:relevance]
+					 0.128396
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Scriblerus Club
+				[8:relevance]
+					 0.123617
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Scriblerus Club
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Scriblerus_Club
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Master of the Rolls
+				[9:relevance]
+					 0.118516
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 -0.388782
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 Privy Council
+				[10:relevance]
+					 0.11621
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0.299818
+					[11:sentiment:label]
+						 positive
+				[11:text]
+					 Dr. John Arbuthnot
+				[11:relevance]
+					 0.113845
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 Physician
+					[11:disambiguation:name]
+						 John Arbuthnot
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Arbuthnot
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Handel
+				[12:relevance]
+					 0.112545
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 secretary
+				[13:relevance]
+					 0.106565
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Miltonic
+				[14:relevance]
+					 0.103035
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Swift
+				[15:relevance]
+					 0.095155
+				[15:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 John Arbuthnot
+				[0:relevance]
+					 0.966192
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/John_Arbuthnot
+				[1:text]
+					 Jonathan Swift
+				[1:relevance]
+					 0.681508
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Jonathan_Swift
+				[2:text]
+					 Scriblerus Club
+				[2:relevance]
+					 0.663493
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Scriblerus_Club
+				[3:text]
+					 Alexander Pope
+				[3:relevance]
+					 0.606908
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Alexander_Pope
+				[4:text]
+					 Poetry
+				[4:relevance]
+					 0.473022
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Poetry
+				[5:text]
+					 Success
+				[5:relevance]
+					 0.454659
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Success
+				[6:text]
+					 Hugh Fortescue, 2nd Earl Fortescue
+				[6:relevance]
+					 0.43519
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Hugh_Fortescue,_2nd_Earl_Fortescue
+				[7:text]
+					 North Devon
+				[7:relevance]
+					 0.428888
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/North_Devon
+		[:enriched_text:categories]
+				[0:score]
+					 0.976094
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 EJ2101101202
+		[:metadata:concepts]
+			[0]
+				 John Arbuthnot
+			[1]
+				 Jonathan Swift
+			[2]
+				 Scriblerus Club
+			[3]
+				 Alexander Pope
+			[4]
+				 Poetry
+			[5]
+				 Success
+			[6]
+				 Hugh Fortescue, 2nd Earl Fortescue
+			[7]
+				 North Devon
+			[8]
+				 Devon
+			[9]
+				 Evidence
+		[:metadata:keywords]
+			[0]
+				 author of Gay
+			[1]
+				 Katherine Hanmer Gay
+			[2]
+				 first poem
+			[3]
+				 local grammar school
+			[4]
+				 Gay
+			[5]
+				 Thomas Gay
+			[6]
+				 young adult
+			[7]
+				 brief return
+			[8]
+				 poor health
+			[9]
+				 literary scene
+		[:metadata:entitites]
+			[0]
+				 North Devon coast
+			[1]
+				 Katherine Hanmer
+			[2]
+				 Thomas Gay
+			[3]
+				 William Fortescue
+			[4]
+				 Gay
+			[5]
+				 London
+			[6]
+				 Barnstaple
+			[7]
+				 Aaron Hill
+			[8]
+				 Privy Council
+			[9]
+				 plague
+		[:metadata:title]
+			 John Gay
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 84
+			[:metadata:gale:gale-fake-waiting]
+				 51
+		[:extracted_metadata:sha1]
+			 e3793b13cfb8fc036a9051286d071004a69f64f6
+		[:extracted_metadata:filename]
+			 John Gay.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 f699b369-cf49-4f79-bfd6-39345ac1efff
+		[:result_metadata:confidence]
+			 0.10306556500592197
+		[:result_metadata:score]
+			 8.240256
+	[:text]
+		 no title
+
+Seymour Pine, a deputy inspector of the New York City Police Department. Dave Van Ronk, a well-known folk singer and participant i[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.601526
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 7
+					[0:sentiment:score]
+						 -0.269731
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Stonewall Inn
+				[0:relevance]
+					 0.910042
+				[0:type]
+					 Facility
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 -0.377187
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 New York City Police Department
+				[1:relevance]
+					 0.908637
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[1:disambiguation:name]
+						 New York City Police Department
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City_Police_Department
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Gay Liberation Front
+				[2:relevance]
+					 0.730003
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Gay Liberation Front
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gay_Liberation_Front
+				[3:count]
+					 5
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 United States
+				[3:relevance]
+					 0.603032
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[3:disambiguation:name]
+						 United States
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 San Francisco
+				[4:relevance]
+					 0.587745
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[4:disambiguation:name]
+						 San Francisco
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 -0.20916
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 New York City
+				[5:relevance]
+					 0.548028
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[5:disambiguation:name]
+						 New York City
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.578293
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Stonewall Inn
+				[6:relevance]
+					 0.4584
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Dave Van Ronk
+				[7:relevance]
+					 0.458247
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 BroadcastArtist
+						[2]
+							 Guitarist
+						[3]
+							 MusicalGroupMember
+					[7:disambiguation:name]
+						 Dave Van Ronk
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dave_Van_Ronk
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 -0.516679
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 harassment
+				[8:relevance]
+					 0.450047
+				[8:type]
+					 Crime
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.650672
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Allen Ginsberg
+				[9:relevance]
+					 0.436298
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 MusicalArtist
+						[2]
+							 Writer
+						[3]
+							 AwardNominee
+						[4]
+							 AwardWinner
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OperaCharacter
+						[7]
+							 FilmActor
+						[8]
+							 TVActor
+					[9:disambiguation:name]
+						 Allen Ginsberg
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Allen_Ginsberg
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0.600924
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Seymour Pine
+				[10:relevance]
+					 0.412655
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 Seymour Pine
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Seymour_Pine
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Mattachine Society
+				[11:relevance]
+					 0.412034
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 Mattachine Society
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mattachine_Society
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Dick Leitsch
+				[12:relevance]
+					 0.408237
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Mattachine Society of New York
+				[13:relevance]
+					 0.376752
+				[13:type]
+					 Organization
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 New York
+				[14:relevance]
+					 0.331222
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 -0.725574
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 Los Angeles
+				[15:relevance]
+					 0.329484
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 OlympicBiddingCity
+						[2]
+							 OlympicHostCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[15:disambiguation:name]
+						 Los Angeles
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Los_Angeles
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 executive director
+				[16:relevance]
+					 0.321
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Greenwich Village
+				[17:relevance]
+					 0.319813
+				[17:type]
+					 Facility
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Neighborhood
+						[2]
+							 CityTown
+					[17:disambiguation:name]
+						 Greenwich Village
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Greenwich_Village
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Queens
+				[18:relevance]
+					 0.31392
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[18:disambiguation:name]
+						 Queens
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 -0.601428
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 Tavern Guild
+				[19:relevance]
+					 0.312249
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 Tavern Guild
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tavern_Guild
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Harry Hay
+				[20:relevance]
+					 0.31001
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 AwardNominee
+					[20:disambiguation:name]
+						 Harry Hay
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harry_Hay
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Greenwich Village
+				[21:relevance]
+					 0.307373
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 East Coast Homophile Organization
+				[22:relevance]
+					 0.302189
+				[22:type]
+					 Organization
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.399922
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Philadelphia
+				[23:relevance]
+					 0.297089
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 AirportOperator
+						[5]
+							 City
+					[23:disambiguation:name]
+						 Philadelphia
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Philadelphia
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 America
+				[24:relevance]
+					 0.28961
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 Continent
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Bilitis
+				[25:relevance]
+					 0.2876
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 City
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.399922
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 D.C.
+				[26:relevance]
+					 0.281902
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 -0.395045
+					[27:sentiment:label]
+						 negative
+				[27:text]
+					 Tactical Patrol Force
+				[27:relevance]
+					 0.272524
+				[27:type]
+					 Organization
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Washington
+				[28:relevance]
+					 0.270385
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 City
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 -0.402175
+					[29:sentiment:label]
+						 negative
+				[29:text]
+					 assault
+				[29:relevance]
+					 0.270293
+				[29:type]
+					 Crime
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Canada
+				[30:relevance]
+					 0.264152
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardDiscipline
+						[3]
+							 FilmScreeningVenue
+						[4]
+							 Country
+					[30:disambiguation:name]
+						 Canada
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Canada
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 advisor
+				[31:relevance]
+					 0.256789
+				[31:type]
+					 JobTitle
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Australia
+				[32:relevance]
+					 0.226815
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 Country
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 forty-five minutes
+				[33:relevance]
+					 0.226815
+				[33:type]
+					 Quantity
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 two years
+				[34:relevance]
+					 0.226815
+				[34:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 LGBT social movements
+				[0:relevance]
+					 0.966407
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[1:text]
+					 Gay Liberation
+				[1:relevance]
+					 0.850659
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_Liberation
+				[2:text]
+					 Homosexuality
+				[2:relevance]
+					 0.785846
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[3:text]
+					 Stonewall riots
+				[3:relevance]
+					 0.752815
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Stonewall_riots
+				[4:text]
+					 Julius
+				[4:relevance]
+					 0.732105
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Julius_(New_York_City)
+				[5:text]
+					 Bar
+				[5:relevance]
+					 0.645398
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Bar_(establishment)
+				[6:text]
+					 Homophile
+				[6:relevance]
+					 0.611314
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Homophile
+				[7:text]
+					 Gay Liberation Front
+				[7:relevance]
+					 0.610603
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_Liberation_Front
+		[:enriched_text:categories]
+				[0:score]
+					 0.999997
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 BT2359030244
+		[:metadata:concepts]
+			[0]
+				 LGBT social movements
+			[1]
+				 Gay Liberation
+			[2]
+				 Homosexuality
+			[3]
+				 Stonewall riots
+			[4]
+				 Julius
+			[5]
+				 Bar
+			[6]
+				 Homophile
+			[7]
+				 Gay Liberation Front
+			[8]
+				 LGBT
+			[9]
+				 Gay bar
+		[:metadata:keywords]
+			[0]
+				 gay figure
+			[1]
+				 gay bar
+			[2]
+				 Stonewall riots
+			[3]
+				 lesbian organization
+			[4]
+				 Stonewall Inn
+			[5]
+				 Seymour Pine
+			[6]
+				 head of the NYPD
+			[7]
+				 gay rights movement
+			[8]
+				 group of gay bar owners
+			[9]
+				 organized activity
+		[:metadata:entitites]
+			[0]
+				 Stonewall Inn
+			[1]
+				 Seymour Pine
+			[2]
+				 NYPD
+			[3]
+				 Dave Van Ronk
+			[4]
+				 Dick Leitsch
+			[5]
+				 Mattachine Society
+			[6]
+				 Mattachine Society of New York
+			[7]
+				 United States
+			[8]
+				 NYPD headquarters
+			[9]
+				 Tavern Guild
+		[:metadata:title]
+			 Gay Rights Movement Launched, June 27, 1969-July 2, 1969
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 61
+			[:metadata:gale:gale-fake-waiting]
+				 54
+		[:extracted_metadata:sha1]
+			 2e037c2f9965c82de48b59a1233297042e29aa16
+		[:extracted_metadata:filename]
+			 Gay Rights Movement Launched, June 27, 1969-July 2, 1969.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 42b83bc8-3380-4893-b9e9-c8440811cb94
+		[:result_metadata:confidence]
+			 0.09945028649066026
+		[:result_metadata:score]
+			 8.234856
+	[:text]
+		 no title
+
+Born about a decade before the French Revolution, Joseph Gay-Lussac was only 14 when his comfortable family life was disrupted by [...]
+				[:enriched_text:sentiment:document:score]
+					 0.572314
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 19
+					[0:sentiment:score]
+						 0.460109
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Gay-Lussac
+				[0:relevance]
+					 0.907369
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 City
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Joseph Gay-Lussac
+				[1:relevance]
+					 0.533978
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 ElementDiscoverer
+						[2]
+							 Scientist
+					[1:disambiguation:name]
+						 Joseph Louis Gay-Lussac
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0.20285
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Sir Humphry Davy
+				[2:relevance]
+					 0.422373
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ElementDiscoverer
+						[3]
+							 Inventor
+						[4]
+							 Scientist
+					[2:disambiguation:name]
+						 Humphry Davy
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Humphry_Davy
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Ecole Polytechnique
+				[3:relevance]
+					 0.268826
+				[3:type]
+					 Facility
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Paris
+				[4:relevance]
+					 0.263362
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 FrenchDepartment
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 OlympicBiddingCity
+						[4]
+							 OlympicHostCity
+						[5]
+							 PlaceWithNeighborhoods
+						[6]
+							 City
+					[4:disambiguation:name]
+						 Paris
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paris
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Thenard
+				[5:relevance]
+					 0.262415
+				[5:type]
+					 Person
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Alexander von Humboldt
+				[6:relevance]
+					 0.261603
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Mountaineer
+						[3]
+							 Scientist
+					[6:disambiguation:name]
+						 Alexander von Humboldt
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alexander_von_Humboldt
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.385624
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Napoleon Bonaparte
+				[7:relevance]
+					 0.256479
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Napoleon
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Napoleon
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Alps
+				[8:relevance]
+					 0.252648
+				[8:type]
+					 GeographicFeature
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 MountainRange
+					[8:disambiguation:name]
+						 Alps
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alps
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Bernard Courtois
+				[9:relevance]
+					 0.237246
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Bernard Courtois
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bernard_Courtois
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Charles
+				[10:relevance]
+					 0.237167
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 Montesquieu
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Montesquieu
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Amedeo Avogadro
+				[11:relevance]
+					 0.235485
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.344021
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Humboldt
+				[12:relevance]
+					 0.234978
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Louis Thénard
+				[13:relevance]
+					 0.217074
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Michel Eugène-Chevreul
+				[14:relevance]
+					 0.215675
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.605528
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 technician
+				[15:relevance]
+					 0.21339
+				[15:type]
+					 JobTitle
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 cyanogen
+				[16:relevance]
+					 0.212402
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 nine days
+				[17:relevance]
+					 0.212402
+				[17:type]
+					 Quantity
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 two years
+				[18:relevance]
+					 0.212402
+				[18:type]
+					 Quantity
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 50 years
+				[19:relevance]
+					 0.212402
+				[19:type]
+					 Quantity
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 6.4 km
+				[20:relevance]
+					 0.212402
+				[20:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Oxygen
+				[0:relevance]
+					 0.958621
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+				[1:text]
+					 Iodine
+				[1:relevance]
+					 0.852216
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Iodine
+				[2:text]
+					 Gas
+				[2:relevance]
+					 0.847973
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Gas
+				[3:text]
+					 Boron
+				[3:relevance]
+					 0.801427
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Boron
+				[4:text]
+					 Humphry Davy
+				[4:relevance]
+					 0.786192
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Humphry_Davy
+				[5:text]
+					 Alexander von Humboldt
+				[5:relevance]
+					 0.754151
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Alexander_von_Humboldt
+				[6:text]
+					 Joseph Louis Gay-Lussac
+				[6:relevance]
+					 0.649237
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac
+				[7:text]
+					 Magnetic field
+				[7:relevance]
+					 0.610628
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Magnetic_field
+		[:enriched_text:categories]
+				[0:score]
+					 0.919296
+				[0:label]
+					 /science/chemistry
+				[1:score]
+					 0.815916
+				[1:label]
+					 /science/physics/thermodynamics
+				[2:score]
+					 0.800062
+				[2:label]
+					 /science/chemistry/organic chemistry
+		[:metadata:docid]
+			 K2432100157
+		[:metadata:concepts]
+			[0]
+				 Oxygen
+			[1]
+				 Iodine
+			[2]
+				 Gas
+			[3]
+				 Boron
+			[4]
+				 Humphry Davy
+			[5]
+				 Alexander von Humboldt
+			[6]
+				 Joseph Louis Gay-Lussac
+			[7]
+				 Magnetic field
+			[8]
+				 Chemistry
+			[9]
+				 Cyanide
+		[:metadata:keywords]
+			[0]
+				 Joseph Gay-Lussac
+			[1]
+				 Gay-Lussac's tutor
+			[2]
+				 Gay-Lussac's career
+			[3]
+				 Gay-Lussac's careful experiments
+			[4]
+				 French Revolution
+			[5]
+				 Gay-Lussac's law
+			[6]
+				 name of French nationalism
+			[7]
+				 analysis of gases
+			[8]
+				 Gay-Lussac
+			[9]
+				 volumetric method
+		[:metadata:entitites]
+			[0]
+				 Lussac
+			[1]
+				 Joseph Gay
+			[2]
+				 Amedeo Avogadro
+			[3]
+				 6.4 km
+			[4]
+				 Sir Humphry Davy
+			[5]
+				 Louis Thénard
+			[6]
+				 Thenard
+			[7]
+				 Davy
+			[8]
+				 Alexander von Humboldt
+			[9]
+				 Bernard Courtois
+		[:metadata:title]
+			 Joseph-Louis Gay-Lussac
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 40
+			[:metadata:gale:gale-fake-waiting]
+				 96
+		[:extracted_metadata:sha1]
+			 59c032b6fc8dc13d7062d910141d16dc9c6e3b7b
+		[:extracted_metadata:filename]
+			 Joseph-Louis Gay-Lussac.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 9a9a2e7d-ed42-46cf-9577-4a967c83db1f
+		[:result_metadata:confidence]
+			 0.09945028649066026
+		[:result_metadata:score]
+			 8.234856
+	[:text]
+		 no title
+
+Born about a decade before the French Revolution, Joseph Gay-Lussac was only 14 when his comfortable family life was disrupted by [...]
+				[:enriched_text:sentiment:document:score]
+					 0.572314
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 19
+					[0:sentiment:score]
+						 0.460109
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Gay-Lussac
+				[0:relevance]
+					 0.907048
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 City
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Joseph Gay-Lussac
+				[1:relevance]
+					 0.533774
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 ElementDiscoverer
+						[2]
+							 Scientist
+					[1:disambiguation:name]
+						 Joseph Louis Gay-Lussac
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0.20285
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Sir Humphry Davy
+				[2:relevance]
+					 0.422157
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ElementDiscoverer
+						[3]
+							 Inventor
+						[4]
+							 Scientist
+					[2:disambiguation:name]
+						 Humphry Davy
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Humphry_Davy
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Ecole Polytechnique
+				[3:relevance]
+					 0.26878
+				[3:type]
+					 Facility
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Paris
+				[4:relevance]
+					 0.263348
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 FrenchDepartment
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 OlympicBiddingCity
+						[4]
+							 OlympicHostCity
+						[5]
+							 PlaceWithNeighborhoods
+						[6]
+							 City
+					[4:disambiguation:name]
+						 Paris
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paris
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Thenard
+				[5:relevance]
+					 0.262389
+				[5:type]
+					 Person
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Alexander von Humboldt
+				[6:relevance]
+					 0.261534
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Mountaineer
+						[3]
+							 Scientist
+					[6:disambiguation:name]
+						 Alexander von Humboldt
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alexander_von_Humboldt
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.385624
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Napoleon Bonaparte
+				[7:relevance]
+					 0.256434
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Napoleon
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Napoleon
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Alps
+				[8:relevance]
+					 0.252629
+				[8:type]
+					 GeographicFeature
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 MountainRange
+					[8:disambiguation:name]
+						 Alps
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alps
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Bernard Courtois
+				[9:relevance]
+					 0.237204
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Bernard Courtois
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bernard_Courtois
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Charles
+				[10:relevance]
+					 0.237156
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 Montesquieu
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Montesquieu
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Amedeo Avogadro
+				[11:relevance]
+					 0.235437
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.344021
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Humboldt
+				[12:relevance]
+					 0.234938
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Louis Thénard
+				[13:relevance]
+					 0.217052
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Michel Eugène-Chevreul
+				[14:relevance]
+					 0.215647
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.605528
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 technician
+				[15:relevance]
+					 0.213373
+				[15:type]
+					 JobTitle
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 cyanogen
+				[16:relevance]
+					 0.212373
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 nine days
+				[17:relevance]
+					 0.212373
+				[17:type]
+					 Quantity
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 two years
+				[18:relevance]
+					 0.212373
+				[18:type]
+					 Quantity
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 50 years
+				[19:relevance]
+					 0.212373
+				[19:type]
+					 Quantity
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 6.4 km
+				[20:relevance]
+					 0.212373
+				[20:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Oxygen
+				[0:relevance]
+					 0.957678
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+				[1:text]
+					 Iodine
+				[1:relevance]
+					 0.850922
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Iodine
+				[2:text]
+					 Gas
+				[2:relevance]
+					 0.847315
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Gas
+				[3:text]
+					 Boron
+				[3:relevance]
+					 0.800231
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Boron
+				[4:text]
+					 Humphry Davy
+				[4:relevance]
+					 0.785498
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Humphry_Davy
+				[5:text]
+					 Alexander von Humboldt
+				[5:relevance]
+					 0.753411
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Alexander_von_Humboldt
+				[6:text]
+					 Joseph Louis Gay-Lussac
+				[6:relevance]
+					 0.649064
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac
+				[7:text]
+					 Magnetic field
+				[7:relevance]
+					 0.609558
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Magnetic_field
+		[:enriched_text:categories]
+				[0:score]
+					 0.919296
+				[0:label]
+					 /science/chemistry
+				[1:score]
+					 0.815916
+				[1:label]
+					 /science/physics/thermodynamics
+				[2:score]
+					 0.800062
+				[2:label]
+					 /science/chemistry/organic chemistry
+		[:metadata:docid]
+			 K1648000249
+		[:metadata:concepts]
+			[0]
+				 Oxygen
+			[1]
+				 Iodine
+			[2]
+				 Gas
+			[3]
+				 Boron
+			[4]
+				 Humphry Davy
+			[5]
+				 Alexander von Humboldt
+			[6]
+				 Joseph Louis Gay-Lussac
+			[7]
+				 Magnetic field
+			[8]
+				 Chemistry
+			[9]
+				 Cyanide
+		[:metadata:keywords]
+			[0]
+				 Joseph Gay-Lussac
+			[1]
+				 Gay-Lussac 's tutor
+			[2]
+				 Gay-Lussac's career
+			[3]
+				 Gay-Lussac's careful experiments
+			[4]
+				 French Revolution
+			[5]
+				 Gay-Lussac's law
+			[6]
+				 name of French nationalism
+			[7]
+				 analysis of gases
+			[8]
+				 Gay-Lussac
+			[9]
+				 volumetric method
+		[:metadata:entitites]
+			[0]
+				 Lussac
+			[1]
+				 Joseph Gay
+			[2]
+				 Amedeo Avogadro
+			[3]
+				 6.4 km
+			[4]
+				 Sir Humphry Davy
+			[5]
+				 Louis Thénard
+			[6]
+				 Thenard
+			[7]
+				 Davy
+			[8]
+				 Alexander von Humboldt
+			[9]
+				 Bernard Courtois
+		[:metadata:title]
+			 Joseph-Louis Gay-Lussac
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 24
+			[:metadata:gale:gale-fake-waiting]
+				 4
+		[:extracted_metadata:sha1]
+			 d7840f9d4c2933ba1882563d6096d1978d0d6fa4
+		[:extracted_metadata:filename]
+			 Joseph-Louis Gay-Lussac.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 85c5f469-e109-4daf-a190-fc8a7713fbac
+		[:result_metadata:confidence]
+			 0.09846813582734755
+		[:result_metadata:score]
+			 8.233389
+	[:text]
+		 no title
+
+A Canadian author, illustrator, and reteller, Marie-Louise Gay is considered one of Canada's most prominent contemporary creators [...]
+				[:enriched_text:sentiment:document:score]
+					 0.422687
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 27
+					[0:sentiment:score]
+						 -0.294715
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Gay
+				[0:relevance]
+					 0.89383
+				[0:type]
+					 Person
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 0.373125
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 writer
+				[1:relevance]
+					 0.222773
+				[1:type]
+					 JobTitle
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Canada
+				[2:relevance]
+					 0.210655
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardDiscipline
+						[3]
+							 FilmScreeningVenue
+						[4]
+							 Country
+					[2:disambiguation:name]
+						 Canada
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Canada
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Montréal
+				[3:relevance]
+					 0.19987
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Colette Fontaine
+				[4:relevance]
+					 0.195583
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 Lyricist
+					[4:disambiguation:name]
+						 Colette
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Colette
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Vancouver
+				[5:relevance]
+					 0.194708
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 OlympicHostCity
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 City
+					[5:disambiguation:name]
+						 Vancouver
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vancouver
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Gabriel Garcia Marquez
+				[6:relevance]
+					 0.186192
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmWriter
+					[6:disambiguation:name]
+						 Gabriel García Márquez
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gabriel_García_Márquez
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Dennis Lee
+				[7:relevance]
+					 0.18438
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 FilmDirector
+						[2]
+							 FilmWriter
+					[7:disambiguation:name]
+						 Dennis Lee (author)
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dennis_Lee_(author)
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Québec City
+				[8:relevance]
+					 0.179745
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 OlympicBiddingCity
+						[2]
+							 City
+					[8:disambiguation:name]
+						 Quebec City
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Quebec_City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.357227
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Marilyn Singer
+				[9:relevance]
+					 0.17014
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Marilyn Singer
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Marilyn_Singer
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Tim Wynne-Jones
+				[10:relevance]
+					 0.167501
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+					[10:disambiguation:name]
+						 Tim Wynne-Jones
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tim_Wynne-Jones
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Susan Musgrave
+				[11:relevance]
+					 0.165976
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 AwardNominee
+					[11:disambiguation:name]
+						 Susan Musgrave
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Susan_Musgrave
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Institute of Graphic Arts of Montréal
+				[12:relevance]
+					 0.157362
+				[12:type]
+					 Organization
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Bernard Gauthier
+				[13:relevance]
+					 0.154557
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 C. S. Lewis
+				[14:relevance]
+					 0.152673
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FictionalUniverseCreator
+						[4]
+							 FilmWriter
+						[5]
+							 Saint
+					[14:disambiguation:name]
+						 C. S. Lewis
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/C._S._Lewis
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Don Gillmor
+				[15:relevance]
+					 0.15229
+				[15:type]
+					 Person
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Bernard Roland
+				[16:relevance]
+					 0.151872
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.33807
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Louise LeBlanc
+				[17:relevance]
+					 0.151263
+				[17:type]
+					 Person
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 San Francisco
+				[18:relevance]
+					 0.150116
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 City
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Ontario
+				[19:relevance]
+					 0.148333
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 La Courte Echelle
+				[20:relevance]
+					 0.148278
+				[20:type]
+					 Facility
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 sales representative
+				[21:relevance]
+					 0.144202
+				[21:type]
+					 JobTitle
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 France
+				[22:relevance]
+					 0.143547
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmDirector
+						[4]
+							 Country
+					[22:disambiguation:name]
+						 France
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/France
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Academy of Arts College
+				[23:relevance]
+					 0.142358
+				[23:type]
+					 Organization
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0.348084
+					[24:sentiment:label]
+						 positive
+				[24:text]
+					 John Wyndham
+				[24:relevance]
+					 0.141252
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+						[0]
+							 MilitaryPerson
+						[1]
+							 FilmWriter
+					[24:disambiguation:name]
+						 John Wyndham
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Wyndham
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Ursula K. Le Guin
+				[25:relevance]
+					 0.140862
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmWriter
+						[4]
+							 HallOfFameInductee
+					[25:disambiguation:name]
+						 Ursula K. Le Guin
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ursula_K._Le_Guin
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Lawrence Durrell
+				[26:relevance]
+					 0.136239
+				[26:type]
+					 Person
+					[26:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 FilmWriter
+					[26:disambiguation:name]
+						 Lawrence Durrell
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lawrence_Durrell
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Marie Davis
+				[27:relevance]
+					 0.134823
+				[27:type]
+					 Person
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Jacob
+				[28:relevance]
+					 0.133085
+				[28:type]
+					 Person
+					[28:disambiguation:subtype]
+						[0]
+							 ReligiousLeader
+					[28:disambiguation:name]
+						 Jacob
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacob
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Oakville
+				[29:relevance]
+					 0.129475
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 City
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 director
+				[30:relevance]
+					 0.123337
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Stella
+				[31:relevance]
+					 0.123246
+				[31:type]
+					 Person
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Belgium
+				[32:relevance]
+					 0.122367
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 Country
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 David Homel
+				[33:relevance]
+					 0.119426
+				[33:type]
+					 Person
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 production manager
+				[34:relevance]
+					 0.116882
+				[34:type]
+					 JobTitle
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Sam
+				[35:relevance]
+					 0.114602
+				[35:type]
+					 Person
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 three years
+				[36:relevance]
+					 0.114602
+				[36:type]
+					 Quantity
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 five years
+				[37:relevance]
+					 0.114602
+				[37:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Children's literature
+				[0:relevance]
+					 0.978857
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Children's_literature
+				[1:text]
+					 Picture book
+				[1:relevance]
+					 0.621976
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Picture_book
+				[2:text]
+					 Literature
+				[2:relevance]
+					 0.51233
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Literature
+				[3:text]
+					 Gabriel García Márquez
+				[3:relevance]
+					 0.436543
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Gabriel_García_Márquez
+				[4:text]
+					 Writing
+				[4:relevance]
+					 0.370622
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Writing
+				[5:text]
+					 Fiction
+				[5:relevance]
+					 0.355116
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Fiction
+				[6:text]
+					 Young-adult fiction
+				[6:relevance]
+					 0.323843
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Young-adult_fiction
+		[:enriched_text:categories]
+				[0:score]
+					 0.794655
+				[0:label]
+					 /family and parenting/children
+				[1:score]
+					 0.793541
+				[1:label]
+					 /art and entertainment/books and literature/science fiction
+				[2:score]
+					 0.756652
+				[2:label]
+					 /art and entertainment/books and literature/children's books
+		[:metadata:docid]
+			 K1617001311
+		[:metadata:concepts]
+			[0]
+				 Children's literature
+			[1]
+				 Picture book
+			[2]
+				 Literature
+			[3]
+				 Gabriel García Márquez
+			[4]
+				 Writing
+			[5]
+				 Fiction
+			[6]
+				 Young-adult fiction
+		[:metadata:keywords]
+			[0]
+				 Marie-Louise Gay
+			[1]
+				 Gay blends fantasy
+			[2]
+				 picture books
+			[3]
+				 Gay's characters
+			[4]
+				 such writers
+			[5]
+				 Canadian author
+			[6]
+				 Gay's pictures
+			[7]
+				 Québec City
+			[8]
+				 prominent contemporary creators of children
+			[9]
+				 young protagonists
+		[:metadata:entitites]
+			[0]
+				 Gay
+			[1]
+				 Louise Gay
+			[2]
+				 Louise LeBlanc
+			[3]
+				 Tim Wynne
+			[4]
+				 Don Gillmor
+			[5]
+				 Susan Musgrave
+			[6]
+				 Marilyn Singer
+			[7]
+				 Marie
+			[8]
+				 Montréal
+			[9]
+				 Dennis Lee
+		[:metadata:title]
+			 Marie-Louise Gay
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 39
+			[:metadata:gale:gale-fake-waiting]
+				 11
+		[:extracted_metadata:sha1]
+			 31b8fe0ef901e54efe5a60dea4ecc4d7f7429b9e
+		[:extracted_metadata:filename]
+			 Marie-Louise Gay.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 ccfc8320-5296-4ca8-9f2a-b91742219867
+		[:result_metadata:confidence]
+			 0.09006261327936337
+		[:result_metadata:score]
+			 8.220834
+	[:text]
+		 no title
+
+Born about a decade before the French Revolution, Joseph Gay-Lussac was only 14 when his comfortable family life was disrupted by [...]
+				[:enriched_text:sentiment:document:score]
+					 0.631137
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 21
+					[0:sentiment:score]
+						 0.423835
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Gay-Lussac
+				[0:relevance]
+					 0.911811
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 City
+				[1:count]
+					 8
+					[1:sentiment:score]
+						 0.345096
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Joseph Gay-Lussac
+				[1:relevance]
+					 0.830419
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 ElementDiscoverer
+						[2]
+							 Scientist
+					[1:disambiguation:name]
+						 Joseph Louis Gay-Lussac
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Sir Humphry Davy
+				[2:relevance]
+					 0.638063
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ElementDiscoverer
+						[3]
+							 Inventor
+						[4]
+							 Scientist
+					[2:disambiguation:name]
+						 Humphry Davy
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Humphry_Davy
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Emperor Napoleon Bonaparte
+				[3:relevance]
+					 0.346384
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Napoleon
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Napoleon
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 École Polytechnique
+				[4:relevance]
+					 0.34389
+				[4:type]
+					 GeographicFeature
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Paris
+				[5:relevance]
+					 0.330191
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 FrenchDepartment
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 OlympicBiddingCity
+						[4]
+							 OlympicHostCity
+						[5]
+							 PlaceWithNeighborhoods
+						[6]
+							 City
+					[5:disambiguation:name]
+						 Paris
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paris
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Thenard
+				[6:relevance]
+					 0.313513
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Bernard Courtois
+				[7:relevance]
+					 0.300945
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Bernard Courtois
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bernard_Courtois
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 cyanogen
+				[8:relevance]
+					 0.289569
+				[8:type]
+					 Person
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.343276
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Humboldt
+				[9:relevance]
+					 0.284289
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Louis Thénard
+				[10:relevance]
+					 0.280092
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 physicist
+				[11:relevance]
+					 0.277098
+				[11:type]
+					 JobTitle
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.605528
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 technician
+				[12:relevance]
+					 0.257927
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 nine days
+				[13:relevance]
+					 0.257927
+				[13:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Iodine
+				[0:relevance]
+					 0.964768
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Iodine
+				[1:text]
+					 Humphry Davy
+				[1:relevance]
+					 0.910586
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Humphry_Davy
+				[2:text]
+					 Boron
+				[2:relevance]
+					 0.862172
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Boron
+				[3:text]
+					 Cyanide
+				[3:relevance]
+					 0.638461
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Cyanide
+				[4:text]
+					 Bernard Courtois
+				[4:relevance]
+					 0.590986
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bernard_Courtois
+				[5:text]
+					 Chemistry
+				[5:relevance]
+					 0.581435
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Chemistry
+				[6:text]
+					 Oxygen
+				[6:relevance]
+					 0.576211
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Oxygen
+				[7:text]
+					 Discoverers of chemical elements
+				[7:relevance]
+					 0.549307
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Discoverers_of_chemical_elements
+		[:enriched_text:categories]
+				[0:score]
+					 0.943764
+				[0:label]
+					 /science/chemistry
+				[1:score]
+					 0.857442
+				[1:label]
+					 /science/chemistry/organic chemistry
+				[2:score]
+					 0.731774
+				[2:label]
+					 /science/physics/thermodynamics
+		[:metadata:docid]
+			 K2434100087
+		[:metadata:concepts]
+			[0]
+				 Iodine
+			[1]
+				 Humphry Davy
+			[2]
+				 Boron
+			[3]
+				 Cyanide
+			[4]
+				 Bernard Courtois
+			[5]
+				 Chemistry
+			[6]
+				 Oxygen
+			[7]
+				 Discoverers of chemical elements
+			[8]
+				 Potassium
+			[9]
+				 Members of the Royal Swedish Academy of Sciences
+		[:metadata:keywords]
+			[0]
+				 Joseph Gay-Lussac
+			[1]
+				 Gay-Lussac's tutor
+			[2]
+				 Gay-Lussac's career
+			[3]
+				 French Revolution
+			[4]
+				 Gay-Lussac
+			[5]
+				 name of French nationalism
+			[6]
+				 basic idea
+			[7]
+				 volumetric method
+			[8]
+				 use of titration
+			[9]
+				 new École Polytechnique
+		[:metadata:entitites]
+			[0]
+				 Lussac
+			[1]
+				 Joseph Gay
+			[2]
+				 Polytechnique
+			[3]
+				 Sir Humphry Davy
+			[4]
+				 Emperor Napoleon Bonaparte
+			[5]
+				 Louis Thénard
+			[6]
+				 Thenard
+			[7]
+				 Davy
+			[8]
+				 Bernard Courtois
+			[9]
+				 nine days
+		[:metadata:title]
+			 Joseph-Louis Gay-Lussac
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 5
+			[:metadata:gale:gale-fake-waiting]
+				 91
+		[:extracted_metadata:sha1]
+			 74074dc5aab3e1ca79be503217dfbd6f60981d82
+		[:extracted_metadata:filename]
+			 Joseph-Louis Gay-Lussac.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 96d69750-b013-4f1d-96ff-a049027f1163
+		[:result_metadata:confidence]
+			 0.08663881062620568
+		[:result_metadata:score]
+			 8.21572
+	[:text]
+		 no title
+
+The issue of gay rights encompasses both civil rights and human rights for members of the lesbian, gay, bisexual, and transgender [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.346666
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 6
+					[0:sentiment:score]
+						 -0.564883
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 United States
+				[0:relevance]
+					 0.648594
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[0:disambiguation:name]
+						 United States
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 US Supreme Court
+				[1:relevance]
+					 0.353871
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[1:disambiguation:name]
+						 Supreme Court of the United States
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Yogyakarta
+				[2:relevance]
+					 0.344489
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 IndonesianProvince
+						[3]
+							 City
+					[2:disambiguation:name]
+						 Yogyakarta
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yogyakarta
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Bill Clinton
+				[3:relevance]
+					 0.329681
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Politician
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OfficeHolder
+						[7]
+							 PoliticalAppointer
+						[8]
+							 TVPersonality
+						[9]
+							 FilmActor
+						[10]
+							 FilmWriter
+						[11]
+							 USPresident
+					[3:disambiguation:name]
+						 Bill Clinton
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Clinton
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.340918
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Malawi
+				[4:relevance]
+					 0.278691
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[4:disambiguation:name]
+						 Malawi
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Malawi
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Greenwich Village
+				[5:relevance]
+					 0.273303
+				[5:type]
+					 Facility
+					[5:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Neighborhood
+						[2]
+							 CityTown
+					[5:disambiguation:name]
+						 Greenwich Village
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Greenwich_Village
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0.522176
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 South Africa
+				[6:relevance]
+					 0.268617
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[6:disambiguation:name]
+						 South Africa
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/South_Africa
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Greece
+				[7:relevance]
+					 0.266188
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 WineRegion
+						[2]
+							 Country
+					[7:disambiguation:name]
+						 Greece
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Greece
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.327034
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 President Barack Obama
+				[8:relevance]
+					 0.259825
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[8:disambiguation:name]
+						 Barack Obama
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.37062
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 American Psychiatric Association
+				[9:relevance]
+					 0.259219
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 American Psychiatric Association
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Psychiatric_Association
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 -0.387117
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 president
+				[10:relevance]
+					 0.256812
+				[10:type]
+					 JobTitle
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 New York
+				[11:relevance]
+					 0.256703
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[11:disambiguation:name]
+						 New York City
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Rome
+				[12:relevance]
+					 0.256134
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+					[12:disambiguation:name]
+						 Rome, Adams County, Wisconsin
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rome,_Adams_County,_Wisconsin
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 -0.566952
+					[13:sentiment:label]
+						 negative
+				[13:text]
+					 Greenwich Village
+				[13:relevance]
+					 0.25558
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 City
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 District of Columbia
+				[14:relevance]
+					 0.252891
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MilitaryPost
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 CityTown
+					[14:disambiguation:name]
+						 Washington, D.C.
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Christian Council of Ghana
+				[15:relevance]
+					 0.252018
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 Christian Council of Ghana
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Christian_Council_of_Ghana
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.294719
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 Global Fund
+				[16:relevance]
+					 0.251713
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 Non-ProfitOrganisation
+					[16:disambiguation:name]
+						 The Global Fund to Fight AIDS, Tuberculosis and Malaria
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria[...]
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 America
+				[17:relevance]
+					 0.249244
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Continent
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0.244537
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Anita Bryant
+				[18:relevance]
+					 0.247671
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 FilmActor
+					[18:disambiguation:name]
+						 Anita Bryant
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Anita_Bryant
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Matthew Shepard
+				[19:relevance]
+					 0.247593
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 Matthew Shepard
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Matthew_Shepard
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 San Francisco
+				[20:relevance]
+					 0.245803
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[20:disambiguation:name]
+						 San Francisco
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Paul Evans Aidoo
+				[21:relevance]
+					 0.245243
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Paul Evans Aidoo
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paul_Evans_Aidoo
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 United Nations
+				[22:relevance]
+					 0.243671
+				[22:type]
+					 Organization
+					[22:disambiguation:subtype]
+					[22:disambiguation:name]
+						 United Nations (band)
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_Nations_(band)
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Wyoming
+				[23:relevance]
+					 0.242368
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[23:disambiguation:name]
+						 Wyoming
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wyoming
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 United Kingdom
+				[24:relevance]
+					 0.242103
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Country
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 Kingdom
+						[5]
+							 MeteorologicalService
+					[24:disambiguation:name]
+						 United Kingdom
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_Kingdom
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Harvey Milk
+				[25:relevance]
+					 0.240613
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 AwardWinner
+						[3]
+							 MilitaryPerson
+						[4]
+							 OfficeHolder
+						[5]
+							 OperaCharacter
+						[6]
+							 FilmActor
+					[25:disambiguation:name]
+						 Harvey Milk
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvey_Milk
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 American Psychological Association
+				[26:relevance]
+					 0.237442
+				[26:type]
+					 Organization
+					[26:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+						[2]
+							 PeriodicalPublisher
+					[26:disambiguation:name]
+						 American Psychological Association
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Psychological_Association
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Dan White
+				[27:relevance]
+					 0.237119
+				[27:type]
+					 Person
+					[27:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 MilitaryPerson
+						[3]
+							 OfficeHolder
+					[27:disambiguation:name]
+						 Dan White
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dan_White
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0.432889
+					[28:sentiment:label]
+						 positive
+				[28:text]
+					 Ghana
+				[28:relevance]
+					 0.235072
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[28:disambiguation:name]
+						 Ghana
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ghana
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 David Cameron
+				[29:relevance]
+					 0.234464
+				[29:type]
+					 Person
+					[29:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MemberOfParliament
+						[2]
+							 FilmActor
+						[3]
+							 TVActor
+					[29:disambiguation:name]
+						 David Cameron
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Cameron
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Prime Minister
+				[30:relevance]
+					 0.234088
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 -0.648516
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 assault
+				[31:relevance]
+					 0.232422
+				[31:type]
+					 Crime
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Sudan
+				[32:relevance]
+					 0.231455
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[32:disambiguation:name]
+						 Sudan
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sudan
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0.244537
+					[33:sentiment:label]
+						 positive
+				[33:text]
+					 Jerry Falwell
+				[33:relevance]
+					 0.227632
+				[33:type]
+					 Person
+					[33:disambiguation:subtype]
+						[0]
+							 TVPersonality
+						[1]
+							 FilmActor
+					[33:disambiguation:name]
+						 Jerry Falwell
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jerry_Falwell
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 American Medical Association
+				[34:relevance]
+					 0.225928
+				[34:type]
+					 Organization
+					[34:disambiguation:subtype]
+						[0]
+							 PeriodicalPublisher
+					[34:disambiguation:name]
+						 American Medical Association
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Medical_Association
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 -0.538568
+					[35:sentiment:label]
+						 negative
+				[35:text]
+					 Saudi Arabia
+				[35:relevance]
+					 0.224843
+				[35:type]
+					 Location
+					[35:disambiguation:subtype]
+						[0]
+							 Country
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Indonesia
+				[36:relevance]
+					 0.223904
+				[36:type]
+					 Location
+					[36:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 Country
+					[36:disambiguation:name]
+						 Indonesia
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Indonesia
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 -0.559164
+					[37:sentiment:label]
+						 negative
+				[37:text]
+					 rape
+				[37:relevance]
+					 0.220372
+				[37:type]
+					 Crime
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 supervisor
+				[38:relevance]
+					 0.219088
+				[38:type]
+					 JobTitle
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0.479923
+					[39:sentiment:label]
+						 positive
+				[39:text]
+					 Western Region
+				[39:relevance]
+					 0.216216
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 Region
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 Laramie
+				[40:relevance]
+					 0.213936
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 City
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 Germany
+				[41:relevance]
+					 0.190391
+				[41:type]
+					 Location
+					[41:disambiguation:subtype]
+						[0]
+							 Country
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 $560 million
+				[42:relevance]
+					 0.190391
+				[42:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.929653
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 LGBT
+				[1:relevance]
+					 0.7073
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[2:text]
+					 Sexual orientation
+				[2:relevance]
+					 0.636068
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+				[3:text]
+					 Same-sex marriage
+				[3:relevance]
+					 0.576254
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Same-sex_marriage
+				[4:text]
+					 Gay
+				[4:relevance]
+					 0.527018
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[5:text]
+					 Sexuality and gender identity-based cultures
+				[5:relevance]
+					 0.521711
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexuality_and_gender_identity-based_cultures
+				[6:text]
+					 Bisexuality
+				[6:relevance]
+					 0.430553
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Bisexuality
+				[7:text]
+					 Human rights
+				[7:relevance]
+					 0.416739
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+		[:enriched_text:categories]
+				[0:score]
+					 0.999976
+				[0:label]
+					 /society/gay life
+				[1:score]
+					 0.991677
+				[1:label]
+					 /society/crime/personal offense/hate crime
+		[:metadata:docid]
+			 EJ2181500082
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 LGBT
+			[2]
+				 Sexual orientation
+			[3]
+				 Same-sex marriage
+			[4]
+				 Gay
+			[5]
+				 Sexuality and gender identity-based cultures
+			[6]
+				 Bisexuality
+			[7]
+				 Human rights
+			[8]
+				 Bill Clinton
+			[9]
+				 Gay community
+		[:metadata:keywords]
+			[0]
+				 issue of gay rights
+			[1]
+				 gay rights advocates
+			[2]
+				 United States
+			[3]
+				 civil rights
+			[4]
+				 human rights
+			[5]
+				 gay marriage
+			[6]
+				 Gay rights
+			[7]
+				 such activities
+			[8]
+				 few of its members
+			[9]
+				 sex marriage
+		[:metadata:entitites]
+			[0]
+				 United States
+			[1]
+				 Greenwich Village
+			[2]
+				 Reverend Jerry Falwell
+			[3]
+				 Stonewall Inn
+			[4]
+				 Anita Bryant
+			[5]
+				 Dan White
+			[6]
+				 gay college
+			[7]
+				 US Supreme Court
+			[8]
+				 American Psychiatric Association
+			[9]
+				 Harvey Milk
+		[:metadata:title]
+			 Gay Rights
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 71
+			[:metadata:gale:gale-fake-waiting]
+				 45
+		[:extracted_metadata:sha1]
+			 a44c508426ee943162b1d7a7f12d6c19b2496931
+		[:extracted_metadata:filename]
+			 Gay Rights.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

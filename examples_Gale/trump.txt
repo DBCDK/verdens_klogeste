@@ -1,0 +1,8811 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 127517a4-9111-49a3-ac6e-f70848cbfec9
+		[:result_metadata:confidence]
+			 0.1005330060318486
+		[:result_metadata:score]
+			 11.208463
+	[:text]
+		 no title
+
+Billionaire real estate developer Donald Trump (1946-) showed the world that millions could be made in developing expensive commer[...]
+				[:enriched_text:sentiment:document:score]
+					 0.338544
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 53
+					[0:sentiment:score]
+						 0.446041
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Mary MacLeod Trump
+				[0:relevance]
+					 0.93121
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 0.588081
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.607196
+				[1:type]
+					 Company
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump Tower
+				[2:relevance]
+					 0.352352
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Company
+						[2]
+							 Building
+					[2:disambiguation:name]
+						 Trump Tower (Tampa)
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(Tampa)
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.376179
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Trump Organization
+				[3:relevance]
+					 0.307969
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 The Trump Organization
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.420026
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Trump Plaza
+				[4:relevance]
+					 0.304539
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.624789
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Trump Parc
+				[5:relevance]
+					 0.297598
+				[5:type]
+					 Facility
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.44361
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Trump International Hotel and Tower
+				[6:relevance]
+					 0.29718
+				[6:type]
+					 Facility
+					[6:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 Company
+						[3]
+							 Accommodation
+						[4]
+							 Building
+						[5]
+							 Skyscraper
+					[6:disambiguation:name]
+						 Trump International Hotel and Tower (Chicago)
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_International_Hotel_and_Tower_(Chicago)
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.13296
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Trump Tower
+				[7:relevance]
+					 0.289253
+				[7:type]
+					 Facility
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Trump Tower (New York City)
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Trump University
+				[8:relevance]
+					 0.281367
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 The Trump Entrepreneur Initiative
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Entrepreneur_Initiative
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.372635
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Trump International Hotel
+				[9:relevance]
+					 0.280792
+				[9:type]
+					 Facility
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Trump Entertainment Resorts Inc
+				[10:relevance]
+					 0.278385
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Trump Grande Ocean
+				[11:relevance]
+					 0.268248
+				[11:type]
+					 GeographicFeature
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Trump Shuttle
+				[12:relevance]
+					 0.24942
+				[12:type]
+					 Facility
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Trump Hotels
+				[13:relevance]
+					 0.211077
+				[13:type]
+					 Company
+				[14:count]
+					 6
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 New York City
+				[14:relevance]
+					 0.166881
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[14:disambiguation:name]
+						 New York City
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[15:count]
+					 6
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Manhattan
+				[15:relevance]
+					 0.159359
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[15:disambiguation:name]
+						 Manhattan
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Wharton School of Business
+				[16:relevance]
+					 0.124957
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[16:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 New York Military Academy
+				[17:relevance]
+					 0.123936
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[17:disambiguation:name]
+						 New York Military Academy
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Hudson River
+				[18:relevance]
+					 0.113202
+				[18:type]
+					 GeographicFeature
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[18:disambiguation:name]
+						 Hudson River
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hudson_River
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 New York
+				[19:relevance]
+					 0.111154
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 City
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0.583353
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Ivana Zelnickova Winklmayr
+				[20:relevance]
+					 0.111027
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Fordham University
+				[21:relevance]
+					 0.108701
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[21:disambiguation:name]
+						 Fordham University
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[22:count]
+					 2
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Commodore Hotel
+				[22:relevance]
+					 0.10587
+				[22:type]
+					 Facility
+					[22:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[22:disambiguation:name]
+						 Commodore Hotel (Portland, Oregon)
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commodore_Hotel_(Portland,_Oregon)
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.403913
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Melania Knauss
+				[23:relevance]
+					 0.104846
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+						[0]
+							 Celebrity
+						[1]
+							 Model
+					[23:disambiguation:name]
+						 Melania Trump
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Melania_Trump
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0.512574
+					[24:sentiment:label]
+						 positive
+				[24:text]
+					 University of Pennsylvania
+				[24:relevance]
+					 0.104175
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[24:disambiguation:name]
+						 University of Pennsylvania
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Queens
+				[25:relevance]
+					 0.104153
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[25:disambiguation:name]
+						 Queens
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Brooklyn
+				[26:relevance]
+					 0.103583
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[26:disambiguation:name]
+						 Brooklyn
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Delmonico Hotel
+				[27:relevance]
+					 0.103158
+				[27:type]
+					 Facility
+					[27:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[27:disambiguation:name]
+						 Trump Park Avenue
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[28:count]
+					 2
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Reform Party
+				[28:relevance]
+					 0.100881
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[28:disambiguation:name]
+						 American Reform Party
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Reform_Party
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Bonwit Teller
+				[29:relevance]
+					 0.099913
+				[29:type]
+					 Company
+					[29:disambiguation:subtype]
+					[29:disambiguation:name]
+						 Bonwit Teller
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bonwit_Teller
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0.542671
+					[30:sentiment:label]
+						 positive
+				[30:text]
+					 Atlantic City
+				[30:relevance]
+					 0.098652
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 City
+					[30:disambiguation:name]
+						 Atlantic City, New Jersey
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 American Airlines
+				[31:relevance]
+					 0.098154
+				[31:type]
+					 Company
+					[31:disambiguation:subtype]
+						[0]
+							 Airline
+					[31:disambiguation:name]
+						 American Airlines
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Airlines
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Grand Hyatt Hotel
+				[32:relevance]
+					 0.097731
+				[32:type]
+					 Facility
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 United States
+				[33:relevance]
+					 0.097369
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[33:disambiguation:name]
+						 United States
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Fortune magazine
+				[34:relevance]
+					 0.097357
+				[34:type]
+					 PrintMedia
+					[34:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Magazine
+					[34:disambiguation:name]
+						 Fortune (magazine)
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fortune_(magazine)
+				[35:count]
+					 2
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Chicago
+				[35:relevance]
+					 0.096526
+				[35:type]
+					 Location
+					[35:disambiguation:subtype]
+						[0]
+							 City
+					[35:disambiguation:name]
+						 Chicago
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chicago
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Plaza Hotel
+				[36:relevance]
+					 0.095971
+				[36:type]
+					 Facility
+					[36:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Accommodation
+						[2]
+							 Building
+					[36:disambiguation:name]
+						 Plaza Hotel
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Plaza_Hotel
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Hyatt Corporation
+				[37:relevance]
+					 0.095872
+				[37:type]
+					 Company
+					[37:disambiguation:subtype]
+						[0]
+							 Brand
+					[37:disambiguation:name]
+						 Hyatt
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hyatt
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Staten Island
+				[38:relevance]
+					 0.095755
+				[38:type]
+					 GeographicFeature
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0.20506
+					[39:sentiment:label]
+						 positive
+				[39:text]
+					 Marla Maples
+				[39:relevance]
+					 0.095084
+				[39:type]
+					 Person
+					[39:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 FilmActor
+						[2]
+							 TVActor
+					[39:disambiguation:name]
+						 Marla Maples
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Marla_Maples
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 New Jersey
+				[40:relevance]
+					 0.094563
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[40:disambiguation:name]
+						 New Jersey
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.98485
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Trump Entertainment Resorts
+				[1:relevance]
+					 0.470206
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Entertainment_Resorts
+				[2:text]
+					 Trump Organization
+				[2:relevance]
+					 0.466454
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[3:text]
+					 Trump Park Avenue
+				[3:relevance]
+					 0.458049
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[4:text]
+					 Ivana Trump
+				[4:relevance]
+					 0.376031
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[5:text]
+					 Donald Trump, Jr.
+				[5:relevance]
+					 0.36825
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[6:text]
+					 Trump Tower
+				[6:relevance]
+					 0.366145
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+				[7:text]
+					 Fred Trump
+				[7:relevance]
+					 0.349072
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fred_Trump
+		[:enriched_text:categories]
+				[0:score]
+					 0.896505
+				[0:label]
+					 /real estate/buying and selling homes
+				[1:score]
+					 0.837891
+				[1:label]
+					 /finance/financial news
+				[2:score]
+					 0.801189
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 EJ1667000175
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump Entertainment Resorts
+			[2]
+				 Trump Organization
+			[3]
+				 Trump Park Avenue
+			[4]
+				 Ivana Trump
+			[5]
+				 Donald Trump, Jr.
+			[6]
+				 Trump Tower
+			[7]
+				 Fred Trump
+			[8]
+				 The Apprentice
+		[:metadata:keywords]
+			[0]
+				 real estate developer Donald Trump
+			[1]
+				 Donald John Trump
+			[2]
+				 Mary MacLeod Trump
+			[3]
+				 New York
+			[4]
+				 expansion of the company
+			[5]
+				 Trump Organization
+			[6]
+				 Trump
+			[7]
+				 building houses
+			[8]
+				 real estate developer
+			[9]
+				 Academy Trump
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Donald Trump
+			[2]
+				 Trump Organization
+			[3]
+				 Wharton School of Business
+			[4]
+				 Trump Tower
+			[5]
+				 Frederick C.
+			[6]
+				 Manhattan
+			[7]
+				 New York Military Academy
+			[8]
+				 Academy Trump
+			[9]
+				 New York
+		[:metadata:title]
+			 Donald John Trump
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 88
+			[:metadata:gale:gale-fake-waiting]
+				 41
+		[:extracted_metadata:sha1]
+			 769104b47036ccd08fdade1f15b4625d49437533
+		[:extracted_metadata:filename]
+			 Donald John Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 98581f55-dfc7-417c-b111-886b709fdd71
+		[:result_metadata:confidence]
+			 0.1005330060318486
+		[:result_metadata:score]
+			 11.208463
+	[:text]
+		 no title
+
+Billionaire real estate developer Donald Trump (1946-) showed the world that millions could be made in developing expensive commer[...]
+				[:enriched_text:sentiment:document:score]
+					 0.339027
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 53
+					[0:sentiment:score]
+						 0.411324
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Mary MacLeod Trump
+				[0:relevance]
+					 0.931196
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 0.588081
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.607184
+				[1:type]
+					 Company
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump Tower
+				[2:relevance]
+					 0.352342
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Company
+						[2]
+							 Building
+					[2:disambiguation:name]
+						 Trump Tower (Tampa)
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(Tampa)
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.376179
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Trump Organization
+				[3:relevance]
+					 0.307943
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 The Trump Organization
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.420026
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Trump Plaza
+				[4:relevance]
+					 0.304527
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.624789
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Trump Parc
+				[5:relevance]
+					 0.297586
+				[5:type]
+					 Facility
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.44361
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Trump International Hotel and Tower
+				[6:relevance]
+					 0.29717
+				[6:type]
+					 Facility
+					[6:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 Company
+						[3]
+							 Accommodation
+						[4]
+							 Building
+						[5]
+							 Skyscraper
+					[6:disambiguation:name]
+						 Trump International Hotel and Tower (Chicago)
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_International_Hotel_and_Tower_(Chicago)
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.13296
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Trump Tower
+				[7:relevance]
+					 0.289242
+				[7:type]
+					 Facility
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Trump Tower (New York City)
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Trump University
+				[8:relevance]
+					 0.281364
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 The Trump Entrepreneur Initiative
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Entrepreneur_Initiative
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.372635
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Trump International Hotel
+				[9:relevance]
+					 0.280786
+				[9:type]
+					 Facility
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Trump Entertainment Resorts Inc
+				[10:relevance]
+					 0.278379
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Trump Grande Ocean
+				[11:relevance]
+					 0.268239
+				[11:type]
+					 GeographicFeature
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Trump Shuttle
+				[12:relevance]
+					 0.249423
+				[12:type]
+					 Facility
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Trump Hotels
+				[13:relevance]
+					 0.21107
+				[13:type]
+					 Company
+				[14:count]
+					 6
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 New York City
+				[14:relevance]
+					 0.166876
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[14:disambiguation:name]
+						 New York City
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[15:count]
+					 6
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Manhattan
+				[15:relevance]
+					 0.159353
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[15:disambiguation:name]
+						 Manhattan
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Wharton School of Business
+				[16:relevance]
+					 0.124949
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[16:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 New York Military Academy
+				[17:relevance]
+					 0.123925
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[17:disambiguation:name]
+						 New York Military Academy
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Hudson River
+				[18:relevance]
+					 0.113199
+				[18:type]
+					 GeographicFeature
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[18:disambiguation:name]
+						 Hudson River
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hudson_River
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 New York
+				[19:relevance]
+					 0.111147
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 City
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0.583353
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Ivana Zelnickova Winklmayr
+				[20:relevance]
+					 0.11102
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Fordham University
+				[21:relevance]
+					 0.108691
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[21:disambiguation:name]
+						 Fordham University
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[22:count]
+					 2
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Commodore Hotel
+				[22:relevance]
+					 0.105863
+				[22:type]
+					 Facility
+					[22:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[22:disambiguation:name]
+						 Commodore Hotel (Portland, Oregon)
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commodore_Hotel_(Portland,_Oregon)
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.403913
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Melania Knauss
+				[23:relevance]
+					 0.10484
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+						[0]
+							 Celebrity
+						[1]
+							 Model
+					[23:disambiguation:name]
+						 Melania Trump
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Melania_Trump
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0.512574
+					[24:sentiment:label]
+						 positive
+				[24:text]
+					 University of Pennsylvania
+				[24:relevance]
+					 0.104165
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[24:disambiguation:name]
+						 University of Pennsylvania
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Queens
+				[25:relevance]
+					 0.104142
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[25:disambiguation:name]
+						 Queens
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Brooklyn
+				[26:relevance]
+					 0.103572
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[26:disambiguation:name]
+						 Brooklyn
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Delmonico Hotel
+				[27:relevance]
+					 0.103154
+				[27:type]
+					 Facility
+					[27:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[27:disambiguation:name]
+						 Trump Park Avenue
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[28:count]
+					 2
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Reform Party
+				[28:relevance]
+					 0.100879
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[28:disambiguation:name]
+						 American Reform Party
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Reform_Party
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Bonwit Teller
+				[29:relevance]
+					 0.099911
+				[29:type]
+					 Company
+					[29:disambiguation:subtype]
+					[29:disambiguation:name]
+						 Bonwit Teller
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bonwit_Teller
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0.542671
+					[30:sentiment:label]
+						 positive
+				[30:text]
+					 Atlantic City
+				[30:relevance]
+					 0.098647
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 City
+					[30:disambiguation:name]
+						 Atlantic City, New Jersey
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 American Airlines
+				[31:relevance]
+					 0.098155
+				[31:type]
+					 Company
+					[31:disambiguation:subtype]
+						[0]
+							 Airline
+					[31:disambiguation:name]
+						 American Airlines
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Airlines
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Grand Hyatt Hotel
+				[32:relevance]
+					 0.097726
+				[32:type]
+					 Facility
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 United States
+				[33:relevance]
+					 0.097369
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[33:disambiguation:name]
+						 United States
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Fortune magazine
+				[34:relevance]
+					 0.097358
+				[34:type]
+					 PrintMedia
+					[34:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Magazine
+					[34:disambiguation:name]
+						 Fortune (magazine)
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fortune_(magazine)
+				[35:count]
+					 2
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Chicago
+				[35:relevance]
+					 0.096524
+				[35:type]
+					 Location
+					[35:disambiguation:subtype]
+						[0]
+							 City
+					[35:disambiguation:name]
+						 Chicago
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chicago
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Plaza Hotel
+				[36:relevance]
+					 0.095966
+				[36:type]
+					 Facility
+					[36:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Accommodation
+						[2]
+							 Building
+					[36:disambiguation:name]
+						 Plaza Hotel
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Plaza_Hotel
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Hyatt Corporation
+				[37:relevance]
+					 0.095868
+				[37:type]
+					 Company
+					[37:disambiguation:subtype]
+						[0]
+							 Brand
+					[37:disambiguation:name]
+						 Hyatt
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hyatt
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Staten Island
+				[38:relevance]
+					 0.095744
+				[38:type]
+					 GeographicFeature
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0.20506
+					[39:sentiment:label]
+						 positive
+				[39:text]
+					 Marla Maples
+				[39:relevance]
+					 0.095078
+				[39:type]
+					 Person
+					[39:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 FilmActor
+						[2]
+							 TVActor
+					[39:disambiguation:name]
+						 Marla Maples
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Marla_Maples
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 New Jersey
+				[40:relevance]
+					 0.094559
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[40:disambiguation:name]
+						 New Jersey
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.98485
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Trump Entertainment Resorts
+				[1:relevance]
+					 0.470206
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Entertainment_Resorts
+				[2:text]
+					 Trump Organization
+				[2:relevance]
+					 0.466454
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[3:text]
+					 Trump Park Avenue
+				[3:relevance]
+					 0.458049
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[4:text]
+					 Ivana Trump
+				[4:relevance]
+					 0.376031
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[5:text]
+					 Donald Trump, Jr.
+				[5:relevance]
+					 0.36825
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[6:text]
+					 Trump Tower
+				[6:relevance]
+					 0.366145
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+				[7:text]
+					 Fred Trump
+				[7:relevance]
+					 0.349072
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fred_Trump
+		[:enriched_text:categories]
+				[0:score]
+					 0.897183
+				[0:label]
+					 /real estate/buying and selling homes
+				[1:score]
+					 0.837556
+				[1:label]
+					 /finance/financial news
+				[2:score]
+					 0.80052
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 K1667000175
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump Entertainment Resorts
+			[2]
+				 Trump Organization
+			[3]
+				 Trump Park Avenue
+			[4]
+				 Ivana Trump
+			[5]
+				 Donald Trump, Jr.
+			[6]
+				 Trump Tower
+			[7]
+				 Fred Trump
+			[8]
+				 The Apprentice
+		[:metadata:keywords]
+			[0]
+				 real estate developer Donald Trump
+			[1]
+				 Donald John Trump
+			[2]
+				 Mary MacLeod Trump
+			[3]
+				 New York
+			[4]
+				 expansion of the company
+			[5]
+				 Trump Organization
+			[6]
+				 Trump
+			[7]
+				 building houses
+			[8]
+				 real estate developer
+			[9]
+				 Academy Trump
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Donald Trump
+			[2]
+				 Trump Organization
+			[3]
+				 Wharton School of Finance
+			[4]
+				 Trump Tower
+			[5]
+				 Frederick C.
+			[6]
+				 Manhattan
+			[7]
+				 New York Military Academy
+			[8]
+				 Academy Trump
+			[9]
+				 New York
+		[:metadata:title]
+			 Donald John Trump
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 11
+			[:metadata:gale:gale-fake-waiting]
+				 94
+		[:extracted_metadata:sha1]
+			 a585deafb1c4bce5203702e96c1f0afd58fefbec
+		[:extracted_metadata:filename]
+			 Donald John Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 e4a18dc4-72e0-4c44-b112-0a06032709c5
+		[:result_metadata:confidence]
+			 0.09992421804804368
+		[:result_metadata:score]
+			 11.204487
+	[:text]
+		 no title
+
+By the early 2000s the American real estate development and construction businessman Donald John Trump had designed a billion-doll[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.261512
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 49
+					[0:sentiment:score]
+						 0.170019
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Donald John Trump
+				[0:relevance]
+					 0.899514
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 15
+					[1:sentiment:score]
+						 0.512971
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.547318
+				[1:type]
+					 Company
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump World Tower
+				[2:relevance]
+					 0.292295
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+						[2]
+							 Company
+						[3]
+							 Skyscraper
+					[2:disambiguation:name]
+						 Trump World Tower
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_World_Tower
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Trump International Hotel and Tower
+				[3:relevance]
+					 0.2849
+				[3:type]
+					 Facility
+					[3:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 Company
+						[3]
+							 Accommodation
+						[4]
+							 Building
+						[5]
+							 Skyscraper
+					[3:disambiguation:name]
+						 Trump SoHo
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_SoHo
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Trump Organization
+				[4:relevance]
+					 0.279012
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 The Trump Organization
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Organization
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Trump Plaza Hotel and Casino
+				[5:relevance]
+					 0.277433
+				[5:type]
+					 Facility
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.434327
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Trump Tower
+				[6:relevance]
+					 0.276503
+				[6:type]
+					 Facility
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Trump Tower (New York City)
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Trump Building
+				[7:relevance]
+					 0.250956
+				[7:type]
+					 Facility
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+						[2]
+							 Company
+						[3]
+							 Skyscraper
+					[7:disambiguation:name]
+						 40 Wall Street
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/40_Wall_Street
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.325634
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Trump Parc
+				[8:relevance]
+					 0.238723
+				[8:type]
+					 Facility
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Trump Place
+				[9:relevance]
+					 0.224855
+				[9:type]
+					 GeographicFeature
+				[10:count]
+					 7
+					[10:sentiment:score]
+						 0.592506
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Manhattan
+				[10:relevance]
+					 0.165149
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[10:disambiguation:name]
+						 Manhattan
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.402898
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Commodore Hotel
+				[11:relevance]
+					 0.124913
+				[11:type]
+					 Facility
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[11:disambiguation:name]
+						 Commodore Hotel (Portland, Oregon)
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commodore_Hotel_(Portland,_Oregon)
+				[12:count]
+					 3
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 United States
+				[12:relevance]
+					 0.111997
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[12:disambiguation:name]
+						 United States
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[13:count]
+					 3
+					[13:sentiment:score]
+						 0.659899
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Grand Central Terminal
+				[13:relevance]
+					 0.111778
+				[13:type]
+					 Facility
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 0.289338
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Brooklyn
+				[14:relevance]
+					 0.108433
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[14:disambiguation:name]
+						 Brooklyn
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 0.346991
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Queens
+				[15:relevance]
+					 0.108128
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[15:disambiguation:name]
+						 Queens
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 New York City
+				[16:relevance]
+					 0.107877
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[16:disambiguation:name]
+						 New York City
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Staten Island
+				[17:relevance]
+					 0.104431
+				[17:type]
+					 GeographicFeature
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0.35303
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Plaza Hotel
+				[18:relevance]
+					 0.101354
+				[18:type]
+					 Facility
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Accommodation
+						[2]
+							 Building
+					[18:disambiguation:name]
+						 Plaza Hotel
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Plaza_Hotel
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 New York Military Academy
+				[19:relevance]
+					 0.101179
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[19:disambiguation:name]
+						 New York Military Academy
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Grand Hyatt Hotel
+				[20:relevance]
+					 0.100477
+				[20:type]
+					 Facility
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 37-story Plaza Hotel
+				[21:relevance]
+					 0.096832
+				[21:type]
+					 Facility
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Mary
+				[22:relevance]
+					 0.096286
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 New York City Planning Commission
+				[23:relevance]
+					 0.096096
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 New York City Department of City Planning
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City_Department_of_City_Planning
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Verrazano-Narrows Bridge
+				[24:relevance]
+					 0.095369
+				[24:type]
+					 Facility
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Bridge
+					[24:disambiguation:name]
+						 Verrazano-Narrows Bridge
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Verrazano-Narrows_Bridge
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Mayfair Regent Hotel
+				[25:relevance]
+					 0.094927
+				[25:type]
+					 Facility
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.58416
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Hyatt Hotel
+				[26:relevance]
+					 0.093471
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 City
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Fordham University
+				[27:relevance]
+					 0.09332
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[27:disambiguation:name]
+						 Fordham University
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 New Jersey
+				[28:relevance]
+					 0.093207
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[28:disambiguation:name]
+						 New Jersey
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Atlantic City
+				[29:relevance]
+					 0.092365
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 City
+					[29:disambiguation:name]
+						 Atlantic City, New Jersey
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Senator Jacob Javits
+				[30:relevance]
+					 0.091531
+				[30:type]
+					 Person
+					[30:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryPerson
+						[2]
+							 Senator
+						[3]
+							 U.S.Congressperson
+					[30:disambiguation:name]
+						 Jacob K. Javits
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacob_K._Javits
+				[31:count]
+					 2
+					[31:sentiment:score]
+						 -0.385623
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 Hilton Hotels
+				[31:relevance]
+					 0.090692
+				[31:type]
+					 Company
+					[31:disambiguation:subtype]
+					[31:disambiguation:name]
+						 Hilton Hotels & Resorts
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hilton_Hotels_&_Resorts
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Penn Central
+				[32:relevance]
+					 0.088366
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 City
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Frederick
+				[33:relevance]
+					 0.088227
+				[33:type]
+					 Person
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 -0.325937
+					[34:sentiment:label]
+						 negative
+				[34:text]
+					 Pennsylvania Central railroad
+				[34:relevance]
+					 0.087954
+				[34:type]
+					 Facility
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0.399125
+					[35:sentiment:label]
+						 positive
+				[35:text]
+					 Taj Mahal
+				[35:relevance]
+					 0.086626
+				[35:type]
+					 Facility
+					[35:disambiguation:subtype]
+					[35:disambiguation:name]
+						 Taj Mahal
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Taj_Mahal
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 United Nations
+				[36:relevance]
+					 0.086401
+				[36:type]
+					 Organization
+					[36:disambiguation:subtype]
+					[36:disambiguation:name]
+						 United Nations (band)
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_Nations_(band)
+				[37:count]
+					 2
+					[37:sentiment:score]
+						 0.707861
+					[37:sentiment:label]
+						 positive
+				[37:text]
+					 Holiday Inn
+				[37:relevance]
+					 0.085853
+				[37:type]
+					 Facility
+					[37:disambiguation:subtype]
+					[37:disambiguation:name]
+						 Holiday Inn, Townsville
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Holiday_Inn,_Townsville
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0.422071
+					[38:sentiment:label]
+						 positive
+				[38:text]
+					 Gwenda Blair
+				[38:relevance]
+					 0.085122
+				[38:type]
+					 Person
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Barbizon-Plaza Hotel
+				[39:relevance]
+					 0.0846
+				[39:type]
+					 Facility
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 P. T. Barnum
+				[40:relevance]
+					 0.083371
+				[40:type]
+					 Person
+					[40:disambiguation:subtype]
+					[40:disambiguation:name]
+						 P. T. Barnum
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/P._T._Barnum
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 University of Pennsylvania
+				[41:relevance]
+					 0.082593
+				[41:type]
+					 Organization
+					[41:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[41:disambiguation:name]
+						 University of Pennsylvania
+					[41:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 Wharton School of Finance
+				[42:relevance]
+					 0.081162
+				[42:type]
+					 Organization
+					[42:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[42:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Hudson River
+				[43:relevance]
+					 0.080553
+				[43:type]
+					 GeographicFeature
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.961943
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 40 Wall Street
+				[1:relevance]
+					 0.609655
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/40_Wall_Street
+				[2:text]
+					 Manhattan
+				[2:relevance]
+					 0.577567
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Manhattan
+				[3:text]
+					 Ivana Trump
+				[3:relevance]
+					 0.562856
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[4:text]
+					 Donald Trump, Jr.
+				[4:relevance]
+					 0.524119
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[5:text]
+					 Trump Tower
+				[5:relevance]
+					 0.520488
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+				[6:text]
+					 Trump Organization
+				[6:relevance]
+					 0.512433
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[7:text]
+					 Trump World Tower
+				[7:relevance]
+					 0.490962
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_World_Tower
+		[:enriched_text:categories]
+				[0:score]
+					 0.885481
+				[0:label]
+					 /real estate/buying and selling homes
+				[1:score]
+					 0.864106
+				[1:label]
+					 /finance/financial news
+				[2:score]
+					 0.767369
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 K2440303295
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 40 Wall Street
+			[2]
+				 Manhattan
+			[3]
+				 Ivana Trump
+			[4]
+				 Donald Trump, Jr.
+			[5]
+				 Trump Tower
+			[6]
+				 Trump Organization
+			[7]
+				 Trump World Tower
+			[8]
+				 Columbus Circle
+			[9]
+				 Trump Entertainment Resorts
+		[:metadata:keywords]
+			[0]
+				 construction businessman Donald John Trump
+			[1]
+				 unprofitable Commodore Hotel
+			[2]
+				 American real estate development
+			[3]
+				 building sites
+			[4]
+				 Trump
+			[5]
+				 Central railroad
+			[6]
+				 Trump family
+			[7]
+				 early 2000s
+			[8]
+				 deal-making
+			[9]
+				 real estate
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Trump
+			[2]
+				 Commodore Hotel
+			[3]
+				 $200 million
+			[4]
+				 Grand Central Station
+			[5]
+				 Donald John Trump
+			[6]
+				 New York Military Academy
+			[7]
+				 Staten Island
+			[8]
+				 Gwenda Blair
+			[9]
+				 University of Pennsylvania's Wharton School of Finance
+		[:metadata:title]
+			 Donald Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 17
+			[:metadata:gale:gale-fake-waiting]
+				 95
+		[:extracted_metadata:sha1]
+			 95138352040bb67e5ef846c4212b6b13627093b5
+		[:extracted_metadata:filename]
+			 Donald Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 21624195-ccfe-41d7-8d3a-b669bad85cd5
+		[:result_metadata:confidence]
+			 0.09966254333367681
+		[:result_metadata:score]
+			 11.202778
+	[:text]
+		 no title
+
+Billionaire real estate developer Donald Trump showed the world that millions could be made in developing expensive commercial and[...]
+				[:enriched_text:sentiment:document:score]
+					 0.392314
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 57
+					[0:sentiment:score]
+						 0.35605
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Mary MacLeod Trump
+				[0:relevance]
+					 0.887671
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 -0.364484
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.41707
+				[1:type]
+					 Company
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump Tower
+				[2:relevance]
+					 0.33641
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Company
+						[2]
+							 Building
+					[2:disambiguation:name]
+						 Trump Tower (Tampa)
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(Tampa)
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.358266
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Trump Organization
+				[3:relevance]
+					 0.306278
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 The Trump Organization
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Organization
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.13296
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Trump Tower
+				[4:relevance]
+					 0.276482
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Trump Tower (New York City)
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Trump University
+				[5:relevance]
+					 0.271758
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 The Trump Entrepreneur Initiative
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Entrepreneur_Initiative
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Trump Parc
+				[6:relevance]
+					 0.256422
+				[6:type]
+					 Facility
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0.414841
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Trump Plaza
+				[7:relevance]
+					 0.247573
+				[7:type]
+					 Facility
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.378366
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Trump International Hotel
+				[8:relevance]
+					 0.244952
+				[8:type]
+					 Facility
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Trump Entertainment Resorts Inc
+				[9:relevance]
+					 0.242955
+				[9:type]
+					 Company
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Trump Shuttle
+				[10:relevance]
+					 0.239657
+				[10:type]
+					 Facility
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0.595037
+					[11:sentiment:label]
+						 positive
+				[11:text]
+					 Trump Parc
+				[11:relevance]
+					 0.229034
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 5
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 New York
+				[12:relevance]
+					 0.167396
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+				[13:count]
+					 7
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Manhattan
+				[13:relevance]
+					 0.158235
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[13:disambiguation:name]
+						 Manhattan
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[14:count]
+					 5
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Donald
+				[14:relevance]
+					 0.153671
+				[14:type]
+					 Person
+				[15:count]
+					 3
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 New York City
+				[15:relevance]
+					 0.143367
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[15:disambiguation:name]
+						 New York City
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Wharton School of Business
+				[16:relevance]
+					 0.125349
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[16:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[17:count]
+					 3
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 president
+				[17:relevance]
+					 0.121202
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 New York Military Academy
+				[18:relevance]
+					 0.115752
+				[18:type]
+					 Organization
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[18:disambiguation:name]
+						 New York Military Academy
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Hudson River
+				[19:relevance]
+					 0.113452
+				[19:type]
+					 GeographicFeature
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[19:disambiguation:name]
+						 Hudson River
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hudson_River
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0.557018
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Ivana Zelnickova Winklmayr
+				[20:relevance]
+					 0.110516
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Fordham University
+				[21:relevance]
+					 0.10856
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[21:disambiguation:name]
+						 Fordham University
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[22:count]
+					 2
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Queens
+				[22:relevance]
+					 0.106035
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[22:disambiguation:name]
+						 Queens
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[23:count]
+					 2
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Commodore Hotel
+				[23:relevance]
+					 0.10428
+				[23:type]
+					 Facility
+					[23:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[23:disambiguation:name]
+						 Commodore Hotel (Portland, Oregon)
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commodore_Hotel_(Portland,_Oregon)
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 University of Pennsylvania
+				[24:relevance]
+					 0.104044
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[24:disambiguation:name]
+						 University of Pennsylvania
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Brooklyn
+				[25:relevance]
+					 0.103489
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[25:disambiguation:name]
+						 Brooklyn
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.43185
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Delmonico Hotel
+				[26:relevance]
+					 0.102466
+				[26:type]
+					 Facility
+					[26:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[26:disambiguation:name]
+						 Trump Park Avenue
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[27:count]
+					 2
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Reform Party
+				[27:relevance]
+					 0.101361
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[27:disambiguation:name]
+						 Independence Party of Minnesota
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Independence_Party_of_Minnesota
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Bonwit Teller
+				[28:relevance]
+					 0.100171
+				[28:type]
+					 Company
+					[28:disambiguation:subtype]
+					[28:disambiguation:name]
+						 Bonwit Teller
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bonwit_Teller
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 American Airlines
+				[29:relevance]
+					 0.098514
+				[29:type]
+					 Company
+					[29:disambiguation:subtype]
+						[0]
+							 Airline
+					[29:disambiguation:name]
+						 American Airlines
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Airlines
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Fortune magazine
+				[30:relevance]
+					 0.097985
+				[30:type]
+					 PrintMedia
+					[30:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Magazine
+					[30:disambiguation:name]
+						 Fortune (magazine)
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fortune_(magazine)
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 -0.364484
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 Grand Hyatt Hotel
+				[31:relevance]
+					 0.096678
+				[31:type]
+					 Facility
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Hyatt Corporation
+				[32:relevance]
+					 0.096299
+				[32:type]
+					 Company
+					[32:disambiguation:subtype]
+						[0]
+							 Brand
+					[32:disambiguation:name]
+						 Hyatt
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hyatt
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0.43791
+					[33:sentiment:label]
+						 positive
+				[33:text]
+					 Minnesota
+				[33:relevance]
+					 0.095892
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[33:disambiguation:name]
+						 Minnesota
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Minnesota
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Staten Island
+				[34:relevance]
+					 0.095634
+				[34:type]
+					 GeographicFeature
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Plaza Hotel
+				[35:relevance]
+					 0.093807
+				[35:type]
+					 Facility
+					[35:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Accommodation
+						[2]
+							 Building
+					[35:disambiguation:name]
+						 Plaza Hotel
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Plaza_Hotel
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Frederick C.
+				[36:relevance]
+					 0.093695
+				[36:type]
+					 Person
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0.480405
+					[37:sentiment:label]
+						 positive
+				[37:text]
+					 Jesse Ventura
+				[37:relevance]
+					 0.093123
+				[37:type]
+					 Person
+					[37:disambiguation:subtype]
+						[0]
+							 Athlete
+						[1]
+							 Politician
+						[2]
+							 Governor
+						[3]
+							 Wrestler
+						[4]
+							 BroadcastArtist
+						[5]
+							 FilmActor
+						[6]
+							 TelevisionShow
+						[7]
+							 TVActor
+					[37:disambiguation:name]
+						 Jesse Ventura
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jesse_Ventura
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0.445068
+					[38:sentiment:label]
+						 positive
+				[38:text]
+					 United States Football League
+				[38:relevance]
+					 0.092886
+				[38:type]
+					 Organization
+					[38:disambiguation:subtype]
+						[0]
+							 SportsAssociation
+					[38:disambiguation:name]
+						 United States Football League
+					[38:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Football_League
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 National Football League
+				[39:relevance]
+					 0.092754
+				[39:type]
+					 Organization
+					[39:disambiguation:subtype]
+					[39:disambiguation:name]
+						 National Football League
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Football_League
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.963114
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Trump Entertainment Resorts
+				[1:relevance]
+					 0.451836
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Entertainment_Resorts
+				[2:text]
+					 Trump Organization
+				[2:relevance]
+					 0.450043
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[3:text]
+					 Trump Park Avenue
+				[3:relevance]
+					 0.442202
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[4:text]
+					 Donald Trump, Jr.
+				[4:relevance]
+					 0.360268
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[5:text]
+					 Trump Tower
+				[5:relevance]
+					 0.358313
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+				[6:text]
+					 Ivana Trump
+				[6:relevance]
+					 0.357848
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[7:text]
+					 Fred Trump
+				[7:relevance]
+					 0.344277
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fred_Trump
+		[:enriched_text:categories]
+				[0:score]
+					 0.904593
+				[0:label]
+					 /real estate/buying and selling homes
+				[1:score]
+					 0.839192
+				[1:label]
+					 /finance/financial news
+				[2:score]
+					 0.807637
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 K1604000209
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump Entertainment Resorts
+			[2]
+				 Trump Organization
+			[3]
+				 Trump Park Avenue
+			[4]
+				 Donald Trump, Jr.
+			[5]
+				 Trump Tower
+			[6]
+				 Ivana Trump
+			[7]
+				 Fred Trump
+			[8]
+				 The Apprentice
+		[:metadata:keywords]
+			[0]
+				 real estate developer Donald Trump
+			[1]
+				 Donald John Trump
+			[2]
+				 Mary MacLeod Trump
+			[3]
+				 New York
+			[4]
+				 Trump Organization
+			[5]
+				 expansion of the company
+			[6]
+				 building houses
+			[7]
+				 big-time
+			[8]
+				 Trump
+			[9]
+				 real estate developer
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Donald Trump
+			[2]
+				 Donald
+			[3]
+				 Trump Organization
+			[4]
+				 Wharton School of Finance
+			[5]
+				 Manhattan
+			[6]
+				 Frederick C.
+			[7]
+				 Trump
+			[8]
+				 New York
+			[9]
+				 New York Military Academy
+		[:metadata:title]
+			 Donald John Trump
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 70
+			[:metadata:gale:gale-fake-waiting]
+				 48
+		[:extracted_metadata:sha1]
+			 5f4387252614ed2939d317d4e56cb767f4ca20f2
+		[:extracted_metadata:filename]
+			 Donald John Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 4a01d919-7625-4da1-ab89-9ee913fbf258
+		[:result_metadata:confidence]
+			 0.09935860868884469
+		[:result_metadata:score]
+			 11.200793
+	[:text]
+		 no title
+
+Donald Trump is one of Manhattan's most grandiose builders. In the 1980s he became a living symbol of accumulated wealth, big-time[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.359894
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 36
+					[0:sentiment:score]
+						 0.146944
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.875087
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.425471
+				[1:type]
+					 Company
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0.660556
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Trump Castle
+				[2:relevance]
+					 0.247461
+				[2:type]
+					 Facility
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.317046
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Trump Tower
+				[3:relevance]
+					 0.244183
+				[3:type]
+					 Facility
+					[3:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Company
+						[2]
+							 Building
+					[3:disambiguation:name]
+						 Trump Tower (Tampa)
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(Tampa)
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0.575592
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Trump Parc
+				[4:relevance]
+					 0.2119
+				[4:type]
+					 Company
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0.324434
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Trump Plaza
+				[5:relevance]
+					 0.211674
+				[5:type]
+					 Facility
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.660352
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Trump Palace
+				[6:relevance]
+					 0.199958
+				[6:type]
+					 Facility
+				[7:count]
+					 4
+					[7:sentiment:score]
+						 0.729507
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Manhattan
+				[7:relevance]
+					 0.123356
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+				[8:count]
+					 6
+					[8:sentiment:score]
+						 0.68942
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Ivana Zelnicek
+				[8:relevance]
+					 0.112634
+				[8:type]
+					 Person
+				[9:count]
+					 3
+					[9:sentiment:score]
+						 -0.436078
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 developer
+				[9:relevance]
+					 0.094708
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 -0.436078
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 Wharton School of Business
+				[10:relevance]
+					 0.087685
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[10:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Grand Hyatt Hotel
+				[11:relevance]
+					 0.081774
+				[11:type]
+					 Facility
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 New York Military Academy
+				[12:relevance]
+					 0.078309
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[12:disambiguation:name]
+						 New York Military Academy
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[13:count]
+					 3
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Marla Maples
+				[13:relevance]
+					 0.077936
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 FilmActor
+						[2]
+							 TVActor
+					[13:disambiguation:name]
+						 Marla Maples
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Marla_Maples
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Bonwit Teller
+				[14:relevance]
+					 0.077548
+				[14:type]
+					 Company
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 Bonwit Teller
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bonwit_Teller
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.404574
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 New Jersey
+				[15:relevance]
+					 0.075472
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[15:disambiguation:name]
+						 New Jersey
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Queens
+				[16:relevance]
+					 0.074691
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[16:disambiguation:name]
+						 Queens
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 University of Pennsylvania
+				[17:relevance]
+					 0.073439
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[17:disambiguation:name]
+						 University of Pennsylvania
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Grand Central Terminal
+				[18:relevance]
+					 0.073001
+				[18:type]
+					 Facility
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Station
+						[2]
+							 Building
+					[18:disambiguation:name]
+						 Grand Central Terminal
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Grand_Central_Terminal
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 United States Football League
+				[19:relevance]
+					 0.072081
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+						[0]
+							 SportsAssociation
+					[19:disambiguation:name]
+						 United States Football League
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Football_League
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 National Football League
+				[20:relevance]
+					 0.071886
+				[20:type]
+					 Organization
+					[20:disambiguation:subtype]
+					[20:disambiguation:name]
+						 National Football League
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Football_League
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0.49642
+					[21:sentiment:label]
+						 positive
+				[21:text]
+					 Jacob Javits Convention Center
+				[21:relevance]
+					 0.068192
+				[21:type]
+					 Organization
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Czech Olympic Committee
+				[22:relevance]
+					 0.066848
+				[22:type]
+					 Organization
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 New Jersey Generals
+				[23:relevance]
+					 0.06681
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+						[0]
+							 SportsTeam
+					[23:disambiguation:name]
+						 New Jersey Generals
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey_Generals
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 New York
+				[24:relevance]
+					 0.066803
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[24:disambiguation:name]
+						 New York City
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 president
+				[25:relevance]
+					 0.066641
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Montreal
+				[26:relevance]
+					 0.066496
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 FictionalUniverse
+						[1]
+							 GeographicFeature
+						[2]
+							 AdministrativeDivision
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 Island
+						[5]
+							 OlympicHostCity
+						[6]
+							 City
+					[26:disambiguation:name]
+						 Montreal
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Montreal
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 -0.529322
+					[27:sentiment:label]
+						 negative
+				[27:text]
+					 Brooklyn
+				[27:relevance]
+					 0.065689
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 City
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Grand Hyatt
+				[28:relevance]
+					 0.065121
+				[28:type]
+					 Facility
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 -0.124352
+					[29:sentiment:label]
+						 negative
+				[29:text]
+					 Olympics
+				[29:relevance]
+					 0.063718
+				[29:type]
+					 SportingEvent
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Promotion
+				[30:relevance]
+					 0.061105
+				[30:type]
+					 Person
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 chief executive officer
+				[31:relevance]
+					 0.06061
+				[31:type]
+					 JobTitle
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 emissary
+				[32:relevance]
+					 0.060545
+				[32:type]
+					 JobTitle
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 billion dollars
+				[33:relevance]
+					 0.060002
+				[33:type]
+					 Quantity
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 $115 million
+				[34:relevance]
+					 0.060002
+				[34:type]
+					 Quantity
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 $120 million
+				[35:relevance]
+					 0.060002
+				[35:type]
+					 Quantity
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 $65 million
+				[36:relevance]
+					 0.060002
+				[36:type]
+					 Quantity
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 $70 million
+				[37:relevance]
+					 0.060002
+				[37:type]
+					 Quantity
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 $73 million
+				[38:relevance]
+					 0.060002
+				[38:type]
+					 Quantity
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 $2 million
+				[39:relevance]
+					 0.060002
+				[39:type]
+					 Quantity
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 $8 billion
+				[40:relevance]
+					 0.060002
+				[40:type]
+					 Quantity
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 $450,000
+				[41:relevance]
+					 0.060002
+				[41:type]
+					 Quantity
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 282-foot
+				[42:relevance]
+					 0.060002
+				[42:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.967791
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Marla Maples
+				[1:relevance]
+					 0.555517
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Marla_Maples
+				[2:text]
+					 Ivana Trump
+				[2:relevance]
+					 0.474014
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[3:text]
+					 Trump family
+				[3:relevance]
+					 0.461896
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_family
+				[4:text]
+					 Fred Trump
+				[4:relevance]
+					 0.45852
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Fred_Trump
+				[5:text]
+					 Donald Trump, Jr.
+				[5:relevance]
+					 0.444978
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[6:text]
+					 The Apprentice
+				[6:relevance]
+					 0.432325
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/The_Apprentice_(U.S._TV_series)
+				[7:text]
+					 Trump Tower
+				[7:relevance]
+					 0.411167
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+		[:enriched_text:categories]
+				[0:score]
+					 0.842996
+				[0:label]
+					 /finance/financial news
+				[1:score]
+					 0.814245
+				[1:label]
+					 /real estate/buying and selling homes
+				[2:score]
+					 0.692151
+				[2:label]
+					 /business and industrial/business operations/business plans
+		[:metadata:docid]
+			 EJ2102101852
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Marla Maples
+			[2]
+				 Ivana Trump
+			[3]
+				 Trump family
+			[4]
+				 Fred Trump
+			[5]
+				 Donald Trump, Jr.
+			[6]
+				 The Apprentice
+			[7]
+				 Trump Tower
+			[8]
+				 University of Pennsylvania
+			[9]
+				 Trump Organization
+		[:metadata:keywords]
+			[0]
+				 Donald Trump
+			[1]
+				 big-time
+			[2]
+				 fourth child of Fred Trump
+			[3]
+				 former Ivana Zelnicek
+			[4]
+				 Wharton School of Business
+			[5]
+				 New York Military Academy
+			[6]
+				 first big project
+			[7]
+				 hard times
+			[8]
+				 financial situation
+			[9]
+				 Trump
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Fred Trump
+			[2]
+				 Donald Trump
+			[3]
+				 Donald
+			[4]
+				 New York Military Academy
+			[5]
+				 Ivana
+			[6]
+				 Wharton School of Business
+			[7]
+				 Manhattan
+			[8]
+				 $120 million
+			[9]
+				 $70 million
+		[:metadata:title]
+			 Donald Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 71
+			[:metadata:gale:gale-fake-waiting]
+				 8
+		[:extracted_metadata:sha1]
+			 00ff6842eec0bebfbfcb8ae5a3aa9392b93dc613
+		[:extracted_metadata:filename]
+			 Donald Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 62b75b30-80d4-441f-a910-6b9da2269e16
+		[:result_metadata:confidence]
+			 0.09909647462740735
+		[:result_metadata:score]
+			 11.199081
+	[:text]
+		 no title
+
+Before his career move into politics, U.S. President Donald J. Trump was best known as a reality-show celebrity and real estate mo[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.465742
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 90
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Donald J. Trump
+				[0:relevance]
+					 0.936028
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 24
+					[1:sentiment:score]
+						 0.065395
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.779512
+				[1:type]
+					 Company
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0.478458
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Trump Tower
+				[2:relevance]
+					 0.367388
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Company
+						[2]
+							 Building
+					[2:disambiguation:name]
+						 Trump Tower (Tampa)
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(Tampa)
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Trump Plaza Hotel and Casino
+				[3:relevance]
+					 0.333026
+				[3:type]
+					 Facility
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.506575
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Trump Tower
+				[4:relevance]
+					 0.314771
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Trump Tower (New York City)
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 -0.44361
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Trump International Hotel and Tower
+				[5:relevance]
+					 0.294829
+				[5:type]
+					 Facility
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.492379
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Trump Tower
+				[6:relevance]
+					 0.283167
+				[6:type]
+					 Facility
+					[6:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 Company
+					[6:disambiguation:name]
+						 Trump Tower (White Plains)
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(White_Plains)
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Trump Entertainment Resorts Inc
+				[7:relevance]
+					 0.28307
+				[7:type]
+					 Company
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.397608
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Trump International Hotel
+				[8:relevance]
+					 0.282346
+				[8:type]
+					 Facility
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Trump Marina Hotel & Casino
+				[9:relevance]
+					 0.279376
+				[9:type]
+					 Facility
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Trump Entertainment Inc.
+				[10:relevance]
+					 0.278379
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Trump Grande Ocean
+				[11:relevance]
+					 0.272276
+				[11:type]
+					 GeographicFeature
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.391828
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Trump Entertainment Resorts Inc.
+				[12:relevance]
+					 0.251604
+				[12:type]
+					 Company
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0.658277
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Trump Parc
+				[13:relevance]
+					 0.237956
+				[13:type]
+					 Facility
+				[14:count]
+					 11
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 United States
+				[14:relevance]
+					 0.235631
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[14:disambiguation:name]
+						 United States
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Trump Hotels
+				[15:relevance]
+					 0.219822
+				[15:type]
+					 Company
+				[16:count]
+					 12
+					[16:sentiment:score]
+						 -0.082978
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 President
+				[16:relevance]
+					 0.186784
+				[16:type]
+					 JobTitle
+				[17:count]
+					 7
+					[17:sentiment:score]
+						 0.431569
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 New York City
+				[17:relevance]
+					 0.173827
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[17:disambiguation:name]
+						 New York City
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[18:count]
+					 6
+					[18:sentiment:score]
+						 -0.34083
+					[18:sentiment:label]
+						 negative
+				[18:text]
+					 White House
+				[18:relevance]
+					 0.150806
+				[18:type]
+					 Facility
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 House
+						[2]
+							 TouristAttraction
+						[3]
+							 Building
+					[18:disambiguation:name]
+						 White House
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/White_House
+				[19:count]
+					 5
+					[19:sentiment:score]
+						 -0.314101
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 Senate
+				[19:relevance]
+					 0.148211
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[19:disambiguation:name]
+						 United States Senate
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[20:count]
+					 5
+					[20:sentiment:score]
+						 -0.320195
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Congress
+				[20:relevance]
+					 0.147464
+				[20:type]
+					 Organization
+					[20:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[20:disambiguation:name]
+						 United States Congress
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[21:count]
+					 4
+					[21:sentiment:score]
+						 -0.371185
+					[21:sentiment:label]
+						 negative
+				[21:text]
+					 Atlantic City
+				[21:relevance]
+					 0.14395
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+					[21:disambiguation:name]
+						 Atlantic City, New Jersey
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[22:count]
+					 4
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 president
+				[22:relevance]
+					 0.141098
+				[22:type]
+					 JobTitle
+				[23:count]
+					 6
+					[23:sentiment:score]
+						 -0.228829
+					[23:sentiment:label]
+						 negative
+				[23:text]
+					 Hillary Rodham Clinton
+				[23:relevance]
+					 0.13973
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Appointee
+						[2]
+							 AwardWinner
+						[3]
+							 BoardMember
+						[4]
+							 Celebrity
+						[5]
+							 HallOfFameInductee
+						[6]
+							 OperaCharacter
+						[7]
+							 Senator
+						[8]
+							 U.S.Congressperson
+						[9]
+							 TVActor
+					[23:disambiguation:name]
+						 Hillary Rodham Clinton
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hillary_Rodham_Clinton
+				[24:count]
+					 5
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Robert Mueller
+				[24:relevance]
+					 0.126345
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+						[0]
+							 MilitaryPerson
+						[1]
+							 OfficeHolder
+					[24:disambiguation:name]
+						 Robert Mueller
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_Mueller
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Manhattan
+				[25:relevance]
+					 0.12424
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[25:disambiguation:name]
+						 Manhattan
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[26:count]
+					 2
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 reporter
+				[26:relevance]
+					 0.122484
+				[26:type]
+					 JobTitle
+				[27:count]
+					 6
+					[27:sentiment:score]
+						 -0.386747
+					[27:sentiment:label]
+						 negative
+				[27:text]
+					 North Korea
+				[27:relevance]
+					 0.122115
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[27:disambiguation:name]
+						 North Korea
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_Korea
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 House of Representatives
+				[28:relevance]
+					 0.121441
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[28:disambiguation:name]
+						 United States House of Representatives
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_House_of_Representatives
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 -0.333547
+					[29:sentiment:label]
+						 negative
+				[29:text]
+					 Mitt Romney
+				[29:relevance]
+					 0.119799
+				[29:type]
+					 Person
+					[29:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 CompanyFounder
+						[2]
+							 TVActor
+					[29:disambiguation:name]
+						 Mitt Romney
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mitt_Romney
+				[30:count]
+					 2
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Special Counsel
+				[30:relevance]
+					 0.119084
+				[30:type]
+					 JobTitle
+				[31:count]
+					 4
+					[31:sentiment:score]
+						 -0.082427
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 developer
+				[31:relevance]
+					 0.11866
+				[31:type]
+					 JobTitle
+				[32:count]
+					 2
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Washington
+				[32:relevance]
+					 0.118508
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[32:disambiguation:name]
+						 Washington, D.C.
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[33:count]
+					 2
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Florida
+				[33:relevance]
+					 0.117809
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[33:disambiguation:name]
+						 Florida
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[34:count]
+					 3
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 director
+				[34:relevance]
+					 0.117184
+				[34:type]
+					 JobTitle
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Delmonico Hotel
+				[35:relevance]
+					 0.116948
+				[35:type]
+					 Facility
+					[35:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[35:disambiguation:name]
+						 Trump Park Avenue
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0.448815
+					[36:sentiment:label]
+						 positive
+				[36:text]
+					 Commodore Hotel
+				[36:relevance]
+					 0.115261
+				[36:type]
+					 Facility
+					[36:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[36:disambiguation:name]
+						 Commodore Hotel (Portland, Oregon)
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commodore_Hotel_(Portland,_Oregon)
+				[37:count]
+					 2
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 America
+				[37:relevance]
+					 0.114347
+				[37:type]
+					 Location
+					[37:disambiguation:subtype]
+						[0]
+							 Continent
+				[38:count]
+					 2
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Iran
+				[38:relevance]
+					 0.112972
+				[38:type]
+					 Location
+					[38:disambiguation:subtype]
+						[0]
+							 Country
+					[38:disambiguation:name]
+						 Iran
+					[38:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Iran
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Philadelphia
+				[39:relevance]
+					 0.109752
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 AirportOperator
+						[5]
+							 City
+					[39:disambiguation:name]
+						 Philadelphia
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Philadelphia
+				[40:count]
+					 4
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 President Barack Obama
+				[40:relevance]
+					 0.108918
+				[40:type]
+					 Person
+					[40:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[40:disambiguation:name]
+						 Barack Obama
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[41:count]
+					 2
+					[41:sentiment:score]
+						 -0.359003
+					[41:sentiment:label]
+						 negative
+				[41:text]
+					 Vladimir Putin
+				[41:relevance]
+					 0.108794
+				[41:type]
+					 Person
+					[41:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MartialArtist
+						[2]
+							 PoliticalAppointer
+						[3]
+							 TVActor
+					[41:disambiguation:name]
+						 Vladimir Putin
+					[41:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vladimir_Putin
+				[42:count]
+					 2
+					[42:sentiment:score]
+						 -0.549677
+					[42:sentiment:label]
+						 negative
+				[42:text]
+					 David Letterman
+				[42:relevance]
+					 0.108506
+				[42:type]
+					 Person
+					[42:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 Comedian
+						[4]
+							 CompanyFounder
+						[5]
+							 FilmProducer
+						[6]
+							 TVPersonality
+						[7]
+							 TVProducer
+						[8]
+							 FilmActor
+						[9]
+							 TVActor
+						[10]
+							 TVWriter
+					[42:disambiguation:name]
+						 David Letterman
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Letterman
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Gallup Organization
+				[43:relevance]
+					 0.107831
+				[43:type]
+					 Organization
+					[43:disambiguation:subtype]
+					[43:disambiguation:name]
+						 The Gallup Organization
+					[43:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Gallup_Organization
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 Strait of Hormuz
+				[44:relevance]
+					 0.107702
+				[44:type]
+					 GeographicFeature
+					[44:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[44:disambiguation:name]
+						 Strait of Hormuz
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Strait_of_Hormuz
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.952451
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 President of the United States
+				[1:relevance]
+					 0.786956
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+				[2:text]
+					 Trump Park Avenue
+				[2:relevance]
+					 0.624767
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[3:text]
+					 Trump Entertainment Resorts
+				[3:relevance]
+					 0.568648
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Entertainment_Resorts
+				[4:text]
+					 Trump Organization
+				[4:relevance]
+					 0.566557
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[5:text]
+					 Barack Obama
+				[5:relevance]
+					 0.519385
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[6:text]
+					 The Apprentice
+				[6:relevance]
+					 0.461185
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/The_Apprentice_(U.S._TV_series)
+				[7:text]
+					 United States presidential election
+				[7:relevance]
+					 0.448686
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_presidential_election
+		[:enriched_text:categories]
+				[0:score]
+					 0.937781
+				[0:label]
+					 /law, govt and politics/politics/elections/presidential elections
+				[1:score]
+					 0.858174
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.762255
+				[2:label]
+					 /society/unrest and war
+		[:metadata:docid]
+			 K1618000623
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 President of the United States
+			[2]
+				 Trump Park Avenue
+			[3]
+				 Trump Entertainment Resorts
+			[4]
+				 Trump Organization
+			[5]
+				 Barack Obama
+			[6]
+				 The Apprentice
+			[7]
+				 United States presidential election
+			[8]
+				 Ivana Trump
+			[9]
+				 Trump Tower
+		[:metadata:keywords]
+			[0]
+				 U.S. President Donald J. Trump
+			[1]
+				 Trump administration
+			[2]
+				 Trump campaign
+			[3]
+				 ire of many Republican voters
+			[4]
+				 Trump
+			[5]
+				 center of the Mueller Report
+			[6]
+				 landmark hotels
+			[7]
+				 New York
+			[8]
+				 days of protests
+			[9]
+				 defunct United States Football League
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Trump Tower
+			[2]
+				 Trump administration
+			[3]
+				 U.S.
+			[4]
+				 Trump International Hotel
+			[5]
+				 Trump Entertainment Resorts Inc.
+			[6]
+				 Donald J. Trump
+			[7]
+				 Trump
+			[8]
+				 Queens
+			[9]
+				 Atlantic City
+		[:metadata:title]
+			 Donald Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 88
+			[:metadata:gale:gale-fake-waiting]
+				 39
+		[:extracted_metadata:sha1]
+			 3db09b46ed512c22f619c1341a9357102dcc2619
+		[:extracted_metadata:filename]
+			 Donald Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 c83dc486-4dce-4eb4-ae0e-ea5680cd1b6d
+		[:result_metadata:confidence]
+			 0.09807718347846647
+		[:result_metadata:score]
+			 11.192424
+	[:text]
+		 no title
+
+Hope Hicks is an American communications and public relations professional who is best known for working in President Donald Trump[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.374104
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 37
+					[0:sentiment:score]
+						 0.424565
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 President Trump
+				[0:relevance]
+					 0.91967
+				[0:type]
+					 Person
+				[1:count]
+					 29
+					[1:sentiment:score]
+						 0.308846
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Paul Hicks III
+				[1:relevance]
+					 0.697457
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump
+				[2:relevance]
+					 0.252067
+				[2:type]
+					 Company
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0.497553
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 president
+				[3:relevance]
+					 0.145458
+				[3:type]
+					 JobTitle
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 executive vice president and chief communications officer
+				[4:relevance]
+					 0.11993
+				[4:type]
+					 JobTitle
+				[5:count]
+					 5
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 director
+				[5:relevance]
+					 0.106516
+				[5:type]
+					 JobTitle
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 press secretary
+				[6:relevance]
+					 0.100733
+				[6:type]
+					 JobTitle
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Hiltzik Strategies
+				[7:relevance]
+					 0.098165
+				[7:type]
+					 Company
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 CEO
+				[8:relevance]
+					 0.095628
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Mary
+				[9:relevance]
+					 0.089329
+				[9:type]
+					 Person
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Fox News Channel
+				[10:relevance]
+					 0.088237
+				[10:type]
+					 Broadcaster
+					[10:disambiguation:subtype]
+						[0]
+							 Broadcast
+						[1]
+							 TelevisionStation
+					[10:disambiguation:name]
+						 Fox News Channel
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fox_News_Channel
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Caye Ann
+				[11:relevance]
+					 0.087975
+				[11:type]
+					 Facility
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Connecticut
+				[12:relevance]
+					 0.086711
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[12:disambiguation:name]
+						 Connecticut
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Connecticut
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 House Intelligence Committee
+				[13:relevance]
+					 0.086299
+				[13:type]
+					 Organization
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 James Comey
+				[14:relevance]
+					 0.085733
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 James Comey
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Comey
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Greenwich
+				[15:relevance]
+					 0.084925
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+					[15:disambiguation:name]
+						 Greenwich, New South Wales
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Greenwich,_New_South_Wales
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Southern Methodist University
+				[16:relevance]
+					 0.084047
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[16:disambiguation:name]
+						 Southern Methodist University
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Southern_Methodist_University
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 New York City
+				[17:relevance]
+					 0.083353
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[17:disambiguation:name]
+						 New York City
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Fox Corporation
+				[18:relevance]
+					 0.082783
+				[18:type]
+					 Company
+					[18:disambiguation:subtype]
+						[0]
+							 FilmCompany
+						[1]
+							 FilmDistributor
+						[2]
+							 ProductionCompany
+						[3]
+							 VideoGameDeveloper
+						[4]
+							 VideoGamePublisher
+						[5]
+							 AwardNominee
+						[6]
+							 AwardWinner
+						[7]
+							 FilmEditor
+						[8]
+							 FilmMusicContributor
+					[18:disambiguation:name]
+						 20th Century Fox
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/20th_Century_Fox
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Ford
+				[19:relevance]
+					 0.082555
+				[19:type]
+					 Company
+					[19:disambiguation:subtype]
+						[0]
+							 AutomobileCompany
+						[1]
+							 AwardWinner
+						[2]
+							 Inventor
+						[3]
+							 SchoolFounder
+					[19:disambiguation:name]
+						 Ford Motor Company
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ford_Motor_Company
+				[20:count]
+					 2
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 White House
+				[20:relevance]
+					 0.079994
+				[20:type]
+					 Facility
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Anthony Scaramucci
+				[21:relevance]
+					 0.079843
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Anthony Scaramucci
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Anthony_Scaramucci
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0.449314
+					[22:sentiment:label]
+						 positive
+				[22:text]
+					 representative
+				[22:relevance]
+					 0.078773
+				[22:type]
+					 JobTitle
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 executive
+				[23:relevance]
+					 0.0739
+				[23:type]
+					 JobTitle
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 FBI
+				[24:relevance]
+					 0.073162
+				[24:type]
+					 Organization
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Ivanka
+				[25:relevance]
+					 0.072549
+				[25:type]
+					 Person
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Mike Dubke
+				[26:relevance]
+					 0.071914
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 attorney
+				[27:relevance]
+					 0.067426
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 one day
+				[28:relevance]
+					 0.067426
+				[28:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 President of the United States
+				[0:relevance]
+					 0.985059
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+				[1:text]
+					 Donald Trump
+				[1:relevance]
+					 0.727073
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[2:text]
+					 Ivanka Trump
+				[2:relevance]
+					 0.691051
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivanka_Trump
+				[3:text]
+					 Ivana Trump
+				[3:relevance]
+					 0.609716
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[4:text]
+					 Trump Organization
+				[4:relevance]
+					 0.533388
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[5:text]
+					 Electoral College
+				[5:relevance]
+					 0.5298
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Electoral_College_(United_States)
+				[6:text]
+					 Trump family
+				[6:relevance]
+					 0.506924
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_family
+				[7:text]
+					 Fred Trump
+				[7:relevance]
+					 0.482311
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fred_Trump
+		[:enriched_text:categories]
+				[0:score]
+					 0.92225
+				[0:label]
+					 /law, govt and politics/politics/elections/presidential elections
+				[1:score]
+					 0.714773
+				[1:label]
+					 /law, govt and politics/politics/foreign policy
+				[2:score]
+					 0.703608
+				[2:label]
+					 /law, govt and politics/government
+		[:metadata:docid]
+			 K1650010864
+		[:metadata:concepts]
+			[0]
+				 President of the United States
+			[1]
+				 Donald Trump
+			[2]
+				 Ivanka Trump
+			[3]
+				 Ivana Trump
+			[4]
+				 Trump Organization
+			[5]
+				 Electoral College
+			[6]
+				 Trump family
+			[7]
+				 Public relations
+			[8]
+				 Fred Trump
+			[9]
+				 Thomas Jefferson
+		[:metadata:keywords]
+			[0]
+				 President Donald Trump's administration
+			[1]
+				 press secretary of Donald Trump
+			[2]
+				 Ivanka Trump
+			[3]
+				 Hicks
+			[4]
+				 public relations
+			[5]
+				 Paul Hicks III
+			[6]
+				 American communications
+			[7]
+				 Donald Trump
+			[8]
+				 presidential campaign
+			[9]
+				 members of the House Intelligence Committee
+		[:metadata:entitites]
+			[0]
+				 Hicks
+			[1]
+				 Trump
+			[2]
+				 Hiltzik Strategies
+			[3]
+				 Ivanka Trump
+			[4]
+				 Donald Trump
+			[5]
+				 Paul Hicks III
+			[6]
+				 Caye Ann
+			[7]
+				 Trump administration
+			[8]
+				 Southern Methodist University
+			[9]
+				 Trump's
+		[:metadata:title]
+			 Hope Hicks
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 61
+			[:metadata:gale:gale-fake-waiting]
+				 76
+		[:extracted_metadata:sha1]
+			 6ce37441aabe5cc987b83164bb3fb6081990a4fd
+		[:extracted_metadata:filename]
+			 Hope Hicks.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 9390b364-b77c-410a-b293-698178206608
+		[:result_metadata:confidence]
+			 0.09614915070883041
+		[:result_metadata:score]
+			 11.179832
+	[:text]
+		 no title
+
+An American real estate developer turned politician, Donald Trump (born 1946) was elected president of the United States in 2016 f[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.329293
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 60
+					[0:sentiment:score]
+						 0.039743
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Mary MacLeod Trump
+				[0:relevance]
+					 0.905955
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+						[2]
+							 Celebrity
+						[3]
+							 CompanyFounder
+						[4]
+							 TVPersonality
+						[5]
+							 TVProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[0:disambiguation:name]
+						 Donald Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Donald_Trump
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Trump
+				[1:relevance]
+					 0.531853
+				[1:type]
+					 Company
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 -0.11201
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Trump Organization
+				[2:relevance]
+					 0.405135
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 The Trump Organization
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Trump Tower
+				[3:relevance]
+					 0.307331
+				[3:type]
+					 Facility
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Trump Tower (New York City)
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Trump International Hotel and Tower
+				[4:relevance]
+					 0.307
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 Company
+						[3]
+							 Accommodation
+						[4]
+							 Building
+						[5]
+							 Skyscraper
+					[4:disambiguation:name]
+						 Trump SoHo
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_SoHo
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Trump Plaza Hotel and Casino
+				[5:relevance]
+					 0.294828
+				[5:type]
+					 Facility
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Trump Plaza Hotel and Casino
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Trump Shuttle
+				[6:relevance]
+					 0.246857
+				[6:type]
+					 Facility
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.576159
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Trump Parc
+				[7:relevance]
+					 0.228171
+				[7:type]
+					 Facility
+				[8:count]
+					 7
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 New York City
+				[8:relevance]
+					 0.22542
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[8:disambiguation:name]
+						 New York City
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[9:count]
+					 13
+					[9:sentiment:score]
+						 -0.384599
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 United States
+				[9:relevance]
+					 0.195438
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[9:disambiguation:name]
+						 United States
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[10:count]
+					 9
+					[10:sentiment:score]
+						 -0.404256
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 president
+				[10:relevance]
+					 0.191902
+				[10:type]
+					 JobTitle
+				[11:count]
+					 3
+					[11:sentiment:score]
+						 0.389182
+					[11:sentiment:label]
+						 positive
+				[11:text]
+					 Ivana Zelnickova Winklmayr
+				[11:relevance]
+					 0.138186
+				[11:type]
+					 Person
+				[12:count]
+					 3
+					[12:sentiment:score]
+						 -0.281705
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 U.S. Senate
+				[12:relevance]
+					 0.134314
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[12:disambiguation:name]
+						 United States Senate
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Wharton School of Finance
+				[13:relevance]
+					 0.13204
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[13:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[14:count]
+					 4
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Manhattan
+				[14:relevance]
+					 0.130416
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[14:disambiguation:name]
+						 Manhattan
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 New York Military Academy
+				[15:relevance]
+					 0.125346
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[15:disambiguation:name]
+						 New York Military Academy
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_Military_Academy
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 vice president
+				[16:relevance]
+					 0.121096
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Fordham University
+				[17:relevance]
+					 0.120544
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[17:disambiguation:name]
+						 Fordham University
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[18:count]
+					 4
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Robert Mueller
+				[18:relevance]
+					 0.11996
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 MilitaryPerson
+						[1]
+							 OfficeHolder
+					[18:disambiguation:name]
+						 Robert Mueller
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_Mueller
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Plaza Hotel
+				[19:relevance]
+					 0.11931
+				[19:type]
+					 Facility
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Accommodation
+						[2]
+							 Building
+					[19:disambiguation:name]
+						 Plaza Hotel
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Plaza_Hotel
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Atlantic City
+				[20:relevance]
+					 0.119287
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 City
+					[20:disambiguation:name]
+						 Atlantic City, New Jersey
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_City,_New_Jersey
+				[21:count]
+					 3
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Florida
+				[21:relevance]
+					 0.119065
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[21:disambiguation:name]
+						 Florida
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[22:count]
+					 3
+					[22:sentiment:score]
+						 -0.429796
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 President Volodymyr Zelensky
+				[22:relevance]
+					 0.117047
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 -0.409089
+					[23:sentiment:label]
+						 negative
+				[23:text]
+					 Delmonico Hotel
+				[23:relevance]
+					 0.115643
+				[23:type]
+					 Facility
+					[23:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[23:disambiguation:name]
+						 Trump Park Avenue
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Hyatt Hotel Corporation
+				[24:relevance]
+					 0.115608
+				[24:type]
+					 Company
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 -0.554135
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 Joe Biden
+				[25:relevance]
+					 0.11508
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Celebrity
+						[2]
+							 CompanyFounder
+						[3]
+							 FootballPlayer
+						[4]
+							 OperaCharacter
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USVicePresident
+					[25:disambiguation:name]
+						 Joe Biden
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joe_Biden
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.635657
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Grand Central Station
+				[26:relevance]
+					 0.114469
+				[26:type]
+					 Facility
+					[26:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Station
+						[2]
+							 Building
+					[26:disambiguation:name]
+						 Grand Central Terminal
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Grand_Central_Terminal
+				[27:count]
+					 2
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Queens
+				[27:relevance]
+					 0.113033
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 USCounty
+						[4]
+							 City
+					[27:disambiguation:name]
+						 Queens
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Queens
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Brooklyn
+				[28:relevance]
+					 0.112699
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[28:disambiguation:name]
+						 Brooklyn
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 America
+				[29:relevance]
+					 0.112545
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 Continent
+				[30:count]
+					 2
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Lady Hillary Clinton
+				[30:relevance]
+					 0.111962
+				[30:type]
+					 Person
+					[30:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Appointee
+						[2]
+							 AwardWinner
+						[3]
+							 BoardMember
+						[4]
+							 Celebrity
+						[5]
+							 HallOfFameInductee
+						[6]
+							 OperaCharacter
+						[7]
+							 Senator
+						[8]
+							 U.S.Congressperson
+						[9]
+							 TVActor
+					[30:disambiguation:name]
+						 Hillary Rodham Clinton
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hillary_Rodham_Clinton
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 -0.384663
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 Fortune magazine
+				[31:relevance]
+					 0.111053
+				[31:type]
+					 PrintMedia
+					[31:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Magazine
+					[31:disambiguation:name]
+						 Fortune (magazine)
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fortune_(magazine)
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0.753472
+					[32:sentiment:label]
+						 positive
+				[32:text]
+					 Der Scutt
+				[32:relevance]
+					 0.111045
+				[32:type]
+					 Person
+					[32:disambiguation:subtype]
+						[0]
+							 Architect
+						[1]
+							 AwardWinner
+						[2]
+							 CompanyFounder
+						[3]
+							 ProjectParticipant
+					[32:disambiguation:name]
+						 Der Scutt
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Der_Scutt
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Senator Jacob Javits
+				[33:relevance]
+					 0.11097
+				[33:type]
+					 Person
+					[33:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryPerson
+						[2]
+							 Senator
+						[3]
+							 U.S.Congressperson
+					[33:disambiguation:name]
+						 Jacob K. Javits
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jacob_K._Javits
+				[34:count]
+					 2
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Reform Party
+				[34:relevance]
+					 0.110834
+				[34:type]
+					 Organization
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Taj Mahal
+				[35:relevance]
+					 0.110415
+				[35:type]
+					 Facility
+					[35:disambiguation:subtype]
+					[35:disambiguation:name]
+						 Taj Mahal
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Taj_Mahal
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Staten Island
+				[36:relevance]
+					 0.10867
+				[36:type]
+					 GeographicFeature
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 -0.378837
+					[37:sentiment:label]
+						 negative
+				[37:text]
+					 University of Pennsylvania
+				[37:relevance]
+					 0.106767
+				[37:type]
+					 Organization
+					[37:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[37:disambiguation:name]
+						 University of Pennsylvania
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 U.S. House of Representatives
+				[38:relevance]
+					 0.106765
+				[38:type]
+					 Organization
+					[38:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[38:disambiguation:name]
+						 United States House of Representatives
+					[38:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_House_of_Representatives
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Wuhan
+				[39:relevance]
+					 0.106511
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[39:disambiguation:name]
+						 Wuhan
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wuhan
+				[40:count]
+					 3
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 Marla Maples
+				[40:relevance]
+					 0.106507
+				[40:type]
+					 Person
+					[40:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 FilmActor
+						[2]
+							 TVActor
+					[40:disambiguation:name]
+						 Marla Maples
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Marla_Maples
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 New Jersey
+				[41:relevance]
+					 0.10648
+				[41:type]
+					 Location
+					[41:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[41:disambiguation:name]
+						 New Jersey
+					[41:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 Melania Knauss
+				[42:relevance]
+					 0.105752
+				[42:type]
+					 Person
+					[42:disambiguation:subtype]
+						[0]
+							 Celebrity
+						[1]
+							 Model
+					[42:disambiguation:name]
+						 Melania Trump
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Melania_Trump
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Gallup Organization
+				[43:relevance]
+					 0.105296
+				[43:type]
+					 Organization
+					[43:disambiguation:subtype]
+					[43:disambiguation:name]
+						 The Gallup Organization
+					[43:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Gallup_Organization
+				[44:count]
+					 3
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 China
+				[44:relevance]
+					 0.105293
+				[44:type]
+					 Location
+					[44:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 Island
+						[2]
+							 Country
+					[44:disambiguation:name]
+						 Taiwan
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Taiwan
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0.3374
+					[45:sentiment:label]
+						 positive
+				[45:text]
+					 Holiday Inns
+				[45:relevance]
+					 0.105292
+				[45:type]
+					 Company
+					[45:disambiguation:subtype]
+						[0]
+							 Brand
+					[45:disambiguation:name]
+						 Holiday Inn
+					[45:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Holiday_Inn
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.969964
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Trump Park Avenue
+				[1:relevance]
+					 0.544001
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[2:text]
+					 Donald Trump, Jr.
+				[2:relevance]
+					 0.50685
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump,_Jr.
+				[3:text]
+					 Ivana Trump
+				[3:relevance]
+					 0.504486
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[4:text]
+					 Trump Tower
+				[4:relevance]
+					 0.49261
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Tower_(New_York)
+		[:enriched_text:categories]
+				[0:score]
+					 0.919392
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.866363
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.866197
+				[2:label]
+					 /law, govt and politics/politics/elections/presidential elections
+		[:metadata:docid]
+			 K1631006577
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump Park Avenue
+			[2]
+				 Donald Trump, Jr.
+			[3]
+				 Ivana Trump
+			[4]
+				 Trump Tower
+		[:metadata:keywords]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump's conduct
+			[2]
+				 Donald John Trump
+			[3]
+				 Mary MacLeod Trump
+			[4]
+				 New York City
+			[5]
+				 Frederick Trump
+			[6]
+				 president of the United States
+			[7]
+				 Trump Organization
+			[8]
+				 U.S. Senate
+			[9]
+				 American real estate developer
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Mary MacLeod Trump
+			[2]
+				 Trump
+			[3]
+				 Der Scutt
+			[4]
+				 Trump Organization
+			[5]
+				 Wharton School of Finance
+			[6]
+				 Manhattan
+			[7]
+				 United States
+			[8]
+				 Atlantic City
+			[9]
+				 Frederick C.
+		[:metadata:title]
+			 Donald Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 78
+			[:metadata:gale:gale-fake-waiting]
+				 70
+		[:extracted_metadata:sha1]
+			 4b493705293c367942f383ed6d80ba795946f971
+		[:extracted_metadata:filename]
+			 Donald Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 8ad05e98-a0eb-4050-a3b9-815782d49cbf
+		[:result_metadata:confidence]
+			 0.09609326348194712
+		[:result_metadata:score]
+			 11.179467
+	[:text]
+		 no title
+
+On October 7, 1999, Trump announced the formation of an exploratory committee to inform his decision of whether or not he should s[...]
+				[:enriched_text:sentiment:document:score]
+					 0.333351
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 13
+					[0:sentiment:score]
+						 0.212589
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Ivana Trump
+				[0:relevance]
+					 0.849438
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 TVActor
+					[0:disambiguation:name]
+						 Ivana Trump
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ivana_Trump
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Trump International Hotel and Tower
+				[1:relevance]
+					 0.339718
+				[1:type]
+					 Facility
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump International Hotel
+				[2:relevance]
+					 0.319408
+				[2:type]
+					 Facility
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0.43791
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Trump Entertainment Resorts Inc
+				[3:relevance]
+					 0.315227
+				[3:type]
+					 Company
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Trump Grande Ocean
+				[4:relevance]
+					 0.308592
+				[4:type]
+					 GeographicFeature
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0.482896
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Trump University
+				[5:relevance]
+					 0.300607
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 The Trump Entrepreneur Initiative
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Trump_Entrepreneur_Initiative
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.381704
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Trump Hotels
+				[6:relevance]
+					 0.239203
+				[6:type]
+					 Company
+				[7:count]
+					 6
+					[7:sentiment:score]
+						 -0.44361
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 John McCain
+				[7:relevance]
+					 0.204809
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 MilitaryPerson
+						[3]
+							 Senator
+						[4]
+							 U.S.Congressperson
+						[5]
+							 FilmActor
+						[6]
+							 TVActor
+					[7:disambiguation:name]
+						 John McCain
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_McCain
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.44361
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Reform Party
+				[8:relevance]
+					 0.150576
+				[8:type]
+					 Organization
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.364743
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 New York City
+				[9:relevance]
+					 0.145944
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[9:disambiguation:name]
+						 New York City
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Delmonico Hotel
+				[10:relevance]
+					 0.140143
+				[10:type]
+					 Facility
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[10:disambiguation:name]
+						 Trump Park Avenue
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trump_Park_Avenue
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Fortune magazine
+				[11:relevance]
+					 0.140078
+				[11:type]
+					 PrintMedia
+					[11:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Magazine
+					[11:disambiguation:name]
+						 Fortune (magazine)
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fortune_(magazine)
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 -0.493395
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 Florida
+				[12:relevance]
+					 0.132846
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[12:disambiguation:name]
+						 Florida
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Chicago
+				[13:relevance]
+					 0.132213
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 City
+					[13:disambiguation:name]
+						 Chicago
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chicago
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Gallup Organization
+				[14:relevance]
+					 0.121848
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 The Gallup Organization
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Gallup_Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Melania Knauss
+				[15:relevance]
+					 0.118351
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Celebrity
+						[1]
+							 Model
+					[15:disambiguation:name]
+						 Melania Trump
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Melania_Trump
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0.699876
+					[16:sentiment:label]
+						 positive
+				[16:text]
+					 America
+				[16:relevance]
+					 0.109897
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 Continent
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Miami Beach
+				[17:relevance]
+					 0.108012
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 City
+					[17:disambiguation:name]
+						 Miami Beach, Florida
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Miami_Beach,_Florida
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Barron
+				[18:relevance]
+					 0.105881
+				[18:type]
+					 Person
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Illinois
+				[19:relevance]
+					 0.105545
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[19:disambiguation:name]
+						 Illinois
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Illinois
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 reporter
+				[20:relevance]
+					 0.099763
+				[20:type]
+					 JobTitle
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Manhattan
+				[21:relevance]
+					 0.098208
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[21:disambiguation:name]
+						 Manhattan
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0.381704
+					[22:sentiment:label]
+						 positive
+				[22:text]
+					 Casino Resorts Inc.
+				[22:relevance]
+					 0.092849
+				[22:type]
+					 Company
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Carlyle Group
+				[23:relevance]
+					 0.09121
+				[23:type]
+					 Company
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Carlyle Group
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Carlyle_Group
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Extell Development Corp.
+				[24:relevance]
+					 0.087095
+				[24:type]
+					 Company
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 $1.8 billion
+				[25:relevance]
+					 0.087095
+				[25:type]
+					 Quantity
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 1,360 feet
+				[26:relevance]
+					 0.087095
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 13 hours
+				[27:relevance]
+					 0.087095
+				[27:type]
+					 Quantity
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 77 acres
+				[28:relevance]
+					 0.087095
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 36-year
+				[29:relevance]
+					 0.087095
+				[29:type]
+					 Quantity
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 $297
+				[30:relevance]
+					 0.087095
+				[30:type]
+					 Quantity
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 98%
+				[31:relevance]
+					 0.087095
+				[31:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Donald Trump
+				[0:relevance]
+					 0.955005
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[1:text]
+					 Trump Park Avenue
+				[1:relevance]
+					 0.39291
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Park_Avenue
+				[2:text]
+					 New York City
+				[2:relevance]
+					 0.382255
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/New_York_City
+				[3:text]
+					 Trump Organization
+				[3:relevance]
+					 0.317515
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Organization
+				[4:text]
+					 Melania Trump
+				[4:relevance]
+					 0.316961
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Melania_Trump
+				[5:text]
+					 Real estate
+				[5:relevance]
+					 0.31498
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Real_estate
+				[6:text]
+					 Trump Entertainment Resorts
+				[6:relevance]
+					 0.30948
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Trump_Entertainment_Resorts
+				[7:text]
+					 Buildings and structures in Manhattan
+				[7:relevance]
+					 0.307395
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Buildings_and_structures_in_Manhattan
+		[:enriched_text:categories]
+				[0:score]
+					 0.850648
+				[0:label]
+					 /real estate
+				[1:score]
+					 0.668129
+				[1:label]
+					 /real estate/buying and selling homes
+				[2:score]
+					 0.661676
+				[2:label]
+					 /business and industrial/business operations/business plans
+		[:metadata:docid]
+			 K1602000934
+		[:metadata:concepts]
+			[0]
+				 Donald Trump
+			[1]
+				 Trump Park Avenue
+			[2]
+				 New York City
+			[3]
+				 Trump Organization
+			[4]
+				 Melania Trump
+			[5]
+				 Real estate
+			[6]
+				 Trump Entertainment Resorts
+			[7]
+				 Buildings and structures in Manhattan
+			[8]
+				 Hotel
+			[9]
+				 George Gallup
+		[:metadata:keywords]
+			[0]
+				 Trump's candidacy
+			[1]
+				 Trump International Hotel
+			[2]
+				 Trump
+			[3]
+				 online business school
+			[4]
+				 Trump Grande Ocean Resort
+			[5]
+				 development of Trump Park Avenue
+			[6]
+				 college credit
+			[7]
+				 traditional schools
+			[8]
+				 Ivana Trump
+			[9]
+				 Trump University
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Trump International Hotel
+			[2]
+				 Reform Party
+			[3]
+				 Fortune magazine
+			[4]
+				 Gallup Organization
+			[5]
+				 98%
+			[6]
+				 Delmonico Hotel
+			[7]
+				 Trump Grande Ocean
+			[8]
+				 36-year
+			[9]
+				 Melania Knauss
+		[:metadata:title]
+			 Donald Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 55
+			[:metadata:gale:gale-fake-waiting]
+				 15
+		[:extracted_metadata:sha1]
+			 1ca21ede43beeb47bfd9848122cef33e4afc1ce0
+		[:extracted_metadata:filename]
+			 Donald Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 42a42530-1e81-4566-a584-ab6c226c9690
+		[:result_metadata:confidence]
+			 0.09539199362132661
+		[:result_metadata:score]
+			 11.174887
+	[:text]
+		 no title
+
+As the daughter of famous real estate magnate and president Donald J. Trump, Ivanka Trump has avoided the trap that ensnares many [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.56158
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 0.441267
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Ivanka Marie Trump
+				[0:relevance]
+					 0.930252
+				[0:type]
+					 Person
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0.391199
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Ivanka Trump Collection
+				[1:relevance]
+					 0.285126
+				[1:type]
+					 Facility
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Trump
+				[2:relevance]
+					 0.262095
+				[2:type]
+					 Company
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 New York City
+				[3:relevance]
+					 0.125591
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[3:disambiguation:name]
+						 New York City
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 University of Pennsylvania
+				[4:relevance]
+					 0.119099
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AdministrativeDivision
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 CollegeUniversity
+						[5]
+							 University
+					[4:disambiguation:name]
+						 University of Pennsylvania
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Pennsylvania
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Forest City Ratner Companies
+				[5:relevance]
+					 0.104716
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Forest City Enterprises
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Forest_City_Enterprises
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Elite Modeling agency
+				[6:relevance]
+					 0.102039
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Company
+					[6:disambiguation:name]
+						 Elite Model Management
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elite_Model_Management
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Wharton School of Business
+				[7:relevance]
+					 0.099562
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 Facility
+					[7:disambiguation:name]
+						 Wharton School of the University of Pennsylvania
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 project manager
+				[8:relevance]
+					 0.097138
+				[8:type]
+					 JobTitle
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 New York University
+				[9:relevance]
+					 0.096359
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[9:disambiguation:name]
+						 New York University
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_University
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 executive vice president
+				[10:relevance]
+					 0.093776
+				[10:type]
+					 JobTitle
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 president
+				[11:relevance]
+					 0.093217
+				[11:type]
+					 JobTitle
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Fordham University
+				[12:relevance]
+					 0.091612
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[12:disambiguation:name]
+						 Fordham University
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fordham_University
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 New Jersey Nets
+				[13:relevance]
+					 0.089059
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 Brooklyn Nets
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn_Nets
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.489304
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Bruce Ratner
+				[14:relevance]
+					 0.088786
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 Bruce Ratner
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bruce_Ratner
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Jared Kushner
+				[15:relevance]
+					 0.087745
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Celebrity
+					[15:disambiguation:name]
+						 Jared Kushner
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jared_Kushner
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Choate Rosemary Hall
+				[16:relevance]
+					 0.087558
+				[16:type]
+					 Facility
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Global Entrepreneurship Summit
+				[17:relevance]
+					 0.085796
+				[17:type]
+					 Organization
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 India
+				[18:relevance]
+					 0.083086
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 Country
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 White House
+				[19:relevance]
+					 0.078497
+				[19:type]
+					 Facility
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Arabella Rose
+				[20:relevance]
+					 0.077627
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 publisher
+				[21:relevance]
+					 0.07011
+				[21:type]
+					 JobTitle
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 15-year
+				[22:relevance]
+					 0.07011
+				[22:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Ivanka Trump
+				[0:relevance]
+					 0.980018
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivanka_Trump
+				[1:text]
+					 Donald Trump
+				[1:relevance]
+					 0.716238
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Donald_Trump
+				[2:text]
+					 University of Pennsylvania
+				[2:relevance]
+					 0.594263
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/University_of_Pennsylvania
+				[3:text]
+					 Ivana Trump
+				[3:relevance]
+					 0.589982
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Ivana_Trump
+				[4:text]
+					 New Jersey Nets
+				[4:relevance]
+					 0.490971
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/New_Jersey_Nets
+				[5:text]
+					 Fordham University
+				[5:relevance]
+					 0.464887
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Fordham_University
+				[6:text]
+					 New York City
+				[6:relevance]
+					 0.430374
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/New_York_City
+		[:enriched_text:categories]
+				[0:score]
+					 0.863948
+				[0:label]
+					 /real estate
+				[1:score]
+					 0.630302
+				[1:label]
+					 /family and parenting/children
+		[:metadata:docid]
+			 K1650006939
+		[:metadata:concepts]
+			[0]
+				 Ivanka Trump
+			[1]
+				 Donald Trump
+			[2]
+				 University of Pennsylvania
+			[3]
+				 Ivana Trump
+			[4]
+				 New Jersey Nets
+			[5]
+				 Fordham University
+			[6]
+				 New York City
+		[:metadata:keywords]
+			[0]
+				 president Donald J. Trump
+			[1]
+				 Ivanka Trump
+			[2]
+				 book Ivanka Marie Trump
+			[3]
+				 daughter of Donald Trump
+			[4]
+				 daughter of famous real estate magnate
+			[5]
+				 businesswoman Ivana Trump
+			[6]
+				 father's business
+			[7]
+				 celebrity children
+			[8]
+				 support role
+			[9]
+				 first book
+		[:metadata:entitites]
+			[0]
+				 Trump
+			[1]
+				 Donald J. Trump
+			[2]
+				 Ivanka Marie Trump
+			[3]
+				 University of Pennsylvania
+			[4]
+				 Elite Modeling agency
+			[5]
+				 Ivanka Trump
+			[6]
+				 Choate Rosemary Hall
+			[7]
+				 Wharton School of Business
+			[8]
+				 Ivana Trump
+			[9]
+				 Forest City Ratner Companies
+		[:metadata:title]
+			 Ivanka Trump
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 15
+			[:metadata:gale:gale-fake-waiting]
+				 52
+		[:extracted_metadata:sha1]
+			 0f70b262dce8caf4cb86d3058d6c92b4e9299424
+		[:extracted_metadata:filename]
+			 Ivanka Trump.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

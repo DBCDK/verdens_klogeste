@@ -1,0 +1,3320 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 3c5f1a5e-3075-47fe-b22a-56bf8f7ef4c8
+		[:result_metadata:confidence]
+			 0.13856849887052686
+		[:result_metadata:score]
+			 2.1656938
+	[:text]
+		 no title
+
+As attorneys, Hispanics face formidable obstacles in joining law firms. According to a survey conducted by Stanford Law School in [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.568407
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Stanford Law School
+				[0:relevance]
+					 0.298989
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+					[0:disambiguation:name]
+						 Stanford Law School
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stanford_Law_School
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.719043
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 attorney
+				[1:relevance]
+					 0.094124
+				[1:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Lawyer
+				[0:relevance]
+					 0.965904
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Lawyer
+				[1:text]
+					 Law
+				[1:relevance]
+					 0.763687
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[2:text]
+					 Law firm
+				[2:relevance]
+					 0.697436
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_firm
+				[3:text]
+					 Hispanic and Latino Americans
+				[3:relevance]
+					 0.664983
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Hispanic_and_Latino_Americans
+				[4:text]
+					 Law firms
+				[4:relevance]
+					 0.65988
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_firms
+				[5:text]
+					 Law school
+				[5:relevance]
+					 0.615233
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_school
+				[6:text]
+					 Common law
+				[6:relevance]
+					 0.60082
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[7:text]
+					 Paralegal
+				[7:relevance]
+					 0.56755
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Paralegal
+		[:enriched_text:categories]
+				[0:score]
+					 0.913809
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.750314
+				[1:label]
+					 /education/homework and study tips
+				[2:score]
+					 0.72442
+				[2:label]
+					 /education/studying business
+		[:metadata:docid]
+			 EJ2116207227
+		[:metadata:concepts]
+			[0]
+				 Lawyer
+			[1]
+				 Law
+			[2]
+				 Law firm
+			[3]
+				 Hispanic and Latino Americans
+			[4]
+				 Law firms
+			[5]
+				 Law school
+			[6]
+				 Common law
+			[7]
+				 Paralegal
+			[8]
+				 Firm
+			[9]
+				 United States
+		[:metadata:keywords]
+			[0]
+				 law firms
+			[1]
+				 Hispanic-American graduates
+			[2]
+				 Hispanic students
+			[3]
+				 Stanford Law School
+			[4]
+				 large law firm interviewers
+			[5]
+				 Hispanics
+			[6]
+				 lack of Hispanic mentors
+			[7]
+				 role models
+			[8]
+				 feeling of isolation
+			[9]
+				 Culture shock
+		[:metadata:entitites]
+			[0]
+				 Stanford Law School
+		[:metadata:title]
+			 Hispanics in Large Law Firms
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 65
+			[:metadata:gale:gale-fake-waiting]
+				 86
+		[:extracted_metadata:sha1]
+			 b5b4fa317fc49fad1d25c26d16969a2e47cb3bca
+		[:extracted_metadata:filename]
+			 Hispanics in Large Law Firms.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 84e642f9-186a-4a27-91cc-5d055626785e
+		[:result_metadata:confidence]
+			 0.13545711744237027
+		[:result_metadata:score]
+			 2.165055
+	[:text]
+		 no title
+
+Patrick Macklem is a law professor whose interests include aboriginal law, Canadian constitutional law, the Charter of Rights, com[...]
+				[:enriched_text:sentiment:document:score]
+					 0
+				[:enriched_text:sentiment:document:label]
+					 neutral
+		[:enriched_text:entities]
+				[0:count]
+					 17
+					[0:sentiment:score]
+						 -0.396184
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Patrick Macklem
+				[0:relevance]
+					 0.396255
+				[0:type]
+					 Person
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Charter of Rights
+				[1:relevance]
+					 0.282681
+				[1:type]
+					 Organization
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 professor
+				[2:relevance]
+					 0.10618
+				[2:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Law
+				[0:relevance]
+					 0.982029
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[1:text]
+					 Human rights
+				[1:relevance]
+					 0.79404
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[2:text]
+					 International law
+				[2:relevance]
+					 0.46144
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/International_law
+				[3:text]
+					 International human rights law
+				[3:relevance]
+					 0.390202
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/International_human_rights_law
+				[4:text]
+					 United Nations
+				[4:relevance]
+					 0.381122
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/United_Nations
+				[5:text]
+					 Political philosophy
+				[5:relevance]
+					 0.380593
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Political_philosophy
+				[6:text]
+					 Political science
+				[6:relevance]
+					 0.296889
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Political_science
+				[7:text]
+					 Constitution
+				[7:relevance]
+					 0.28918
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Constitution
+		[:enriched_text:categories]
+				[0:score]
+					 0.906072
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.812507
+				[1:label]
+					 /society/crime/personal offense/torture
+				[2:score]
+					 0.797188
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 H1000324843
+		[:metadata:concepts]
+			[0]
+				 Law
+			[1]
+				 Human rights
+			[2]
+				 International law
+			[3]
+				 International human rights law
+			[4]
+				 United Nations
+			[5]
+				 Political philosophy
+			[6]
+				 Political science
+			[7]
+				 Constitution
+			[8]
+				 Public international law
+			[9]
+				 Politics
+		[:metadata:keywords]
+			[0]
+				 law professor
+			[1]
+				 Patrick Macklem
+			[2]
+				 Charter of Rights
+			[3]
+				 international human rights law
+			[4]
+				 political science
+			[5]
+				 aboriginal law
+			[6]
+				 human rights
+			[7]
+				 book Macklem
+			[8]
+				 Canadian constitutional law
+			[9]
+				 concept of moral rights
+		[:metadata:entitites]
+			[0]
+				 Patrick Macklem
+			[1]
+				 Macklem
+		[:metadata:title]
+			 Patrick Macklem
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 29
+			[:metadata:gale:gale-fake-waiting]
+				 64
+		[:extracted_metadata:sha1]
+			 9b31d2ba62331351f74e84f5923c9886591d9f91
+		[:extracted_metadata:filename]
+			 Patrick Macklem.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 0e04d04e-f107-4d75-92b9-67d40ae66222
+		[:result_metadata:confidence]
+			 0.1321523705747979
+		[:result_metadata:score]
+			 2.1643765
+	[:text]
+		 no title
+
+As attorneys, Hispanics face formidable obstacles in joining law firms. According to a survey conducted by Stanford Law School in [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.556595
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 2
+					[0:sentiment:score]
+						 -0.640515
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Stanford Law School
+				[0:relevance]
+					 0.316084
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+					[0:disambiguation:name]
+						 Stanford Law School
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stanford_Law_School
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 -0.719043
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 attorney
+				[1:relevance]
+					 0.094711
+				[1:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Lawyer
+				[0:relevance]
+					 0.953598
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Lawyer
+				[1:text]
+					 Law
+				[1:relevance]
+					 0.77272
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[2:text]
+					 Law firm
+				[2:relevance]
+					 0.68011
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_firm
+				[3:text]
+					 Law firms
+				[3:relevance]
+					 0.642114
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_firms
+				[4:text]
+					 Law school
+				[4:relevance]
+					 0.598669
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_school
+				[5:text]
+					 Common law
+				[5:relevance]
+					 0.58629
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[6:text]
+					 Paralegal
+				[6:relevance]
+					 0.55227
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Paralegal
+				[7:text]
+					 Firm
+				[7:relevance]
+					 0.495238
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Firm
+		[:enriched_text:categories]
+				[0:score]
+					 0.912028
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.753343
+				[1:label]
+					 /education/homework and study tips
+				[2:score]
+					 0.721252
+				[2:label]
+					 /education/studying business
+		[:metadata:docid]
+			 EJ2128700763
+		[:metadata:concepts]
+			[0]
+				 Lawyer
+			[1]
+				 Law
+			[2]
+				 Law firm
+			[3]
+				 Law firms
+			[4]
+				 Law school
+			[5]
+				 Common law
+			[6]
+				 Paralegal
+			[7]
+				 Firm
+			[8]
+				 Hispanic and Latino Americans
+			[9]
+				 Legal clinic
+		[:metadata:keywords]
+			[0]
+				 law firms
+			[1]
+				 Hispanic American graduates
+			[2]
+				 Hispanic students
+			[3]
+				 Stanford Law School
+			[4]
+				 large law firms
+			[5]
+				 Hispanics
+			[6]
+				 lack of Hispanic mentors
+			[7]
+				 Culture shock
+			[8]
+				 feeling of isolation
+			[9]
+				 role models
+		[:metadata:entitites]
+			[0]
+				 Stanford Law School
+		[:metadata:title]
+			 Hispanics in Large Law Firms
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 44
+			[:metadata:gale:gale-fake-waiting]
+				 76
+		[:extracted_metadata:sha1]
+			 dd09dc6cbff9108f6fbb564d3d6670bffab872bc
+		[:extracted_metadata:filename]
+			 Hispanics in Large Law Firms.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 d1e081ae-daab-43d4-9130-86d5c394010e
+		[:result_metadata:confidence]
+			 0.13162146798295454
+		[:result_metadata:score]
+			 2.1642675
+	[:text]
+		 no title
+
+The famous English jurist Sir William Blackstone (1723-1780) is remembered for his William Blackstone was born in Cheapside, Londo[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.414843
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 21
+					[0:sentiment:score]
+						 -0.402319
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Sir William Blackstone
+				[0:relevance]
+					 0.89447
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Politician
+					[0:disambiguation:name]
+						 William Blackstone
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Blackstone
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Court of Common Pleas
+				[1:relevance]
+					 0.196712
+				[1:type]
+					 Organization
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 London
+				[2:relevance]
+					 0.190393
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 TouristAttraction
+						[3]
+							 City
+					[2:disambiguation:name]
+						 City of London
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/City_of_London
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Charterhouse School
+				[3:relevance]
+					 0.179185
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 School
+					[3:disambiguation:name]
+						 Charterhouse School
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Charterhouse_School
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Middle Temple
+				[4:relevance]
+					 0.174065
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[4:disambiguation:name]
+						 Middle Temple
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Middle_Temple
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Inns of Court
+				[5:relevance]
+					 0.171549
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 Building
+						[1]
+							 Facility
+					[5:disambiguation:name]
+						 Inns of Court
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Inns_of_Court
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Cheapside
+				[6:relevance]
+					 0.16616
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Haldimand County
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Haldimand_County
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Henry de Bracton
+				[7:relevance]
+					 0.16503
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 Henry de Bracton
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Henry_de_Bracton
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Oxford
+				[8:relevance]
+					 0.16133
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 United States
+				[9:relevance]
+					 0.148933
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[9:disambiguation:name]
+						 United States
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Parliament
+				[10:relevance]
+					 0.148109
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Vinerian
+				[11:relevance]
+					 0.142164
+				[11:type]
+					 Company
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 England
+				[12:relevance]
+					 0.141301
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[12:disambiguation:name]
+						 England
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 king
+				[13:relevance]
+					 0.137584
+				[13:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Common law
+				[0:relevance]
+					 0.963502
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[1:text]
+					 Law
+				[1:relevance]
+					 0.727543
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[2:text]
+					 Natural law
+				[2:relevance]
+					 0.552055
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Natural_law
+				[3:text]
+					 William Blackstone
+				[3:relevance]
+					 0.497479
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/William_Blackstone
+				[4:text]
+					 Magna Carta
+				[4:relevance]
+					 0.484613
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Magna_Carta
+				[5:text]
+					 Law of the United States
+				[5:relevance]
+					 0.47893
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_of_the_United_States
+				[6:text]
+					 Legal positivism
+				[6:relevance]
+					 0.456954
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Legal_positivism
+				[7:text]
+					 Fundamental Laws of England
+				[7:relevance]
+					 0.424267
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Fundamental_Laws_of_England
+		[:enriched_text:categories]
+				[0:score]
+					 0.902245
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.716606
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.703478
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K1631000709
+		[:metadata:concepts]
+			[0]
+				 Common law
+			[1]
+				 Law
+			[2]
+				 Natural law
+			[3]
+				 William Blackstone
+			[4]
+				 Magna Carta
+			[5]
+				 Law of the United States
+			[6]
+				 Legal positivism
+			[7]
+				 Fundamental Laws of England
+			[8]
+				 Scotland
+			[9]
+				 Positive law
+		[:metadata:keywords]
+			[0]
+				 bachelor of civil law degree
+			[1]
+				 William Blackstone
+			[2]
+				 posthumous son of Charles Blackstone
+			[3]
+				 English law
+			[4]
+				 encompassing treatment of English law
+			[5]
+				 first regular university lectures
+			[6]
+				 treatment of law Blackstone
+			[7]
+				 vague grasp of systematic conceptions of law
+			[8]
+				 United States
+			[9]
+				 technical areas
+		[:metadata:entitites]
+			[0]
+				 Sir William Blackstone
+			[1]
+				 Charles Blackstone
+			[2]
+				 Charterhouse School
+			[3]
+				 Blackstone
+			[4]
+				 Blackstone
+			[5]
+				 Henry de Bracton
+			[6]
+				 Oxford
+			[7]
+				 William Blackstone
+			[8]
+				 Cheapside
+			[9]
+				 Middle Temple
+		[:metadata:title]
+			 William Blackstone, Sir
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 26
+			[:metadata:gale:gale-fake-waiting]
+				 89
+		[:extracted_metadata:sha1]
+			 11c2912435753899b29e2862a3a66ca7ad87eddb
+		[:extracted_metadata:filename]
+			 William Blackstone, Sir.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 3c724fa8-2265-4e49-b590-862284a2a8af
+		[:result_metadata:confidence]
+			 0.1170547672359474
+		[:result_metadata:score]
+			 2.1612768
+	[:text]
+		 no title
+
+In 1687 English physicist Sir Isaac Newton (1642-1727) published a law of universal gravitation in his important and influential w[...]
+				[:enriched_text:sentiment:document:score]
+					 0.808834
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 36
+					[0:sentiment:score]
+						 0.156184
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Sir Isaac Newton
+				[0:relevance]
+					 0.94184
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Astronomer
+						[1]
+							 BoardMember
+						[2]
+							 Inventor
+						[3]
+							 Scientist
+					[0:disambiguation:name]
+						 Isaac Newton
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Isaac_Newton
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 0.818387
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Johannes Kepler
+				[1:relevance]
+					 0.218221
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 OperaCharacter
+						[3]
+							 Scientist
+					[1:disambiguation:name]
+						 Johannes Kepler
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Johannes_Kepler
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 physicist
+				[2:relevance]
+					 0.158849
+				[2:type]
+					 JobTitle
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 William Herschel
+				[3:relevance]
+					 0.15863
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+						[2]
+							 Academic
+						[3]
+							 Astronomer
+						[4]
+							 ChivalricOrderMember
+						[5]
+							 MusicalGroupMember
+						[6]
+							 Scientist
+					[3:disambiguation:name]
+						 William Herschel
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Herschel
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 apple
+				[4:relevance]
+					 0.143147
+				[4:type]
+					 Company
+					[4:disambiguation:subtype]
+						[0]
+							 Brand
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 ProgrammingLanguageDesigner
+						[4]
+							 ProgrammingLanguageDeveloper
+						[5]
+							 ProtocolProvider
+						[6]
+							 SoftwareDeveloper
+						[7]
+							 VentureFundedCompany
+						[8]
+							 VideoGameDeveloper
+						[9]
+							 VideoGamePublisher
+					[4:disambiguation:name]
+						 Apple Inc.
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Apple_Inc.
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 James Clerk Maxwell
+				[5:relevance]
+					 0.118667
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 ProjectParticipant
+						[2]
+							 Scientist
+					[5:disambiguation:name]
+						 James Clerk Maxwell
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Clerk_Maxwell
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Coulomb
+				[6:relevance]
+					 0.118337
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Albert Michelson
+				[7:relevance]
+					 0.117667
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 MilitaryPerson
+						[3]
+							 Scientist
+					[7:disambiguation:name]
+						 Albert Abraham Michelson
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Albert_Abraham_Michelson
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.22917
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Edward Morley
+				[8:relevance]
+					 0.116013
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Scientist
+					[8:disambiguation:name]
+						 Edward Morley
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edward_Morley
+		[:enriched_text:concepts]
+				[0:text]
+					 Newton's laws of motion
+				[0:relevance]
+					 0.923796
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Newton's_laws_of_motion
+				[1:text]
+					 General relativity
+				[1:relevance]
+					 0.761896
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/General_relativity
+				[2:text]
+					 Isaac Newton
+				[2:relevance]
+					 0.75226
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Isaac_Newton
+				[3:text]
+					 Gravitation
+				[3:relevance]
+					 0.692032
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Gravitation
+				[4:text]
+					 Mass
+				[4:relevance]
+					 0.647847
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Mass
+				[5:text]
+					 Orbit
+				[5:relevance]
+					 0.63751
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Orbit
+				[6:text]
+					 Newton's law of universal gravitation
+				[6:relevance]
+					 0.617706
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Newton's_law_of_universal_gravitation
+				[7:text]
+					 Kepler's laws of planetary motion
+				[7:relevance]
+					 0.604344
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Kepler's_laws_of_planetary_motion
+		[:enriched_text:categories]
+				[0:score]
+					 0.996904
+				[0:label]
+					 /science/physics/electromagnetism
+				[1:score]
+					 0.845189
+				[1:label]
+					 /science/physics/space and astronomy
+		[:metadata:docid]
+			 CV2643450287
+		[:metadata:concepts]
+			[0]
+				 Newton's laws of motion
+			[1]
+				 General relativity
+			[2]
+				 Isaac Newton
+			[3]
+				 Gravitation
+			[4]
+				 Mass
+			[5]
+				 Orbit
+			[6]
+				 Newton's law of universal gravitation
+			[7]
+				 Kepler's laws of planetary motion
+			[8]
+				 Classical mechanics
+			[9]
+				 Celestial mechanics
+		[:metadata:keywords]
+			[0]
+				 law of universal gravitation
+			[1]
+				 English physicist Sir Isaac Newton
+			[2]
+				 influential work Newton's law
+			[3]
+				 force of gravity
+			[4]
+				 Newton's own laws
+			[5]
+				 gravitational force
+			[6]
+				 laws of planetary motion
+			[7]
+				 universal gravitation
+			[8]
+				 twentieth century
+			[9]
+				 astronomer Johannes Kepler
+		[:metadata:entitites]
+			[0]
+				 Newton
+			[1]
+				 Kepler
+			[2]
+				 Johannes Kepler
+			[3]
+				 Sir Isaac Newton
+			[4]
+				 Kepler
+			[5]
+				 Galileo
+			[6]
+				 William Herschel
+			[7]
+				 Herschel
+			[8]
+				 apple
+			[9]
+				 Albert Michelson
+		[:metadata:title]
+			 Newton's Law of Universal Gravitation
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 46
+			[:metadata:gale:gale-fake-waiting]
+				 39
+		[:extracted_metadata:sha1]
+			 2512ce7bc28d2c7d85f558693b7b363e32628ada
+		[:extracted_metadata:filename]
+			 Newton's Law of Universal Gravitation.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 ba7b3af7-cdc8-4b42-98d3-dd617e1fb5d0
+		[:result_metadata:confidence]
+			 0.10597741159716105
+		[:result_metadata:score]
+			 2.1590025
+	[:text]
+		 no title
+
+Roscoe Pound, who would become one of the twentieth century's most influential legal thinkers, was something of a child prodigy. H[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.273962
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 17
+					[0:sentiment:score]
+						 -0.404988
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Roscoe Pound
+				[0:relevance]
+					 0.851915
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Scientist
+					[0:disambiguation:name]
+						 Roscoe Pound
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Roscoe_Pound
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Harvard Law School
+				[1:relevance]
+					 0.34696
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[1:disambiguation:name]
+						 Harvard Law School
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_Law_School
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 College of Law
+				[2:relevance]
+					 0.328025
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+					[2:disambiguation:name]
+						 The College of Law
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_College_of_Law
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 professor of law
+				[3:relevance]
+					 0.277109
+				[3:type]
+					 JobTitle
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Joseph Story Professor of Law
+				[4:relevance]
+					 0.251786
+				[4:type]
+					 JobTitle
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Lincoln
+				[5:relevance]
+					 0.230327
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 City
+					[5:disambiguation:name]
+						 Lincoln, Nebraska
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lincoln,_Nebraska
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Harvard
+				[6:relevance]
+					 0.225966
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 dean of the law school
+				[7:relevance]
+					 0.205457
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 University of Nebraska
+				[8:relevance]
+					 0.18423
+				[8:type]
+					 Organization
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 assistant professor
+				[9:relevance]
+					 0.182413
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.273895
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Nebraska
+				[10:relevance]
+					 0.181399
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[10:disambiguation:name]
+						 Nebraska
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nebraska
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 University Professor
+				[11:relevance]
+					 0.180422
+				[11:type]
+					 JobTitle
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 contesting
+				[12:relevance]
+					 0.178897
+				[12:type]
+					 Sport
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 Contesting
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Contesting
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 American Bar Association
+				[13:relevance]
+					 0.178669
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 American Bar Association
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Bar_Association
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Chiang Kai-shek
+				[14:relevance]
+					 0.168011
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.264097
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 restraint of trade
+				[15:relevance]
+					 0.162406
+				[15:type]
+					 Crime
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Blackstone
+				[16:relevance]
+					 0.157416
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 City
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 professor
+				[17:relevance]
+					 0.156382
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Louis Brandeis
+				[18:relevance]
+					 0.156281
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Judge
+					[18:disambiguation:name]
+						 Louis Brandeis
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Louis_Brandeis
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Northwestern University
+				[19:relevance]
+					 0.15623
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[19:disambiguation:name]
+						 Northwestern University
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Northwestern_University
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Latin department
+				[20:relevance]
+					 0.153573
+				[20:type]
+					 Organization
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 University of Chicago
+				[21:relevance]
+					 0.153431
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 CollegeUniversity
+					[21:disambiguation:name]
+						 University of Chicago
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Chicago
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 sixty-hour
+				[22:relevance]
+					 0.153431
+				[22:type]
+					 Quantity
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Two years
+				[23:relevance]
+					 0.153431
+				[23:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Law
+				[0:relevance]
+					 0.950737
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[1:text]
+					 Common law
+				[1:relevance]
+					 0.874151
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[2:text]
+					 Law school
+				[2:relevance]
+					 0.681816
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_school
+				[3:text]
+					 Roscoe Pound
+				[3:relevance]
+					 0.675469
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Roscoe_Pound
+				[4:text]
+					 Lawyer
+				[4:relevance]
+					 0.670354
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Lawyer
+				[5:text]
+					 Judge
+				[5:relevance]
+					 0.668556
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Judge
+				[6:text]
+					 Harvard Law School
+				[6:relevance]
+					 0.646096
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Harvard_Law_School
+				[7:text]
+					 Louis Brandeis
+				[7:relevance]
+					 0.56623
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Louis_Brandeis
+		[:enriched_text:categories]
+				[0:score]
+					 0.929987
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.890643
+				[1:label]
+					 /law, govt and politics/government/courts and judiciary
+				[2:score]
+					 0.851311
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 BT2104100449
+		[:metadata:concepts]
+			[0]
+				 Law
+			[1]
+				 Common law
+			[2]
+				 Law school
+			[3]
+				 Roscoe Pound
+			[4]
+				 Lawyer
+			[5]
+				 Judge
+			[6]
+				 Harvard Law School
+			[7]
+				 Louis Brandeis
+			[8]
+				 Doctorate
+			[9]
+				 Juris Doctor
+		[:metadata:keywords]
+			[0]
+				 Roscoe Pound
+			[1]
+				 Harvard Law School
+			[2]
+				 local lawyer
+			[3]
+				 meeting of the American Bar Association Pound
+			[4]
+				 Mechanical Jurisprudence
+			[5]
+				 later years
+			[6]
+				 law
+			[7]
+				 legislative attempt
+			[8]
+				 practicing lawyer
+			[9]
+				 common law
+		[:metadata:entitites]
+			[0]
+				 Roscoe Pound
+			[1]
+				 botany
+			[2]
+				 College of Law and teaching Roman
+			[3]
+				 Latin department
+			[4]
+				 Lincoln
+			[5]
+				 sixty-hour
+			[6]
+				 University of Nebraska
+			[7]
+				 Harvard Law School
+			[8]
+				 Pound
+			[9]
+				 College of Law
+		[:metadata:title]
+			 Roscoe Pound
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 86
+			[:metadata:gale:gale-fake-waiting]
+				 38
+		[:extracted_metadata:sha1]
+			 fe28b974d7a26ad451e9d5eed6f2e687d650fc84
+		[:extracted_metadata:filename]
+			 Roscoe Pound.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 35d98c93-86db-43c0-acd0-4513e648f4f1
+		[:result_metadata:confidence]
+			 0.10326201531319404
+		[:result_metadata:score]
+			 2.158445
+	[:text]
+		 no title
+
+Sir William Blackstone is recognized as one of the great legal commentators of English law, whose work helped shape the foundation[...]
+				[:enriched_text:sentiment:document:score]
+					 0.220904
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 29
+					[0:sentiment:score]
+						 -0.341807
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Sir William Blackstone
+				[0:relevance]
+					 0.916834
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Politician
+					[0:disambiguation:name]
+						 William Blackstone
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Blackstone
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Blackstone
+				[1:relevance]
+					 0.321996
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Blackstone Group
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Blackstone_Group
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Court of Common Pleas
+				[2:relevance]
+					 0.15157
+				[2:type]
+					 Organization
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Oxford
+				[3:relevance]
+					 0.145418
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+					[3:disambiguation:name]
+						 Oxford, Michigan
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Oxford,_Michigan
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 U.S.
+				[4:relevance]
+					 0.128003
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[4:disambiguation:name]
+						 United States
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 London
+				[5:relevance]
+					 0.125901
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicHostCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 City
+					[5:disambiguation:name]
+						 London
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/London
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Chancellor's Court
+				[6:relevance]
+					 0.125333
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Oxford University
+				[7:relevance]
+					 0.121161
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[7:disambiguation:name]
+						 University of Oxford
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Oxford
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.501058
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Jeremy Bentham
+				[8:relevance]
+					 0.114267
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[8:disambiguation:name]
+						 Jeremy Bentham
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jeremy_Bentham
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 England
+				[9:relevance]
+					 0.107673
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[9:disambiguation:name]
+						 England
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/England
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Parliament
+				[10:relevance]
+					 0.103858
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 seven years
+				[11:relevance]
+					 0.103858
+				[11:type]
+					 Quantity
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 two years
+				[12:relevance]
+					 0.103858
+				[12:type]
+					 Quantity
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 50 years
+				[13:relevance]
+					 0.103858
+				[13:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Common law
+				[0:relevance]
+					 0.958905
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Common_law
+				[1:text]
+					 Law
+				[1:relevance]
+					 0.896076
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[2:text]
+					 Law of the United States
+				[2:relevance]
+					 0.586481
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Law_of_the_United_States
+				[3:text]
+					 English law
+				[3:relevance]
+					 0.48181
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/English_law
+				[4:text]
+					 Legal systems of the world
+				[4:relevance]
+					 0.462035
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Legal_systems_of_the_world
+				[5:text]
+					 United States
+				[5:relevance]
+					 0.433538
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[6:text]
+					 Civil law
+				[6:relevance]
+					 0.371672
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Civil_law_(legal_system)
+				[7:text]
+					 United Kingdom
+				[7:relevance]
+					 0.341571
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_Kingdom
+		[:enriched_text:categories]
+				[0:score]
+					 0.904455
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.839597
+				[1:label]
+					 /law, govt and politics/government
+				[2:score]
+					 0.774656
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K2425100034
+		[:metadata:concepts]
+			[0]
+				 Common law
+			[1]
+				 Law
+			[2]
+				 Law of the United States
+			[3]
+				 English law
+			[4]
+				 Legal systems of the world
+			[5]
+				 United States
+			[6]
+				 Civil law
+			[7]
+				 United Kingdom
+			[8]
+				 England
+			[9]
+				 Scots law
+		[:metadata:keywords]
+			[0]
+				 Sir William Blackstone
+			[1]
+				 great legal commentators of English law
+			[2]
+				 first years
+			[3]
+				 legal practice
+			[4]
+				 analysis of English
+			[5]
+				 nineteenth century
+			[6]
+				 civil law
+			[7]
+				 major works
+			[8]
+				 British legal scholar
+			[9]
+				 common law
+		[:metadata:entitites]
+			[0]
+				 Blackstone
+			[1]
+				 Sir William Blackstone
+			[2]
+				 Blackstone
+			[3]
+				 Chancellor's Court
+			[4]
+				 Oxford
+			[5]
+				 Oxford University
+			[6]
+				 U.S.
+			[7]
+				 England
+			[8]
+				 London
+			[9]
+				 seven years
+		[:metadata:title]
+			 William Blackstone, Sir
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 46
+			[:metadata:gale:gale-fake-waiting]
+				 95
+		[:extracted_metadata:sha1]
+			 2f599a1ff4ef25547864e3b43fa3c52ce8883811
+		[:extracted_metadata:filename]
+			 William Blackstone, Sir.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 3b7a7d97-bdce-467a-ac62-577da8bed292
+		[:result_metadata:confidence]
+			 0.09880438180810709
+		[:result_metadata:score]
+			 2.1575298
+	[:text]
+		 no title
+
+Conservation laws are statements that some measurable property of an isolated system does not change as that system itself undergo[...]
+				[:enriched_text:sentiment:document:score]
+					 0.482228
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 3
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Christiaan Huygens
+				[0:relevance]
+					 0.90755
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Astronomer
+						[2]
+							 Inventor
+						[3]
+							 Scientist
+					[0:disambiguation:name]
+						 Christiaan Huygens
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Christiaan_Huygens
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 John Wallis
+				[1:relevance]
+					 0.868659
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Scientist
+					[1:disambiguation:name]
+						 John Wallis
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Wallis
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Antoine-Laurent Lavoisier
+				[2:relevance]
+					 0.862739
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Academic
+					[2:disambiguation:name]
+						 Antoine Lavoisier
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Antoine_Lavoisier
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 -0.40949
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Isaac Newton
+				[3:relevance]
+					 0.511382
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 Astronomer
+						[1]
+							 BoardMember
+						[2]
+							 Inventor
+						[3]
+							 Scientist
+					[3:disambiguation:name]
+						 Isaac Newton
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Isaac_Newton
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Albert Einstein
+				[4:relevance]
+					 0.480051
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Academic
+						[2]
+							 AwardWinner
+						[3]
+							 BoardMember
+						[4]
+							 DietFollower
+						[5]
+							 Inventor
+						[6]
+							 OperaCharacter
+						[7]
+							 Scientist
+					[4:disambiguation:name]
+						 Albert Einstein
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Albert_Einstein
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Lorentz
+				[5:relevance]
+					 0.475852
+				[5:type]
+					 Person
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 William Thomson
+				[6:relevance]
+					 0.475789
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ChivalricOrderMember
+						[3]
+							 Inventor
+						[4]
+							 Scientist
+					[6:disambiguation:name]
+						 William Thomson, 1st Baron Kelvin
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Helmholtz
+				[7:relevance]
+					 0.472207
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.342677
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 physicist
+				[8:relevance]
+					 0.469861
+				[8:type]
+					 JobTitle
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Joseph Black
+				[9:relevance]
+					 0.427435
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 ElementDiscoverer
+						[2]
+							 Scientist
+					[9:disambiguation:name]
+						 Joseph Black
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Black
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.386708
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 James Joule
+				[10:relevance]
+					 0.391412
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Scientist
+					[10:disambiguation:name]
+						 James Prescott Joule
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Prescott_Joule
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Hermann
+				[11:relevance]
+					 0.361766
+				[11:type]
+					 Person
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Julius Mayer
+				[12:relevance]
+					 0.357232
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 150 years
+				[13:relevance]
+					 0.357232
+				[13:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Energy
+				[0:relevance]
+					 0.950708
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Energy
+				[1:text]
+					 Kinetic energy
+				[1:relevance]
+					 0.859194
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Kinetic_energy
+				[2:text]
+					 Special relativity
+				[2:relevance]
+					 0.835194
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Special_relativity
+				[3:text]
+					 Conservation laws
+				[3:relevance]
+					 0.789081
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Conservation_laws
+				[4:text]
+					 Conservation of energy
+				[4:relevance]
+					 0.784499
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Conservation_of_energy
+				[5:text]
+					 Noether's theorem
+				[5:relevance]
+					 0.749328
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Noether's_theorem
+				[6:text]
+					 Standard Model
+				[6:relevance]
+					 0.725445
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Standard_Model
+				[7:text]
+					 Momentum
+				[7:relevance]
+					 0.702446
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Momentum
+		[:enriched_text:categories]
+				[0:score]
+					 0.992014
+				[0:label]
+					 /business and industrial/energy
+				[1:score]
+					 0.98925
+				[1:label]
+					 /science/physics/electromagnetism
+				[2:score]
+					 0.966728
+				[2:label]
+					 /business and industrial/green solutions
+		[:metadata:docid]
+			 CV1648500159
+		[:metadata:concepts]
+			[0]
+				 Energy
+			[1]
+				 Kinetic energy
+			[2]
+				 Special relativity
+			[3]
+				 Conservation laws
+			[4]
+				 Conservation of energy
+			[5]
+				 Noether's theorem
+			[6]
+				 Standard Model
+			[7]
+				 Momentum
+			[8]
+				 Chemistry
+			[9]
+				 Classical mechanics
+		[:metadata:keywords]
+			[0]
+				 Conservation laws
+			[1]
+				 exact laws
+			[2]
+				 law of conservation
+			[3]
+				 conservation of linear momentum
+			[4]
+				 subatomic particles
+			[5]
+				 total mass of all substances
+			[6]
+				 violation of the laws
+			[7]
+				 law of conservation of mass
+			[8]
+				 Isaac Newton
+			[9]
+				 common exact conservation laws
+		[:metadata:entitites]
+			[0]
+				 Lavoisier
+			[1]
+				 John Wallis
+			[2]
+				 Christiaan Huygens
+			[3]
+				 Huygens
+			[4]
+				 Wallis
+			[5]
+				 150 years
+			[6]
+				 Laurent Lavoisier
+			[7]
+				 William Thomson
+			[8]
+				 Isaac Newton
+			[9]
+				 Joseph Black
+		[:metadata:title]
+			 Conservation laws
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 35
+			[:metadata:gale:gale-fake-waiting]
+				 48
+		[:extracted_metadata:sha1]
+			 abf34c4f9e2a524ed604a6be49b07ca849df4d05
+		[:extracted_metadata:filename]
+			 Conservation laws.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 7610bb65-d0a0-4511-81d7-0b59e006ac9a
+		[:result_metadata:confidence]
+			 0.09593848194535355
+		[:result_metadata:score]
+			 2.1569414
+	[:text]
+		 no title
+
+Michael S. Ariens is a law professor who once worked at a law firm in Washington, DC, and clerked at the Wisconsin Court of Appeal[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.481902
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 5
+					[0:sentiment:score]
+						 0.112837
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Michael S. Ariens
+				[0:relevance]
+					 0.719105
+				[0:type]
+					 Person
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Texas Supreme Court
+				[1:relevance]
+					 0.595769
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Supreme Court of Texas
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_Texas
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0.48911
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Texas
+				[2:relevance]
+					 0.588325
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[2:disambiguation:name]
+						 Texas
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Alien Land Law
+				[3:relevance]
+					 0.342
+				[3:type]
+					 Organization
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Wisconsin Court of Appeals
+				[4:relevance]
+					 0.336181
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Wisconsin Court of Appeals
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wisconsin_Court_of_Appeals
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Texas Railroad Commission
+				[5:relevance]
+					 0.307662
+				[5:type]
+					 Organization
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Texas Traffic Association
+				[6:relevance]
+					 0.281735
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Wanita Scroggs
+				[7:relevance]
+					 0.25104
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Washington
+				[8:relevance]
+					 0.239287
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[8:disambiguation:name]
+						 Washington, D.C.
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 DC
+				[9:relevance]
+					 0.236711
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Dixie Chicks
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dixie_Chicks
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 professor
+				[10:relevance]
+					 0.228301
+				[10:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Texas
+				[0:relevance]
+					 0.986951
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Texas
+				[1:text]
+					 Law
+				[1:relevance]
+					 0.929207
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[2:text]
+					 Supreme Court of the United States
+				[2:relevance]
+					 0.927746
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[3:text]
+					 Jury
+				[3:relevance]
+					 0.907203
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Jury
+				[4:text]
+					 Lawyer
+				[4:relevance]
+					 0.854261
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Lawyer
+				[5:text]
+					 United States
+				[5:relevance]
+					 0.788774
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[6:text]
+					 Appeal
+				[6:relevance]
+					 0.749123
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Appeal
+				[7:text]
+					 United States Constitution
+				[7:relevance]
+					 0.730537
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Constitution
+		[:enriched_text:categories]
+				[0:score]
+					 0.829374
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.683599
+				[1:label]
+					 /society
+				[2:score]
+					 0.67416
+				[2:label]
+					 /law, govt and politics/government/courts and judiciary
+		[:metadata:docid]
+			 H1000309048
+		[:metadata:concepts]
+			[0]
+				 Texas
+			[1]
+				 Law
+			[2]
+				 Supreme Court of the United States
+			[3]
+				 Jury
+			[4]
+				 Lawyer
+			[5]
+				 United States
+			[6]
+				 Appeal
+			[7]
+				 United States Constitution
+			[8]
+				 United States Congress
+			[9]
+				 George W. Bush
+		[:metadata:keywords]
+			[0]
+				 law professor
+			[1]
+				 Texas Supreme Court
+			[2]
+				 law firm
+			[3]
+				 constitutional law
+			[4]
+				 various aspects of the law
+			[5]
+				 Michael S. Ariens
+			[6]
+				 author of books
+			[7]
+				 various laws
+			[8]
+				 development of law
+			[9]
+				 Texas laws
+		[:metadata:entitites]
+			[0]
+				 Ariens
+			[1]
+				 Michael S. Ariens
+			[2]
+				 Wisconsin Court of Appeals
+			[3]
+				 Texas Supreme Court
+			[4]
+				 Alien Land Law
+			[5]
+				 Texas
+			[6]
+				 Texas Railroad Commission
+			[7]
+				 DC
+			[8]
+				 Texas Traffic Association
+			[9]
+				 Washington
+		[:metadata:title]
+			 Michael S. Ariens
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 14
+			[:metadata:gale:gale-fake-waiting]
+				 67
+		[:extracted_metadata:sha1]
+			 bfa4feeaf53a4529d1454aa4207c19f256df47a6
+		[:extracted_metadata:filename]
+			 Michael S. Ariens.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 c4487f19-f2d6-4773-a5d7-03fa7ab7f43f
+		[:result_metadata:confidence]
+			 0.09593848194535355
+		[:result_metadata:score]
+			 2.1569414
+	[:text]
+		 no title
+
+A principle that connotes order, whether this be the order of the physical universe or that of morality. In a more specific sense,[...]
+				[:enriched_text:sentiment:document:score]
+					 0.697629
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 3
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 St. Thomas
+				[0:relevance]
+					 0.729177
+				[0:type]
+					 Organization
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Pius XII
+				[1:relevance]
+					 0.568566
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 ReligiousLeader
+					[1:disambiguation:name]
+						 Pope Pius XII
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pope_Pius_XII
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 representative
+				[2:relevance]
+					 0.449197
+				[2:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Law
+				[0:relevance]
+					 0.972736
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[1:text]
+					 Human rights
+				[1:relevance]
+					 0.754552
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[2:text]
+					 Morality
+				[2:relevance]
+					 0.748664
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Morality
+				[3:text]
+					 Sovereignty
+				[3:relevance]
+					 0.711677
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Sovereignty
+				[4:text]
+					 Religion
+				[4:relevance]
+					 0.70746
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Religion
+				[5:text]
+					 Natural law
+				[5:relevance]
+					 0.623992
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Natural_law
+				[6:text]
+					 Jurisprudence
+				[6:relevance]
+					 0.594033
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Jurisprudence
+				[7:text]
+					 Social contract
+				[7:relevance]
+					 0.551057
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Social_contract
+		[:enriched_text:categories]
+				[0:score]
+					 0.883429
+				[0:label]
+					 /law, govt and politics
+				[1:score]
+					 0.823169
+				[1:label]
+					 /law, govt and politics/politics
+				[2:score]
+					 0.814306
+				[2:label]
+					 /religion and spirituality
+		[:metadata:docid]
+			 K3407706514
+		[:metadata:concepts]
+			[0]
+				 Law
+			[1]
+				 Human rights
+			[2]
+				 Morality
+			[3]
+				 Sovereignty
+			[4]
+				 Religion
+			[5]
+				 Natural law
+			[6]
+				 Jurisprudence
+			[7]
+				 Social contract
+			[8]
+				 Ethics
+			[9]
+				 Virtue
+		[:metadata:keywords]
+			[0]
+				 natural rights of man
+			[1]
+				 general concept of law
+			[2]
+				 moral life
+			[3]
+				 religious training
+			[4]
+				 law
+			[5]
+				 natural law forms
+			[6]
+				 classical definition of law
+			[7]
+				 measure of human acts
+			[8]
+				 essential part of human law
+			[9]
+				 home life
+		[:metadata:entitites]
+			[0]
+				 St. Thomas, sovereign powers
+			[1]
+				 Pius XII
+			[2]
+				 St. Thomas
+			[3]
+				 government
+		[:metadata:title]
+			 Saint Thomas Aquinas
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 89
+			[:metadata:gale:gale-fake-waiting]
+				 92
+		[:extracted_metadata:sha1]
+			 cf3b655d78fbcf267a62e9a48244bae21d878424
+		[:extracted_metadata:filename]
+			 Saint Thomas Aquinas.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

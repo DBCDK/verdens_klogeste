@@ -1,0 +1,5398 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 aeb460de-de30-4d74-9485-5ed66bfa02ba
+		[:result_metadata:confidence]
+			 0.15020349649670137
+		[:result_metadata:score]
+			 10.453886
+	[:text]
+		 no title
+
+Farinas Guillermo is one of the most well-known political dissidents in Cuba. Guillermo has undergone hunger strikes and has been [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.79839
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 29
+					[0:sentiment:score]
+						 -0.316867
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Farinas Guillermo
+				[0:relevance]
+					 0.919772
+				[0:type]
+					 Person
+				[1:count]
+					 10
+					[1:sentiment:score]
+						 -0.524248
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Cuban government
+				[1:relevance]
+					 0.456819
+				[1:type]
+					 Organization
+				[2:count]
+					 7
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Sakharov Prize
+				[2:relevance]
+					 0.234331
+				[2:type]
+					 Organization
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0.612887
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Cuba
+				[3:relevance]
+					 0.134399
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 GeographicFeature
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[3:disambiguation:name]
+						 Cuba
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cuba
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Andrei Sakharov
+				[4:relevance]
+					 0.118899
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Scientist
+					[4:disambiguation:name]
+						 Andrei Sakharov
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Andrei_Sakharov
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 European Parliament
+				[5:relevance]
+					 0.093029
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[5:disambiguation:name]
+						 European Parliament
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/European_Parliament
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Oswaldo Paya
+				[6:relevance]
+					 0.088266
+				[6:type]
+					 GeographicFeature
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Angola
+				[7:relevance]
+					 0.078645
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 Country
+					[7:disambiguation:name]
+						 Angola
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Angola
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 White
+				[8:relevance]
+					 0.07495
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Cubanacan Press
+				[9:relevance]
+					 0.07244
+				[9:type]
+					 PrintMedia
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 United States
+				[10:relevance]
+					 0.068045
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[10:disambiguation:name]
+						 United States
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Europe
+				[11:relevance]
+					 0.068041
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[11:disambiguation:name]
+						 Europe
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Farinas
+				[12:relevance]
+					 0.063542
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 one week
+				[13:relevance]
+					 0.063542
+				[13:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Dissident
+				[0:relevance]
+					 0.96122
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Dissident
+				[1:text]
+					 Sakharov Prize
+				[1:relevance]
+					 0.909854
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Sakharov_Prize
+				[2:text]
+					 Political dissent
+				[2:relevance]
+					 0.890805
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Political_dissent
+				[3:text]
+					 Dissidents
+				[3:relevance]
+					 0.73022
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Dissidents
+				[4:text]
+					 Dissent
+				[4:relevance]
+					 0.71262
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Dissent
+				[5:text]
+					 Andrei Sakharov
+				[5:relevance]
+					 0.700671
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Andrei_Sakharov
+		[:enriched_text:categories]
+				[0:score]
+					 0.813131
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.785155
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.610955
+				[2:label]
+					 /law, govt and politics/government/government contracting and procurement
+		[:metadata:docid]
+			 K1650007464
+		[:metadata:concepts]
+			[0]
+				 Dissident
+			[1]
+				 Sakharov Prize
+			[2]
+				 Political dissent
+			[3]
+				 Dissidents
+			[4]
+				 Dissent
+			[5]
+				 Andrei Sakharov
+		[:metadata:keywords]
+			[0]
+				 Farinas Guillermo
+			[1]
+				 Cuban solider
+			[2]
+				 political dissidents
+			[3]
+				 outspoken critic of the autocratic government
+			[4]
+				 Sakharov Prize
+			[5]
+				 hunger strikes
+			[6]
+				 Cuban hospitals
+			[7]
+				 European Parliament
+			[8]
+				 Cuban government
+			[9]
+				 United States
+		[:metadata:entitites]
+			[0]
+				 Guillermo
+			[1]
+				 Cuban government
+			[2]
+				 Farinas Guillermo
+			[3]
+				 Cuba
+			[4]
+				 Cubanacan Press
+			[5]
+				 Angola
+			[6]
+				 government
+			[7]
+				 one week
+			[8]
+				 Farinas
+			[9]
+				 European Parliament
+		[:metadata:title]
+			 Farinas Guillermo
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 54
+			[:metadata:gale:gale-fake-waiting]
+				 10
+		[:extracted_metadata:sha1]
+			 ba872490ebcdcb613941e1cd046a7e43cb73b1a9
+		[:extracted_metadata:filename]
+			 Farinas Guillermo.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 773692c2-bab8-4283-9c17-cf5923846637
+		[:result_metadata:confidence]
+			 0.14271984632563972
+		[:result_metadata:score]
+			 10.348648
+	[:text]
+		 no title
+
+In the accompanying editorial, Nicholas Kristof praises the stand for human rights that Google took by announcing its withdrawal f[...]
+				[:enriched_text:sentiment:document:score]
+					 0
+				[:enriched_text:sentiment:document:label]
+					 neutral
+		[:enriched_text:entities]
+				[0:count]
+					 9
+					[0:sentiment:score]
+						 -0.491009
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Yahoo
+				[0:relevance]
+					 0.830578
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Yahoo!
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yahoo!
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 -0.537595
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Nicholas Kristof
+				[1:relevance]
+					 0.487473
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 AwardWinner
+					[1:disambiguation:name]
+						 Nicholas D. Kristof
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nicholas_D._Kristof
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Shi Tao
+				[2:relevance]
+					 0.449576
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 VisualArtist
+					[2:disambiguation:name]
+						 Shi Tao
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Shi_Tao
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 -0.537595
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Google
+				[3:relevance]
+					 0.352775
+				[3:type]
+					 Company
+					[3:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 AwardPresentingOrganization
+						[2]
+							 OperatingSystemDeveloper
+						[3]
+							 ProgrammingLanguageDeveloper
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 VentureFundedCompany
+					[3:disambiguation:name]
+						 Google
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Google
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.693144
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 World Organization for Human Rights USA
+				[4:relevance]
+					 0.342211
+				[4:type]
+					 Organization
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.37415
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Wang Xiaoning
+				[5:relevance]
+					 0.313615
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Wang Xiaoning
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wang_Xiaoning
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 China
+				[6:relevance]
+					 0.263246
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Kingdom
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 Country
+					[6:disambiguation:name]
+						 China
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/China
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.357438
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Pulitzer Prizes
+				[7:relevance]
+					 0.257156
+				[7:type]
+					 Award
+					[7:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+					[7:disambiguation:name]
+						 Pulitzer Prize
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pulitzer_Prize
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.693144
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 United States
+				[8:relevance]
+					 0.256193
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[8:disambiguation:name]
+						 United States
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.356772
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Jerry Yang
+				[9:relevance]
+					 0.23221
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 CompanyFounder
+						[2]
+							 TVActor
+					[9:disambiguation:name]
+						 Jerry Yang (entrepreneur)
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jerry_Yang_(entrepreneur)
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Li Zhi
+				[10:relevance]
+					 0.232004
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 Li Zhi (dissident)
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Li_Zhi_(dissident)
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 NGO
+				[11:relevance]
+					 0.229388
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 Non-governmental organization
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Non-governmental_organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Jiang Lijun
+				[12:relevance]
+					 0.205136
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 Jiang Lijun
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jiang_Lijun
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 executive officer
+				[13:relevance]
+					 0.194783
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 legal support
+				[14:relevance]
+					 0.180449
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 ten years
+				[15:relevance]
+					 0.179473
+				[15:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Yahoo!
+				[0:relevance]
+					 0.961189
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Yahoo!
+				[1:text]
+					 Shi Tao
+				[1:relevance]
+					 0.927171
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Shi_Tao
+				[2:text]
+					 Wang Xiaoning
+				[2:relevance]
+					 0.859334
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Wang_Xiaoning
+				[3:text]
+					 Human rights
+				[3:relevance]
+					 0.853786
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[4:text]
+					 Jerry Yang
+				[4:relevance]
+					 0.781297
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Jerry_Yang_(entrepreneur)
+				[5:text]
+					 China
+				[5:relevance]
+					 0.71229
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/China
+				[6:text]
+					 Jiang Lijun
+				[6:relevance]
+					 0.71101
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Jiang_Lijun
+				[7:text]
+					 Dissident
+				[7:relevance]
+					 0.62289
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Dissident
+		[:enriched_text:categories]
+				[0:score]
+					 0.828629
+				[0:label]
+					 /technology and computing/internet technology/web search
+				[1:score]
+					 0.740584
+				[1:label]
+					 /technology and computing/internet technology/web search/people search
+				[2:score]
+					 0.69541
+				[2:label]
+					 /law, govt and politics
+		[:metadata:docid]
+			 CP3208511858
+		[:metadata:concepts]
+			[0]
+				 Yahoo!
+			[1]
+				 Shi Tao
+			[2]
+				 Wang Xiaoning
+			[3]
+				 Human rights
+			[4]
+				 Jerry Yang
+			[5]
+				 China
+			[6]
+				 Jiang Lijun
+			[7]
+				 Dissident
+			[8]
+				 Non-governmental organization
+			[9]
+				 Li Zhi
+		[:metadata:keywords]
+			[0]
+				 Nicholas Kristof
+			[1]
+				 human rights
+			[2]
+				 Chinese marketplace
+			[3]
+				 Jerry Yang
+			[4]
+				 non-governmental organization
+			[5]
+				 human rights issues
+			[6]
+				 Google email accounts of Chinese dissidents
+			[7]
+				 United States
+			[8]
+				 congressional investigation
+			[9]
+				 Pulitzer Prizes
+		[:metadata:entitites]
+			[0]
+				 Yahoo!
+			[1]
+				 Shi Tao
+			[2]
+				 Kristof
+			[3]
+				 Wang Xiaoning
+			[4]
+				 Google
+			[5]
+				 Li Zhi
+			[6]
+				 Jiang Lijun
+			[7]
+				 Nicholas Kristof
+			[8]
+				 Pulitzer Prizes
+			[9]
+				 Chinese police
+		[:metadata:title]
+			 Google Takes a Stand
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 44
+			[:metadata:gale:gale-fake-waiting]
+				 80
+		[:extracted_metadata:sha1]
+			 4e727e1a80e3d9f28d20996a350bf78d3b3fe9a1
+		[:extracted_metadata:filename]
+			 Google Takes a Stand.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 1827b591-23a4-4f41-9642-07a972f295fa
+		[:result_metadata:confidence]
+			 0.11822294188828648
+		[:result_metadata:score]
+			 10.004163
+	[:text]
+		 no title
+
+I am late in reviewing Vaclav Havel's "I am a swine and the swine go home," says Brecht's Kragler of Soon they get down to the rea[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.570427
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 19
+					[0:sentiment:score]
+						 -0.345435
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Vanek
+				[0:relevance]
+					 0.884626
+				[0:type]
+					 Person
+				[1:count]
+					 14
+					[1:sentiment:score]
+						 -0.325122
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 enrages Stanek
+				[1:relevance]
+					 0.528416
+				[1:type]
+					 Person
+				[2:count]
+					 10
+					[2:sentiment:score]
+						 -0.189663
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Vaclav Havel
+				[2:relevance]
+					 0.261947
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 AwardWinner
+						[3]
+							 ChivalricOrderMember
+						[4]
+							 LanguageCreator
+						[5]
+							 FilmActor
+					[2:disambiguation:name]
+						 Václav Havel
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Václav_Havel
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 -0.38792
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Brecht
+				[3:relevance]
+					 0.159365
+				[3:type]
+					 Person
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Pavel Kohout
+				[4:relevance]
+					 0.136525
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Pavel Kohout
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pavel_Kohout
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Kohout
+				[5:relevance]
+					 0.132337
+				[5:type]
+					 Company
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 self-loathing
+				[6:relevance]
+					 0.116638
+				[6:type]
+					 HealthCondition
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0.282655
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 milder
+				[7:relevance]
+					 0.11194
+				[7:type]
+					 HealthCondition
+		[:enriched_text:concepts]
+				[0:text]
+					 Human rights
+				[0:relevance]
+					 0.908072
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[1:text]
+					 Václav Havel
+				[1:relevance]
+					 0.907094
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Václav_Havel
+				[2:text]
+					 Hero
+				[2:relevance]
+					 0.859415
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Hero
+				[3:text]
+					 Václav Klaus
+				[3:relevance]
+					 0.805354
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Václav_Klaus
+				[4:text]
+					 Courage
+				[4:relevance]
+					 0.734524
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Courage
+				[5:text]
+					 Universal Declaration of Human Rights
+				[5:relevance]
+					 0.690071
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Universal_Declaration_of_Human_Rights
+				[6:text]
+					 Dissident
+				[6:relevance]
+					 0.686576
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Dissident
+				[7:text]
+					 Protest
+				[7:relevance]
+					 0.67906
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Protest
+		[:enriched_text:categories]
+				[0:score]
+					 0.849881
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.788338
+				[1:label]
+					 /law, govt and politics/politics
+				[2:score]
+					 0.73121
+				[2:label]
+					 /art and entertainment/shows and events
+		[:metadata:docid]
+			 EJ2101204305
+		[:metadata:concepts]
+			[0]
+				 Human rights
+			[1]
+				 Václav Havel
+			[2]
+				 Hero
+			[3]
+				 Václav Klaus
+			[4]
+				 Courage
+			[5]
+				 Universal Declaration of Human Rights
+			[6]
+				 Dissident
+			[7]
+				 Protest
+		[:metadata:keywords]
+			[0]
+				 Vaclav Havel
+			[1]
+				 insoluble problem
+			[2]
+				 dissident Havel
+			[3]
+				 playwright's strategy
+			[4]
+				 unprotesting hero
+			[5]
+				 Brecht's Kragler
+			[6]
+				 political protest
+			[7]
+				 dissident associates
+			[8]
+				 significant differences
+			[9]
+				 moral dilemmas
+		[:metadata:entitites]
+			[0]
+				 Vanek
+			[1]
+				 Stanek
+			[2]
+				 Kragler
+			[3]
+				 Havel
+			[4]
+				 Kohout
+			[5]
+				 Pavel Kohout
+			[6]
+				 Vaclav Havel
+			[7]
+				 Brecht
+		[:metadata:title]
+			 Private Views, Public Vistas
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 6
+			[:metadata:gale:gale-fake-waiting]
+				 66
+		[:extracted_metadata:sha1]
+			 a7b9cba9065e557f50c38b3f92c5f9faa8723941
+		[:extracted_metadata:filename]
+			 Private Views, Public Vistas.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 67ba4733-e845-4acd-a10a-f4cf6c0b7ef1
+		[:result_metadata:confidence]
+			 0.11736277509996706
+		[:result_metadata:score]
+			 9.992067
+	[:text]
+		 no title
+
+(b. 1930), dissident, politician, human rights activist. Sergei Kovalev became famous as a dissident in the 1970s and later as a p[...]
+				[:enriched_text:sentiment:document:score]
+					 0
+				[:enriched_text:sentiment:document:label]
+					 neutral
+		[:enriched_text:entities]
+				[0:count]
+					 6
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Sergei Kovalev
+				[0:relevance]
+					 0.664489
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Politician
+					[0:disambiguation:name]
+						 Sergei Kovalev
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sergei_Kovalev
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Andrei Sakharov
+				[1:relevance]
+					 0.588278
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Scientist
+					[1:disambiguation:name]
+						 Andrei Sakharov
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Andrei_Sakharov
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Human Rights Committee
+				[2:relevance]
+					 0.421275
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 United Nations Human Rights Committee
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_Nations_Human_Rights_Committee
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Human Rights Commission
+				[3:relevance]
+					 0.410616
+				[3:type]
+					 Organization
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Russia
+				[4:relevance]
+					 0.359708
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Country
+					[4:disambiguation:name]
+						 Russia
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russia
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Russia
+				[5:relevance]
+					 0.305849
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 FilmFestivalFocus
+						[4]
+							 Country
+					[5:disambiguation:name]
+						 Poland
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Poland
+				[6:count]
+					 5
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Yeltsin
+				[6:relevance]
+					 0.285852
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Moscow State University
+				[7:relevance]
+					 0.248234
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 Building
+						[3]
+							 CollegeUniversity
+						[4]
+							 Skyscraper
+					[7:disambiguation:name]
+						 Moscow State University
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow_State_University
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 parliament
+				[8:relevance]
+					 0.231678
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[8:disambiguation:name]
+						 Parliament of the United Kingdom
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Kalinin
+				[9:relevance]
+					 0.230413
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+					[9:disambiguation:name]
+						 Tver
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tver
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 -0.712425
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 Chechnya
+				[10:relevance]
+					 0.227389
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Country
+					[10:disambiguation:name]
+						 Chechen Republic of Ichkeria
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chechen_Republic_of_Ichkeria
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 RSFSR
+				[11:relevance]
+					 0.206913
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+					[11:disambiguation:name]
+						 Russian Soviet Federative Socialist Republic
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Yabloko
+				[12:relevance]
+					 0.183118
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 seven years
+				[13:relevance]
+					 0.179376
+				[13:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Human rights
+				[0:relevance]
+					 0.984867
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.720719
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_Union
+				[2:text]
+					 Andrei Sakharov
+				[2:relevance]
+					 0.712235
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Andrei_Sakharov
+				[3:text]
+					 Sergei Kovalev
+				[3:relevance]
+					 0.63778
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Sergei_Kovalev
+				[4:text]
+					 Law
+				[4:relevance]
+					 0.624021
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Law
+				[5:text]
+					 Russia
+				[5:relevance]
+					 0.544834
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Russia
+				[6:text]
+					 Protest
+				[6:relevance]
+					 0.5381
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Protest
+				[7:text]
+					 United Nations Commission on Human Rights
+				[7:relevance]
+					 0.526106
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_Nations_Commission_on_Human_Rights
+		[:enriched_text:categories]
+				[0:score]
+					 0.907402
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.905521
+				[1:label]
+					 /law, govt and politics/government/parliament
+				[2:score]
+					 0.812276
+				[2:label]
+					 /society/crime/personal offense/torture
+		[:metadata:docid]
+			 K3404100687
+		[:metadata:concepts]
+			[0]
+				 Human rights
+			[1]
+				 Soviet Union
+			[2]
+				 Andrei Sakharov
+			[3]
+				 Sergei Kovalev
+			[4]
+				 Law
+			[5]
+				 Russia
+			[6]
+				 Protest
+			[7]
+				 United Nations Commission on Human Rights
+			[8]
+				 Mikhail Gorbachev
+			[9]
+				 Opposition
+		[:metadata:keywords]
+			[0]
+				 human rights activist
+			[1]
+				 Sergei Kovalev
+			[2]
+				 chair of his Commission
+			[3]
+				 late 1980s Kovalev
+			[4]
+				 human rights
+			[5]
+				 close friendship
+			[6]
+				 Human Rights Committee
+			[7]
+				 Yeltsin's proroguing
+			[8]
+				 fellow dissident Andrei Sakharov
+			[9]
+				 chair of its council
+		[:metadata:entitites]
+			[0]
+				 Sergei Kovalev
+			[1]
+				 Kovalev
+			[2]
+				 Andrei Sakharov
+			[3]
+				 Sakharov
+			[4]
+				 Russia
+			[5]
+				 Moscow State University
+			[6]
+				 Kalinin
+			[7]
+				 Congress of People
+			[8]
+				 Yeltsin
+			[9]
+				 seven years
+		[:metadata:title]
+			 Sergei Adamovich Kovalev
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 64
+			[:metadata:gale:gale-fake-waiting]
+				 60
+		[:extracted_metadata:sha1]
+			 fbe9aecd86f4ef856781b402388c769c319e6231
+		[:extracted_metadata:filename]
+			 Sergei Adamovich Kovalev.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 48692731-04e7-43f6-8e3a-a0387e34fbdf
+		[:result_metadata:confidence]
+			 0.11504588570427954
+		[:result_metadata:score]
+			 9.959486
+	[:text]
+		 no title
+
+Natalya Yevgenyevna Gorbanevskaya was born on May 26, 1936, in Moscow, then part of the Union of Soviet Socialist Republics (USSR)[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.542357
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 28
+					[0:sentiment:score]
+						 -0.432961
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Natalya Yevgenyevna Gorbanevskaya
+				[0:relevance]
+					 0.924342
+				[0:type]
+					 Person
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 -0.314941
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.536866
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[1:disambiguation:name]
+						 Soviet Union
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 -0.236134
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Gorbanevskaya
+				[2:relevance]
+					 0.35443
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 City
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 -0.406508
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Moscow
+				[3:relevance]
+					 0.300105
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicHostCity
+						[3]
+							 AwardWinner
+						[4]
+							 City
+					[3:disambiguation:name]
+						 Moscow
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Czechoslovakia
+				[4:relevance]
+					 0.277777
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[4:disambiguation:name]
+						 Czechoslovakia
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Czechoslovakia
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 -0.406508
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Red Square
+				[5:relevance]
+					 0.276049
+				[5:type]
+					 Facility
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Moscow State University
+				[6:relevance]
+					 0.26361
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 Building
+						[3]
+							 CollegeUniversity
+						[4]
+							 Skyscraper
+					[6:disambiguation:name]
+						 Moscow State University
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow_State_University
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.48062
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Paris
+				[7:relevance]
+					 0.259554
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.259718
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 USSR
+				[8:relevance]
+					 0.25215
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[8:disambiguation:name]
+						 Soviet Union
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[9:count]
+					 6
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Poland
+				[9:relevance]
+					 0.243931
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 FilmFestivalFocus
+						[4]
+							 Country
+					[9:disambiguation:name]
+						 Poland
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Poland
+				[10:count]
+					 3
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Polish
+				[10:relevance]
+					 0.243084
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Leningrad State University
+				[11:relevance]
+					 0.230834
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[11:disambiguation:name]
+						 Saint Petersburg State University
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Saint_Petersburg_State_University
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 -0.391885
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 Prague Spring
+				[12:relevance]
+					 0.21556
+				[12:type]
+					 Facility
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 editor in chief
+				[13:relevance]
+					 0.213425
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Red Army
+				[14:relevance]
+					 0.209422
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 ArmedForce
+					[14:disambiguation:name]
+						 Red Army
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Red_Army
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 -0.363585
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 KGB
+				[15:relevance]
+					 0.207817
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[15:disambiguation:name]
+						 KGB
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/KGB
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.616494
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 Butyrskaya Prison
+				[16:relevance]
+					 0.207691
+				[16:type]
+					 Facility
+					[16:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Building
+					[16:disambiguation:name]
+						 Butyrka prison
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Butyrka_prison
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Prague
+				[17:relevance]
+					 0.203516
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[17:disambiguation:name]
+						 Prague
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Prague
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Lyudmila Alexeyeva
+				[18:relevance]
+					 0.202487
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Lyudmila Alexeyeva
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lyudmila_Alexeyeva
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Joan Baez
+				[19:relevance]
+					 0.201122
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 AwardNominee
+						[2]
+							 BroadcastArtist
+						[3]
+							 Celebrity
+						[4]
+							 MusicalGroupMember
+						[5]
+							 RecordProducer
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[19:disambiguation:name]
+						 Joan Baez
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joan_Baez
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Václav Havel
+				[20:relevance]
+					 0.197932
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 AwardWinner
+						[3]
+							 ChivalricOrderMember
+						[4]
+							 LanguageCreator
+						[5]
+							 FilmActor
+					[20:disambiguation:name]
+						 Václav Havel
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Václav_Havel
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Pavel Litvinov
+				[21:relevance]
+					 0.197457
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Pavel Litvinov
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pavel_Litvinov
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 -0.413478
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 haloperidol
+				[22:relevance]
+					 0.195749
+				[22:type]
+					 Drug
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Viktor Fainberg
+				[23:relevance]
+					 0.194284
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Viktor Fainberg
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Viktor_Fainberg
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Yaroslav Gorbanevsky
+				[24:relevance]
+					 0.192364
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 United Nations
+				[25:relevance]
+					 0.18915
+				[25:type]
+					 Organization
+					[25:disambiguation:subtype]
+					[25:disambiguation:name]
+						 United Nations (band)
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_Nations_(band)
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Russian language magazine
+				[26:relevance]
+					 0.188314
+				[26:type]
+					 PrintMedia
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Warsaw Pact
+				[27:relevance]
+					 0.187175
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+					[27:disambiguation:name]
+						 Warsaw Pact
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Warsaw_Pact
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Eastern Europe
+				[28:relevance]
+					 0.184805
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 Region
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Charles University
+				[29:relevance]
+					 0.184375
+				[29:type]
+					 Organization
+					[29:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[29:disambiguation:name]
+						 Charles University in Prague
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Charles_University_in_Prague
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Butyrskaya
+				[30:relevance]
+					 0.18359
+				[30:type]
+					 Company
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Jerzy Pomianowski
+				[31:relevance]
+					 0.183466
+				[31:type]
+					 Person
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Larisa Bogaraz
+				[32:relevance]
+					 0.175928
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 co-founder
+				[33:relevance]
+					 0.174863
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 David Remnick
+				[34:relevance]
+					 0.173894
+				[34:type]
+					 Person
+					[34:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 AwardWinner
+					[34:disambiguation:name]
+						 David Remnick
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Remnick
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Radio Free
+				[35:relevance]
+					 0.170524
+				[35:type]
+					 Company
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Douglas Martin
+				[36:relevance]
+					 0.169878
+				[36:type]
+					 Person
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 physicist
+				[37:relevance]
+					 0.169772
+				[37:type]
+					 JobTitle
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 -0.236134
+					[38:sentiment:label]
+						 negative
+				[38:text]
+					 Serbsky
+				[38:relevance]
+					 0.168298
+				[38:type]
+					 Location
+					[38:disambiguation:subtype]
+						[0]
+							 City
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Radio Svoboda
+				[39:relevance]
+					 0.161746
+				[39:type]
+					 Person
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 official
+				[40:relevance]
+					 0.155859
+				[40:type]
+					 JobTitle
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 two years
+				[41:relevance]
+					 0.155859
+				[41:type]
+					 Quantity
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 45 years
+				[42:relevance]
+					 0.155859
+				[42:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Soviet Union
+				[0:relevance]
+					 0.988995
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_Union
+				[1:text]
+					 Moscow
+				[1:relevance]
+					 0.589919
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Moscow
+				[2:text]
+					 Russia
+				[2:relevance]
+					 0.585089
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Russia
+				[3:text]
+					 Cold War
+				[3:relevance]
+					 0.492896
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Cold_War
+				[4:text]
+					 Communism
+				[4:relevance]
+					 0.447573
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Communism
+				[5:text]
+					 Russian language
+				[5:relevance]
+					 0.420837
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Russian_language
+				[6:text]
+					 Warsaw Pact
+				[6:relevance]
+					 0.3897
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Warsaw_Pact
+				[7:text]
+					 Czechoslovakia
+				[7:relevance]
+					 0.389282
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Czechoslovakia
+		[:enriched_text:categories]
+				[0:score]
+					 0.97565
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.968586
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.748443
+				[2:label]
+					 /art and entertainment/books and literature/poetry
+		[:metadata:docid]
+			 K1631010471
+		[:metadata:concepts]
+			[0]
+				 Soviet Union
+			[1]
+				 Moscow
+			[2]
+				 Russia
+			[3]
+				 Cold War
+			[4]
+				 Communism
+			[5]
+				 Russian language
+			[6]
+				 Warsaw Pact
+			[7]
+				 Czechoslovakia
+			[8]
+				 World War II
+			[9]
+				 Human rights
+		[:metadata:keywords]
+			[0]
+				 Natalya Yevgenyevna Gorbanevskaya
+			[1]
+				 part of the Union of Soviet Socialist Republics
+			[2]
+				 promotion of more issues of Gorbanevskaya
+			[3]
+				 human rights activist Lyudmila Alexeyeva
+			[4]
+				 such assignments
+			[5]
+				 Russian essays
+			[6]
+				 Radio Free Europe
+			[7]
+				 human rights
+			[8]
+				 Folk singer Joan Baez
+			[9]
+				 translation work
+		[:metadata:entitites]
+			[0]
+				 Gorbanevskaya
+			[1]
+				 USSR
+			[2]
+				 Czechoslovakia
+			[3]
+				 Natalya Yevgenyevna
+			[4]
+				 Leningrad State University
+			[5]
+				 Gorbanevskaya
+			[6]
+				 Lyudmila Alexeyeva
+			[7]
+				 Red Square
+			[8]
+				 Prague
+			[9]
+				 Moscow
+		[:metadata:title]
+			 Natalya Gorbanevskaya
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 47
+			[:metadata:gale:gale-fake-waiting]
+				 1
+		[:extracted_metadata:sha1]
+			 b20685c2fc8ca8a4ae31ae887f121f5661627380
+		[:extracted_metadata:filename]
+			 Natalya Gorbanevskaya.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 1a463c7f-903d-43fc-9b56-b3fbb4836aad
+		[:result_metadata:confidence]
+			 0.09960107048256257
+		[:result_metadata:score]
+			 9.742295
+	[:text]
+		 no title
+
+(b. 1918), Nobel Laureate for Literature, one of the most prominent Soviet dissidents of the late 1960s and early 1970s. Alexander[...]
+				[:enriched_text:sentiment:document:score]
+					 0.467054
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 39
+					[0:sentiment:score]
+						 -0.381005
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Alexander Solzhenitsyn
+				[0:relevance]
+					 0.900329
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmWriter
+						[4]
+							 MilitaryPerson
+					[0:disambiguation:name]
+						 Aleksandr Solzhenitsyn
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Aleksandr_Solzhenitsyn
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Solzhenitsyn
+				[1:relevance]
+					 0.270473
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 -0.425578
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 exiling Solzhenitsyn
+				[2:relevance]
+					 0.263133
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Union of Soviet Writers
+				[3:relevance]
+					 0.128458
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Soviet Union
+				[4:relevance]
+					 0.125056
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[4:disambiguation:name]
+						 Soviet Union
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 -0.319445
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 officer
+				[5:relevance]
+					 0.107749
+				[5:type]
+					 JobTitle
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Kislovodsk
+				[6:relevance]
+					 0.103893
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 City
+					[6:disambiguation:name]
+						 Kislovodsk
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kislovodsk
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Natalia Svetlova
+				[7:relevance]
+					 0.100381
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Rostov-On-Don
+				[8:relevance]
+					 0.099423
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+					[8:disambiguation:name]
+						 Rostov-on-Don
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rostov-on-Don
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Natalia Reshetovskaya
+				[9:relevance]
+					 0.098697
+				[9:type]
+					 Person
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Nobel Prize
+				[10:relevance]
+					 0.097837
+				[10:type]
+					 Award
+					[10:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+					[10:disambiguation:name]
+						 Nobel Prize
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nobel_Prize
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Josef Stalin
+				[11:relevance]
+					 0.096478
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryCommander
+						[2]
+							 OfficeHolder
+						[3]
+							 FilmActor
+					[11:disambiguation:name]
+						 Joseph Stalin
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Stalin
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 KGB
+				[12:relevance]
+					 0.096325
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[12:disambiguation:name]
+						 KGB
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/KGB
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0.384903
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Vermont
+				[13:relevance]
+					 0.093819
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 PeriodicalPublisher
+						[5]
+							 StateOrCounty
+					[13:disambiguation:name]
+						 Vermont
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vermont
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Rostov University
+				[14:relevance]
+					 0.093656
+				[14:type]
+					 Organization
+				[15:count]
+					 3
+					[15:sentiment:score]
+						 -0.505407
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 United States
+				[15:relevance]
+					 0.093651
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[15:disambiguation:name]
+						 United States
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Khrushchev
+				[16:relevance]
+					 0.09278
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Europe
+				[17:relevance]
+					 0.092345
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[17:disambiguation:name]
+						 Europe
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Red Army
+				[18:relevance]
+					 0.090624
+				[18:type]
+					 Organization
+					[18:disambiguation:subtype]
+						[0]
+							 ArmedForce
+					[18:disambiguation:name]
+						 Red Army
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Red_Army
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Russia
+				[19:relevance]
+					 0.088317
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 FilmFestivalFocus
+						[4]
+							 Country
+					[19:disambiguation:name]
+						 Poland
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Poland
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 West Germany
+				[20:relevance]
+					 0.087595
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 Country
+					[20:disambiguation:name]
+						 West Germany
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/West_Germany
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Harvard
+				[21:relevance]
+					 0.086738
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+					[21:disambiguation:name]
+						 Harvard, Illinois
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard,_Illinois
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 samizdat
+				[22:relevance]
+					 0.085214
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 City
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 official
+				[23:relevance]
+					 0.078162
+				[23:type]
+					 JobTitle
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 eight years
+				[24:relevance]
+					 0.076655
+				[24:type]
+					 Quantity
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 ten years
+				[25:relevance]
+					 0.076655
+				[25:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Russia
+				[0:relevance]
+					 0.977271
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Russia
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.843262
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_Union
+				[2:text]
+					 Joseph Stalin
+				[2:relevance]
+					 0.644237
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Joseph_Stalin
+				[3:text]
+					 Russians
+				[3:relevance]
+					 0.612325
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Russians
+				[4:text]
+					 Aleksandr Solzhenitsyn
+				[4:relevance]
+					 0.607585
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Aleksandr_Solzhenitsyn
+				[5:text]
+					 KGB
+				[5:relevance]
+					 0.532401
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/KGB
+				[6:text]
+					 Nikita Khrushchev
+				[6:relevance]
+					 0.516534
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Nikita_Khrushchev
+				[7:text]
+					 Nobel Prize
+				[7:relevance]
+					 0.476001
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Nobel_Prize
+		[:enriched_text:categories]
+				[0:score]
+					 0.966987
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.903229
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.60582
+				[2:label]
+					 /religion and spirituality/christianity/orthodoxy
+		[:metadata:docid]
+			 K3404101261
+		[:metadata:concepts]
+			[0]
+				 Russia
+			[1]
+				 Soviet Union
+			[2]
+				 Joseph Stalin
+			[3]
+				 Russians
+			[4]
+				 Aleksandr Solzhenitsyn
+			[5]
+				 KGB
+			[6]
+				 Nikita Khrushchev
+			[7]
+				 Nobel Prize
+			[8]
+				 Cold War
+			[9]
+				 Russian language
+		[:metadata:keywords]
+			[0]
+				 Alexander Solzhenitsyn
+			[1]
+				 Party leaders
+			[2]
+				 international stages
+			[3]
+				 new environment
+			[4]
+				 prominent Soviet dissidents of the late 1960s
+			[5]
+				 publication of his novella
+			[6]
+				 Solzhenitsyn's works
+			[7]
+				 international prominence
+			[8]
+				 brief period
+			[9]
+				 Solzhenitsyn
+		[:metadata:entitites]
+			[0]
+				 Solzhenitsyn
+			[1]
+				 Kislovodsk
+			[2]
+				 Rostov University
+			[3]
+				 Natalia Reshetovskaya
+			[4]
+				 Alexander Solzhenitsyn
+			[5]
+				 Union of Soviet Writers
+			[6]
+				 Rostov
+			[7]
+				 Josef Stalin
+			[8]
+				 secret police
+			[9]
+				 Red Army
+		[:metadata:title]
+			 Aleksandr Solzhenitsyn
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 62
+			[:metadata:gale:gale-fake-waiting]
+				 94
+		[:extracted_metadata:sha1]
+			 782cb1eb02dbef9a1d063ac7809a8fd1010a3b7e
+		[:extracted_metadata:filename]
+			 Aleksandr Solzhenitsyn.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 59768c68-9757-4c7a-9009-26675fa3822d
+		[:result_metadata:confidence]
+			 0.09656396206967108
+		[:result_metadata:score]
+			 9.699586
+	[:text]
+		 no title
+
+Ibrahim Yazdi is an Iranian political dissident and a former prominent member of the interim government of Ayatollah Khomeini, whi[...]
+				[:enriched_text:sentiment:document:score]
+					 0.709894
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 -0.296413
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Ibrahim Yazdi
+				[0:relevance]
+					 0.921044
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 OfficeHolder
+					[0:disambiguation:name]
+						 Ebrahim Yazdi
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ebrahim_Yazdi
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Iranian government
+				[1:relevance]
+					 0.526562
+				[1:type]
+					 Organization
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Ayatollah Khomeini
+				[2:relevance]
+					 0.498674
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+					[2:disambiguation:name]
+						 Ruhollah Khomeini
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ruhollah_Khomeini
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 -0.371008
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Iran
+				[3:relevance]
+					 0.427901
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 Country
+					[3:disambiguation:name]
+						 Iran
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Iran
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.446383
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Freedom Movement
+				[4:relevance]
+					 0.32542
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[4:disambiguation:name]
+						 Freedom Movement
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Freedom_Movement
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 prime minister
+				[5:relevance]
+					 0.300337
+				[5:type]
+					 JobTitle
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Mohammed Mossadegh
+				[6:relevance]
+					 0.274545
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Politician
+					[6:disambiguation:name]
+						 Mohammad Mosaddegh
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mohammad_Mosaddegh
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 National Resistance Movement
+				[7:relevance]
+					 0.267184
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[7:disambiguation:name]
+						 National Resistance Movement
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Resistance_Movement
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 University of Tehran
+				[8:relevance]
+					 0.258046
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[8:disambiguation:name]
+						 University of Tehran
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Tehran
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 National Movement of Former
+				[9:relevance]
+					 0.247526
+				[9:type]
+					 Organization
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Tehran
+				[10:relevance]
+					 0.240632
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Country
+						[1]
+							 City
+					[10:disambiguation:name]
+						 Tehran
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tehran
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Shah
+				[11:relevance]
+					 0.231045
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+					[11:disambiguation:name]
+						 Lalon
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lalon
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Baylor College of Medicine
+				[12:relevance]
+					 0.230075
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[12:disambiguation:name]
+						 Baylor College of Medicine
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Baylor_College_of_Medicine
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0.334608
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Mehdi Bazargan
+				[13:relevance]
+					 0.218128
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+					[13:disambiguation:name]
+						 Mehdi Bazargan
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mehdi_Bazargan
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Houston
+				[14:relevance]
+					 0.212529
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+					[14:disambiguation:name]
+						 Houston
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Houston
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 United States
+				[15:relevance]
+					 0.204585
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[15:disambiguation:name]
+						 United States
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.354806
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 Texas
+				[16:relevance]
+					 0.195782
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[16:disambiguation:name]
+						 Texas
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.461422
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 France
+				[17:relevance]
+					 0.186244
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Country
+		[:enriched_text:concepts]
+				[0:text]
+					 Iran
+				[0:relevance]
+					 0.951916
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Iran
+				[1:text]
+					 Iranian Revolution
+				[1:relevance]
+					 0.806149
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Iranian_Revolution
+				[2:text]
+					 Ruhollah Khomeini
+				[2:relevance]
+					 0.716971
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Ruhollah_Khomeini
+				[3:text]
+					 Mohammad Reza Pahlavi
+				[3:relevance]
+					 0.6882
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Mohammad_Reza_Pahlavi
+				[4:text]
+					 Mehdi Bazargan
+				[4:relevance]
+					 0.682369
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Mehdi_Bazargan
+				[5:text]
+					 Pahlavi dynasty
+				[5:relevance]
+					 0.552853
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Pahlavi_dynasty
+				[6:text]
+					 Iran hostage crisis
+				[6:relevance]
+					 0.515493
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Iran_hostage_crisis
+				[7:text]
+					 Ebrahim Yazdi
+				[7:relevance]
+					 0.480742
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Ebrahim_Yazdi
+		[:enriched_text:categories]
+				[0:score]
+					 0.938536
+				[0:label]
+					 /law, govt and politics/government/heads of state
+				[1:score]
+					 0.764563
+				[1:label]
+					 /religion and spirituality/islam
+				[2:score]
+					 0.755201
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K1650007403
+		[:metadata:concepts]
+			[0]
+				 Iran
+			[1]
+				 Iranian Revolution
+			[2]
+				 Ruhollah Khomeini
+			[3]
+				 Mohammad Reza Pahlavi
+			[4]
+				 Mehdi Bazargan
+			[5]
+				 Pahlavi dynasty
+			[6]
+				 Iran hostage crisis
+			[7]
+				 Ebrahim Yazdi
+			[8]
+				 Mahmoud Ahmadinejad
+			[9]
+				 Supreme Leader of Iran
+		[:metadata:keywords]
+			[0]
+				 Ibrahim Yazdi
+			[1]
+				 Iranian political dissident
+			[2]
+				 United States
+			[3]
+				 Freedom Movement
+			[4]
+				 Ayatollah's government
+			[5]
+				 leading figure
+			[6]
+				 Iran Hostage Crisis
+			[7]
+				 Ayatollah Khomeini
+			[8]
+				 interim government
+			[9]
+				 political party
+		[:metadata:entitites]
+			[0]
+				 Yazdi
+			[1]
+				 Ibrahim Yazdi
+			[2]
+				 Iran
+			[3]
+				 Ayatollah Khomeini
+			[4]
+				 Ayatollah's government
+			[5]
+				 Mohammed Mossadegh
+			[6]
+				 Mossadegh
+			[7]
+				 National Resistance Movement
+			[8]
+				 Iranian government
+			[9]
+				 University of Tehran
+		[:metadata:title]
+			 Ibrahim Yazdi
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 3
+			[:metadata:gale:gale-fake-waiting]
+				 67
+		[:extracted_metadata:sha1]
+			 46a9436ea53a4784287d8c9dc16f5c3d3ebf1608
+		[:extracted_metadata:filename]
+			 Ibrahim Yazdi.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 2b9362f5-e7bc-4eed-8da5-4a4a091a8f8d
+		[:result_metadata:confidence]
+			 0.09549430029471238
+		[:result_metadata:score]
+			 9.684544
+	[:text]
+		 no title
+
+Born May 21, 1921, in the Soviet Union, Soviet physicist and political dissident Andrei Sakharov is known for both his pioneering [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.24678
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 30
+					[0:sentiment:score]
+						 -0.297491
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Andrei Sakharov
+				[0:relevance]
+					 0.940447
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Scientist
+					[0:disambiguation:name]
+						 Andrei Sakharov
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Andrei_Sakharov
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.29206
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[1:disambiguation:name]
+						 Soviet Union
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Sakharov
+				[2:relevance]
+					 0.287509
+				[2:type]
+					 Company
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Sakharov
+				[3:relevance]
+					 0.279169
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Soviet Academy of Sciences
+				[4:relevance]
+					 0.242526
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 CollegeUniversity
+					[4:disambiguation:name]
+						 Russian Academy of Sciences
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Russian_Academy_of_Sciences
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 -0.024405
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Soviet government
+				[5:relevance]
+					 0.231478
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Government of the Soviet Union
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Government_of_the_Soviet_Union
+				[6:count]
+					 4
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Moscow
+				[6:relevance]
+					 0.173278
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicHostCity
+						[3]
+							 AwardWinner
+						[4]
+							 City
+					[6:disambiguation:name]
+						 Moscow
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Aleksandr Solzhenitsyn
+				[7:relevance]
+					 0.143406
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmWriter
+						[4]
+							 MilitaryPerson
+					[7:disambiguation:name]
+						 Aleksandr Solzhenitsyn
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Aleksandr_Solzhenitsyn
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 -0.363626
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Gorki
+				[8:relevance]
+					 0.130406
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Mikhail Gorbachev
+				[9:relevance]
+					 0.129646
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 AwardWinner
+						[3]
+							 PoliticalAppointer
+						[4]
+							 FilmActor
+					[9:disambiguation:name]
+						 Mikhail Gorbachev
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mikhail_Gorbachev
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 -0.636424
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 KGB
+				[10:relevance]
+					 0.12563
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[10:disambiguation:name]
+						 KGB
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/KGB
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Moscow State University
+				[11:relevance]
+					 0.109721
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 Building
+						[3]
+							 CollegeUniversity
+						[4]
+							 Skyscraper
+					[11:disambiguation:name]
+						 Moscow State University
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow_State_University
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 physicist
+				[12:relevance]
+					 0.109313
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Nikita Khrushchev
+				[13:relevance]
+					 0.10378
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 MilitaryPerson
+						[3]
+							 OfficeHolder
+					[13:disambiguation:name]
+						 Nikita Khrushchev
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nikita_Khrushchev
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Nobel committee
+				[14:relevance]
+					 0.101081
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Igor Tamm
+				[15:relevance]
+					 0.101031
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Inventor
+						[3]
+							 Scientist
+					[15:disambiguation:name]
+						 Igor Tamm
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Igor_Tamm
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Asia
+				[16:relevance]
+					 0.094534
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 FieldOfStudy
+						[1]
+							 Continent
+					[16:disambiguation:name]
+						 Asia
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Asia
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 -0.610703
+					[17:sentiment:label]
+						 negative
+				[17:text]
+					 official
+				[17:relevance]
+					 0.089704
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 writer
+				[18:relevance]
+					 0.089206
+				[18:type]
+					 JobTitle
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Stockholm
+				[19:relevance]
+					 0.087698
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 Facility
+						[1]
+							 AdministrativeDivision
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 OlympicHostCity
+						[4]
+							 City
+					[19:disambiguation:name]
+						 Stockholm
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stockholm
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Armenia
+				[20:relevance]
+					 0.087298
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[20:disambiguation:name]
+						 Armenia
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Armenia
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 researcher
+				[21:relevance]
+					 0.08717
+				[21:type]
+					 JobTitle
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Boris Pasternak
+				[22:relevance]
+					 0.087058
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardWinner
+						[2]
+							 FilmWriter
+						[3]
+							 OperaCharacter
+					[22:disambiguation:name]
+						 Boris Pasternak
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Boris_Pasternak
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Yelena Bonner
+				[23:relevance]
+					 0.086948
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Yelena Bonner
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yelena_Bonner
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Siberia
+				[24:relevance]
+					 0.085809
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 Country
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 prosecutor
+				[25:relevance]
+					 0.084336
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 -0.46521
+					[26:sentiment:label]
+						 negative
+				[26:text]
+					 fortressed
+				[26:relevance]
+					 0.079849
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 City
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Azerbaijan
+				[27:relevance]
+					 0.074654
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 Country
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 seven years
+				[28:relevance]
+					 0.074654
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 six years
+				[29:relevance]
+					 0.074654
+				[29:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Mikhail Gorbachev
+				[0:relevance]
+					 0.953788
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Mikhail_Gorbachev
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.888311
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_Union
+				[2:text]
+					 KGB
+				[2:relevance]
+					 0.849504
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/KGB
+				[3:text]
+					 Nobel Prize
+				[3:relevance]
+					 0.686257
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Nobel_Prize
+				[4:text]
+					 Nuclear weapon
+				[4:relevance]
+					 0.628926
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Nuclear_weapon
+				[5:text]
+					 Nobel Peace Prize
+				[5:relevance]
+					 0.625234
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Nobel_Peace_Prize
+				[6:text]
+					 Nuclear fusion
+				[6:relevance]
+					 0.620032
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Nuclear_fusion
+				[7:text]
+					 Russia
+				[7:relevance]
+					 0.6015
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Russia
+		[:enriched_text:categories]
+				[0:score]
+					 0.91624
+				[0:label]
+					 /law, govt and politics/politics
+				[1:score]
+					 0.900414
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.640823
+				[2:label]
+					 /law, govt and politics/espionage and intelligence
+		[:metadata:docid]
+			 K1607000237
+		[:metadata:concepts]
+			[0]
+				 Mikhail Gorbachev
+			[1]
+				 Soviet Union
+			[2]
+				 KGB
+			[3]
+				 Nobel Prize
+			[4]
+				 Nuclear weapon
+			[5]
+				 Nobel Peace Prize
+			[6]
+				 Nuclear fusion
+			[7]
+				 Russia
+			[8]
+				 World War II
+			[9]
+				 Moscow
+		[:metadata:keywords]
+			[0]
+				 political dissident Andrei Sakharov
+			[1]
+				 Soviet Union
+			[2]
+				 Andrie Sakharov
+			[3]
+				 Soviet physicist
+			[4]
+				 early 1970s
+			[5]
+				 developers of the Soviet Union
+			[6]
+				 Soviet Academy of Sciences
+			[7]
+				 Muscovite scholar
+			[8]
+				 years Sakharov
+			[9]
+				 pioneering work
+		[:metadata:entitites]
+			[0]
+				 Sakharov
+			[1]
+				 Soviet Union
+			[2]
+				 Andrei Sakharov
+			[3]
+				 Soviet Academy of Sciences
+			[4]
+				 Gorki
+			[5]
+				 Andrie Sakharov
+			[6]
+				 Moscow
+			[7]
+				 Igor Tamm
+			[8]
+				 Aleksandr Solzhenitsyn
+			[9]
+				 Mikhail Gorbachev
+		[:metadata:title]
+			 Andrei Sakharov
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 9
+			[:metadata:gale:gale-fake-waiting]
+				 55
+		[:extracted_metadata:sha1]
+			 e42bfd0de2bca184304a37f817d004905b5cfbff
+		[:extracted_metadata:filename]
+			 Andrei Sakharov.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 a2f15526-9194-4e02-ae19-78dffd5bbb4f
+		[:result_metadata:confidence]
+			 0.09468817837735215
+		[:result_metadata:score]
+			 9.673208
+	[:text]
+		 no title
+
+Oscar Espinosa Chepe is a Cuban economist and writer who was arrested by Cuban police in 2003 for dissidence. He was one of 75 peo[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.729338
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 46
+					[0:sentiment:score]
+						 -0.399731
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Oscar Manuel Espinosa Chepe
+				[0:relevance]
+					 0.90549
+				[0:type]
+					 Person
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 -0.712387
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Cuba
+				[1:relevance]
+					 0.406425
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 GeographicFeature
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[1:disambiguation:name]
+						 Cuba
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cuba
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.048253
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Havana City
+				[2:relevance]
+					 0.317791
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[2:disambiguation:name]
+						 Havana
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Havana
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 -0.391086
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Cuban government
+				[3:relevance]
+					 0.275997
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.284296
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Amnesty International
+				[4:relevance]
+					 0.22805
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 Non-ProfitOrganisation
+						[2]
+							 AwardWinner
+					[4:disambiguation:name]
+						 Amnesty International
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Amnesty_International
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 -0.362186
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Cuban Embassy
+				[5:relevance]
+					 0.225072
+				[5:type]
+					 Organization
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 University of Havana
+				[6:relevance]
+					 0.21688
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[6:disambiguation:name]
+						 University of Havana
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Havana
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.362186
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 National Bank of Cuba
+				[7:relevance]
+					 0.207548
+				[7:type]
+					 Company
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 U.S. government
+				[8:relevance]
+					 0.19325
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Federal government of the United States
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Economic Advisory Group
+				[9:relevance]
+					 0.193164
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Miriam Leiva
+				[10:relevance]
+					 0.190228
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 dissidence
+				[11:relevance]
+					 0.181717
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 -0.60686
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 cirrhosis
+				[12:relevance]
+					 0.176398
+				[12:type]
+					 HealthCondition
+					[12:disambiguation:subtype]
+						[0]
+							 DiseaseOrMedicalCondition
+						[1]
+							 CauseOfDeath
+						[2]
+							 RiskFactor
+						[3]
+							 Symptom
+						[4]
+							 Disease
+					[12:disambiguation:name]
+						 Cirrhosis
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cirrhosis
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Fidel Castro
+				[13:relevance]
+					 0.167233
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 AwardWinner
+						[3]
+							 MilitaryCommander
+						[4]
+							 OperaCharacter
+						[5]
+							 PoliticalAppointer
+						[6]
+							 TVActor
+					[13:disambiguation:name]
+						 Fidel Castro
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fidel_Castro
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Belgrade
+				[14:relevance]
+					 0.167058
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 FilmProducer
+						[2]
+							 City
+					[14:disambiguation:name]
+						 Belgrade
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Belgrade
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 State Security Department
+				[15:relevance]
+					 0.165506
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[15:disambiguation:name]
+						 State Security Department
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/State_Security_Department
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 BBC News
+				[16:relevance]
+					 0.1654
+				[16:type]
+					 Broadcaster
+					[16:disambiguation:subtype]
+						[0]
+							 TelevisionStation
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Czechoslovakia
+				[17:relevance]
+					 0.160931
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[17:disambiguation:name]
+						 Czechoslovakia
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Czechoslovakia
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Carlos J. Finlay Military Hospital
+				[18:relevance]
+					 0.1601
+				[18:type]
+					 Facility
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Serbia
+				[19:relevance]
+					 0.159208
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[19:disambiguation:name]
+						 Serbia
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Serbia
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Hungary
+				[20:relevance]
+					 0.149574
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Country
+					[20:disambiguation:name]
+						 Hungary
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hungary
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 -0.391086
+					[21:sentiment:label]
+						 negative
+				[21:text]
+					 official
+				[21:relevance]
+					 0.145705
+				[21:type]
+					 JobTitle
+				[22:count]
+					 2
+					[22:sentiment:score]
+						 -0.261194
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 Yugoslavia
+				[22:relevance]
+					 0.143336
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 Country
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Combinado del Este
+				[23:relevance]
+					 0.135532
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 City
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 three-meter
+				[24:relevance]
+					 0.135531
+				[24:type]
+					 Quantity
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 four years
+				[25:relevance]
+					 0.135531
+				[25:type]
+					 Quantity
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 19 months
+				[26:relevance]
+					 0.135531
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 40 pounds
+				[27:relevance]
+					 0.135531
+				[27:type]
+					 Quantity
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 ten hours
+				[28:relevance]
+					 0.135531
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 two weeks
+				[29:relevance]
+					 0.135531
+				[29:type]
+					 Quantity
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 20 years
+				[30:relevance]
+					 0.135531
+				[30:type]
+					 Quantity
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 one year
+				[31:relevance]
+					 0.135531
+				[31:type]
+					 Quantity
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 $13,600
+				[32:relevance]
+					 0.135531
+				[32:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Cuba
+				[0:relevance]
+					 0.950128
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Cuba
+				[1:text]
+					 Fidel Castro
+				[1:relevance]
+					 0.839109
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Fidel_Castro
+				[2:text]
+					 Havana
+				[2:relevance]
+					 0.563468
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Havana
+				[3:text]
+					 University of Havana
+				[3:relevance]
+					 0.555346
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/University_of_Havana
+				[4:text]
+					 Prison
+				[4:relevance]
+					 0.530496
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Prison
+				[5:text]
+					 United States embargo against Cuba
+				[5:relevance]
+					 0.45829
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_embargo_against_Cuba
+				[6:text]
+					 Che Guevara
+				[6:relevance]
+					 0.454354
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Che_Guevara
+				[7:text]
+					 Federal government of the United States
+				[7:relevance]
+					 0.449373
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Federal_government_of_the_United_States
+		[:enriched_text:categories]
+				[0:score]
+					 0.912261
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.906194
+				[1:label]
+					 /law, govt and politics
+				[2:score]
+					 0.872837
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K1650008408
+		[:metadata:concepts]
+			[0]
+				 Cuba
+			[1]
+				 Fidel Castro
+			[2]
+				 Havana
+			[3]
+				 University of Havana
+			[4]
+				 Prison
+			[5]
+				 United States embargo against Cuba
+			[6]
+				 Che Guevara
+			[7]
+				 Federal government of the United States
+			[8]
+				 Amnesty International
+			[9]
+				 Dissent
+		[:metadata:keywords]
+			[0]
+				 Oscar Espinosa Chepe
+			[1]
+				 Oscar Manuel Espinosa Chepe
+			[2]
+				 Cuban economist
+			[3]
+				 unpleasant conditions of the facility
+			[4]
+				 various international publications
+			[5]
+				 Amnesty International
+			[6]
+				 radio show
+			[7]
+				 Fidel Castro's Economic Advisory Group
+			[8]
+				 Cuban police
+			[9]
+				 state of the Cuban economy
+		[:metadata:entitites]
+			[0]
+				 Chepe
+			[1]
+				 Cuba
+			[2]
+				 Cuban government
+			[3]
+				 Oscar Espinosa Chepe
+			[4]
+				 Cuban police
+			[5]
+				 Miriam Leiva
+			[6]
+				 19 months
+			[7]
+				 Oscar Manuel Espinosa Chepe
+			[8]
+				 Havana City
+			[9]
+				 Economic Advisory Group
+		[:metadata:title]
+			 Oscar Chepe
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 77
+			[:metadata:gale:gale-fake-waiting]
+				 69
+		[:extracted_metadata:sha1]
+			 ff391795b169c4b7ae02cd1a6154f849166a6e87
+		[:extracted_metadata:filename]
+			 Oscar Chepe.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 69fa4a59-e59c-4373-b070-ebb8dbf6dd1e
+		[:result_metadata:confidence]
+			 0.09248122762706322
+		[:result_metadata:score]
+			 9.642173
+	[:text]
+		 no title
+
+Dissident writer Alexander Zinoviev sparked considerable controversy in his native Soviet Union for his criticism of the country's[...]
+				[:enriched_text:sentiment:document:score]
+					 0.774796
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 14
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Alexander Zinoviev
+				[0:relevance]
+					 0.938529
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Aleksandr Zinovyev
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Aleksandr_Zinovyev
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Soviet Union
+				[1:relevance]
+					 0.245094
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Country
+						[2]
+							 GovernmentalJurisdiction
+					[1:disambiguation:name]
+						 Soviet Union
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Soviet_Union
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 -0.250078
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Joseph Stalin
+				[2:relevance]
+					 0.173032
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryCommander
+						[2]
+							 OfficeHolder
+						[3]
+							 FilmActor
+					[2:disambiguation:name]
+						 Joseph Stalin
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joseph_Stalin
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 writer
+				[3:relevance]
+					 0.154035
+				[3:type]
+					 JobTitle
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Geoffrey Hosking
+				[4:relevance]
+					 0.138716
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Academic
+					[4:disambiguation:name]
+						 Geoffrey Hosking
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Geoffrey_Hosking
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Communist party
+				[5:relevance]
+					 0.124545
+				[5:type]
+					 Organization
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.571137
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Karl Marx
+				[6:relevance]
+					 0.122773
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 MusicalGroupMember
+						[2]
+							 Philosopher
+					[6:disambiguation:name]
+						 Karl Marx
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Karl_Marx
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Switzerland
+				[7:relevance]
+					 0.117377
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 Country
+					[7:disambiguation:name]
+						 Switzerland
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Switzerland
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Moscow University
+				[8:relevance]
+					 0.112151
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 Building
+						[3]
+							 CollegeUniversity
+						[4]
+							 Skyscraper
+					[8:disambiguation:name]
+						 Moscow State University
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moscow_State_University
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 six-year
+				[9:relevance]
+					 0.112151
+				[9:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Communism
+				[0:relevance]
+					 0.956954
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Communism
+				[1:text]
+					 Marxism
+				[1:relevance]
+					 0.930335
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Marxism
+				[2:text]
+					 Joseph Stalin
+				[2:relevance]
+					 0.827855
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Joseph_Stalin
+				[3:text]
+					 Vladimir Lenin
+				[3:relevance]
+					 0.69645
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Vladimir_Lenin
+				[4:text]
+					 Karl Marx
+				[4:relevance]
+					 0.692581
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Karl_Marx
+				[5:text]
+					 Soviet Union
+				[5:relevance]
+					 0.678253
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Soviet_Union
+				[6:text]
+					 Communist state
+				[6:relevance]
+					 0.61878
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Communist_state
+				[7:text]
+					 Cold War
+				[7:relevance]
+					 0.564475
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Cold_War
+		[:enriched_text:categories]
+				[0:score]
+					 0.991324
+				[0:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 H1000109668
+		[:metadata:concepts]
+			[0]
+				 Communism
+			[1]
+				 Marxism
+			[2]
+				 Joseph Stalin
+			[3]
+				 Vladimir Lenin
+			[4]
+				 Karl Marx
+			[5]
+				 Soviet Union
+			[6]
+				 Communist state
+			[7]
+				 Communist Party of China
+			[8]
+				 Cold War
+			[9]
+				 Political philosophy
+		[:metadata:keywords]
+			[0]
+				 Dissident writer Alexander Zinoviev
+			[1]
+				 social consciousness
+			[2]
+				 original Russian manuscript
+			[3]
+				 native Soviet Union
+			[4]
+				 political philosophy
+			[5]
+				 publication of the author
+			[6]
+				 considerable controversy
+			[7]
+				 provocative philosophical analysis of Karl Marx
+			[8]
+				 past half century
+			[9]
+				 first signs of political dissidence
+		[:metadata:entitites]
+			[0]
+				 Zinoviev
+			[1]
+				 Alexander Zinoviev
+			[2]
+				 Soviet Union
+			[3]
+				 Joseph Stalin
+			[4]
+				 Moscow University
+			[5]
+				 Stalin
+			[6]
+				 Communist party
+			[7]
+				 six-year
+			[8]
+				 Karl Marx
+			[9]
+				 army
+		[:metadata:title]
+			 Alexander Zinoviev
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 69
+			[:metadata:gale:gale-fake-waiting]
+				 70
+		[:extracted_metadata:sha1]
+			 221fde620c347a57b4632ac529e97b9f2dad7edf
+		[:extracted_metadata:filename]
+			 Alexander Zinoviev.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

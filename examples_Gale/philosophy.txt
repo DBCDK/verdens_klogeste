@@ -1,0 +1,4161 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 5285908f-d46c-4258-8c79-00f1dda230bc
+		[:result_metadata:confidence]
+			 0.12357553339278773
+		[:result_metadata:score]
+			 5.233969
+	[:text]
+		 no title
+
+Antonia LoLordo is a professor of philosophy whose main research interest is early modern philosophy, in particular the philosophy[...]
+				[:enriched_text:sentiment:document:score]
+					 0.58225
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 14
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Gassendi
+				[0:relevance]
+					 0.907216
+				[0:type]
+					 Person
+				[1:count]
+					 9
+					[1:sentiment:score]
+						 0.49946
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Antonia LoLordo
+				[1:relevance]
+					 0.381192
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 professor of philosophy
+				[2:relevance]
+					 0.316918
+				[2:type]
+					 JobTitle
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Aristotelianism
+				[3:relevance]
+					 0.172162
+				[3:type]
+					 Person
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Emmanuel Kant
+				[4:relevance]
+					 0.156874
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[4:disambiguation:name]
+						 Immanuel Kant
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Immanuel_Kant
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Margaret J. Osler
+				[5:relevance]
+					 0.141115
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Margaret J. Osler
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Margaret_J._Osler
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0.53506
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Locke
+				[6:relevance]
+					 0.129501
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Europe
+				[7:relevance]
+					 0.126845
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[7:disambiguation:name]
+						 Europe
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Margaret Atheron
+				[8:relevance]
+					 0.119738
+				[8:type]
+					 Person
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0.229328
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Jude P. Dougherty
+				[9:relevance]
+					 0.115261
+				[9:type]
+					 Person
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Michael
+				[10:relevance]
+					 0.093633
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 two centuries
+				[11:relevance]
+					 0.093633
+				[11:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.961858
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Science
+				[1:relevance]
+					 0.904768
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Science
+				[2:text]
+					 Metaphysics
+				[2:relevance]
+					 0.770909
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Metaphysics
+				[3:text]
+					 David Hume
+				[3:relevance]
+					 0.694439
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/David_Hume
+				[4:text]
+					 Nature
+				[4:relevance]
+					 0.627341
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Nature
+				[5:text]
+					 Scientific revolution
+				[5:relevance]
+					 0.592264
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Scientific_revolution
+				[6:text]
+					 History of science
+				[6:relevance]
+					 0.579535
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/History_of_science
+				[7:text]
+					 History of philosophy
+				[7:relevance]
+					 0.565544
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/History_of_philosophy
+		[:enriched_text:categories]
+				[0:score]
+					 0.999991
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 H1000313767
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Science
+			[2]
+				 Metaphysics
+			[3]
+				 David Hume
+			[4]
+				 Nature
+			[5]
+				 Scientific revolution
+			[6]
+				 History of science
+			[7]
+				 History of philosophy
+			[8]
+				 Immanuel Kant
+			[9]
+				 Aesthetics
+		[:metadata:keywords]
+			[0]
+				 Antonia LoLordo
+			[1]
+				 professor of philosophy
+			[2]
+				 Gassendi's philosophy
+			[3]
+				 book reviews
+			[4]
+				 Locke's answer
+			[5]
+				 early modern philosophy
+			[6]
+				 Jude P. Dougherty
+			[7]
+				 valuable sketch of an entire period
+			[8]
+				 professional journals
+			[9]
+				 Christian theology
+		[:metadata:entitites]
+			[0]
+				 Gassendi
+			[1]
+				 LoLordo
+			[2]
+				 Antonia LoLordo
+			[3]
+				 Emmanuel Kant
+			[4]
+				 primary philosophical foundation
+			[5]
+				 Margaret J. Osler
+			[6]
+				 two centuries
+			[7]
+				 Europe
+			[8]
+				 Jude P. Dougherty
+			[9]
+				 Locke
+		[:metadata:title]
+			 Antonia LoLordo
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 52
+			[:metadata:gale:gale-fake-waiting]
+				 37
+		[:extracted_metadata:sha1]
+			 7485bf8c124e6464c4624279d6daa9d20dae3615
+		[:extracted_metadata:filename]
+			 Antonia LoLordo.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 6bc3d65b-1436-4556-a8b2-31740e766d2b
+		[:result_metadata:confidence]
+			 0.11085237676329547
+		[:result_metadata:score]
+			 5.221413
+	[:text]
+		 no title
+
+Étienne Henry Gilson, the French neo-Thomist philosopher, was born in Paris. His higher education was acquired at the University o[...]
+				[:enriched_text:sentiment:document:score]
+					 0.417105
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 24
+					[0:sentiment:score]
+						 0.472332
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Étienne Henry Gilson
+				[0:relevance]
+					 0.876535
+				[0:type]
+					 Person
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Thomas
+				[1:relevance]
+					 0.220361
+				[1:type]
+					 Person
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0.04702
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Thomism
+				[2:relevance]
+					 0.160532
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 City
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Paris
+				[3:relevance]
+					 0.127781
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 FrenchDepartment
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 OlympicBiddingCity
+						[4]
+							 OlympicHostCity
+						[5]
+							 PlaceWithNeighborhoods
+						[6]
+							 City
+					[3:disambiguation:name]
+						 Paris
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paris
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 University of Paris
+				[4:relevance]
+					 0.126027
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+					[4:disambiguation:name]
+						 University of Paris
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Paris
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 René Descartes
+				[5:relevance]
+					 0.125538
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[5:disambiguation:name]
+						 René Descartes
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/René_Descartes
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 St. Thomas Aquinas
+				[6:relevance]
+					 0.1217
+				[6:type]
+					 Facility
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Lucien Lévy-Bruhl
+				[7:relevance]
+					 0.116153
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Scientist
+					[7:disambiguation:name]
+						 Lucien Lévy-Bruhl
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lucien_Lévy-Bruhl
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 University of Aberdeen
+				[8:relevance]
+					 0.109467
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[8:disambiguation:name]
+						 University of Aberdeen
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Aberdeen
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Søren Kierkegaard
+				[9:relevance]
+					 0.10881
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[9:disambiguation:name]
+						 Søren Kierkegaard
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Søren_Kierkegaard
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Gifford Lectures
+				[10:relevance]
+					 0.10347
+				[10:type]
+					 Facility
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Thomistic
+				[11:relevance]
+					 0.102675
+				[11:type]
+					 Person
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Scholasticism
+				[12:relevance]
+					 0.101333
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Jean-Paul Sartre
+				[13:relevance]
+					 0.098537
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Dedicatee
+						[2]
+							 MilitaryPerson
+						[3]
+							 Philosopher
+						[4]
+							 FilmWriter
+					[13:disambiguation:name]
+						 Jean-Paul Sartre
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jean-Paul_Sartre
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 essentialists
+				[14:relevance]
+					 0.092426
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Karl Jaspers
+				[15:relevance]
+					 0.092344
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Philosopher
+					[15:disambiguation:name]
+						 Karl Jaspers
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Karl_Jaspers
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0.345149
+					[16:sentiment:label]
+						 positive
+				[16:text]
+					 Martin Heidegger
+				[16:relevance]
+					 0.090739
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[16:disambiguation:name]
+						 Martin Heidegger
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Martin_Heidegger
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.950662
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Thomas Aquinas
+				[1:relevance]
+					 0.695274
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Thomas_Aquinas
+				[2:text]
+					 Existentialism
+				[2:relevance]
+					 0.682834
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Existentialism
+				[3:text]
+					 Theology
+				[3:relevance]
+					 0.626532
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Theology
+				[4:text]
+					 Metaphysics
+				[4:relevance]
+					 0.585287
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Metaphysics
+				[5:text]
+					 Thomism
+				[5:relevance]
+					 0.548475
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Thomism
+				[6:text]
+					 Philosophy of religion
+				[6:relevance]
+					 0.52495
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_religion
+				[7:text]
+					 Jean-Paul Sartre
+				[7:relevance]
+					 0.522869
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Jean-Paul_Sartre
+		[:enriched_text:categories]
+				[0:score]
+					 0.999977
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 K3446800743
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Thomas Aquinas
+			[2]
+				 Existentialism
+			[3]
+				 Theology
+			[4]
+				 Metaphysics
+			[5]
+				 Thomism
+			[6]
+				 Philosophy of religion
+			[7]
+				 Jean-Paul Sartre
+			[8]
+				 Martin Heidegger
+			[9]
+				 Søren Kierkegaard
+		[:metadata:keywords]
+			[0]
+				 Étienne Henry Gilson
+			[1]
+				 common philosophy
+			[2]
+				 personal philosophical position
+			[3]
+				 different authentic philosophies
+			[4]
+				 Gilson's main thoughts
+			[5]
+				 St. Thomas Aquinas
+			[6]
+				 central philosophical doctrines
+			[7]
+				 Christian philosophy
+			[8]
+				 proper tasks of philosophy
+			[9]
+				 research Gilson
+		[:metadata:entitites]
+			[0]
+				 Gilson
+			[1]
+				 Étienne Henry Gilson
+			[2]
+				 Thomas
+			[3]
+				 Lucien Lévy
+			[4]
+				 René Descartes
+			[5]
+				 William of Ockham
+			[6]
+				 University of Paris
+			[7]
+				 University of Aberdeen
+			[8]
+				 Søren Kierkegaard
+			[9]
+				 Karl Jaspers
+		[:metadata:title]
+			 Etienne Henry Gilson
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 35
+			[:metadata:gale:gale-fake-waiting]
+				 48
+		[:extracted_metadata:sha1]
+			 5b467a88bf99d7f1e1f60374ba8a3e479a33d126
+		[:extracted_metadata:filename]
+			 Etienne Henry Gilson.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 a689389e-3034-4235-83ee-48bd9d370505
+		[:result_metadata:confidence]
+			 0.10397806212690877
+		[:result_metadata:score]
+			 5.214629
+	[:text]
+		 no title
+
+Désiré Joseph Mercier, a Thomist philosopher and Roman Catholic cardinal, was born in the Walloon section of Brabant, Belgium. At [...]
+				[:enriched_text:sentiment:document:score]
+					 0.630033
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 33
+					[0:sentiment:score]
+						 0.432427
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Désiré Joseph Mercier
+				[0:relevance]
+					 0.885044
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Cardinal
+					[0:disambiguation:name]
+						 Désiré-Joseph Mercier
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Désiré-Joseph_Mercier
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0.797037
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 institute of philosophy
+				[1:relevance]
+					 0.254313
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Institute of Philosophy
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Institute_of_Philosophy
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 professor of philosophy
+				[2:relevance]
+					 0.185464
+				[2:type]
+					 JobTitle
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Malines Seminary
+				[3:relevance]
+					 0.151491
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 University of Louvain
+				[4:relevance]
+					 0.14734
+				[4:type]
+					 Organization
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.554969
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Thomistic
+				[5:relevance]
+					 0.135807
+				[5:type]
+					 Person
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Philosophic Society of Louvain
+				[6:relevance]
+					 0.12523
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Belgium
+				[7:relevance]
+					 0.12047
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 Region
+						[2]
+							 AdministrativeDivision
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 Kingdom
+						[5]
+							 Country
+					[7:disambiguation:name]
+						 Belgium
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Belgium
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Thomistic
+				[8:relevance]
+					 0.120214
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Malines
+				[9:relevance]
+					 0.120142
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+					[9:disambiguation:name]
+						 Mechelen
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mechelen
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Louvain Institute
+				[10:relevance]
+					 0.119502
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Brabant
+				[11:relevance]
+					 0.118086
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 Brabant, West Virginia
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brabant,_West_Virginia
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Wilhelm Wundt
+				[12:relevance]
+					 0.115878
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Scientist
+					[12:disambiguation:name]
+						 Wilhelm Wundt
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wilhelm_Wundt
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0.417907
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Thomism
+				[13:relevance]
+					 0.107612
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Thomism
+				[14:relevance]
+					 0.107477
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 St. Thomas Aquinas
+				[15:relevance]
+					 0.096414
+				[15:type]
+					 Facility
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0.55367
+					[16:sentiment:label]
+						 positive
+				[16:text]
+					 president
+				[16:relevance]
+					 0.095102
+				[16:type]
+					 JobTitle
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 five years
+				[17:relevance]
+					 0.095102
+				[17:type]
+					 Quantity
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 one hand
+				[18:relevance]
+					 0.095102
+				[18:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.988068
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Thomas Aquinas
+				[1:relevance]
+					 0.870735
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Thomas_Aquinas
+				[2:text]
+					 Psychology
+				[2:relevance]
+					 0.857925
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Psychology
+				[3:text]
+					 Thomism
+				[3:relevance]
+					 0.759221
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Thomism
+				[4:text]
+					 Immanuel Kant
+				[4:relevance]
+					 0.728622
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Immanuel_Kant
+				[5:text]
+					 Epistemology
+				[5:relevance]
+					 0.668849
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Epistemology
+				[6:text]
+					 Aristotelianism
+				[6:relevance]
+					 0.649466
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Aristotelianism
+				[7:text]
+					 Philosophy of science
+				[7:relevance]
+					 0.630459
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_science
+		[:enriched_text:categories]
+				[0:score]
+					 0.999965
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 K3446801300
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Thomas Aquinas
+			[2]
+				 Psychology
+			[3]
+				 Thomism
+			[4]
+				 Immanuel Kant
+			[5]
+				 Epistemology
+			[6]
+				 Aristotelianism
+			[7]
+				 Philosophy of science
+			[8]
+				 Metaphysics
+			[9]
+				 Mind
+		[:metadata:keywords]
+			[0]
+				 Désiré Joseph Mercier
+			[1]
+				 professor of philosophy
+			[2]
+				 Philosophic Society of Louvain
+			[3]
+				 various branches of philosophy
+			[4]
+				 philosophical work
+			[5]
+				 Mercier's life
+			[6]
+				 Cardinal Mercier's immense energies
+			[7]
+				 Roman Catholic
+			[8]
+				 course of this effort
+			[9]
+				 philosophy
+		[:metadata:entitites]
+			[0]
+				 Mercier
+			[1]
+				 Désiré Joseph Mercier
+			[2]
+				 Malines Seminary
+			[3]
+				 University of Louvain
+			[4]
+				 Institute of Philosophy
+			[5]
+				 Louvain
+			[6]
+				 Philosophic Society of Louvain
+			[7]
+				 Malines
+			[8]
+				 five years
+			[9]
+				 Brabant
+		[:metadata:title]
+			 Desire Joseph Mercier
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 25
+			[:metadata:gale:gale-fake-waiting]
+				 22
+		[:extracted_metadata:sha1]
+			 311d192a625ce3386b8aa14dba09c72c0e4658eb
+		[:extracted_metadata:filename]
+			 Desire Joseph Mercier.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 b73013a4-7775-4a2d-b31f-f1644dcd4de2
+		[:result_metadata:confidence]
+			 0.09165891334610851
+		[:result_metadata:score]
+			 5.2024717
+	[:text]
+		 no title
+
+Linda LeMoncheck told "Such questions are variously conceptual, epistemological, metaphysical, and ethical, as well as political. [...]
+				[:enriched_text:sentiment:document:score]
+					 0.792809
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Linda LeMoncheck
+				[0:relevance]
+					 0.794733
+				[0:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.94371
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Sociology
+				[1:relevance]
+					 0.681684
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Sociology
+				[2:text]
+					 Epistemology
+				[2:relevance]
+					 0.637201
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Epistemology
+				[3:text]
+					 Metaphysics
+				[3:relevance]
+					 0.611619
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Metaphysics
+				[4:text]
+					 Feminist theory
+				[4:relevance]
+					 0.604993
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Feminist_theory
+				[5:text]
+					 Transgender
+				[5:relevance]
+					 0.569611
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Transgender
+				[6:text]
+					 Psychology
+				[6:relevance]
+					 0.563812
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Psychology
+				[7:text]
+					 Gender
+				[7:relevance]
+					 0.560431
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Gender
+		[:enriched_text:categories]
+				[0:score]
+					 0.999975
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 H1000129344
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Sociology
+			[2]
+				 Epistemology
+			[3]
+				 Metaphysics
+			[4]
+				 Feminist theory
+			[5]
+				 Transgender
+			[6]
+				 Psychology
+			[7]
+				 Gender
+			[8]
+				 Logic
+			[9]
+				 Linguistics
+		[:metadata:keywords]
+			[0]
+				 writing feminist philosophy
+			[1]
+				 cultural conceptions of gender
+			[2]
+				 teaching philosophy
+			[3]
+				 feminist philosophers
+			[4]
+				 sexual orientation
+			[5]
+				 wide variety of disciplines
+			[6]
+				 Feminist philosophy
+			[7]
+				 community of others
+			[8]
+				 philosophy
+			[9]
+				 subject matter
+		[:metadata:entitites]
+			[0]
+				 Linda LeMoncheck
+		[:metadata:title]
+			 Linda LeMoncheck
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 50
+			[:metadata:gale:gale-fake-waiting]
+				 65
+		[:extracted_metadata:sha1]
+			 4bd0f9311f81d97871577321c18d2e119b245873
+		[:extracted_metadata:filename]
+			 Linda LeMoncheck.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 3f134e53-17ab-4dcb-8f60-e6372c958fa3
+		[:result_metadata:confidence]
+			 0.08323858723555658
+		[:result_metadata:score]
+			 5.194162
+	[:text]
+		 no title
+
+Analytic philosophy was the dominant school of philosophy in American universities during the second half of the twentieth century[...]
+				[:enriched_text:sentiment:document:score]
+					 0.41804
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 6
+					[0:sentiment:score]
+						 0.32065
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Ludwig Wittgenstein
+				[0:relevance]
+					 0.942835
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[0:disambiguation:name]
+						 Ludwig Wittgenstein
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ludwig_Wittgenstein
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 -0.545471
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Bertrand Russell
+				[1:relevance]
+					 0.838127
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Philosopher
+						[2]
+							 TVActor
+					[1:disambiguation:name]
+						 Bertrand Russell
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bertrand_Russell
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Rudolf Carnap
+				[2:relevance]
+					 0.576655
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[2:disambiguation:name]
+						 Rudolf Carnap
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rudolf_Carnap
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Kant
+				[3:relevance]
+					 0.52599
+				[3:type]
+					 Person
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Carl Hempel
+				[4:relevance]
+					 0.516663
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[4:disambiguation:name]
+						 Carl Gustav Hempel
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Carl_Gustav_Hempel
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 New School
+				[5:relevance]
+					 0.498376
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 University
+					[5:disambiguation:name]
+						 The New School
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_New_School
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 -0.222668
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Thomas Kuhn
+				[6:relevance]
+					 0.491273
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Thomas Kuhn
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Thomas_Kuhn
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 University of Chicago
+				[7:relevance]
+					 0.479464
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 CollegeUniversity
+					[7:disambiguation:name]
+						 University of Chicago
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Chicago
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.396504
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Georg Wilhelm Friedrich Hegel
+				[8:relevance]
+					 0.469088
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[8:disambiguation:name]
+						 Georg Wilhelm Friedrich Hegel
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 University of California
+				[9:relevance]
+					 0.46718
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 UC Davis College of Letters and Science
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/UC_Davis_College_of_Letters_and_Science
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Alfred North Whitehead
+				[10:relevance]
+					 0.464808
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[10:disambiguation:name]
+						 Alfred North Whitehead
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alfred_North_Whitehead
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 W. V. O. Quine
+				[11:relevance]
+					 0.464491
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[11:disambiguation:name]
+						 Willard Van Orman Quine
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Willard_Van_Orman_Quine
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Princeton
+				[12:relevance]
+					 0.463946
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[12:disambiguation:name]
+						 Princeton, New Jersey
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Princeton,_New_Jersey
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Richard Rorty
+				[13:relevance]
+					 0.450289
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Philosopher
+					[13:disambiguation:name]
+						 Richard Rorty
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Richard_Rorty
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 René Descartes
+				[14:relevance]
+					 0.439372
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[14:disambiguation:name]
+						 René Descartes
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/René_Descartes
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 -0.490623
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 Gilbert Ryle
+				[15:relevance]
+					 0.43795
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[15:disambiguation:name]
+						 Gilbert Ryle
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gilbert_Ryle
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0.275667
+					[16:sentiment:label]
+						 positive
+				[16:text]
+					 Ernest Nagel
+				[16:relevance]
+					 0.436183
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 AwardWinner
+					[16:disambiguation:name]
+						 Ernest Nagel
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ernest_Nagel
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0.632869
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 United States
+				[17:relevance]
+					 0.430351
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[17:disambiguation:name]
+						 United States
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Gottfried Wilhelm Leibniz
+				[18:relevance]
+					 0.428262
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Gottfried Wilhelm Leibniz
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Charles Sanders Peirce
+				[19:relevance]
+					 0.419194
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Academic
+					[19:disambiguation:name]
+						 Charles Sanders Peirce
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Charles_Sanders_Peirce
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Socrates
+				[20:relevance]
+					 0.414631
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 OperaCharacter
+						[1]
+							 Philosopher
+					[20:disambiguation:name]
+						 Socrates
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Socrates
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Hume
+				[21:relevance]
+					 0.413912
+				[21:type]
+					 Person
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 -0.222668
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 Karl Popper
+				[22:relevance]
+					 0.402212
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[22:disambiguation:name]
+						 Karl Popper
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Karl_Popper
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 counterexamples
+				[23:relevance]
+					 0.39799
+				[23:type]
+					 Person
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Edmund Husserl
+				[24:relevance]
+					 0.394645
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[24:disambiguation:name]
+						 Edmund Husserl
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edmund_Husserl
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Princeton University
+				[25:relevance]
+					 0.3942
+				[25:type]
+					 Organization
+					[25:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[25:disambiguation:name]
+						 Princeton University
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Princeton_University
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Bacon
+				[26:relevance]
+					 0.390305
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Gottlob Frege
+				[27:relevance]
+					 0.390166
+				[27:type]
+					 Person
+					[27:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[27:disambiguation:name]
+						 Gottlob Frege
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gottlob_Frege
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0.704058
+					[28:sentiment:label]
+						 positive
+				[28:text]
+					 America
+				[28:relevance]
+					 0.388298
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 Continent
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 0.394375
+					[29:sentiment:label]
+						 positive
+				[29:text]
+					 Hans Reichenbach
+				[29:relevance]
+					 0.385565
+				[29:type]
+					 Person
+					[29:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[29:disambiguation:name]
+						 Hans Reichenbach
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hans_Reichenbach
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Ohio River
+				[30:relevance]
+					 0.384269
+				[30:type]
+					 GeographicFeature
+					[30:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[30:disambiguation:name]
+						 Ohio River
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ohio_River
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Vietnam
+				[31:relevance]
+					 0.379215
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 Country
+				[32:count]
+					 2
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Austria
+				[32:relevance]
+					 0.378148
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 Country
+					[32:disambiguation:name]
+						 Austria
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Austria
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Thomistic
+				[33:relevance]
+					 0.372417
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 City
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Frankfurt school of critical theory
+				[34:relevance]
+					 0.371802
+				[34:type]
+					 Organization
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Cambridge University
+				[35:relevance]
+					 0.37123
+				[35:type]
+					 Organization
+					[35:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 University
+					[35:disambiguation:name]
+						 University of Cambridge
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Cambridge
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Rudolph Camp
+				[36:relevance]
+					 0.370774
+				[36:type]
+					 Person
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 -0.2779
+					[37:sentiment:label]
+						 negative
+				[37:text]
+					 Brooklyn Bridge
+				[37:relevance]
+					 0.370172
+				[37:type]
+					 Facility
+					[37:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Bridge
+						[2]
+							 HistoricPlace
+						[3]
+							 TouristAttraction
+					[37:disambiguation:name]
+						 Brooklyn Bridge
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brooklyn_Bridge
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 -0.38055
+					[38:sentiment:label]
+						 negative
+				[38:text]
+					 John Roebling
+				[38:relevance]
+					 0.370102
+				[38:type]
+					 Person
+					[38:disambiguation:subtype]
+						[0]
+							 Architect
+						[1]
+							 ProjectParticipant
+						[2]
+							 Engineer
+					[38:disambiguation:name]
+						 John A. Roebling
+					[38:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_A._Roebling
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 New York City
+				[39:relevance]
+					 0.369275
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[39:disambiguation:name]
+						 New York City
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 Ohio
+				[40:relevance]
+					 0.367471
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[40:disambiguation:name]
+						 Ohio
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ohio
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 Cincinnati
+				[41:relevance]
+					 0.367146
+				[41:type]
+					 Location
+					[41:disambiguation:subtype]
+						[0]
+							 City
+					[41:disambiguation:name]
+						 Cincinnati
+					[41:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cincinnati
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 Los Angeles
+				[42:relevance]
+					 0.364915
+				[42:type]
+					 Location
+					[42:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 OlympicBiddingCity
+						[2]
+							 OlympicHostCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[42:disambiguation:name]
+						 Los Angeles
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Los_Angeles
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Martin Heidegger
+				[43:relevance]
+					 0.359511
+				[43:type]
+					 Person
+					[43:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[43:disambiguation:name]
+						 Martin Heidegger
+					[43:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Martin_Heidegger
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0.375517
+					[44:sentiment:label]
+						 positive
+				[44:text]
+					 Moritz Schlick
+				[44:relevance]
+					 0.358049
+				[44:type]
+					 Person
+					[44:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[44:disambiguation:name]
+						 Moritz Schlick
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Moritz_Schlick
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 New England Transcendentalists
+				[45:relevance]
+					 0.356172
+				[45:type]
+					 Facility
+				[46:count]
+					 1
+					[46:sentiment:score]
+						 0
+					[46:sentiment:label]
+						 neutral
+				[46:text]
+					 William James
+				[46:relevance]
+					 0.349676
+				[46:type]
+					 Person
+					[46:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[46:disambiguation:name]
+						 William James
+					[46:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_James
+		[:enriched_text:concepts]
+				[0:text]
+					 Analytic philosophy
+				[0:relevance]
+					 0.963029
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Analytic_philosophy
+				[1:text]
+					 Philosophy
+				[1:relevance]
+					 0.701341
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[2:text]
+					 Logical positivism
+				[2:relevance]
+					 0.660594
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Logical_positivism
+				[3:text]
+					 Philosophy of language
+				[3:relevance]
+					 0.644475
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_language
+				[4:text]
+					 Bertrand Russell
+				[4:relevance]
+					 0.623615
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bertrand_Russell
+				[5:text]
+					 Empiricism
+				[5:relevance]
+					 0.608988
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Empiricism
+				[6:text]
+					 Karl Popper
+				[6:relevance]
+					 0.540611
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Karl_Popper
+				[7:text]
+					 Logic
+				[7:relevance]
+					 0.530293
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Logic
+		[:enriched_text:categories]
+				[0:score]
+					 0.999888
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 BT2350030074
+		[:metadata:concepts]
+			[0]
+				 Analytic philosophy
+			[1]
+				 Philosophy
+			[2]
+				 Logical positivism
+			[3]
+				 Philosophy of language
+			[4]
+				 Bertrand Russell
+			[5]
+				 Empiricism
+			[6]
+				 Karl Popper
+			[7]
+				 Logic
+			[8]
+				 Ludwig Wittgenstein
+			[9]
+				 Epistemology
+		[:metadata:keywords]
+			[0]
+				 Analytic philosophy
+			[1]
+				 approach characteristic of analytic philosophy
+			[2]
+				 dominant school of philosophy
+			[3]
+				 analytic philosophers
+			[4]
+				 logical atomism of Bertrand Russell
+			[5]
+				 province of science
+			[6]
+				 Similar treatment of other value areas
+			[7]
+				 variety of characterizations of analytic philosophy
+			[8]
+				 Gestalt theory of knowledge
+			[9]
+				 new truths
+		[:metadata:entitites]
+			[0]
+				 Wittgenstein
+			[1]
+				 Bertrand Russell
+			[2]
+				 Kant
+			[3]
+				 Gottfried Wilhelm Leibniz
+			[4]
+				 Gottlob Frege
+			[5]
+				 Russell
+			[6]
+				 Georg Wilhelm Friedrich Hegel
+			[7]
+				 Carl Hempel
+			[8]
+				 Ludwig Wittgenstein
+			[9]
+				 Gilbert Ryle
+		[:metadata:title]
+			 Analytic Philosophy
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 81
+			[:metadata:gale:gale-fake-waiting]
+				 3
+		[:extracted_metadata:sha1]
+			 ff22cc276a0d9d1a82c71904ff712e32742fd1e2
+		[:extracted_metadata:filename]
+			 Analytic Philosophy.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 5e3d5de3-5465-4c98-9e83-f5fb59502234
+		[:result_metadata:confidence]
+			 0.0770431922345437
+		[:result_metadata:score]
+			 5.188048
+	[:text]
+		 no title
+
+Kazimierz Twardowski had a twofold role in the recent history of philosophy. He had a decisive influence on Polish philosophy in t[...]
+				[:enriched_text:sentiment:document:score]
+					 0.521053
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 16
+					[0:sentiment:score]
+						 0.055392
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Kazimierz Twardowski
+				[0:relevance]
+					 0.915575
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Kazimierz Twardowski
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kazimierz_Twardowski
+				[1:count]
+					 9
+					[1:sentiment:score]
+						 -0.409156
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Franz Brentano
+				[1:relevance]
+					 0.345833
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[1:disambiguation:name]
+						 Franz Brentano
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Franz_Brentano
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Polish Philosophical Society
+				[2:relevance]
+					 0.223284
+				[2:type]
+					 Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Vienna
+				[3:relevance]
+					 0.165054
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 City
+					[3:disambiguation:name]
+						 Vienna
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vienna
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 University of Vienna
+				[4:relevance]
+					 0.164396
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[4:disambiguation:name]
+						 University of Vienna
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Vienna
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 University of Lwów
+				[5:relevance]
+					 0.160595
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[5:disambiguation:name]
+						 Lviv University
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lviv_University
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Jan Łukasiewicz
+				[6:relevance]
+					 0.152177
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Jan Łukasiewicz
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jan_Łukasiewicz
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Poland
+				[7:relevance]
+					 0.148181
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 AwardPresentingOrganization
+						[3]
+							 FilmFestivalFocus
+						[4]
+							 Country
+					[7:disambiguation:name]
+						 Poland
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Poland
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Kazimierz Ajdukiewicz
+				[8:relevance]
+					 0.1441
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Scientist
+					[8:disambiguation:name]
+						 Kazimierz Ajdukiewicz
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kazimierz_Ajdukiewicz
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 G. E. Moore—was
+				[9:relevance]
+					 0.128734
+				[9:type]
+					 Person
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 the quarterly journal
+				[10:relevance]
+					 0.124101
+				[10:type]
+					 PrintMedia
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Kotarbiński
+				[11:relevance]
+					 0.113204
+				[11:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.974488
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Logic
+				[1:relevance]
+					 0.693073
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Logic
+				[2:text]
+					 Martin Heidegger
+				[2:relevance]
+					 0.568677
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Martin_Heidegger
+				[3:text]
+					 Analytic philosophy
+				[3:relevance]
+					 0.552709
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Analytic_philosophy
+				[4:text]
+					 Scientific method
+				[4:relevance]
+					 0.54297
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Scientific_method
+				[5:text]
+					 Psychology
+				[5:relevance]
+					 0.515986
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Psychology
+				[6:text]
+					 Science
+				[6:relevance]
+					 0.510187
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Science
+				[7:text]
+					 Sigmund Freud
+				[7:relevance]
+					 0.508568
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Sigmund_Freud
+		[:enriched_text:categories]
+				[0:score]
+					 0.999986
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 K3446802053
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Logic
+			[2]
+				 Martin Heidegger
+			[3]
+				 Analytic philosophy
+			[4]
+				 Scientific method
+			[5]
+				 Psychology
+			[6]
+				 Science
+			[7]
+				 Sigmund Freud
+			[8]
+				 Edmund Husserl
+			[9]
+				 Philosophy of mind
+		[:metadata:keywords]
+			[0]
+				 Kazimierz Twardowski
+			[1]
+				 recent history of philosophy
+			[2]
+				 influential book
+			[3]
+				 Polish philosophy
+			[4]
+				 decisive influence
+			[5]
+				 Twardowski's later work
+			[6]
+				 twentieth century
+			[7]
+				 strong sense of the scholar
+			[8]
+				 Jan Łukasiewicz
+			[9]
+				 influential works
+		[:metadata:entitites]
+			[0]
+				 Twardowski
+			[1]
+				 Brentano
+			[2]
+				 Kazimierz Twardowski
+			[3]
+				 Franz Brentano
+			[4]
+				 University of Lwów
+			[5]
+				 University of Vienna
+			[6]
+				 Vienna
+			[7]
+				 G. E. Moore
+			[8]
+				 confusion
+			[9]
+				 Jan Łukasiewicz
+		[:metadata:title]
+			 Kazimierz Twardowski
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 17
+			[:metadata:gale:gale-fake-waiting]
+				 15
+		[:extracted_metadata:sha1]
+			 a0bad7267c0f9f80a4003dd7e20e2d1f5798b82a
+		[:extracted_metadata:filename]
+			 Kazimierz Twardowski.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 c7f825f0-ce2e-47f8-8e8c-98de0de4498f
+		[:result_metadata:confidence]
+			 0.07652265340366048
+		[:result_metadata:score]
+			 5.1875343
+	[:text]
+		 no title
+
+Lucien Laberthonnière, the French philosopher of religion and a leading figure in the modernist movement in the Roman Catholic Chu[...]
+				[:enriched_text:sentiment:document:score]
+					 0.63847
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 18
+					[0:sentiment:score]
+						 0.707802
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Lucien Laberthonnière
+				[0:relevance]
+					 0.858815
+				[0:type]
+					 Person
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Roman Catholic Church
+				[1:relevance]
+					 0.348843
+				[1:type]
+					 Facility
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 principal
+				[2:relevance]
+					 0.307671
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0.381794
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Maurice Blondel
+				[3:relevance]
+					 0.301943
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Maurice Blondel
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Maurice_Blondel
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Oratorian
+				[4:relevance]
+					 0.297845
+				[4:type]
+					 Company
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Chazelet
+				[5:relevance]
+					 0.277547
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 City
+					[5:disambiguation:name]
+						 Chazelet
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chazelet
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Juilly
+				[6:relevance]
+					 0.272158
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Juilly, Seine-et-Marne
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Juilly,_Seine-et-Marne
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Étienne Boutroux
+				[7:relevance]
+					 0.247642
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Maine
+				[8:relevance]
+					 0.229425
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.954003
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Metaphysics
+				[1:relevance]
+					 0.54723
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Metaphysics
+				[2:text]
+					 Roman Catholic Church
+				[2:relevance]
+					 0.527079
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Roman_Catholic_Church
+				[3:text]
+					 Religion
+				[3:relevance]
+					 0.508754
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Religion
+				[4:text]
+					 Philosophy of religion
+				[4:relevance]
+					 0.447371
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_religion
+				[5:text]
+					 Catholic Church
+				[5:relevance]
+					 0.425833
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Catholic_Church
+				[6:text]
+					 William James
+				[6:relevance]
+					 0.416596
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/William_James
+				[7:text]
+					 Phenomenology
+				[7:relevance]
+					 0.393886
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Phenomenology_(philosophy)
+		[:enriched_text:categories]
+				[0:score]
+					 0.930737
+				[0:label]
+					 /religion and spirituality
+				[1:score]
+					 0.801954
+				[1:label]
+					 /religion and spirituality/christianity
+				[2:score]
+					 0.791431
+				[2:label]
+					 /religion and spirituality/christianity/protestantism
+		[:metadata:docid]
+			 K3446801054
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Metaphysics
+			[2]
+				 Roman Catholic Church
+			[3]
+				 Religion
+			[4]
+				 Philosophy of religion
+			[5]
+				 Catholic Church
+			[6]
+				 William James
+			[7]
+				 Phenomenology
+			[8]
+				 Protestant Reformation
+			[9]
+				 Philosophy of science
+		[:metadata:keywords]
+			[0]
+				 Lucien Laberthonnière
+			[1]
+				 philosophies of life
+			[2]
+				 Maurice Blondel's philosophy
+			[3]
+				 criterion of philosophical truth
+			[4]
+				 Roman Catholic Church
+			[5]
+				 long run
+			[6]
+				 pragmatic point of view
+			[7]
+				 principal writings
+			[8]
+				 ecclesiastical authorities
+			[9]
+				 philosophical views
+		[:metadata:entitites]
+			[0]
+				 Lucien Laberthonnière
+			[1]
+				 Juilly
+			[2]
+				 Laberthonnière
+			[3]
+				 Biran
+			[4]
+				 Étienne Boutroux
+			[5]
+				 Maurice Blondel
+			[6]
+				 Roman Catholic Church
+			[7]
+				 Laberthonnière
+			[8]
+				 Maine
+		[:metadata:title]
+			 Lucien Laberthonniere
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 14
+			[:metadata:gale:gale-fake-waiting]
+				 2
+		[:extracted_metadata:sha1]
+			 bb5d1a84cc30eb2896a287ae5e7b2f755159dffe
+		[:extracted_metadata:filename]
+			 Lucien Laberthonniere.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 24a998ea-53b4-475d-bb0c-7336f482e54a
+		[:result_metadata:confidence]
+			 0.07574209848555764
+		[:result_metadata:score]
+			 5.186764
+	[:text]
+		 no title
+
+Iris Murdoch is best known to the world as a novelist—she wrote twenty-six—but she was a tutor in philosophy at Oxford University [...]
+				[:enriched_text:sentiment:document:score]
+					 0.566403
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 -0.329024
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Iris Murdoch
+				[0:relevance]
+					 0.837353
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 ChivalricOrderMember
+					[0:disambiguation:name]
+						 Iris Murdoch
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Iris_Murdoch
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Oxford University
+				[1:relevance]
+					 0.139037
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[1:disambiguation:name]
+						 University of Oxford
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Oxford
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Richard Hare
+				[2:relevance]
+					 0.134691
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[2:disambiguation:name]
+						 R. M. Hare
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/R._M._Hare
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Jean-Paul Sartre
+				[3:relevance]
+					 0.130366
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Dedicatee
+						[2]
+							 MilitaryPerson
+						[3]
+							 Philosopher
+						[4]
+							 FilmWriter
+					[3:disambiguation:name]
+						 Jean-Paul Sartre
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jean-Paul_Sartre
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Simone Weil
+				[4:relevance]
+					 0.123044
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[4:disambiguation:name]
+						 Simone Weil
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Simone_Weil
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Freud
+				[5:relevance]
+					 0.108667
+				[5:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Philosophy
+				[0:relevance]
+					 0.97123
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[1:text]
+					 Morality
+				[1:relevance]
+					 0.945531
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Morality
+				[2:text]
+					 Jean-Paul Sartre
+				[2:relevance]
+					 0.897888
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Jean-Paul_Sartre
+				[3:text]
+					 Ethics
+				[3:relevance]
+					 0.833104
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Ethics
+				[4:text]
+					 Psychology
+				[4:relevance]
+					 0.773777
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Psychology
+				[5:text]
+					 Mind
+				[5:relevance]
+					 0.637645
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Mind
+				[6:text]
+					 Core issues in ethics
+				[6:relevance]
+					 0.631933
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Core_issues_in_ethics
+				[7:text]
+					 Moral agency
+				[7:relevance]
+					 0.589874
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Moral_agency
+		[:enriched_text:categories]
+				[0:score]
+					 0.85593
+				[0:label]
+					 /religion and spirituality
+				[1:score]
+					 0.817512
+				[1:label]
+					 /education/homework and study tips
+				[2:score]
+					 0.738806
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K3446801379
+		[:metadata:concepts]
+			[0]
+				 Philosophy
+			[1]
+				 Morality
+			[2]
+				 Jean-Paul Sartre
+			[3]
+				 Ethics
+			[4]
+				 Psychology
+			[5]
+				 Mind
+			[6]
+				 Core issues in ethics
+			[7]
+				 Moral agency
+			[8]
+				 Ontology
+			[9]
+				 Religion
+		[:metadata:keywords]
+			[0]
+				 Iris Murdoch
+			[1]
+				 moral philosophy
+			[2]
+				 British moral philosophy of the 1950s
+			[3]
+				 moral life
+			[4]
+				 Good literature
+			[5]
+				 clear grasp of the moral reality
+			[6]
+				 philosophy
+			[7]
+				 linguistic philosophy
+			[8]
+				 moral agent
+			[9]
+				 moral concerns of great depth
+		[:metadata:entitites]
+			[0]
+				 Murdoch
+			[1]
+				 Richard Hare
+			[2]
+				 Paul Sartre
+			[3]
+				 Iris Murdoch
+			[4]
+				 Oxford University
+			[5]
+				 Sartre
+			[6]
+				 Simone Weil
+			[7]
+				 Jean
+			[8]
+				 Plato
+			[9]
+				 Freud
+		[:metadata:title]
+			 Iris Murdoch
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 81
+			[:metadata:gale:gale-fake-waiting]
+				 44
+		[:extracted_metadata:sha1]
+			 398a27f6f5543a12f6b79016bf4b6ae27ff37c8a
+		[:extracted_metadata:filename]
+			 Iris Murdoch.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 6ddcd526-b84b-4852-a617-6fe085b3374d
+		[:result_metadata:confidence]
+			 0.0745980682343078
+		[:result_metadata:score]
+			 5.185635
+	[:text]
+		 no title
+
+Nicholas Maxwell's lifelong interest is the philosophy of science. His book Jeff Huggins, reviewing the book for Maxwell is also a[...]
+				[:enriched_text:sentiment:document:score]
+					 0.657064
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 3
+					[0:sentiment:score]
+						 -0.790963
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Nicholas Maxwell
+				[0:relevance]
+					 0.713518
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Nicholas Maxwell
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nicholas_Maxwell
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Jeff Huggins
+				[1:relevance]
+					 0.44272
+				[1:type]
+					 Person
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 director
+				[2:relevance]
+					 0.345095
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 one hand
+				[3:relevance]
+					 0.345095
+				[3:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Physics
+				[0:relevance]
+					 0.988454
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Physics
+				[1:text]
+					 Scientific method
+				[1:relevance]
+					 0.919945
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Scientific_method
+				[2:text]
+					 Sociology
+				[2:relevance]
+					 0.726605
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Sociology
+				[3:text]
+					 Philosophy of science
+				[3:relevance]
+					 0.64542
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_science
+				[4:text]
+					 Quantum mechanics
+				[4:relevance]
+					 0.625595
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Quantum_mechanics
+				[5:text]
+					 Philosophy of language
+				[5:relevance]
+					 0.580047
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy_of_language
+				[6:text]
+					 Analytic philosophy
+				[6:relevance]
+					 0.548886
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Analytic_philosophy
+				[7:text]
+					 Theory
+				[7:relevance]
+					 0.541848
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Theory
+		[:enriched_text:categories]
+				[0:score]
+					 0.993275
+				[0:label]
+					 /science/social science/philosophy
+				[1:score]
+					 0.856877
+				[1:label]
+					 /science/physics
+				[2:score]
+					 0.805785
+				[2:label]
+					 /education/homework and study tips
+		[:metadata:docid]
+			 H1000065400
+		[:metadata:concepts]
+			[0]
+				 Physics
+			[1]
+				 Scientific method
+			[2]
+				 Sociology
+			[3]
+				 Philosophy of science
+			[4]
+				 Quantum mechanics
+			[5]
+				 Philosophy of language
+			[6]
+				 Analytic philosophy
+			[7]
+				 Theory
+			[8]
+				 Science
+			[9]
+				 Epistemology
+		[:metadata:keywords]
+			[0]
+				 book Jeff Huggins
+			[1]
+				 philosophy of science
+			[2]
+				 theater director
+			[3]
+				 Nicholas Maxwell's lifelong interest
+			[4]
+				 social value of science
+			[5]
+				 common sense
+			[6]
+				 basic aims
+			[7]
+				 undergraduate teaching
+			[8]
+				 present work
+			[9]
+				 scientific community
+		[:metadata:entitites]
+			[0]
+				 Nicholas Maxwell
+			[1]
+				 Jeff Huggins
+			[2]
+				 Maxwell
+			[3]
+				 one hand
+		[:metadata:title]
+			 Nicholas Maxwell
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 58
+			[:metadata:gale:gale-fake-waiting]
+				 47
+		[:extracted_metadata:sha1]
+			 1cca8f2831e50c6cd1fe05f600c4c704f0682580
+		[:extracted_metadata:filename]
+			 Nicholas Maxwell.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 e4bf2f14-fcfe-4840-b9d0-7f7f8214d0ec
+		[:result_metadata:confidence]
+			 0.07339455651649573
+		[:result_metadata:score]
+			 5.1844473
+	[:text]
+		 no title
+
+Since 1967, when he simultaneously published three of his most important works, Derrida has been an extraordinarily influential an[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.259063
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 26
+					[0:sentiment:score]
+						 0.15546
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Derrida
+				[0:relevance]
+					 0.900873
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 -0.330608
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Algeria
+				[1:relevance]
+					 0.176842
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 CityTown
+						[2]
+							 Country
+					[1:disambiguation:name]
+						 Algeria
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Algeria
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 professor of philosophy
+				[2:relevance]
+					 0.128964
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 École des Hautes Etudes en Sciences Sociales
+				[3:relevance]
+					 0.119749
+				[3:type]
+					 Organization
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Paris
+				[4:relevance]
+					 0.118101
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 FrenchDepartment
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 OlympicBiddingCity
+						[4]
+							 OlympicHostCity
+						[5]
+							 PlaceWithNeighborhoods
+						[6]
+							 City
+					[4:disambiguation:name]
+						 Paris
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Paris
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 École Normale Supérieure
+				[5:relevance]
+					 0.106015
+				[5:type]
+					 Facility
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0.384357
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Richard Rorty
+				[6:relevance]
+					 0.105804
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Philosopher
+					[6:disambiguation:name]
+						 Richard Rorty
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Richard_Rorty
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Nietzsche
+				[7:relevance]
+					 0.10098
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.441914
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Rodolphe Gasché
+				[8:relevance]
+					 0.098003
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Rodolphe Gasché
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rodolphe_Gasché
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Edmund Husserl
+				[9:relevance]
+					 0.097649
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 Philosopher
+					[9:disambiguation:name]
+						 Edmund Husserl
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edmund_Husserl
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Albert Camus
+				[10:relevance]
+					 0.096099
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Dedicator
+						[2]
+							 Philosopher
+						[3]
+							 FilmWriter
+					[10:disambiguation:name]
+						 Albert Camus
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Albert_Camus
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 El Biar
+				[11:relevance]
+					 0.094909
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Jean-Paul Sartre
+				[12:relevance]
+					 0.094669
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 Dedicatee
+						[2]
+							 MilitaryPerson
+						[3]
+							 Philosopher
+						[4]
+							 FilmWriter
+					[12:disambiguation:name]
+						 Jean-Paul Sartre
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jean-Paul_Sartre
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 John Searle
+				[13:relevance]
+					 0.091675
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Philosopher
+					[13:disambiguation:name]
+						 John Searle
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Searle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.658663
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Christopher Norris
+				[14:relevance]
+					 0.088926
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 Christopher Norris (critic)
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Christopher_Norris_(critic)
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 France
+				[15:relevance]
+					 0.088007
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmDirector
+						[4]
+							 Country
+					[15:disambiguation:name]
+						 France
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/France
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Heidegger
+				[16:relevance]
+					 0.080558
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 director
+				[17:relevance]
+					 0.075968
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 eighteen years
+				[18:relevance]
+					 0.075968
+				[18:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Jacques Derrida
+				[0:relevance]
+					 0.97952
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Jacques_Derrida
+				[1:text]
+					 Martin Heidegger
+				[1:relevance]
+					 0.893491
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Martin_Heidegger
+				[2:text]
+					 Philosophy
+				[2:relevance]
+					 0.884389
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Philosophy
+				[3:text]
+					 Phenomenology
+				[3:relevance]
+					 0.671083
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Phenomenology_(philosophy)
+				[4:text]
+					 Jean-Paul Sartre
+				[4:relevance]
+					 0.628716
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Jean-Paul_Sartre
+				[5:text]
+					 Existentialism
+				[5:relevance]
+					 0.606209
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Existentialism
+				[6:text]
+					 Deconstruction
+				[6:relevance]
+					 0.534915
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Deconstruction
+				[7:text]
+					 Edmund Husserl
+				[7:relevance]
+					 0.510003
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Edmund_Husserl
+		[:enriched_text:categories]
+				[0:score]
+					 0.994751
+				[0:label]
+					 /science/social science/philosophy
+		[:metadata:docid]
+			 EJ2101101425
+		[:metadata:concepts]
+			[0]
+				 Jacques Derrida
+			[1]
+				 Martin Heidegger
+			[2]
+				 Philosophy
+			[3]
+				 Phenomenology
+			[4]
+				 Jean-Paul Sartre
+			[5]
+				 Existentialism
+			[6]
+				 Deconstruction
+			[7]
+				 Edmund Husserl
+			[8]
+				 Friedrich Nietzsche
+			[9]
+				 Albert Camus
+		[:metadata:keywords]
+			[0]
+				 philosopher Albert Camus
+			[1]
+				 contemporary philosophy
+			[2]
+				 critical theory
+			[3]
+				 Philosopher Richard Rorty
+			[4]
+				 critique of traditional Western philosophy
+			[5]
+				 contemporary literary theory
+			[6]
+				 Derrida
+			[7]
+				 French novelist
+			[8]
+				 important works
+			[9]
+				 university student
+		[:metadata:entitites]
+			[0]
+				 Derrida
+			[1]
+				 Algeria
+			[2]
+				 El Biar
+			[3]
+				 École Normale Supérieure
+			[4]
+				 Paul Sartre
+			[5]
+				 Sartrean
+			[6]
+				 Edmund Husserl
+			[7]
+				 Paris
+			[8]
+				 École des Hautes Etudes en Sciences
+			[9]
+				 Albert Camus
+		[:metadata:title]
+			 Jacques Derrida
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 51
+			[:metadata:gale:gale-fake-waiting]
+				 74
+		[:extracted_metadata:sha1]
+			 8f2023d312d5f1559b0b3f557d1b703a0eecd579
+		[:extracted_metadata:filename]
+			 Jacques Derrida.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

@@ -1,0 +1,8076 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 4e1c0292-3f74-44ae-a9b5-f0e4f9991a67
+		[:result_metadata:confidence]
+			 0.25364594360958953
+		[:result_metadata:score]
+			 13.993336
+	[:text]
+		 no title
+
+A filibuster is a parliamentary tactic used in the U.S. Senate to delay a vote. It typically consists of a long speech-making sess[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.586968
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 5
+					[0:sentiment:score]
+						 -0.371644
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 U.S. Senate
+				[0:relevance]
+					 0.809053
+				[0:type]
+					 Organization
+					[0:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[0:disambiguation:name]
+						 United States Senate
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 -0.704544
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 president
+				[1:relevance]
+					 0.6762
+				[1:type]
+					 JobTitle
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 -0.416694
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 senator
+				[2:relevance]
+					 0.675976
+				[2:type]
+					 JobTitle
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 -0.166357
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 President Woodrow Wilson
+				[3:relevance]
+					 0.581807
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 PoliticalAppointer
+						[3]
+							 USPresident
+					[3:disambiguation:name]
+						 Woodrow Wilson
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Woodrow_Wilson
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.354864
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Senator Robert La Follette Sr.
+				[4:relevance]
+					 0.54467
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+						[2]
+							 U.S.Congressperson
+					[4:disambiguation:name]
+						 Robert M. La Follette, Sr.
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_M._La_Follette,_Sr.
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 -0.686751
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 United States
+				[5:relevance]
+					 0.527688
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[5:disambiguation:name]
+						 United States
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Bill Clinton
+				[6:relevance]
+					 0.514611
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Politician
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OfficeHolder
+						[7]
+							 PoliticalAppointer
+						[8]
+							 TVPersonality
+						[9]
+							 FilmActor
+						[10]
+							 FilmWriter
+						[11]
+							 USPresident
+					[6:disambiguation:name]
+						 Bill Clinton
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Clinton
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.704544
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 George H. W. Bush
+				[7:relevance]
+					 0.500867
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 President
+						[3]
+							 Appointer
+						[4]
+							 BoardMember
+						[5]
+							 ChivalricOrderMember
+						[6]
+							 MilitaryPerson
+						[7]
+							 PoliticalAppointer
+						[8]
+							 U.S.Congressperson
+						[9]
+							 USPresident
+						[10]
+							 USVicePresident
+						[11]
+							 FilmActor
+						[12]
+							 TVActor
+					[7:disambiguation:name]
+						 George H. W. Bush
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_H._W._Bush
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 President George W. Bush
+				[8:relevance]
+					 0.466206
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 MusicalArtist
+						[2]
+							 Politician
+						[3]
+							 President
+						[4]
+							 Appointer
+						[5]
+							 AwardNominee
+						[6]
+							 AwardWinner
+						[7]
+							 ChivalricOrderMember
+						[8]
+							 CompanyFounder
+						[9]
+							 MilitaryPerson
+						[10]
+							 PoliticalAppointer
+						[11]
+							 USPresident
+						[12]
+							 FilmActor
+						[13]
+							 TVActor
+					[8:disambiguation:name]
+						 George W. Bush
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_W._Bush
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Senator Zell Miller
+				[9:relevance]
+					 0.44213
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 BoardMember
+						[2]
+							 Governor
+						[3]
+							 MilitaryPerson
+						[4]
+							 U.S.Congressperson
+					[9:disambiguation:name]
+						 Zell Miller
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Zell_Miller
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Supreme Court
+				[10:relevance]
+					 0.394488
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[10:disambiguation:name]
+						 Supreme Court of the United States
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Senator Huey Long Jr.
+				[11:relevance]
+					 0.390165
+				[11:type]
+					 Person
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Abe Fortas
+				[12:relevance]
+					 0.377011
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Judge
+					[12:disambiguation:name]
+						 Abe Fortas
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Abe_Fortas
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Lyndon Johnson
+				[13:relevance]
+					 0.371809
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 MusicalArtist
+						[2]
+							 Politician
+						[3]
+							 President
+						[4]
+							 AwardWinner
+						[5]
+							 Dedicatee
+						[6]
+							 MilitaryCommander
+						[7]
+							 MilitaryPerson
+						[8]
+							 PoliticalAppointer
+						[9]
+							 U.S.Congressperson
+						[10]
+							 USPresident
+						[11]
+							 USVicePresident
+					[13:disambiguation:name]
+						 Lyndon B. Johnson
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lyndon_B._Johnson
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 George Mitchell
+				[14:relevance]
+					 0.348158
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 BoardMember
+						[3]
+							 ChivalricOrderMember
+						[4]
+							 OfficeHolder
+						[5]
+							 U.S.Congressperson
+					[14:disambiguation:name]
+						 George J. Mitchell
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_J._Mitchell
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Strom Thurmond
+				[15:relevance]
+					 0.329148
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 MilitaryPerson
+						[3]
+							 OfficeHolder
+						[4]
+							 U.S.Congressperson
+					[15:disambiguation:name]
+						 Strom Thurmond
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Strom_Thurmond
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Atlantic Ocean
+				[16:relevance]
+					 0.323333
+				[16:type]
+					 GeographicFeature
+					[16:disambiguation:subtype]
+					[16:disambiguation:name]
+						 Atlantic Ocean
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlantic_Ocean
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Louisiana
+				[17:relevance]
+					 0.310614
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[17:disambiguation:name]
+						 Louisiana
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Louisiana
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Maine
+				[18:relevance]
+					 0.306475
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[18:disambiguation:name]
+						 Maine
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Maine
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Wisconsin
+				[19:relevance]
+					 0.295174
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[19:disambiguation:name]
+						 Wisconsin
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wisconsin
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 -0.309562
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Iran
+				[20:relevance]
+					 0.288335
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 Country
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Depression
+				[21:relevance]
+					 0.286182
+				[21:type]
+					 HealthCondition
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 South Carolina
+				[22:relevance]
+					 0.283948
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[22:disambiguation:name]
+						 South Carolina
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/South_Carolina
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 executive
+				[23:relevance]
+					 0.277975
+				[23:type]
+					 JobTitle
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 -0.362118
+					[24:sentiment:label]
+						 negative
+				[24:text]
+					 Dr. Henry Foster Jr.
+				[24:relevance]
+					 0.271096
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Georgia
+				[25:relevance]
+					 0.270153
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[26:count]
+					 2
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 three-fifths
+				[26:relevance]
+					 0.270153
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 twenty-four hours
+				[27:relevance]
+					 0.270153
+				[27:type]
+					 Quantity
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 eighteen minutes
+				[28:relevance]
+					 0.270153
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 fifty-seven days
+				[29:relevance]
+					 0.270153
+				[29:type]
+					 Quantity
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 fifteen hours
+				[30:relevance]
+					 0.270153
+				[30:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Democratic Party
+				[0:relevance]
+					 0.956686
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[1:text]
+					 George W. Bush
+				[1:relevance]
+					 0.935464
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/George_W._Bush
+				[2:text]
+					 President of the United States
+				[2:relevance]
+					 0.815523
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+				[3:text]
+					 Supreme Court of the United States
+				[3:relevance]
+					 0.784185
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[4:text]
+					 Bill Clinton
+				[4:relevance]
+					 0.770285
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bill_Clinton
+				[5:text]
+					 United States Senate
+				[5:relevance]
+					 0.721076
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[6:text]
+					 George H. W. Bush
+				[6:relevance]
+					 0.70425
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/George_H._W._Bush
+				[7:text]
+					 United States Congress
+				[7:relevance]
+					 0.566217
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Congress
+		[:enriched_text:categories]
+				[0:score]
+					 0.996664
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.901756
+				[1:label]
+					 /law, govt and politics/politics/elections/presidential elections
+		[:metadata:docid]
+			 EJ3048400235
+		[:metadata:concepts]
+			[0]
+				 Democratic Party
+			[1]
+				 George W. Bush
+			[2]
+				 President of the United States
+			[3]
+				 Supreme Court of the United States
+			[4]
+				 Bill Clinton
+			[5]
+				 United States Senate
+			[6]
+				 George H. W. Bush
+			[7]
+				 United States Congress
+			[8]
+				 United States
+			[9]
+				 Lyndon B. Johnson
+		[:metadata:keywords]
+			[0]
+				 Senator Zell Miller
+			[1]
+				 role of Republicans
+			[2]
+				 George H. W. Bush
+			[3]
+				 use of filibusters
+			[4]
+				 administration of Democratic President Bill Clinton
+			[5]
+				 filibuster
+			[6]
+				 President Woodrow Wilson
+			[7]
+				 Strom Thurmond
+			[8]
+				 sixteenth-century Spanish term
+			[9]
+				 Louisiana Senator Huey Long Jr.
+		[:metadata:entitites]
+			[0]
+				 Senate
+			[1]
+				 three-fifths
+			[2]
+				 U.S.
+			[3]
+				 Dr. Henry Foster Jr.
+			[4]
+				 Senator Zell Miller
+			[5]
+				 George H. W. Bush
+			[6]
+				 Bush
+			[7]
+				 Senator Robert La Follette Sr.
+			[8]
+				 President Woodrow Wilson
+			[9]
+				 Clinton
+		[:metadata:title]
+			 The Filibuster
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 29
+			[:metadata:gale:gale-fake-waiting]
+				 3
+		[:extracted_metadata:sha1]
+			 d4c8871c9fbcf4a9dac82794a6493e167ba8455b
+		[:extracted_metadata:filename]
+			 The Filibuster.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 a17522b0-5a99-407b-a749-bb299eeff8a3
+		[:result_metadata:confidence]
+			 0.20518090405415806
+		[:result_metadata:score]
+			 13.005151
+	[:text]
+		 no title
+
+Wendy Davis is an American politician. She rose to fame in 2013 when she conducted an 11-hour filibuster against a proposed aborti[...]
+				[:enriched_text:sentiment:document:score]
+					 0.236421
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 24
+					[0:sentiment:score]
+						 0.435752
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Wendy Davis
+				[0:relevance]
+					 0.888357
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0.369138
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Texas
+				[1:relevance]
+					 0.206493
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[1:disambiguation:name]
+						 Texas
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Harvard Law School
+				[2:relevance]
+					 0.182764
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[2:disambiguation:name]
+						 Harvard Law School
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_Law_School
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Fort Worth City Council
+				[3:relevance]
+					 0.171255
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.503926
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Fort Worth
+				[4:relevance]
+					 0.165447
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Station
+					[4:disambiguation:name]
+						 Fort Worth Intermodal Transportation Center
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth_Intermodal_Transportation_Center
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Fort Worth
+				[5:relevance]
+					 0.152629
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 City
+					[5:disambiguation:name]
+						 Fort Worth, Texas
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth,_Texas
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Boston
+				[6:relevance]
+					 0.14559
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Boston
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Boston
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 senator
+				[7:relevance]
+					 0.142606
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Texas Christian University
+				[8:relevance]
+					 0.134604
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[8:disambiguation:name]
+						 Texas Christian University
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas_Christian_University
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.603645
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Barack Obama
+				[9:relevance]
+					 0.130369
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[9:disambiguation:name]
+						 Barack Obama
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Wendy Russell
+				[10:relevance]
+					 0.123536
+				[10:type]
+					 Person
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Twitter
+				[11:relevance]
+					 0.120916
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+						[0]
+							 Website
+						[1]
+							 VentureFundedCompany
+					[11:disambiguation:name]
+						 Twitter
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Twitter
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0.321148
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Dru
+				[12:relevance]
+					 0.116958
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 RecordProducer
+					[12:disambiguation:name]
+						 Dru
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dru
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 senate
+				[13:relevance]
+					 0.11664
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[13:disambiguation:name]
+						 United States Senate
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.750193
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Democratic Party
+				[14:relevance]
+					 0.113221
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[14:disambiguation:name]
+						 Democratic Party (United States)
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.603645
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 President
+				[15:relevance]
+					 0.096928
+				[15:type]
+					 JobTitle
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 11-hour
+				[16:relevance]
+					 0.096928
+				[16:type]
+					 Quantity
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 #StandWithWendy
+				[17:relevance]
+					 0.096928
+				[17:type]
+					 Hashtag
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 nine years
+				[18:relevance]
+					 0.096928
+				[18:type]
+					 Quantity
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 six years
+				[19:relevance]
+					 0.096928
+				[19:type]
+					 Quantity
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 17 years
+				[20:relevance]
+					 0.096928
+				[20:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Barack Obama
+				[0:relevance]
+					 0.947312
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[1:text]
+					 Texas
+				[1:relevance]
+					 0.687862
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Texas
+				[2:text]
+					 Democratic Party
+				[2:relevance]
+					 0.653217
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[3:text]
+					 George W. Bush
+				[3:relevance]
+					 0.532769
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/George_W._Bush
+				[4:text]
+					 Harvard Law School
+				[4:relevance]
+					 0.5226
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Harvard_Law_School
+				[5:text]
+					 United States Senate
+				[5:relevance]
+					 0.466182
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[6:text]
+					 United States
+				[6:relevance]
+					 0.461581
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[7:text]
+					 Texas Christian University
+				[7:relevance]
+					 0.436609
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Texas_Christian_University
+		[:enriched_text:categories]
+				[0:score]
+					 0.892939
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.669747
+				[1:label]
+					 /law, govt and politics/politics/elections
+				[2:score]
+					 0.656004
+				[2:label]
+					 /law, govt and politics/politics/elections/presidential elections
+		[:metadata:docid]
+			 K1650009213
+		[:metadata:concepts]
+			[0]
+				 Barack Obama
+			[1]
+				 Texas
+			[2]
+				 Democratic Party
+			[3]
+				 George W. Bush
+			[4]
+				 Harvard Law School
+			[5]
+				 United States Senate
+			[6]
+				 United States
+			[7]
+				 Texas Christian University
+			[8]
+				 Bill Clinton
+			[9]
+				 Harvard Law Review
+		[:metadata:keywords]
+			[0]
+				 Wendy Davis
+			[1]
+				 11-hour filibuster
+			[2]
+				 local lawyer Jeff Davis
+			[3]
+				 second daughter
+			[4]
+				 high school
+			[5]
+				 American politician
+			[6]
+				 first year of law school
+			[7]
+				 Fort Worth
+			[8]
+				 young mom
+			[9]
+				 following summer
+		[:metadata:entitites]
+			[0]
+				 Davis
+			[1]
+				 Wendy Davis
+			[2]
+				 11-hour
+			[3]
+				 Wendy Russell
+			[4]
+				 Fort Worth
+			[5]
+				 Texas
+			[6]
+				 Harvard Law School
+			[7]
+				 Texas legislature
+			[8]
+				 Fort Worth City Council
+			[9]
+				 Texas Christian University
+		[:metadata:title]
+			 Wendy Davis
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 13
+			[:metadata:gale:gale-fake-waiting]
+				 23
+		[:extracted_metadata:sha1]
+			 7fd3dacf3d384f756c805962b8f860de5ec9303f
+		[:extracted_metadata:filename]
+			 Wendy Davis.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 52755b14-1590-476c-b399-50347e817ee8
+		[:result_metadata:confidence]
+			 0.1973825832796964
+		[:result_metadata:score]
+			 12.846146
+	[:text]
+		 no title
+
+Coming to international prominence for a strenuous eleven-hour filibuster in the Texas State Senate in 2013, Democrat Wendy Davis [...]
+				[:enriched_text:sentiment:document:score]
+					 0.418321
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 35
+					[0:sentiment:score]
+						 0.06808
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Wendy Davis
+				[0:relevance]
+					 0.879004
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Wendy Davis (politician)
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Wendy_Davis_(politician)
+				[1:count]
+					 10
+					[1:sentiment:score]
+						 -0.069048
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Texas
+				[1:relevance]
+					 0.304772
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[1:disambiguation:name]
+						 Texas
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.461027
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Fort Worth
+				[2:relevance]
+					 0.240495
+				[2:type]
+					 Facility
+					[2:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Station
+					[2:disambiguation:name]
+						 Fort Worth Intermodal Transportation Center
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth_Intermodal_Transportation_Center
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0.480394
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Fort Worth
+				[3:relevance]
+					 0.222305
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+					[3:disambiguation:name]
+						 Fort Worth, Texas
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth,_Texas
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 -0.670269
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Senate
+				[4:relevance]
+					 0.19898
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[4:disambiguation:name]
+						 United States Senate
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 -0.314755
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Fort Worth Zoo
+				[5:relevance]
+					 0.187661
+				[5:type]
+					 Facility
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Fort Worth Zoo
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth_Zoo
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Harvard Law School
+				[6:relevance]
+					 0.175696
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[6:disambiguation:name]
+						 Harvard Law School
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_Law_School
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 -0.398016
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Fort Worth City Council
+				[7:relevance]
+					 0.175574
+				[7:type]
+					 Organization
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Texas Christian University
+				[8:relevance]
+					 0.151502
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[8:disambiguation:name]
+						 Texas Christian University
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas_Christian_University
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.581102
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Democratic Party
+				[9:relevance]
+					 0.149246
+				[9:type]
+					 Organization
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 United States
+				[10:relevance]
+					 0.146972
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[10:disambiguation:name]
+						 United States
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 West Warwick
+				[11:relevance]
+					 0.140621
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 West Warwick, Rhode Island
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/West_Warwick,_Rhode_Island
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Rhode Island
+				[12:relevance]
+					 0.140208
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 BasketballTeam
+						[5]
+							 StateOrCounty
+					[12:disambiguation:name]
+						 Rhode Island
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rhode_Island
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 National Cash Register
+				[13:relevance]
+					 0.139194
+				[13:type]
+					 PrintMedia
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 National Honor Society
+				[14:relevance]
+					 0.130565
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 National Honor Society
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Honor_Society
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 0.047759
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Frank Underwood
+				[15:relevance]
+					 0.129355
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 Frank Underwood
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Frank_Underwood
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Kim Brimer
+				[16:relevance]
+					 0.127802
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+					[16:disambiguation:name]
+						 Kim Brimer
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kim_Brimer
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.376714
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Dru
+				[17:relevance]
+					 0.127743
+				[17:type]
+					 Person
+					[17:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 RecordProducer
+					[17:disambiguation:name]
+						 Dru
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dru
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Wendy Jean Russell
+				[18:relevance]
+					 0.127609
+				[18:type]
+					 Person
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Cambridge
+				[19:relevance]
+					 0.127037
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 City
+					[19:disambiguation:name]
+						 Cambridge, Ontario
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cambridge,_Ontario
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0.333899
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Amber
+				[20:relevance]
+					 0.125707
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Richland High School
+				[21:relevance]
+					 0.125176
+				[21:type]
+					 Organization
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 -0.317719
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 Greg Abbott
+				[22:relevance]
+					 0.123521
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+						[0]
+							 Politician
+					[22:disambiguation:name]
+						 Greg Abbott
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Greg_Abbott
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 assault
+				[23:relevance]
+					 0.122941
+				[23:type]
+					 Crime
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Jerry
+				[24:relevance]
+					 0.122398
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 -0.399373
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 Harleen Gambhir
+				[25:relevance]
+					 0.121001
+				[25:type]
+					 Person
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Virginia Russell
+				[26:relevance]
+					 0.120023
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 -0.211121
+					[27:sentiment:label]
+						 negative
+				[27:text]
+					 senator
+				[27:relevance]
+					 0.119604
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 chairman
+				[28:relevance]
+					 0.118584
+				[28:type]
+					 JobTitle
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Becky Haskin
+				[29:relevance]
+					 0.118519
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Luisita Lopez Torregrosa
+				[30:relevance]
+					 0.117954
+				[30:type]
+					 Person
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Rick Perry
+				[31:relevance]
+					 0.116911
+				[31:type]
+					 Person
+					[31:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Governor
+						[2]
+							 MilitaryPerson
+					[31:disambiguation:name]
+						 Rick Perry
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rick_Perry
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Tarrant County Community College
+				[32:relevance]
+					 0.116364
+				[32:type]
+					 Organization
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Haynes
+				[33:relevance]
+					 0.116364
+				[33:type]
+					 Person
+					[33:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 BroadcastArtist
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[33:disambiguation:name]
+						 Nelly
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nelly
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Economic Development Committee
+				[34:relevance]
+					 0.115037
+				[34:type]
+					 Organization
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Emily
+				[35:relevance]
+					 0.115013
+				[35:type]
+					 Person
+				[36:count]
+					 2
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 official
+				[36:relevance]
+					 0.114808
+				[36:type]
+					 JobTitle
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Jay Root
+				[37:relevance]
+					 0.104187
+				[37:type]
+					 Person
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 attorney
+				[38:relevance]
+					 0.102259
+				[38:type]
+					 JobTitle
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Boone
+				[39:relevance]
+					 0.098902
+				[39:type]
+					 Person
+				[40:count]
+					 2
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 eleven-hour
+				[40:relevance]
+					 0.098902
+				[40:type]
+					 Quantity
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 $12 million
+				[41:relevance]
+					 0.098902
+				[41:type]
+					 Quantity
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 nine years
+				[42:relevance]
+					 0.098902
+				[42:type]
+					 Quantity
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 20 years
+				[43:relevance]
+					 0.098902
+				[43:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Texas
+				[0:relevance]
+					 0.97789
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Texas
+				[1:text]
+					 Texas Christian University
+				[1:relevance]
+					 0.763365
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Texas_Christian_University
+				[2:text]
+					 Mountain West Conference
+				[2:relevance]
+					 0.583003
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Mountain_West_Conference
+				[3:text]
+					 Fort Worth, Texas
+				[3:relevance]
+					 0.564442
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Fort_Worth,_Texas
+				[4:text]
+					 Rick Perry
+				[4:relevance]
+					 0.535856
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Rick_Perry
+				[5:text]
+					 Democratic Party
+				[5:relevance]
+					 0.515214
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[6:text]
+					 Divorce
+				[6:relevance]
+					 0.501604
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Divorce
+				[7:text]
+					 TCU Horned Frogs
+				[7:relevance]
+					 0.462597
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/TCU_Horned_Frogs
+		[:enriched_text:categories]
+				[0:score]
+					 0.922013
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.759881
+				[1:label]
+					 /law, govt and politics/politics/elections
+				[2:score]
+					 0.736509
+				[2:label]
+					 /education/special education
+		[:metadata:docid]
+			 K1618006017
+		[:metadata:concepts]
+			[0]
+				 Texas
+			[1]
+				 Texas Christian University
+			[2]
+				 Mountain West Conference
+			[3]
+				 Fort Worth, Texas
+			[4]
+				 Rick Perry
+			[5]
+				 Democratic Party
+			[6]
+				 Divorce
+			[7]
+				 TCU Horned Frogs
+			[8]
+				 Dallas
+			[9]
+				 Texas Senate, District 10
+		[:metadata:keywords]
+			[0]
+				 Democrat Wendy Davis
+			[1]
+				 Texas State Senate
+			[2]
+				 wide support
+			[3]
+				 Fort Worth
+			[4]
+				 slim chance
+			[5]
+				 strenuous eleven-hour filibuster
+			[6]
+				 Davis' parents
+			[7]
+				 child support
+			[8]
+				 ninth-grade education
+			[9]
+				 particular focus
+		[:metadata:entitites]
+			[0]
+				 Davis
+			[1]
+				 Texas
+			[2]
+				 Fort Worth
+			[3]
+				 eleven-hour
+			[4]
+				 Wendy Davis
+			[5]
+				 Wendy Jean Russell
+			[6]
+				 Virginia Russell
+			[7]
+				 Harvard Law School
+			[8]
+				 National Cash Register
+			[9]
+				 Frank Underwood
+		[:metadata:title]
+			 Wendy Davis
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 63
+			[:metadata:gale:gale-fake-waiting]
+				 0
+		[:extracted_metadata:sha1]
+			 ec4370fe5afcb6e6852be6ed4e33502181612f04
+		[:extracted_metadata:filename]
+			 Wendy Davis.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 371cdad5-139a-4236-ae82-d229a0491510
+		[:result_metadata:confidence]
+			 0.18931986360397302
+		[:result_metadata:score]
+			 12.68175
+	[:text]
+		 no title
+
+William Walker (1824-1860) was a United States adventurer in Central America. His armed intervention in Nicaragua gave liberals te[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.82708
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 16
+					[0:sentiment:score]
+						 0.211063
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 William Walker
+				[0:relevance]
+					 0.873812
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Physician
+						[1]
+							 Politician
+					[0:disambiguation:name]
+						 William Walker (filibuster)
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/William_Walker_(filibuster)
+				[1:count]
+					 9
+					[1:sentiment:score]
+						 -0.427604
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.599207
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[1:disambiguation:name]
+						 United States
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0.256565
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Accessory Transit Company
+				[2:relevance]
+					 0.336735
+				[2:type]
+					 Company
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Accessory Transit Company
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Accessory_Transit_Company
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 -0.306213
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Nicaragua
+				[3:relevance]
+					 0.305264
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[3:disambiguation:name]
+						 Nicaragua
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nicaragua
+				[4:count]
+					 5
+					[4:sentiment:score]
+						 -0.334149
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Patricio Rivas
+				[4:relevance]
+					 0.30054
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 Politician
+					[4:disambiguation:name]
+						 Patricio Rivas
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Patricio_Rivas
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.8162
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Central America
+				[5:relevance]
+					 0.253391
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 Region
+					[5:disambiguation:name]
+						 Central America
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Central_America
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 -0.270281
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Cornelius Vanderbilt
+				[6:relevance]
+					 0.228967
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Cornelius Vanderbilt II
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Cornelius_Vanderbilt_II
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 San Francisco
+				[7:relevance]
+					 0.227727
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[7:disambiguation:name]
+						 San Francisco
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.32534
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Sonora
+				[8:relevance]
+					 0.21829
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Commodore Hiram Paulding
+				[9:relevance]
+					 0.209072
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+						[0]
+							 MilitaryPerson
+					[9:disambiguation:name]
+						 Hiram Paulding
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hiram_Paulding
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 -0.334149
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 president
+				[10:relevance]
+					 0.194367
+				[10:type]
+					 JobTitle
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Vanderbilt
+				[11:relevance]
+					 0.18963
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 HistoricPlace
+						[3]
+							 CollegeUniversity
+						[4]
+							 University
+					[11:disambiguation:name]
+						 Vanderbilt University
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vanderbilt_University
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Mexico
+				[12:relevance]
+					 0.187677
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 FilmCinematographer
+						[3]
+							 Country
+					[12:disambiguation:name]
+						 Mexico
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mexico
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 New Orleans
+				[13:relevance]
+					 0.186062
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 City
+					[13:disambiguation:name]
+						 New Orleans
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Orleans
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Cornelius K. Garrison
+				[14:relevance]
+					 0.183872
+				[14:type]
+					 Facility
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Vanderbilt
+				[15:relevance]
+					 0.182715
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 HistoricPlace
+						[3]
+							 CollegeUniversity
+						[4]
+							 University
+					[15:disambiguation:name]
+						 Vanderbilt University
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vanderbilt_University
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.32534
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 California
+				[16:relevance]
+					 0.180308
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[16:disambiguation:name]
+						 California
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Nashville
+				[17:relevance]
+					 0.177564
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 City
+					[17:disambiguation:name]
+						 Nashville, Tennessee
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nashville,_Tennessee
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Baja California
+				[18:relevance]
+					 0.17434
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 City
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Honduras
+				[19:relevance]
+					 0.171084
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[19:disambiguation:name]
+						 Honduras
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Honduras
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Tenn.
+				[20:relevance]
+					 0.169392
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[20:disambiguation:name]
+						 Tennessee
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tennessee
+				[21:count]
+					 2
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Charles Morgan
+				[21:relevance]
+					 0.168234
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Charles Morgan (businessman)
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Charles_Morgan_(businessman)
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Greytown
+				[22:relevance]
+					 0.166961
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 City
+					[22:disambiguation:name]
+						 San Juan de Nicaragua
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Juan_de_Nicaragua
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.434633
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Granada
+				[23:relevance]
+					 0.166767
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 City
+					[23:disambiguation:name]
+						 Granada, Nicaragua
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Granada,_Nicaragua
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Europe
+				[24:relevance]
+					 0.165885
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 Continent
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 commander
+				[25:relevance]
+					 0.165498
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Central American coalition
+				[26:relevance]
+					 0.152451
+				[26:type]
+					 Organization
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 officer
+				[27:relevance]
+					 0.151862
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Panama
+				[28:relevance]
+					 0.13833
+				[28:type]
+					 Location
+					[28:disambiguation:subtype]
+						[0]
+							 City
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 2 years
+				[29:relevance]
+					 0.13833
+				[29:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Nicaragua
+				[0:relevance]
+					 0.989535
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Nicaragua
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.933637
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[2:text]
+					 Cornelius Vanderbilt
+				[2:relevance]
+					 0.804933
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Cornelius_Vanderbilt
+				[3:text]
+					 Latin America
+				[3:relevance]
+					 0.796634
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Latin_America
+				[4:text]
+					 Central America
+				[4:relevance]
+					 0.783078
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Central_America
+				[5:text]
+					 William Walker
+				[5:relevance]
+					 0.726895
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/William_Walker_(filibuster)
+				[6:text]
+					 Americas
+				[6:relevance]
+					 0.708849
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Americas
+				[7:text]
+					 Honduras
+				[7:relevance]
+					 0.707154
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Honduras
+		[:enriched_text:categories]
+				[0:score]
+					 0.947178
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.856591
+				[1:label]
+					 /law, govt and politics
+				[2:score]
+					 0.786163
+				[2:label]
+					 /law, govt and politics/politics
+		[:metadata:docid]
+			 K1631006805
+		[:metadata:concepts]
+			[0]
+				 Nicaragua
+			[1]
+				 United States
+			[2]
+				 Cornelius Vanderbilt
+			[3]
+				 Latin America
+			[4]
+				 Central America
+			[5]
+				 William Walker
+			[6]
+				 Americas
+			[7]
+				 Honduras
+			[8]
+				 Indigenous peoples of the Americas
+			[9]
+				 Caribbean
+		[:metadata:keywords]
+			[0]
+				 William Walker
+			[1]
+				 control of the Accessory Transit Company
+			[2]
+				 Cornelius Vanderbilt
+			[3]
+				 Cornelius K. Garrison
+			[4]
+				 United States adventurer
+			[5]
+				 small force
+			[6]
+				 armed intervention
+			[7]
+				 Nicaraguan political faction
+			[8]
+				 United States
+			[9]
+				 final attempt
+		[:metadata:entitites]
+			[0]
+				 United States
+			[1]
+				 William Walker
+			[2]
+				 Walker
+			[3]
+				 Nicaragua
+			[4]
+				 Sonora
+			[5]
+				 Accessory Transit Company
+			[6]
+				 Central America
+			[7]
+				 Mexico
+			[8]
+				 Patricio Rivas
+			[9]
+				 San Francisco
+		[:metadata:title]
+			 William Walker
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 GlobalIssues
+			[:metadata:gale:gale-fake-level]
+				 5
+			[:metadata:gale:gale-fake-waiting]
+				 43
+		[:extracted_metadata:sha1]
+			 e2eb9905742f3765b59881f8f8dd09abc7791603
+		[:extracted_metadata:filename]
+			 William Walker.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 d9c262dd-5379-4668-92fd-315154386bf7
+		[:result_metadata:confidence]
+			 0.18110211426271672
+		[:result_metadata:score]
+			 12.514193
+	[:text]
+		 no title
+
+McLeod, Martin (Aug. 30, 1813 - Nov. 20, 1860), fur-trader and Minnesota pioneer, was born in L'Orignal, near Montreal, the son of[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.402955
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 11
+					[0:sentiment:score]
+						 -0.357417
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Janet McLeod
+				[0:relevance]
+					 0.804735
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Minnesota
+				[1:relevance]
+					 0.414334
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[1:disambiguation:name]
+						 Minnesota
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Minnesota
+				[2:count]
+					 8
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Xenophon
+				[2:relevance]
+					 0.41278
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+						[0]
+							 Dedicatee
+						[1]
+							 MilitaryPerson
+					[2:disambiguation:name]
+						 Xenophon
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Xenophon
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 -0.304132
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Sioux
+				[3:relevance]
+					 0.28964
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.23791
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Traverse des Sioux
+				[4:relevance]
+					 0.282394
+				[4:type]
+					 Facility
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+					[4:disambiguation:name]
+						 Traverse des Sioux
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Traverse_des_Sioux
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 James Dickson
+				[5:relevance]
+					 0.277039
+				[5:type]
+					 Person
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Montreal
+				[6:relevance]
+					 0.253091
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Upper Sioux
+				[7:relevance]
+					 0.239974
+				[7:type]
+					 GeographicFeature
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 -0.316232
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Minnesota Valley
+				[8:relevance]
+					 0.223053
+				[8:type]
+					 GeographicFeature
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 -0.512222
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Lac qui Parle
+				[9:relevance]
+					 0.221282
+				[9:type]
+					 GeographicFeature
+					[9:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 Lake
+					[9:disambiguation:name]
+						 Lac qui Parle
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lac_qui_Parle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Red River
+				[10:relevance]
+					 0.215879
+				[10:type]
+					 GeographicFeature
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 River
+					[10:disambiguation:name]
+						 Red River of the North
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Red_River_of_the_North
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 L'Orignal
+				[11:relevance]
+					 0.214363
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+				[12:count]
+					 4
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 chairman
+				[12:relevance]
+					 0.212268
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0.300001
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Grace L. Nute
+				[13:relevance]
+					 0.201329
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Big Stone Lake
+				[14:relevance]
+					 0.199588
+				[14:type]
+					 GeographicFeature
+					[14:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+						[2]
+							 Lake
+					[14:disambiguation:name]
+						 Big Stone Lake
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Big_Stone_Lake
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Glencoe
+				[15:relevance]
+					 0.193575
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 John
+				[16:relevance]
+					 0.193382
+				[16:type]
+					 Person
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Mary E. Ortley
+				[17:relevance]
+					 0.192762
+				[17:type]
+					 Person
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Oak Grove
+				[18:relevance]
+					 0.192659
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 City
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 J. H. Stevens
+				[19:relevance]
+					 0.190569
+				[19:type]
+					 Person
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0.420358
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Martin
+				[20:relevance]
+					 0.189181
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Fort Snelling
+				[21:relevance]
+					 0.183085
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 president
+				[22:relevance]
+					 0.179711
+				[22:type]
+					 JobTitle
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 three years
+				[23:relevance]
+					 0.179711
+				[23:type]
+					 Quantity
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 two decades
+				[24:relevance]
+					 0.179711
+				[24:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Minnesota
+				[0:relevance]
+					 0.957956
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Minnesota
+				[1:text]
+					 Minnesota River
+				[1:relevance]
+					 0.930628
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Minnesota_River
+				[2:text]
+					 Fur trade
+				[2:relevance]
+					 0.877828
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Fur_trade
+				[3:text]
+					 Red River of the North
+				[3:relevance]
+					 0.637152
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Red_River_of_the_North
+				[4:text]
+					 South Dakota
+				[4:relevance]
+					 0.611535
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/South_Dakota
+				[5:text]
+					 Red River Trails
+				[5:relevance]
+					 0.597264
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Red_River_Trails
+				[6:text]
+					 Native Americans in the United States
+				[6:relevance]
+					 0.542281
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Native_Americans_in_the_United_States
+				[7:text]
+					 Big Stone Lake
+				[7:relevance]
+					 0.501489
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Big_Stone_Lake
+		[:enriched_text:categories]
+				[0:score]
+					 0.720338
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.69571
+				[1:label]
+					 /education/teaching and classroom resources/school supplies
+				[2:score]
+					 0.594311
+				[2:label]
+					 /law, govt and politics
+		[:metadata:docid]
+			 BT2310007777
+		[:metadata:concepts]
+			[0]
+				 Minnesota
+			[1]
+				 Minnesota River
+			[2]
+				 Fur trade
+			[3]
+				 Red River of the North
+			[4]
+				 South Dakota
+			[5]
+				 Red River Trails
+			[6]
+				 Native Americans in the United States
+			[7]
+				 Big Stone Lake
+			[8]
+				 Dakota War of 1862
+			[9]
+				 Minnesota Historical Society
+		[:metadata:keywords]
+			[0]
+				 execution of his plans
+			[1]
+				 Janet McLeod
+			[2]
+				 James Dickson
+			[3]
+				 superior education
+			[4]
+				 Minnesota pioneer
+			[5]
+				 great influence
+			[6]
+				 mysterious filibustering expedition
+			[7]
+				 severe blow
+			[8]
+				 collapse of this fantastic filibuster
+			[9]
+				 buoyant spirit of McLeod
+		[:metadata:entitites]
+			[0]
+				 McLeod
+			[1]
+				 Minnesota
+			[2]
+				 Janet McLeod
+			[3]
+				 James Dickson
+			[4]
+				 Liberating Army
+			[5]
+				 Montreal
+			[6]
+				 two decades
+			[7]
+				 Minnesota Valley
+			[8]
+				 territorial council
+			[9]
+				 Far West
+		[:metadata:title]
+			 Martin McLeod
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 13
+			[:metadata:gale:gale-fake-waiting]
+				 27
+		[:extracted_metadata:sha1]
+			 4d95dfa9f8fce7f6e58efdfef63e67ccf579b14c
+		[:extracted_metadata:filename]
+			 Martin McLeod.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 d1f31a89-f068-41c8-92a9-ec4750ff36b5
+		[:result_metadata:confidence]
+			 0.1714620989342335
+		[:result_metadata:score]
+			 12.3176365
+	[:text]
+		 no title
+
+Rand Paul, son of former U.S. congressman Ron Paul, is the junior US senator for Kentucky. Paul, an ophthalmologist, defeated the [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.571356
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 44
+					[0:sentiment:score]
+						 0.016132
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 congressman Ron Paul
+				[0:relevance]
+					 0.863452
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Physician
+						[1]
+							 Politician
+						[2]
+							 U.S.Congressperson
+						[3]
+							 MilitaryPerson
+						[4]
+							 FilmActor
+						[5]
+							 TVActor
+					[0:disambiguation:name]
+						 Ron Paul
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ron_Paul
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 0.538866
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.307641
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[1:disambiguation:name]
+						 United States
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Senate
+				[2:relevance]
+					 0.269944
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[2:disambiguation:name]
+						 United States Senate
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[3:count]
+					 7
+					[3:sentiment:score]
+						 0.538866
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Kentucky
+				[3:relevance]
+					 0.238407
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[3:disambiguation:name]
+						 Kentucky
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kentucky
+				[4:count]
+					 5
+					[4:sentiment:score]
+						 0.538866
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 senator
+				[4:relevance]
+					 0.220826
+				[4:type]
+					 JobTitle
+				[5:count]
+					 7
+					[5:sentiment:score]
+						 -0.496414
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 National Security Agency
+				[5:relevance]
+					 0.209659
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[5:disambiguation:name]
+						 National Security Agency
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Security_Agency
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 -0.259698
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Tea Party movement
+				[6:relevance]
+					 0.209023
+				[6:type]
+					 Organization
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 President Barack Obama
+				[7:relevance]
+					 0.18486
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[7:disambiguation:name]
+						 Barack Obama
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 president
+				[8:relevance]
+					 0.181808
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Trey Grayson
+				[9:relevance]
+					 0.149138
+				[9:type]
+					 Person
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Trey Grayson
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Trey_Grayson
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Washington
+				[10:relevance]
+					 0.146697
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[10:disambiguation:name]
+						 Washington, D.C.
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Southern Kentucky Lions Eye Clinic
+				[11:relevance]
+					 0.145757
+				[11:type]
+					 Organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 America
+				[12:relevance]
+					 0.135744
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 Continent
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 -0.311437
+					[13:sentiment:label]
+						 negative
+				[13:text]
+					 Rachel Maddow
+				[13:relevance]
+					 0.135493
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Journalist
+						[1]
+							 TVPersonality
+						[2]
+							 BroadcastArtist
+						[3]
+							 TVActor
+					[13:disambiguation:name]
+						 Rachel Maddow
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rachel_Maddow
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 -0.42188
+					[14:sentiment:label]
+						 negative
+				[14:text]
+					 NSA
+				[14:relevance]
+					 0.133986
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Duke University Medical Center
+				[15:relevance]
+					 0.132758
+				[15:type]
+					 Facility
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 Duke University Hospital
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Duke_University_Hospital
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.771793
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 Iowa
+				[16:relevance]
+					 0.131175
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[16:disambiguation:name]
+						 Iowa
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Iowa
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Texas
+				[17:relevance]
+					 0.13106
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[17:disambiguation:name]
+						 Texas
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Congress
+				[18:relevance]
+					 0.130961
+				[18:type]
+					 Organization
+					[18:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[18:disambiguation:name]
+						 United States Congress
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[19:count]
+					 3
+					[19:sentiment:score]
+						 0.429255
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 Jim Bunning
+				[19:relevance]
+					 0.130915
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Athlete
+						[1]
+							 Politician
+						[2]
+							 HallOfFameInductee
+						[3]
+							 Senator
+						[4]
+							 U.S.Congressperson
+					[19:disambiguation:name]
+						 Jim Bunning
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jim_Bunning
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 attorney
+				[20:relevance]
+					 0.128708
+				[20:type]
+					 JobTitle
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Georgia Baptist Medical Center
+				[21:relevance]
+					 0.128464
+				[21:type]
+					 Facility
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Atlanta Medical Center
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Atlanta_Medical_Center
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 -0.365109
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 John O. Brennan
+				[22:relevance]
+					 0.127786
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+					[22:disambiguation:name]
+						 John O. Brennan
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_O._Brennan
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.452989
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Mitch McConnell
+				[23:relevance]
+					 0.127628
+				[23:type]
+					 Person
+					[23:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Senator
+						[2]
+							 U.S.Congressperson
+					[23:disambiguation:name]
+						 Mitch McConnell
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mitch_McConnell
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 -0.771793
+					[24:sentiment:label]
+						 negative
+				[24:text]
+					 federal government
+				[24:relevance]
+					 0.127588
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+					[24:disambiguation:name]
+						 Federal government of the United States
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Pittsburgh
+				[25:relevance]
+					 0.126322
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 City
+					[25:disambiguation:name]
+						 Pittsburgh
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pittsburgh
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Pennsylvania
+				[26:relevance]
+					 0.125489
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 CityTown
+						[1]
+							 StateOrCounty
+					[26:disambiguation:name]
+						 Swatara Township, Dauphin County, Pennsylvania
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Swatara_Township,_Dauphin_County,_Pennsylvania
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Baylor University
+				[27:relevance]
+					 0.125251
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+						[0]
+							 University
+					[27:disambiguation:name]
+						 Baylor University
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Baylor_University
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 MSNBC
+				[28:relevance]
+					 0.124446
+				[28:type]
+					 Company
+					[28:disambiguation:subtype]
+						[0]
+							 Broadcast
+						[1]
+							 TVNetwork
+					[28:disambiguation:name]
+						 MSNBC
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/MSNBC
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Lake Jackson
+				[29:relevance]
+					 0.12444
+				[29:type]
+					 GeographicFeature
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 general surgery internship
+				[30:relevance]
+					 0.123763
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Alaska
+				[31:relevance]
+					 0.122737
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[31:disambiguation:name]
+						 Alaska
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alaska
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Duke University School of Medicine
+				[32:relevance]
+					 0.122398
+				[32:type]
+					 Organization
+					[32:disambiguation:subtype]
+					[32:disambiguation:name]
+						 Duke University School of Medicine
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Duke_University_School_of_Medicine
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Vladimir Putin
+				[33:relevance]
+					 0.122376
+				[33:type]
+					 Person
+					[33:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MartialArtist
+						[2]
+							 PoliticalAppointer
+						[3]
+							 TVActor
+					[33:disambiguation:name]
+						 Vladimir Putin
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vladimir_Putin
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Sarah Palin
+				[34:relevance]
+					 0.122324
+				[34:type]
+					 Person
+					[34:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Celebrity
+						[2]
+							 Governor
+						[3]
+							 TVActor
+					[34:disambiguation:name]
+						 Sarah Palin
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sarah_Palin
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 Lions Clubs International
+				[35:relevance]
+					 0.122085
+				[35:type]
+					 Organization
+					[35:disambiguation:subtype]
+					[35:disambiguation:name]
+						 Lions Clubs International
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lions_Clubs_International
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 CIA
+				[36:relevance]
+					 0.121611
+				[36:type]
+					 Organization
+					[36:disambiguation:subtype]
+					[36:disambiguation:name]
+						 Central Intelligence Agency
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Central_Intelligence_Agency
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Pauls
+				[37:relevance]
+					 0.121292
+				[37:type]
+					 Person
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Kelley Ashby
+				[38:relevance]
+					 0.120991
+				[38:type]
+					 Person
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 -0.42188
+					[39:sentiment:label]
+						 negative
+				[39:text]
+					 BP
+				[39:relevance]
+					 0.120461
+				[39:type]
+					 Company
+					[39:disambiguation:subtype]
+						[0]
+							 Brand
+						[1]
+							 AwardWinner
+						[2]
+							 ProjectParticipant
+					[39:disambiguation:name]
+						 BP
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/BP
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 Gulf of Mexico
+				[40:relevance]
+					 0.120183
+				[40:type]
+					 GeographicFeature
+					[40:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 BodyOfWater
+					[40:disambiguation:name]
+						 Gulf of Mexico
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gulf_of_Mexico
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 Rand
+				[41:relevance]
+					 0.118817
+				[41:type]
+					 Person
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 -0.646992
+					[42:sentiment:label]
+						 negative
+				[42:text]
+					 White House
+				[42:relevance]
+					 0.118264
+				[42:type]
+					 Facility
+					[42:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 House
+						[2]
+							 TouristAttraction
+						[3]
+							 Building
+					[42:disambiguation:name]
+						 White House
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/White_House
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Ukraine
+				[43:relevance]
+					 0.116968
+				[43:type]
+					 Location
+					[43:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 Cuisine
+						[3]
+							 ProjectParticipant
+						[4]
+							 Country
+					[43:disambiguation:name]
+						 Ukraine
+					[43:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ukraine
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 Israel
+				[44:relevance]
+					 0.116541
+				[44:type]
+					 Location
+					[44:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 FilmArtDirector
+						[2]
+							 Country
+					[44:disambiguation:name]
+						 Israel
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Israel
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 Victim Compensation Fund
+				[45:relevance]
+					 0.116356
+				[45:type]
+					 Organization
+				[46:count]
+					 1
+					[46:sentiment:score]
+						 0
+					[46:sentiment:label]
+						 neutral
+				[46:text]
+					 Atlanta
+				[46:relevance]
+					 0.114363
+				[46:type]
+					 Location
+					[46:disambiguation:subtype]
+						[0]
+							 City
+		[:enriched_text:concepts]
+				[0:text]
+					 United States Senate
+				[0:relevance]
+					 0.973184
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[1:text]
+					 Democratic Party
+				[1:relevance]
+					 0.727114
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[2:text]
+					 United States
+				[2:relevance]
+					 0.664827
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[3:text]
+					 Barack Obama
+				[3:relevance]
+					 0.661718
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[4:text]
+					 Ron Paul
+				[4:relevance]
+					 0.571999
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Ron_Paul
+				[5:text]
+					 United States Congress
+				[5:relevance]
+					 0.560603
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Congress
+				[6:text]
+					 Republican Party
+				[6:relevance]
+					 0.539655
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Republican_Party_(United_States)
+				[7:text]
+					 United States presidential election, 2008
+				[7:relevance]
+					 0.470312
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_presidential_election,_2008
+		[:enriched_text:categories]
+				[0:score]
+					 0.979076
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.933392
+				[1:label]
+					 /law, govt and politics/politics/elections/presidential elections
+				[2:score]
+					 0.735331
+				[2:label]
+					 /law, govt and politics/armed forces
+		[:metadata:docid]
+			 K1650007058
+		[:metadata:concepts]
+			[0]
+				 United States Senate
+			[1]
+				 Democratic Party
+			[2]
+				 United States
+			[3]
+				 Barack Obama
+			[4]
+				 Ron Paul
+			[5]
+				 United States Congress
+			[6]
+				 Republican Party
+			[7]
+				 United States presidential election, 2008
+			[8]
+				 George W. Bush
+			[9]
+				 Vladimir Putin
+		[:metadata:keywords]
+			[0]
+				 Rand Paul
+			[1]
+				 Republican nomination
+			[2]
+				 Tea Party movement
+			[3]
+				 Randal Howard Paul
+			[4]
+				 much media attention
+			[5]
+				 Republican presidential nomination
+			[6]
+				 president of the United States
+			[7]
+				 conservative-libertarian coalition
+			[8]
+				 Carol Paul
+			[9]
+				 Senate floor
+		[:metadata:entitites]
+			[0]
+				 Paul
+			[1]
+				 Kentucky
+			[2]
+				 United States
+			[3]
+				 Senate
+			[4]
+				 Rand Paul
+			[5]
+				 Ron Paul
+			[6]
+				 Randal Howard
+			[7]
+				 Bunning
+			[8]
+				 Georgia Baptist Medical Center
+			[9]
+				 Kelley Ashby
+		[:metadata:title]
+			 Rand Paul
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 4
+			[:metadata:gale:gale-fake-waiting]
+				 21
+		[:extracted_metadata:sha1]
+			 e63bb6a41a54046362c6088901276a8167826a68
+		[:extracted_metadata:filename]
+			 Rand Paul.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 042ecd49-098e-4c33-be19-12696bead8da
+		[:result_metadata:confidence]
+			 0.16079278667739186
+		[:result_metadata:score]
+			 12.100093
+	[:text]
+		 no title
+
+When Harry Reid was chosen U.S. Senate majority leader, the Democrats had just come off reclaiming both houses of Congress in a mi[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.575821
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 75
+					[0:sentiment:score]
+						 -0.227728
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Harry Reid
+				[0:relevance]
+					 0.86213
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+						[2]
+							 U.S.Congressperson
+						[3]
+							 TVActor
+					[0:disambiguation:name]
+						 Harry Reid
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harry_Reid
+				[1:count]
+					 27
+					[1:sentiment:score]
+						 -0.429095
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 U.S. Senate
+				[1:relevance]
+					 0.43418
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[1:disambiguation:name]
+						 United States Senate
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[2:count]
+					 11
+					[2:sentiment:score]
+						 -0.285435
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Democrats
+				[2:relevance]
+					 0.277401
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Democrats in Norway
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Democrats_in_Norway
+				[3:count]
+					 9
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Nevada
+				[3:relevance]
+					 0.220832
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[3:disambiguation:name]
+						 Nevada
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nevada
+				[4:count]
+					 11
+					[4:sentiment:score]
+						 -0.496386
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 President George W. Bush
+				[4:relevance]
+					 0.191191
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 MusicalArtist
+						[2]
+							 Politician
+						[3]
+							 President
+						[4]
+							 Appointer
+						[5]
+							 AwardNominee
+						[6]
+							 AwardWinner
+						[7]
+							 ChivalricOrderMember
+						[8]
+							 CompanyFounder
+						[9]
+							 MilitaryPerson
+						[10]
+							 PoliticalAppointer
+						[11]
+							 USPresident
+						[12]
+							 FilmActor
+						[13]
+							 TVActor
+					[4:disambiguation:name]
+						 George W. Bush
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_W._Bush
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 -0.463673
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 President Barack Obama
+				[5:relevance]
+					 0.178601
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[5:disambiguation:name]
+						 Barack Obama
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[6:count]
+					 4
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Mike O'Callaghan
+				[6:relevance]
+					 0.149833
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 Politician
+					[6:disambiguation:name]
+						 Mike O'Callaghan
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mike_O'Callaghan
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.325953
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Congress
+				[7:relevance]
+					 0.144561
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[7:disambiguation:name]
+						 United States Congress
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 -0.089281
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Iraq
+				[8:relevance]
+					 0.141568
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 Country
+					[8:disambiguation:name]
+						 Iraq under U.S. Military Occupation
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Iraq_under_U.S._Military_Occupation
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 -0.364292
+					[9:sentiment:label]
+						 negative
+				[9:text]
+					 Las Vegas
+				[9:relevance]
+					 0.128371
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+					[9:disambiguation:name]
+						 Las Vegas
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Las_Vegas
+				[10:count]
+					 7
+					[10:sentiment:score]
+						 -0.390676
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 president
+				[10:relevance]
+					 0.123939
+				[10:type]
+					 JobTitle
+				[11:count]
+					 4
+					[11:sentiment:score]
+						 0.404729
+					[11:sentiment:label]
+						 positive
+				[11:text]
+					 Supreme Court
+				[11:relevance]
+					 0.120791
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[11:disambiguation:name]
+						 Supreme Court of the United States
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 -0.604012
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 Henderson
+				[12:relevance]
+					 0.120405
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Nevada Gaming Commission
+				[13:relevance]
+					 0.116666
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 Nevada Gaming Commission
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nevada_Gaming_Commission
+				[14:count]
+					 5
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 John Roberts
+				[14:relevance]
+					 0.115893
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 John Roberts
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_Roberts
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 -0.253155
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 Washington
+				[15:relevance]
+					 0.114327
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[15:disambiguation:name]
+						 Washington, D.C.
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 -0.463673
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 District of Columbia
+				[16:relevance]
+					 0.113291
+				[16:type]
+					 Facility
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 officer
+				[17:relevance]
+					 0.110016
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Republican Party
+				[18:relevance]
+					 0.10979
+				[18:type]
+					 Organization
+					[18:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[18:disambiguation:name]
+						 Republican Party (United States)
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Republican_Party_(United_States)
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 North Las Vegas
+				[19:relevance]
+					 0.107758
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 City
+					[19:disambiguation:name]
+						 North Las Vegas, Nevada
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_Las_Vegas,_Nevada
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Utah
+				[20:relevance]
+					 0.105183
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[20:disambiguation:name]
+						 Utah
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Utah
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 -0.536772
+					[21:sentiment:label]
+						 negative
+				[21:text]
+					 Searchlight
+				[21:relevance]
+					 0.105045
+				[21:type]
+					 Person
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 U.S.
+				[22:relevance]
+					 0.104032
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[22:disambiguation:name]
+						 United States
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Searchlight
+				[23:relevance]
+					 0.103712
+				[23:type]
+					 Company
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 George Washington University
+				[24:relevance]
+					 0.103241
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+					[24:disambiguation:name]
+						 George Washington University
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_Washington_University
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Henderson
+				[25:relevance]
+					 0.102664
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 City
+				[26:count]
+					 2
+					[26:sentiment:score]
+						 -0.376223
+					[26:sentiment:label]
+						 negative
+				[26:text]
+					 FBI
+				[26:relevance]
+					 0.102148
+				[26:type]
+					 Organization
+					[26:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+						[1]
+							 GovernmentalBody
+					[26:disambiguation:name]
+						 Federal Bureau of Investigation
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_Bureau_of_Investigation
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Searchlight
+				[27:relevance]
+					 0.101074
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 City
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0.31725
+					[28:sentiment:label]
+						 positive
+				[28:text]
+					 Harry Sr.
+				[28:relevance]
+					 0.100788
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 senator Chuck Grassley
+				[29:relevance]
+					 0.100752
+				[29:type]
+					 Person
+					[29:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+						[2]
+							 Senator
+						[3]
+							 U.S.Congressperson
+					[29:disambiguation:name]
+						 Chuck Grassley
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chuck_Grassley
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 -0.656007
+					[30:sentiment:label]
+						 negative
+				[30:text]
+					 Vice President
+				[30:relevance]
+					 0.100732
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Joe Klein
+				[31:relevance]
+					 0.10064
+				[31:type]
+					 Person
+					[31:disambiguation:subtype]
+						[0]
+							 TVActor
+					[31:disambiguation:name]
+						 Joe Klein
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Joe_Klein
+				[32:count]
+					 2
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Republican National Committee
+				[32:relevance]
+					 0.099157
+				[32:type]
+					 Organization
+					[32:disambiguation:subtype]
+					[32:disambiguation:name]
+						 Republican National Committee
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Republican_National_Committee
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 James Jeffords
+				[33:relevance]
+					 0.098507
+				[33:type]
+					 Person
+					[33:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 MilitaryPerson
+						[2]
+							 Senator
+						[3]
+							 U.S.Congressperson
+					[33:disambiguation:name]
+						 Jim Jeffords
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jim_Jeffords
+				[34:count]
+					 3
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Walsh
+				[34:relevance]
+					 0.098455
+				[34:type]
+					 Person
+				[35:count]
+					 5
+					[35:sentiment:score]
+						 -0.376223
+					[35:sentiment:label]
+						 negative
+				[35:text]
+					 Jack Gordon
+				[35:relevance]
+					 0.097724
+				[35:type]
+					 Person
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 school teacher
+				[36:relevance]
+					 0.096415
+				[36:type]
+					 JobTitle
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Antonin Scalia
+				[37:relevance]
+					 0.09536
+				[37:type]
+					 Person
+					[37:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 Judge
+					[37:disambiguation:name]
+						 Antonin Scalia
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Antonin_Scalia
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Dick Cheney
+				[38:relevance]
+					 0.095214
+				[38:type]
+					 Person
+					[38:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 AwardWinner
+						[2]
+							 CompanyFounder
+						[3]
+							 OfficeHolder
+						[4]
+							 U.S.Congressperson
+						[5]
+							 USVicePresident
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[38:disambiguation:name]
+						 Dick Cheney
+					[38:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dick_Cheney
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Federal Reserve
+				[39:relevance]
+					 0.095186
+				[39:type]
+					 Organization
+					[39:disambiguation:subtype]
+					[39:disambiguation:name]
+						 Federal Reserve System
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_Reserve_System
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 -0.475471
+					[40:sentiment:label]
+						 negative
+				[40:text]
+					 Yucca Mountain
+				[40:relevance]
+					 0.095123
+				[40:type]
+					 GeographicFeature
+					[40:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Mountain
+					[40:disambiguation:name]
+						 Yucca Mountain
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yucca_Mountain
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 Inez
+				[41:relevance]
+					 0.095109
+				[41:type]
+					 Person
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 gold miner
+				[42:relevance]
+					 0.095046
+				[42:type]
+					 JobTitle
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 attorney
+				[43:relevance]
+					 0.094983
+				[43:type]
+					 JobTitle
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 Alan Greenspan
+				[44:relevance]
+					 0.094757
+				[44:type]
+					 Person
+					[44:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 AwardWinner
+						[3]
+							 TVActor
+					[44:disambiguation:name]
+						 Alan Greenspan
+					[44:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Alan_Greenspan
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 Dan Balz
+				[45:relevance]
+					 0.094651
+				[45:type]
+					 Person
+					[45:disambiguation:subtype]
+					[45:disambiguation:name]
+						 Dan Balz
+					[45:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dan_Balz
+		[:enriched_text:concepts]
+				[0:text]
+					 Democratic Party
+				[0:relevance]
+					 0.982983
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[1:text]
+					 George W. Bush
+				[1:relevance]
+					 0.950671
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/George_W._Bush
+				[2:text]
+					 United States Senate
+				[2:relevance]
+					 0.881501
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[3:text]
+					 Supreme Court of the United States
+				[3:relevance]
+					 0.797908
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[4:text]
+					 Harry Reid
+				[4:relevance]
+					 0.773642
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Harry_Reid
+				[5:text]
+					 Party leaders of the United States Senate
+				[5:relevance]
+					 0.739942
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate
+				[6:text]
+					 Barack Obama
+				[6:relevance]
+					 0.724884
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[7:text]
+					 President of the United States
+				[7:relevance]
+					 0.671514
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+		[:enriched_text:categories]
+				[0:score]
+					 0.994277
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.87712
+				[1:label]
+					 /law, govt and politics/politics/elections/presidential elections
+				[2:score]
+					 0.735909
+				[2:label]
+					 /society/unrest and war
+		[:metadata:docid]
+			 K1618004239
+		[:metadata:concepts]
+			[0]
+				 Democratic Party
+			[1]
+				 George W. Bush
+			[2]
+				 United States Senate
+			[3]
+				 Supreme Court of the United States
+			[4]
+				 Harry Reid
+			[5]
+				 Party leaders of the United States Senate
+			[6]
+				 Barack Obama
+			[7]
+				 President of the United States
+			[8]
+				 Republican Party
+			[9]
+				 John McCain
+		[:metadata:keywords]
+			[0]
+				 Harry Reid
+			[1]
+				 U.S. Senate majority leader
+			[2]
+				 Reid
+			[3]
+				 Reid's home
+			[4]
+				 much Senate business
+			[5]
+				 majority leader
+			[6]
+				 Jack Gordon
+			[7]
+				 young couple
+			[8]
+				 Mike O'Callaghan
+			[9]
+				 Senate minority leader
+		[:metadata:entitites]
+			[0]
+				 Reid
+			[1]
+				 Senate
+			[2]
+				 Nevada
+			[3]
+				 Harry Reid
+			[4]
+				 Bush
+			[5]
+				 Henderson
+			[6]
+				 Gordon
+			[7]
+				 Harry Sr.
+			[8]
+				 Mike O'Callaghan
+			[9]
+				 Callaghan
+		[:metadata:title]
+			 Harry Reid
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 67
+			[:metadata:gale:gale-fake-waiting]
+				 84
+		[:extracted_metadata:sha1]
+			 e7d808ea9c7d3e19fde6315404d293b88fca09b6
+		[:extracted_metadata:filename]
+			 Harry Reid.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 f436de40-ed6f-4cbb-9b3e-6b4572a93431
+		[:result_metadata:confidence]
+			 0.16018605716384912
+		[:result_metadata:score]
+			 12.087722
+	[:text]
+		 no title
+
+The New Deal marked the beginning of a shift in the federal government's recognition of civil rights as an emerging national probl[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.592027
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 9
+					[0:sentiment:score]
+						 -0.68892
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Claude Neal
+				[0:relevance]
+					 0.797381
+				[0:type]
+					 Person
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 -0.451894
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Senate
+				[1:relevance]
+					 0.743648
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[1:disambiguation:name]
+						 United States Senate
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 NAACP
+				[2:relevance]
+					 0.659377
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 LiterarySchoolOrMovement
+					[2:disambiguation:name]
+						 National Association for the Advancement of Colored People
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Association_for_the_Advancement_of_Colored_People[...]
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Walter White
+				[3:relevance]
+					 0.495406
+				[3:type]
+					 Person
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 -0.487966
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Florida
+				[4:relevance]
+					 0.471061
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 Florida
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Edward P. Costigan
+				[5:relevance]
+					 0.453503
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 U.S.Congressperson
+					[5:disambiguation:name]
+						 Edward P. Costigan
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edward_P._Costigan
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 -0.587373
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 president
+				[6:relevance]
+					 0.440404
+				[6:type]
+					 JobTitle
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.485878
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Congress
+				[7:relevance]
+					 0.439263
+				[7:type]
+					 Organization
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 attorney
+				[8:relevance]
+					 0.38972
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Jackson County
+				[9:relevance]
+					 0.380194
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 USCounty
+						[2]
+							 StateOrCounty
+					[9:disambiguation:name]
+						 Jackson County, Florida
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jackson_County,_Florida
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 North Carolina
+				[10:relevance]
+					 0.375199
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[10:disambiguation:name]
+						 North Carolina
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_Carolina
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Senate Judiciary Committee
+				[11:relevance]
+					 0.372499
+				[11:type]
+					 Organization
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 senator
+				[12:relevance]
+					 0.360552
+				[12:type]
+					 JobTitle
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Robert Wagner
+				[13:relevance]
+					 0.358595
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+						[2]
+							 U.S.Congressperson
+					[13:disambiguation:name]
+						 Robert F. Wagner
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_F._Wagner
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Supreme Court
+				[14:relevance]
+					 0.339551
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Works Progress Administration
+				[15:relevance]
+					 0.339131
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 MusicalArtist
+					[15:disambiguation:name]
+						 Works Progress Administration (musical group)
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Works_Progress_Administration_(musical_group)
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 President Franklin D. Roosevelt
+				[16:relevance]
+					 0.338415
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+					[16:disambiguation:name]
+						 Franklin D. Roosevelt
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Franklin_D._Roosevelt
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 -0.260998
+					[17:sentiment:label]
+						 negative
+				[17:text]
+					 Associated Press
+				[17:relevance]
+					 0.335836
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 AwardWinner
+					[17:disambiguation:name]
+						 Associated Press
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Associated_Press
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 -0.038009
+					[18:sentiment:label]
+						 negative
+				[18:text]
+					 Homer Cummings
+				[18:relevance]
+					 0.331635
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+					[18:disambiguation:name]
+						 Homer Stille Cummings
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Homer_Stille_Cummings
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 -0.324041
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 Congressman Leonidas Dyer
+				[19:relevance]
+					 0.326784
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 U.S.Congressperson
+					[19:disambiguation:name]
+						 Leonidas C. Dyer
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Leonidas_C._Dyer
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Rep. George White
+				[20:relevance]
+					 0.324542
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Commission On Interracial Cooperation
+				[21:relevance]
+					 0.320988
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Commission on Interracial Cooperation
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commission_on_Interracial_Cooperation
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 James Rolph
+				[22:relevance]
+					 0.306579
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Governor
+					[22:disambiguation:name]
+						 James Rolph
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Rolph
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 California
+				[23:relevance]
+					 0.304344
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[23:disambiguation:name]
+						 California
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 South Carolina
+				[24:relevance]
+					 0.299571
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[24:disambiguation:name]
+						 South Carolina
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/South_Carolina
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Josiah Bailey
+				[25:relevance]
+					 0.298217
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 U.S.Congressperson
+					[25:disambiguation:name]
+						 Josiah Bailey
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Josiah_Bailey
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 David Sholtz
+				[26:relevance]
+					 0.296273
+				[26:type]
+					 Person
+					[26:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Governor
+					[26:disambiguation:name]
+						 David Sholtz
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Sholtz
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 New York
+				[27:relevance]
+					 0.286362
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 City
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 -0.324042
+					[28:sentiment:label]
+						 negative
+				[28:text]
+					 lynch
+				[28:relevance]
+					 0.278292
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Kidnapping
+				[29:relevance]
+					 0.277272
+				[29:type]
+					 Crime
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 secretary
+				[30:relevance]
+					 0.276536
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Colorado
+				[31:relevance]
+					 0.271962
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 senator Ellison
+				[32:relevance]
+					 0.267188
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Southern Women
+				[33:relevance]
+					 0.256326
+				[33:type]
+					 Organization
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 -0.533634
+					[34:sentiment:label]
+						 negative
+				[34:text]
+					 Smith
+				[34:relevance]
+					 0.247892
+				[34:type]
+					 Person
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 two hours
+				[35:relevance]
+					 0.247892
+				[35:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 United States Congress
+				[0:relevance]
+					 0.953192
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Congress
+				[1:text]
+					 United States Senate
+				[1:relevance]
+					 0.752921
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[2:text]
+					 Federal government of the United States
+				[2:relevance]
+					 0.646828
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[3:text]
+					 Southern United States
+				[3:relevance]
+					 0.580265
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Southern_United_States
+				[4:text]
+					 Lynching
+				[4:relevance]
+					 0.57196
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Lynching
+				[5:text]
+					 Franklin D. Roosevelt
+				[5:relevance]
+					 0.497334
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Franklin_D._Roosevelt
+				[6:text]
+					 United States
+				[6:relevance]
+					 0.484046
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[7:text]
+					 Senate
+				[7:relevance]
+					 0.48048
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Senate
+		[:enriched_text:categories]
+				[0:score]
+					 0.988676
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.893975
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.806418
+				[2:label]
+					 /law, govt and politics/government/legislative
+		[:metadata:docid]
+			 BT2104240094
+		[:metadata:concepts]
+			[0]
+				 United States Congress
+			[1]
+				 United States Senate
+			[2]
+				 Federal government of the United States
+			[3]
+				 Southern United States
+			[4]
+				 Lynching
+			[5]
+				 Franklin D. Roosevelt
+			[6]
+				 United States
+			[7]
+				 Senate
+			[8]
+				 President of the United States
+			[9]
+				 Supreme Court of the United States
+		[:metadata:keywords]
+			[0]
+				 Senators Edward P. Costigan of Colorado
+			[1]
+				 Rep. George White of North Carolina
+			[2]
+				 attorney general
+			[3]
+				 leadership of its national secretary Walter White
+			[4]
+				 southern state
+			[5]
+				 passage of an antilynching bill
+			[6]
+				 federal government's recognition
+			[7]
+				 Costigan-Wagner bill
+			[8]
+				 Homer Cummings
+			[9]
+				 local authorities
+		[:metadata:entitites]
+			[0]
+				 Neal
+			[1]
+				 NAACP
+			[2]
+				 Costigan
+			[3]
+				 Senate
+			[4]
+				 Rep. George White
+			[5]
+				 Commission On Interracial Cooperation and the Southern Women for the Prevention of Lynching[...]
+			[6]
+				 Leonidas Dyer
+			[7]
+				 Walter White
+			[8]
+				 Edward P. Costigan
+			[9]
+				 Florida
+		[:metadata:title]
+			 Anti-Lynching Bills in the 1930s
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 20
+			[:metadata:gale:gale-fake-waiting]
+				 24
+		[:extracted_metadata:sha1]
+			 58dc5de6193a1613312ab29aab22042955519e42
+		[:extracted_metadata:filename]
+			 Anti-Lynching Bills in the 1930s.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 429dcec0-d068-4e02-a584-66d186bf1a7c
+		[:result_metadata:confidence]
+			 0.16018605716384912
+		[:result_metadata:score]
+			 12.087722
+	[:text]
+		 no title
+
+The New Deal marked the beginning of a shift in the federal government's recognition of civil rights as an emerging national probl[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.586892
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 9
+					[0:sentiment:score]
+						 -0.68892
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Claude Neal
+				[0:relevance]
+					 0.797378
+				[0:type]
+					 Person
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 -0.451894
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Senate
+				[1:relevance]
+					 0.743643
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[1:disambiguation:name]
+						 United States Senate
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 NAACP
+				[2:relevance]
+					 0.65938
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 LiterarySchoolOrMovement
+					[2:disambiguation:name]
+						 National Association for the Advancement of Colored People
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Association_for_the_Advancement_of_Colored_People[...]
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Walter White
+				[3:relevance]
+					 0.495414
+				[3:type]
+					 Person
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 -0.487966
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Florida
+				[4:relevance]
+					 0.471047
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 Florida
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Florida
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Edward P. Costigan
+				[5:relevance]
+					 0.453513
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 U.S.Congressperson
+					[5:disambiguation:name]
+						 Edward P. Costigan
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edward_P._Costigan
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 -0.587373
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 president
+				[6:relevance]
+					 0.440417
+				[6:type]
+					 JobTitle
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 -0.485878
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 Congress
+				[7:relevance]
+					 0.439276
+				[7:type]
+					 Organization
+				[8:count]
+					 4
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 attorney
+				[8:relevance]
+					 0.389746
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Jackson County
+				[9:relevance]
+					 0.380165
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 USCounty
+						[2]
+							 StateOrCounty
+					[9:disambiguation:name]
+						 Jackson County, Florida
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jackson_County,_Florida
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 North Carolina
+				[10:relevance]
+					 0.375202
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[10:disambiguation:name]
+						 North Carolina
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_Carolina
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Senate Judiciary Committee
+				[11:relevance]
+					 0.372541
+				[11:type]
+					 Organization
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 senator
+				[12:relevance]
+					 0.360549
+				[12:type]
+					 JobTitle
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Robert Wagner
+				[13:relevance]
+					 0.358606
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+						[2]
+							 U.S.Congressperson
+					[13:disambiguation:name]
+						 Robert F. Wagner
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robert_F._Wagner
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Supreme Court
+				[14:relevance]
+					 0.339545
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Works Progress Administration
+				[15:relevance]
+					 0.339134
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 MusicalArtist
+					[15:disambiguation:name]
+						 Works Progress Administration (musical group)
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Works_Progress_Administration_(musical_group)
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 President Franklin D. Roosevelt
+				[16:relevance]
+					 0.338396
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+					[16:disambiguation:name]
+						 Franklin D. Roosevelt
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Franklin_D._Roosevelt
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 -0.260998
+					[17:sentiment:label]
+						 negative
+				[17:text]
+					 Associated Press
+				[17:relevance]
+					 0.335807
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 AwardWinner
+					[17:disambiguation:name]
+						 Associated Press
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Associated_Press
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 -0.038009
+					[18:sentiment:label]
+						 negative
+				[18:text]
+					 Homer Cummings
+				[18:relevance]
+					 0.331665
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+					[18:disambiguation:name]
+						 Homer Stille Cummings
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Homer_Stille_Cummings
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 -0.324041
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 Congressman Leonidas Dyer
+				[19:relevance]
+					 0.326774
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 U.S.Congressperson
+					[19:disambiguation:name]
+						 Leonidas C. Dyer
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Leonidas_C._Dyer
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Rep. George White
+				[20:relevance]
+					 0.324534
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Commission On Interracial Cooperation
+				[21:relevance]
+					 0.320979
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Commission on Interracial Cooperation
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Commission_on_Interracial_Cooperation
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 James Rolph
+				[22:relevance]
+					 0.306587
+				[22:type]
+					 Person
+					[22:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Governor
+					[22:disambiguation:name]
+						 James Rolph
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Rolph
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 California
+				[23:relevance]
+					 0.304352
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[23:disambiguation:name]
+						 California
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 South Carolina
+				[24:relevance]
+					 0.299585
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[24:disambiguation:name]
+						 South Carolina
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/South_Carolina
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Josiah Bailey
+				[25:relevance]
+					 0.298229
+				[25:type]
+					 Person
+					[25:disambiguation:subtype]
+						[0]
+							 U.S.Congressperson
+					[25:disambiguation:name]
+						 Josiah Bailey
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Josiah_Bailey
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 David Sholtz
+				[26:relevance]
+					 0.296242
+				[26:type]
+					 Person
+					[26:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Governor
+					[26:disambiguation:name]
+						 David Sholtz
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Sholtz
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 New York
+				[27:relevance]
+					 0.286348
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 City
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 -0.324042
+					[28:sentiment:label]
+						 negative
+				[28:text]
+					 lynch
+				[28:relevance]
+					 0.278282
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Kidnapping
+				[29:relevance]
+					 0.2773
+				[29:type]
+					 Crime
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 secretary
+				[30:relevance]
+					 0.276523
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Colorado
+				[31:relevance]
+					 0.271949
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 senator Ellison
+				[32:relevance]
+					 0.267202
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Southern Women
+				[33:relevance]
+					 0.256317
+				[33:type]
+					 Organization
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 -0.533634
+					[34:sentiment:label]
+						 negative
+				[34:text]
+					 Smith
+				[34:relevance]
+					 0.247905
+				[34:type]
+					 Person
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 two hours
+				[35:relevance]
+					 0.247905
+				[35:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 United States Congress
+				[0:relevance]
+					 0.953192
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Congress
+				[1:text]
+					 United States Senate
+				[1:relevance]
+					 0.752921
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Senate
+				[2:text]
+					 Federal government of the United States
+				[2:relevance]
+					 0.646828
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[3:text]
+					 Southern United States
+				[3:relevance]
+					 0.580265
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Southern_United_States
+				[4:text]
+					 Lynching
+				[4:relevance]
+					 0.57196
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Lynching
+				[5:text]
+					 Franklin D. Roosevelt
+				[5:relevance]
+					 0.497334
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Franklin_D._Roosevelt
+				[6:text]
+					 United States
+				[6:relevance]
+					 0.484046
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[7:text]
+					 Senate
+				[7:relevance]
+					 0.48048
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Senate
+		[:enriched_text:categories]
+				[0:score]
+					 0.989075
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.892471
+				[1:label]
+					 /society/unrest and war
+				[2:score]
+					 0.809064
+				[2:label]
+					 /law, govt and politics/government/legislative
+		[:metadata:docid]
+			 EJ2104240094
+		[:metadata:concepts]
+			[0]
+				 United States Congress
+			[1]
+				 United States Senate
+			[2]
+				 Federal government of the United States
+			[3]
+				 Southern United States
+			[4]
+				 Lynching
+			[5]
+				 Franklin D. Roosevelt
+			[6]
+				 United States
+			[7]
+				 Senate
+			[8]
+				 President of the United States
+			[9]
+				 Supreme Court of the United States
+		[:metadata:keywords]
+			[0]
+				 Senators Edward P. Costigan of Colorado
+			[1]
+				 Rep. George White of North Carolina
+			[2]
+				 attorney general
+			[3]
+				 leadership of its national secretary Walter White
+			[4]
+				 southern state
+			[5]
+				 passage of an antilynching bill
+			[6]
+				 federal government's recognition
+			[7]
+				 Costigan-Wagner bill
+			[8]
+				 Homer Cummings
+			[9]
+				 local authorities
+		[:metadata:entitites]
+			[0]
+				 Neal
+			[1]
+				 NAACP
+			[2]
+				 Costigan
+			[3]
+				 Senate
+			[4]
+				 Rep. George White
+			[5]
+				 Commission On Interracial Cooperation and the Southern Women for the Prevention of Lynching[...]
+			[6]
+				 Leonidas Dyer
+			[7]
+				 Walter White
+			[8]
+				 Edward P. Costigan
+			[9]
+				 Florida
+		[:metadata:title]
+			 Anti-Lynching Bills in the 1930s
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 22
+			[:metadata:gale:gale-fake-waiting]
+				 77
+		[:extracted_metadata:sha1]
+			 604d0aa814f4c5436f0b88be2287bcb43f7d3a5c
+		[:extracted_metadata:filename]
+			 Anti-Lynching Bills in the 1930s.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 dc267929-b5d9-4a8f-a0e6-6f413463ca32
+		[:result_metadata:confidence]
+			 0.15958057828506475
+		[:result_metadata:score]
+			 12.0753765
+	[:text]
+		 no title
+
+After immigrating to the United States at the age of 17, Miguel A. Estrada went on to learn English, earn a law degree and carve o[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.248582
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 29
+					[0:sentiment:score]
+						 -0.474812
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Miguel A. Estrada
+				[0:relevance]
+					 0.871454
+				[0:type]
+					 Person
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 0.424385
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Supreme Court
+				[1:relevance]
+					 0.281017
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[1:disambiguation:name]
+						 Supreme Court of the United States
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 -0.391542
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Senate
+				[2:relevance]
+					 0.187675
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+						[1]
+							 Legislature
+					[2:disambiguation:name]
+						 United States Senate
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Senate
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 United States
+				[3:relevance]
+					 0.169786
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[3:disambiguation:name]
+						 United States
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.633432
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 U.S. Court of Appeals
+				[4:relevance]
+					 0.165977
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[4:disambiguation:name]
+						 United States courts of appeals
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_courts_of_appeals
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 United States Court of Appeals
+				[5:relevance]
+					 0.159764
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 United States Court of Appeals for the District of Columbia Circuit
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit[...]
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Assistant to the Solicitor General
+				[6:relevance]
+					 0.152389
+				[6:type]
+					 JobTitle
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 -0.633432
+					[7:sentiment:label]
+						 negative
+				[7:text]
+					 District of Columbia
+				[7:relevance]
+					 0.118791
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 MilitaryPost
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 CityTown
+					[7:disambiguation:name]
+						 Washington, D.C.
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 United States Government
+				[8:relevance]
+					 0.116833
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Federal government of the United States
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Federal_government_of_the_United_States
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 New York City
+				[9:relevance]
+					 0.116319
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[9:disambiguation:name]
+						 New York City
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Judge Amalya L. Kearse
+				[10:relevance]
+					 0.111241
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 Amalya Lyle Kearse
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Amalya_Lyle_Kearse
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 President
+				[11:relevance]
+					 0.110907
+				[11:type]
+					 JobTitle
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 private practice
+				[12:relevance]
+					 0.110168
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Assistant U.S. Attorney and Deputy Chie f
+				[13:relevance]
+					 0.109742
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Independent Judiciary Website
+				[14:relevance]
+					 0.109524
+				[14:type]
+					 PrintMedia
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Tegucigalpa
+				[15:relevance]
+					 0.10544
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+					[15:disambiguation:name]
+						 Tegucigalpa
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tegucigalpa
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 law clerk
+				[16:relevance]
+					 0.104594
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 U.S. Department of Justice
+				[17:relevance]
+					 0.100756
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+						[1]
+							 GovernmentalBody
+						[2]
+							 GovernmentalJurisdiction
+					[17:disambiguation:name]
+						 United States Department of Justice
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Department_of_Justice
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Independent Judiciary group
+				[18:relevance]
+					 0.099711
+				[18:type]
+					 Organization
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 George W. Bush
+				[19:relevance]
+					 0.099231
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 MusicalArtist
+						[2]
+							 Politician
+						[3]
+							 President
+						[4]
+							 Appointer
+						[5]
+							 AwardNominee
+						[6]
+							 AwardWinner
+						[7]
+							 ChivalricOrderMember
+						[8]
+							 CompanyFounder
+						[9]
+							 MilitaryPerson
+						[10]
+							 PoliticalAppointer
+						[11]
+							 USPresident
+						[12]
+							 FilmActor
+						[13]
+							 TVActor
+					[19:disambiguation:name]
+						 George W. Bush
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_W._Bush
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Honduras
+				[20:relevance]
+					 0.097528
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[20:disambiguation:name]
+						 Honduras
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Honduras
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0.485906
+					[21:sentiment:label]
+						 positive
+				[21:text]
+					 Latino Coalition
+				[21:relevance]
+					 0.092889
+				[21:type]
+					 Organization
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Columbia College
+				[22:relevance]
+					 0.092018
+				[22:type]
+					 Organization
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0.524424
+					[23:sentiment:label]
+						 positive
+				[23:text]
+					 Rosen & Katz
+				[23:relevance]
+					 0.090434
+				[23:type]
+					 Company
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 American Bar Association
+				[24:relevance]
+					 0.089593
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+					[24:disambiguation:name]
+						 American Bar Association
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Bar_Association
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0.495582
+					[25:sentiment:label]
+						 positive
+				[25:text]
+					 Dunn & Crutcher
+				[25:relevance]
+					 0.089032
+				[25:type]
+					 Company
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Anthony M. Kennedy
+				[26:relevance]
+					 0.087683
+				[26:type]
+					 Person
+					[26:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Judge
+					[26:disambiguation:name]
+						 Anthony Kennedy
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Anthony_Kennedy
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 National Organization for Women
+				[27:relevance]
+					 0.087322
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+					[27:disambiguation:name]
+						 National Organization for Women
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Organization_for_Women
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Sierra Club
+				[28:relevance]
+					 0.084179
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+					[28:disambiguation:name]
+						 Sierra Club
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sierra_Club
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 0.430137
+					[29:sentiment:label]
+						 positive
+				[29:text]
+					 Lipton
+				[29:relevance]
+					 0.083834
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Gibson
+				[30:relevance]
+					 0.083076
+				[30:type]
+					 Person
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 Wachtell
+				[31:relevance]
+					 0.082034
+				[31:type]
+					 Person
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 LLP
+				[32:relevance]
+					 0.081798
+				[32:type]
+					 Organization
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 -0.462764
+					[33:sentiment:label]
+						 negative
+				[33:text]
+					 Congressional Hispanic Congress
+				[33:relevance]
+					 0.07831
+				[33:type]
+					 Organization
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 five years
+				[34:relevance]
+					 0.07831
+				[34:type]
+					 Quantity
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 17 years
+				[35:relevance]
+					 0.07831
+				[35:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Supreme Court of the United States
+				[0:relevance]
+					 0.98531
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.969992
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[2:text]
+					 George W. Bush
+				[2:relevance]
+					 0.787113
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/George_W._Bush
+				[3:text]
+					 President of the United States
+				[3:relevance]
+					 0.777254
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+				[4:text]
+					 Washington, D.C.
+				[4:relevance]
+					 0.666529
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Washington,_D.C.
+				[5:text]
+					 United States Congress
+				[5:relevance]
+					 0.651387
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Congress
+				[6:text]
+					 Appellate court
+				[6:relevance]
+					 0.575083
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Appellate_court
+				[7:text]
+					 United States Constitution
+				[7:relevance]
+					 0.566961
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States_Constitution
+		[:enriched_text:categories]
+				[0:score]
+					 0.786998
+				[0:label]
+					 /law, govt and politics/government
+				[1:score]
+					 0.59458
+				[1:label]
+					 /law, govt and politics/government/executive branch
+		[:metadata:docid]
+			 K1650003114
+		[:metadata:concepts]
+			[0]
+				 Supreme Court of the United States
+			[1]
+				 United States
+			[2]
+				 George W. Bush
+			[3]
+				 President of the United States
+			[4]
+				 Washington, D.C.
+			[5]
+				 United States Congress
+			[6]
+				 Appellate court
+			[7]
+				 United States Constitution
+			[8]
+				 Appeal
+			[9]
+				 Democratic Party
+		[:metadata:keywords]
+			[0]
+				 Miguel A. Estrada
+			[1]
+				 U.S. Court of Appeals
+			[2]
+				 United States
+			[3]
+				 Estrada's appointment
+			[4]
+				 Supreme Court
+			[5]
+				 law degree
+			[6]
+				 Assistant U.S. Attorney
+			[7]
+				 various organizations
+			[8]
+				 private law practices
+			[9]
+				 important court
+		[:metadata:entitites]
+			[0]
+				 Estrada
+			[1]
+				 U.S. Court of Appeals
+			[2]
+				 United States
+			[3]
+				 Miguel A. Estrada
+			[4]
+				 Justice Solicitor General's Office
+			[5]
+				 Supreme Court
+			[6]
+				 senate
+			[7]
+				 Judge Amalya L. Kearse
+			[8]
+				 Wachtell
+			[9]
+				 Rosen & Katz
+		[:metadata:title]
+			 Miguel A. Estrada
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 29
+			[:metadata:gale:gale-fake-waiting]
+				 77
+		[:extracted_metadata:sha1]
+			 1984d9b5e4388ce8604542ae9e56fcc1006f1eda
+		[:extracted_metadata:filename]
+			 Miguel A. Estrada.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

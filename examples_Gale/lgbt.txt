@@ -1,0 +1,5628 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 c72949ec-28f5-4a85-b1c2-e7bf7957af43
+		[:result_metadata:confidence]
+			 0.1199669403298398
+		[:result_metadata:score]
+			 12.327107
+	[:text]
+		 no title
+
+POLAK, Clark (b. 15 October 1937; d. 18 September 1980), activist. One of the most important homophile activists of the 1960s, Cla[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.787828
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 27
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Clark Phillip Polak
+				[0:relevance]
+					 0.891126
+				[0:type]
+					 Person
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Philadelphia
+				[1:relevance]
+					 0.173355
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 AirportOperator
+						[5]
+							 City
+					[1:disambiguation:name]
+						 Philadelphia
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Philadelphia
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Janus
+				[2:relevance]
+					 0.126443
+				[2:type]
+					 Company
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Janus Society
+				[3:relevance]
+					 0.116472
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.37688
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 president
+				[4:relevance]
+					 0.108452
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Donald Webster Cory
+				[5:relevance]
+					 0.101756
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Writer
+					[5:disambiguation:name]
+						 Edward Sagarin
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Edward_Sagarin
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Pennsylvania State University
+				[6:relevance]
+					 0.097581
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 University
+					[6:disambiguation:name]
+						 Penn State World Campus
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Penn_State_World_Campus
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Janus
+				[7:relevance]
+					 0.095336
+				[7:type]
+					 Person
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 International Gay and Lesbian Archives
+				[8:relevance]
+					 0.093853
+				[8:type]
+					 PrintMedia
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 American Civil Liberties Union
+				[9:relevance]
+					 0.092882
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 American Civil Liberties Union
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/American_Civil_Liberties_Union
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.361707
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Central High School
+				[10:relevance]
+					 0.092452
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 School
+					[10:disambiguation:name]
+						 Central High School (Macon, Georgia)
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Central_High_School_(Macon,_Georgia)
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 -0.220237
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Frankford Personnel
+				[11:relevance]
+					 0.087301
+				[11:type]
+					 Company
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 founder
+				[12:relevance]
+					 0.086924
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 California
+				[13:relevance]
+					 0.086623
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[13:disambiguation:name]
+						 California
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.430324
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Center City
+				[14:relevance]
+					 0.085517
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 City
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Beaver Book Service
+				[15:relevance]
+					 0.085047
+				[15:type]
+					 Organization
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 editor
+				[16:relevance]
+					 0.082383
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Southern California
+				[17:relevance]
+					 0.081168
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Region
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0.347084
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 LARK Enterprises
+				[18:relevance]
+					 0.080972
+				[18:type]
+					 Company
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Los Angeles
+				[19:relevance]
+					 0.080797
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 OlympicBiddingCity
+						[2]
+							 OlympicHostCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[19:disambiguation:name]
+						 Los Angeles
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Los_Angeles
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 publisher
+				[20:relevance]
+					 0.078648
+				[20:type]
+					 JobTitle
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 James Mitchell
+				[21:relevance]
+					 0.078435
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+					[21:disambiguation:name]
+						 James Mitchell (Canadian politician)
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/James_Mitchell_(Canadian_politician)
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Stonewall Democratic Club
+				[22:relevance]
+					 0.077358
+				[22:type]
+					 Organization
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.961674
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 LGBT
+				[1:relevance]
+					 0.95891
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[2:text]
+					 Gay
+				[2:relevance]
+					 0.746512
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[3:text]
+					 Gay Liberation
+				[3:relevance]
+					 0.612587
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_Liberation
+				[4:text]
+					 LGBT social movements
+				[4:relevance]
+					 0.60091
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[5:text]
+					 Bisexuality
+				[5:relevance]
+					 0.587528
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Bisexuality
+				[6:text]
+					 Pornography
+				[6:relevance]
+					 0.556048
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Pornography
+				[7:text]
+					 Stonewall riots
+				[7:relevance]
+					 0.535539
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Stonewall_riots
+		[:enriched_text:categories]
+				[0:score]
+					 0.999844
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600387
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 LGBT
+			[2]
+				 Gay
+			[3]
+				 Gay Liberation
+			[4]
+				 LGBT social movements
+			[5]
+				 Bisexuality
+			[6]
+				 Pornography
+			[7]
+				 Stonewall riots
+			[8]
+				 Homophile
+			[9]
+				 American Civil Liberties Union
+		[:metadata:keywords]
+			[0]
+				 LGBT topics
+			[1]
+				 Clark Phillip Polak
+			[2]
+				 important homophile activists of the 1960s
+			[3]
+				 late 1950s Polak
+			[4]
+				 Donald Webster Cory's influential book
+			[5]
+				 editor of Polak
+			[6]
+				 Pennsylvania State University
+			[7]
+				 LGBT causes
+			[8]
+				 POLAK
+			[9]
+				 American Civil Liberties Union
+		[:metadata:entitites]
+			[0]
+				 Polak
+			[1]
+				 Philadelphia
+			[2]
+				 POLAK, Clark
+			[3]
+				 Clark Phillip Polak
+			[4]
+				 Janus Society
+			[5]
+				 Frankford Personnel
+			[6]
+				 Donald Webster
+			[7]
+				 ACLU
+			[8]
+				 LARK Enterprises
+			[9]
+				 Central High School
+		[:metadata:title]
+			 Clark Phillip Polak
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 56
+			[:metadata:gale:gale-fake-waiting]
+				 39
+		[:extracted_metadata:sha1]
+			 42a52a1aad058d4cd4d634422b6c1033715e31bf
+		[:extracted_metadata:filename]
+			 Clark Phillip Polak.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 2a0795b9-b76c-42f7-b0e7-c3c59638b15e
+		[:result_metadata:confidence]
+			 0.11852365324966255
+		[:result_metadata:score]
+			 12.30485
+	[:text]
+		 no title
+
+Kerry Eleveld is a journalist and activist who focuses on lesbian, gay, bisexual, and transgender (LGBT) rights. As a journalist, [...]
+				[:enriched_text:sentiment:document:score]
+					 0.435381
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 7
+					[0:sentiment:score]
+						 -0.379319
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 President Obama
+				[0:relevance]
+					 0.892879
+				[0:type]
+					 Person
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 -0.244288
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Kerry Eleveld
+				[1:relevance]
+					 0.557825
+				[1:type]
+					 Person
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Democratic Party
+				[2:relevance]
+					 0.286276
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 PoliticalParty
+					[2:disambiguation:name]
+						 Democratic Party (United States)
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 -0.267616
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 president
+				[3:relevance]
+					 0.26007
+				[3:type]
+					 JobTitle
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.55376
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Robin McGehee
+				[4:relevance]
+					 0.257731
+				[4:type]
+					 Person
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Eleveld
+				[5:relevance]
+					 0.226154
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 City
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 -0.267616
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 reporter
+				[6:relevance]
+					 0.209531
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 U.S. Supreme Court
+				[7:relevance]
+					 0.19111
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[7:disambiguation:name]
+						 Supreme Court of the United States
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 U.S. Justice Department
+				[8:relevance]
+					 0.188557
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+						[1]
+							 GovernmentalBody
+						[2]
+							 GovernmentalJurisdiction
+					[8:disambiguation:name]
+						 United States Department of Justice
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Department_of_Justice
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Deborah Kalb
+				[9:relevance]
+					 0.180976
+				[9:type]
+					 Person
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 -0.360123
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 U.S.
+				[10:relevance]
+					 0.179893
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[10:disambiguation:name]
+						 United States
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 -0.22096
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Scott Shackford
+				[11:relevance]
+					 0.175039
+				[11:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.981937
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 Bill Clinton
+				[1:relevance]
+					 0.890097
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Bill_Clinton
+				[2:text]
+					 Same-sex marriage
+				[2:relevance]
+					 0.865506
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Same-sex_marriage
+				[3:text]
+					 Democratic Party
+				[3:relevance]
+					 0.840829
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[4:text]
+					 President of the United States
+				[4:relevance]
+					 0.834116
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/President_of_the_United_States
+				[5:text]
+					 Same-sex marriage in the United States
+				[5:relevance]
+					 0.76449
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Same-sex_marriage_in_the_United_States
+				[6:text]
+					 Defense of Marriage Act
+				[6:relevance]
+					 0.720479
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Defense_of_Marriage_Act
+				[7:text]
+					 LGBT
+				[7:relevance]
+					 0.690197
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+		[:enriched_text:categories]
+				[0:score]
+					 0.998434
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 H1000327047
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 Bill Clinton
+			[2]
+				 Same-sex marriage
+			[3]
+				 Democratic Party
+			[4]
+				 President of the United States
+			[5]
+				 Same-sex marriage in the United States
+			[6]
+				 Defense of Marriage Act
+			[7]
+				 LGBT
+			[8]
+				 Heterosexism
+			[9]
+				 Supreme Court of the United States
+		[:metadata:keywords]
+			[0]
+				 Kerry Eleveld
+			[1]
+				 President Obama
+			[2]
+				 LGBT rights
+			[3]
+				 role Robin McGehee
+			[4]
+				 Democratic Party
+			[5]
+				 gay rights activists
+			[6]
+				 U.S. Justice Department
+			[7]
+				 Defense of Marriage Act
+			[8]
+				 major step
+			[9]
+				 campaign promise
+		[:metadata:entitites]
+			[0]
+				 Eleveld
+			[1]
+				 Kerry Eleveld
+			[2]
+				 Deborah Kalb
+			[3]
+				 U.S. Justice Department
+			[4]
+				 Obama
+			[5]
+				 President Obama
+			[6]
+				 Democratic Party
+			[7]
+				 Robin McGehee
+			[8]
+				 U.S.
+			[9]
+				 Scott Shackford
+		[:metadata:title]
+			 Kerry Eleveld
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 77
+			[:metadata:gale:gale-fake-waiting]
+				 12
+		[:extracted_metadata:sha1]
+			 91bc0c8306bc74c4c645a85c75aa6dca5ccb8a60
+		[:extracted_metadata:filename]
+			 Kerry Eleveld.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 4224a1d8-dfd0-4fd0-ab42-d86520fb52a7
+		[:result_metadata:confidence]
+			 0.11223996895455272
+		[:result_metadata:score]
+			 12.207949
+	[:text]
+		 no title
+
+REYES, Rodrigo (b. 24 September 1945; d. 19 January 1992), cultural activist, journalist, writer. Rodrigo Reyes was born in Weslac[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.412447
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Rodrigo Reyes
+				[0:relevance]
+					 0.890397
+				[0:type]
+					 Person
+				[1:count]
+					 9
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 GALA
+				[1:relevance]
+					 0.326125
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+					[1:disambiguation:name]
+						 GALA Choruses
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/GALA_Choruses
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 San Francisco
+				[2:relevance]
+					 0.295916
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 City
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Gay Latino Alliance
+				[3:relevance]
+					 0.214722
+				[3:type]
+					 Organization
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0.09975
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 AIDS
+				[4:relevance]
+					 0.192069
+				[4:type]
+					 HealthCondition
+					[4:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 DiseaseOrMedicalCondition
+						[2]
+							 CauseOfDeath
+						[3]
+							 DiseaseCause
+						[4]
+							 RiskFactor
+						[5]
+							 Disease
+						[6]
+							 OrganizationSector
+					[4:disambiguation:name]
+						 AIDS
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AIDS
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 writer
+				[5:relevance]
+					 0.135279
+				[5:type]
+					 JobTitle
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.303547
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Weslaco
+				[6:relevance]
+					 0.13117
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Weslaco, Texas
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Weslaco,_Texas
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 San José
+				[7:relevance]
+					 0.12978
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Texas
+				[8:relevance]
+					 0.127556
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[8:disambiguation:name]
+						 Texas
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Chicanoarchivist Luis Alberto de la Garza C.
+				[9:relevance]
+					 0.125687
+				[9:type]
+					 Person
+				[10:count]
+					 4
+					[10:sentiment:score]
+						 0.35427
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 CURAS
+				[10:relevance]
+					 0.125542
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 McAllen
+				[11:relevance]
+					 0.123602
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 McAllen, Texas
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/McAllen,_Texas
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.369138
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Ohio State University
+				[12:relevance]
+					 0.122296
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 University
+					[12:disambiguation:name]
+						 Ohio State University
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ohio_State_University
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Manuel Hernández Valadéz
+				[13:relevance]
+					 0.116219
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Yerba Buena Productions
+				[14:relevance]
+					 0.115104
+				[14:type]
+					 Company
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 -0.631397
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 Community United
+				[15:relevance]
+					 0.115013
+				[15:type]
+					 Organization
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 La India Bonita
+				[16:relevance]
+					 0.112544
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 City
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.4064
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Ethnic Studies Library
+				[17:relevance]
+					 0.108922
+				[17:type]
+					 PrintMedia
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0.587783
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Washington
+				[18:relevance]
+					 0.107426
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[18:disambiguation:name]
+						 Washington, D.C.
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0.016067
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 Berkeley
+				[19:relevance]
+					 0.105839
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 City
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 -0.542871
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Mission District
+				[20:relevance]
+					 0.104667
+				[20:type]
+					 Organization
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Berkeley
+				[21:relevance]
+					 0.104387
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Jesús Barragán
+				[22:relevance]
+					 0.101672
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Diane Felix
+				[23:relevance]
+					 0.098986
+				[23:type]
+					 Person
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 KPFA
+				[24:relevance]
+					 0.09869
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 City
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 University of California
+				[25:relevance]
+					 0.098662
+				[25:type]
+					 Organization
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.414678
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Pacifica
+				[26:relevance]
+					 0.091935
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 City
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 producer
+				[27:relevance]
+					 0.086199
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 eight years
+				[28:relevance]
+					 0.086199
+				[28:type]
+					 Quantity
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Two years
+				[29:relevance]
+					 0.086199
+				[29:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 LGBT
+				[0:relevance]
+					 0.972137
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[1:text]
+					 Gay
+				[1:relevance]
+					 0.925738
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[2:text]
+					 Homosexuality
+				[2:relevance]
+					 0.864304
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[3:text]
+					 California
+				[3:relevance]
+					 0.79115
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/California
+				[4:text]
+					 Hispanic and Latino Americans
+				[4:relevance]
+					 0.68207
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Hispanic_and_Latino_Americans
+				[5:text]
+					 Homophobia
+				[5:relevance]
+					 0.661436
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Homophobia
+				[6:text]
+					 Gay pride
+				[6:relevance]
+					 0.641281
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_pride
+				[7:text]
+					 Coming out
+				[7:relevance]
+					 0.625366
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Coming_out
+		[:enriched_text:categories]
+				[0:score]
+					 0.997322
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600435
+		[:metadata:concepts]
+			[0]
+				 LGBT
+			[1]
+				 Gay
+			[2]
+				 Homosexuality
+			[3]
+				 California
+			[4]
+				 Hispanic and Latino Americans
+			[5]
+				 Homophobia
+			[6]
+				 Gay pride
+			[7]
+				 Coming out
+			[8]
+				 Gay community
+			[9]
+				 Chicano
+		[:metadata:keywords]
+			[0]
+				 LGBT Latino organization
+			[1]
+				 gay Chicano organizer
+			[2]
+				 LGBT community organizers
+			[3]
+				 Rodrigo Reyes
+			[4]
+				 GALA's successful run
+			[5]
+				 Gay Latino Alliance
+			[6]
+				 Latino community
+			[7]
+				 San Francisco
+			[8]
+				 gay liberation movements
+			[9]
+				 REYES
+		[:metadata:entitites]
+			[0]
+				 Reyes
+			[1]
+				 San Francisco
+			[2]
+				 Rodrigo Reyes
+			[3]
+				 San José
+			[4]
+				 Gay Latino Alliance
+			[5]
+				 Manuel Hernández Valadéz
+			[6]
+				 Jesús Barragán
+			[7]
+				 Diane Felix
+			[8]
+				 AIDS
+			[9]
+				 Weslaco
+		[:metadata:title]
+			 Rodrigo Reyes
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 76
+			[:metadata:gale:gale-fake-waiting]
+				 91
+		[:extracted_metadata:sha1]
+			 fbb2e5cb88a9d34bef55808d873e9c9cc0b32280
+		[:extracted_metadata:filename]
+			 Rodrigo Reyes.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 10c8d7b0-2ab1-4f63-a93f-3f36c19e9dbe
+		[:result_metadata:confidence]
+			 0.10785433978083354
+		[:result_metadata:score]
+			 12.140318
+	[:text]
+		 no title
+
+Kasha Jacqueline Nabagesera is known as the "founding mother" of the lesbian, gay, bisexual, and transgender (LGBT) rights movemen[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.652248
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 10
+					[0:sentiment:score]
+						 -0.390034
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Uganda
+				[0:relevance]
+					 0.874403
+				[0:type]
+					 Location
+					[0:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[0:disambiguation:name]
+						 Uganda
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Uganda
+				[1:count]
+					 21
+					[1:sentiment:score]
+						 -0.451206
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Jacqueline Nabagesera
+				[1:relevance]
+					 0.737222
+				[1:type]
+					 Person
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Ugandan parliament
+				[2:relevance]
+					 0.462716
+				[2:type]
+					 Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Nuremberg International Human Rights Award
+				[3:relevance]
+					 0.353393
+				[3:type]
+					 Organization
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 -0.220723
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 David Kato
+				[4:relevance]
+					 0.341118
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 David Kato
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Kato
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Ugandan Constitutional Court
+				[5:relevance]
+					 0.339355
+				[5:type]
+					 Organization
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Human Rights Defenders
+				[6:relevance]
+					 0.323018
+				[6:type]
+					 Organization
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 President Museveni
+				[7:relevance]
+					 0.303345
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+					[7:disambiguation:name]
+						 Yoweri Museveni
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Yoweri_Museveni
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.471705
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Africa
+				[8:relevance]
+					 0.299015
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 Continent
+					[8:disambiguation:name]
+						 Africa
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Africa
+				[9:count]
+					 3
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Radio Netherlands Worldwide
+				[9:relevance]
+					 0.276487
+				[9:type]
+					 Company
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Nabagesera
+				[10:relevance]
+					 0.274336
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 David Bahati
+				[11:relevance]
+					 0.26042
+				[11:type]
+					 Person
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 David Bahati
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Bahati
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Right Livelihood Award
+				[12:relevance]
+					 0.255284
+				[12:type]
+					 Organization
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Nkumba University
+				[13:relevance]
+					 0.248583
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+					[13:disambiguation:name]
+						 Nkumba University
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nkumba_University
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.577008
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Nobel Prize
+				[14:relevance]
+					 0.246723
+				[14:type]
+					 Award
+					[14:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+					[14:disambiguation:name]
+						 Nobel Prize
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Nobel_Prize
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Entebbe
+				[15:relevance]
+					 0.244208
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+					[15:disambiguation:name]
+						 Entebbe
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Entebbe
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Hillary Rodham Clinton
+				[16:relevance]
+					 0.243813
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Appointee
+						[2]
+							 AwardWinner
+						[3]
+							 BoardMember
+						[4]
+							 Celebrity
+						[5]
+							 HallOfFameInductee
+						[6]
+							 OperaCharacter
+						[7]
+							 Senator
+						[8]
+							 U.S.Congressperson
+						[9]
+							 TVActor
+					[16:disambiguation:name]
+						 Hillary Rodham Clinton
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hillary_Rodham_Clinton
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Kampala
+				[17:relevance]
+					 0.239046
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 City
+					[17:disambiguation:name]
+						 Kampala
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kampala
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 New York City
+				[18:relevance]
+					 0.232289
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[18:disambiguation:name]
+						 New York City
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Barack Obama
+				[19:relevance]
+					 0.229475
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[19:disambiguation:name]
+						 Barack Obama
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[20:count]
+					 2
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 president
+				[20:relevance]
+					 0.229383
+				[20:type]
+					 JobTitle
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 U.S.
+				[21:relevance]
+					 0.219386
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[21:disambiguation:name]
+						 United States
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Britain
+				[22:relevance]
+					 0.213292
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 Country
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Josh Kron
+				[23:relevance]
+					 0.206363
+				[23:type]
+					 Person
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Three years
+				[24:relevance]
+					 0.198103
+				[24:type]
+					 Quantity
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 seven years
+				[25:relevance]
+					 0.198103
+				[25:type]
+					 Quantity
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 two months
+				[26:relevance]
+					 0.198103
+				[26:type]
+					 Quantity
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 14-year
+				[27:relevance]
+					 0.198103
+				[27:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.97953
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 Yoweri Museveni
+				[1:relevance]
+					 0.838466
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Yoweri_Museveni
+				[2:text]
+					 Sexual orientation
+				[2:relevance]
+					 0.802049
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+				[3:text]
+					 LGBT
+				[3:relevance]
+					 0.78874
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[4:text]
+					 Human rights
+				[4:relevance]
+					 0.683334
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[5:text]
+					 Barack Obama
+				[5:relevance]
+					 0.645026
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[6:text]
+					 LGBT social movements
+				[6:relevance]
+					 0.62821
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[7:text]
+					 Hillary Rodham Clinton
+				[7:relevance]
+					 0.618218
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Hillary_Rodham_Clinton
+		[:enriched_text:categories]
+				[0:score]
+					 0.997041
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K1606007396
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 Yoweri Museveni
+			[2]
+				 Sexual orientation
+			[3]
+				 LGBT
+			[4]
+				 Human rights
+			[5]
+				 Barack Obama
+			[6]
+				 LGBT social movements
+			[7]
+				 Hillary Rodham Clinton
+			[8]
+				 Bill Clinton
+			[9]
+				 Heterosexism
+		[:metadata:keywords]
+			[0]
+				 Kasha Jacqueline Nabagesera
+			[1]
+				 rights movement
+			[2]
+				 Ugandan parliament
+			[3]
+				 U.S. president Barack Obama
+			[4]
+				 LGBT rights
+			[5]
+				 African nation of Uganda
+			[6]
+				 human rights organization
+			[7]
+				 high schools
+			[8]
+				 gay people
+			[9]
+				 14-year prison sentence
+		[:metadata:entitites]
+			[0]
+				 Uganda
+			[1]
+				 Ugandan parliament
+			[2]
+				 David Kato
+			[3]
+				 Kasha Jacqueline Nabagesera
+			[4]
+				 Freedom and Roam Uganda
+			[5]
+				 Nabagesera
+			[6]
+				 Radio Netherlands Worldwide
+			[7]
+				 Nkumba University
+			[8]
+				 Sexual Minorities Uganda
+			[9]
+				 David Bahati
+		[:metadata:title]
+			 Kasha Jacqueline Nabagesera
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 88
+			[:metadata:gale:gale-fake-waiting]
+				 19
+		[:extracted_metadata:sha1]
+			 ef1432a1691c86c5f4232e04b40efaa67715d22c
+		[:extracted_metadata:filename]
+			 Kasha Jacqueline Nabagesera.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 3f130ad8-f190-4671-86f6-325cedcc81c3
+		[:result_metadata:confidence]
+			 0.10735002906409095
+		[:result_metadata:score]
+			 12.132541
+	[:text]
+		 no title
+
+HEMPHILL, Essex (b. 16 April 1957; d. 4 November 1995), writer, performer, activist. Essex Hemphill was arguably the most talented[...]
+				[:enriched_text:sentiment:document:score]
+					 0.720487
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 22
+					[0:sentiment:score]
+						 0.34517
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 visiting fellow
+				[0:relevance]
+					 0.763411
+				[0:type]
+					 JobTitle
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Washington
+				[1:relevance]
+					 0.417998
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[1:disambiguation:name]
+						 Washington, D.C.
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 National Coalition of Black Lesbian
+				[2:relevance]
+					 0.38214
+				[2:type]
+					 Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 black American community
+				[3:relevance]
+					 0.365778
+				[3:type]
+					 Organization
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 0.275584
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Chocolate City
+				[4:relevance]
+					 0.29649
+				[4:type]
+					 Movie
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 -0.534513
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 AIDS
+				[5:relevance]
+					 0.295265
+				[5:type]
+					 HealthCondition
+					[5:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 DiseaseOrMedicalCondition
+						[2]
+							 CauseOfDeath
+						[3]
+							 DiseaseCause
+						[4]
+							 RiskFactor
+						[5]
+							 Disease
+						[6]
+							 OrganizationSector
+					[5:disambiguation:name]
+						 AIDS
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AIDS
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0.444728
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Wayson Jones
+				[6:relevance]
+					 0.290005
+				[6:type]
+					 Person
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Essex
+				[7:relevance]
+					 0.280352
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 writer
+				[8:relevance]
+					 0.257779
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.410562
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 D.C.
+				[9:relevance]
+					 0.252376
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0.465477
+					[10:sentiment:label]
+						 positive
+				[10:text]
+					 Harlem Renaissance
+				[10:relevance]
+					 0.246864
+				[10:type]
+					 Facility
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Chicago
+				[11:relevance]
+					 0.244834
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 Chicago
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chicago
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 College Park
+				[12:relevance]
+					 0.241157
+				[12:type]
+					 Facility
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Airport
+						[2]
+							 HistoricPlace
+					[12:disambiguation:name]
+						 College Park Airport
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/College_Park_Airport
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 University of Maryland
+				[13:relevance]
+					 0.240476
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[13:disambiguation:name]
+						 University of Maryland, College Park
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Maryland,_College_Park
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Barbara Smith
+				[14:relevance]
+					 0.239638
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+						[0]
+							 AwardNominee
+						[1]
+							 FilmWriter
+					[14:disambiguation:name]
+						 Barbara Smith
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barbara_Smith
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 United States
+				[15:relevance]
+					 0.237133
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[15:disambiguation:name]
+						 United States
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Illinois
+				[16:relevance]
+					 0.234269
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[16:disambiguation:name]
+						 Illinois
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Illinois
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 American arts
+				[17:relevance]
+					 0.226969
+				[17:type]
+					 Organization
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 writer and editor
+				[18:relevance]
+					 0.226515
+				[18:type]
+					 JobTitle
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Getty Center
+				[19:relevance]
+					 0.226319
+				[19:type]
+					 Facility
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 TouristAttraction
+						[2]
+							 Museum
+					[19:disambiguation:name]
+						 Getty Center
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Getty_Center
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Pat Parker
+				[20:relevance]
+					 0.223404
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+					[20:disambiguation:name]
+						 Pat Parker
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pat_Parker
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Santa Monica
+				[21:relevance]
+					 0.219616
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 City
+					[21:disambiguation:name]
+						 Santa Monica, California
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Santa_Monica,_California
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Michelle Parkeson
+				[22:relevance]
+					 0.216104
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 -0.586013
+					[23:sentiment:label]
+						 negative
+				[23:text]
+					 Philadelphia
+				[23:relevance]
+					 0.21218
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 City
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Joseph Beam
+				[24:relevance]
+					 0.209615
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 California
+				[25:relevance]
+					 0.203991
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[25:disambiguation:name]
+						 California
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Gil Gerald
+				[26:relevance]
+					 0.197255
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Louis Hughes
+				[27:relevance]
+					 0.18996
+				[27:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 LGBT
+				[0:relevance]
+					 0.945793
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[1:text]
+					 Gay
+				[1:relevance]
+					 0.93112
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[2:text]
+					 Homosexuality
+				[2:relevance]
+					 0.792119
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[3:text]
+					 Bisexuality
+				[3:relevance]
+					 0.655952
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Bisexuality
+				[4:text]
+					 Gay community
+				[4:relevance]
+					 0.555347
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_community
+				[5:text]
+					 Black people
+				[5:relevance]
+					 0.53683
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Black_people
+				[6:text]
+					 African American culture
+				[6:relevance]
+					 0.503082
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/African_American_culture
+				[7:text]
+					 Poetry
+				[7:relevance]
+					 0.491061
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Poetry
+		[:enriched_text:categories]
+				[0:score]
+					 0.996942
+				[0:label]
+					 /art and entertainment/books and literature/poetry
+				[1:score]
+					 0.996887
+				[1:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600236
+		[:metadata:concepts]
+			[0]
+				 LGBT
+			[1]
+				 Gay
+			[2]
+				 Homosexuality
+			[3]
+				 Bisexuality
+			[4]
+				 Gay community
+			[5]
+				 Black people
+			[6]
+				 African American culture
+			[7]
+				 Poetry
+			[8]
+				 Gay pride
+			[9]
+				 Getty Center
+		[:metadata:keywords]
+			[0]
+				 successful black gay male poet
+			[1]
+				 Essex Hemphill
+			[2]
+				 community of black LGBT artists
+			[3]
+				 late 1970s
+			[4]
+				 recognized center of black LGBT
+			[5]
+				 early 1980s
+			[6]
+				 aesthetics of the black arts movement of the 1960s
+			[7]
+				 finest technicians of contemporary American poetry
+			[8]
+				 various venues
+			[9]
+				 political activity
+		[:metadata:entitites]
+			[0]
+				 Hemphill
+			[1]
+				 Wayson Jones
+			[2]
+				 Essex Hemphill
+			[3]
+				 Washington, D.C.
+			[4]
+				 Michelle Parkeson
+			[5]
+				 Gil Gerald
+			[6]
+				 Louis Hughes
+			[7]
+				 Joseph Beam
+			[8]
+				 Pat Parker
+			[9]
+				 National Coalition of Black Lesbian and Gays
+		[:metadata:title]
+			 Essex Hemphill
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 28
+			[:metadata:gale:gale-fake-waiting]
+				 55
+		[:extracted_metadata:sha1]
+			 998041ba2c15f9b0a9b3692bf928e804c427ab35
+		[:extracted_metadata:filename]
+			 Essex Hemphill.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 00a4eba2-923e-4e97-baec-18995a7d3bbb
+		[:result_metadata:confidence]
+			 0.10650345886901912
+		[:result_metadata:score]
+			 12.119486
+	[:text]
+		 no title
+
+SARRIA, José (b. 12 December 1923), activist and performer. A pioneering LGBT social activist and the founder of the Royal Court S[...]
+				[:enriched_text:sentiment:document:score]
+					 0.295245
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 10
+					[0:sentiment:score]
+						 -0.316778
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Julio Sarria
+				[0:relevance]
+					 0.798872
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0.598176
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 San Francisco
+				[1:relevance]
+					 0.442034
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[1:disambiguation:name]
+						 San Francisco
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0.216419
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Emperor Norton
+				[2:relevance]
+					 0.412391
+				[2:type]
+					 Person
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Emperor Norton
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Emperor_Norton
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Royal Court System
+				[3:relevance]
+					 0.396625
+				[3:type]
+					 Organization
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Empress José
+				[4:relevance]
+					 0.372218
+				[4:type]
+					 Person
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 -0.264124
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 International Court System
+				[5:relevance]
+					 0.344833
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Imperial Court System
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Imperial_Court_System
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 -0.454862
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 AIDS
+				[6:relevance]
+					 0.337527
+				[6:type]
+					 HealthCondition
+					[6:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 DiseaseOrMedicalCondition
+						[2]
+							 CauseOfDeath
+						[3]
+							 DiseaseCause
+						[4]
+							 RiskFactor
+						[5]
+							 Disease
+						[6]
+							 OrganizationSector
+					[6:disambiguation:name]
+						 AIDS
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AIDS
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 RCS
+				[7:relevance]
+					 0.320201
+				[7:type]
+					 Organization
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 army
+				[8:relevance]
+					 0.318625
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 ArmedForce
+					[8:disambiguation:name]
+						 French Army
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/French_Army
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 San Francisco Board of Supervisors
+				[9:relevance]
+					 0.316464
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 GovernmentalBody
+					[9:disambiguation:name]
+						 San Francisco Board of Supervisors
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco_Board_of_Supervisors
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 -0.079184
+					[10:sentiment:label]
+						 negative
+				[10:text]
+					 North America
+				[10:relevance]
+					 0.31043
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 Continent
+					[10:disambiguation:name]
+						 North America
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_America
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 League for Civil Education
+				[11:relevance]
+					 0.303873
+				[11:type]
+					 Organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Sarria
+				[12:relevance]
+					 0.29333
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+					[12:disambiguation:name]
+						 Sarria
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sarria
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 founding member
+				[13:relevance]
+					 0.291646
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Sarria
+				[14:relevance]
+					 0.284284
+				[14:type]
+					 Company
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.381608
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Widow Norton
+				[15:relevance]
+					 0.281134
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 José Sarria
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/José_Sarria
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Black Cat Cafe
+				[16:relevance]
+					 0.260326
+				[16:type]
+					 Facility
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Maria Dolores
+				[17:relevance]
+					 0.256687
+				[17:type]
+					 Person
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Fort Ord
+				[18:relevance]
+					 0.25537
+				[18:type]
+					 Facility
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 MilitaryPost
+					[18:disambiguation:name]
+						 Fort Ord
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Ord
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 founder
+				[19:relevance]
+					 0.254941
+				[19:type]
+					 JobTitle
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Harvey Milk
+				[20:relevance]
+					 0.24906
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 AwardWinner
+						[3]
+							 MilitaryPerson
+						[4]
+							 OfficeHolder
+						[5]
+							 OperaCharacter
+						[6]
+							 FilmActor
+					[20:disambiguation:name]
+						 Harvey Milk
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvey_Milk
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Tavern Guild
+				[21:relevance]
+					 0.246946
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 Tavern Guild
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tavern_Guild
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 United States
+				[22:relevance]
+					 0.231573
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[22:disambiguation:name]
+						 United States
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Society for Individual Rights
+				[23:relevance]
+					 0.228871
+				[23:type]
+					 Organization
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 -0.497807
+					[24:sentiment:label]
+						 negative
+				[24:text]
+					 harassment
+				[24:relevance]
+					 0.227407
+				[24:type]
+					 Crime
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 -0.440721
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 Mexico
+				[25:relevance]
+					 0.226958
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 FilmCinematographer
+						[3]
+							 Country
+					[25:disambiguation:name]
+						 Mexico
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mexico
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Berlin
+				[26:relevance]
+					 0.224399
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 City
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Beaux Arts Ball
+				[27:relevance]
+					 0.220575
+				[27:type]
+					 Facility
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Woodlawn Cemetery
+				[28:relevance]
+					 0.219584
+				[28:type]
+					 Facility
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0.282354
+					[29:sentiment:label]
+						 positive
+				[29:text]
+					 Britain
+				[29:relevance]
+					 0.215208
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 Country
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 official
+				[30:relevance]
+					 0.210651
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 fifteen years
+				[31:relevance]
+					 0.210651
+				[31:type]
+					 Quantity
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 two years
+				[32:relevance]
+					 0.210651
+				[32:type]
+					 Quantity
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Milk
+				[33:relevance]
+					 0.210651
+				[33:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 LGBT
+				[0:relevance]
+					 0.974022
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[1:text]
+					 Drag queen
+				[1:relevance]
+					 0.879813
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Drag_queen
+				[2:text]
+					 Bisexuality
+				[2:relevance]
+					 0.786844
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Bisexuality
+				[3:text]
+					 Homosexuality
+				[3:relevance]
+					 0.773866
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[4:text]
+					 Emperor Norton
+				[4:relevance]
+					 0.664463
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Emperor_Norton
+				[5:text]
+					 Transgender
+				[5:relevance]
+					 0.650795
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Transgender
+				[6:text]
+					 Sexual orientation
+				[6:relevance]
+					 0.634205
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+				[7:text]
+					 Coming out
+				[7:relevance]
+					 0.572275
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Coming_out
+		[:enriched_text:categories]
+				[0:score]
+					 0.998923
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600457
+		[:metadata:concepts]
+			[0]
+				 LGBT
+			[1]
+				 Drag queen
+			[2]
+				 Bisexuality
+			[3]
+				 Homosexuality
+			[4]
+				 Emperor Norton
+			[5]
+				 Transgender
+			[6]
+				 Sexual orientation
+			[7]
+				 Coming out
+			[8]
+				 Gay
+			[9]
+				 Presidio of San Francisco
+		[:metadata:keywords]
+			[0]
+				 founder of the Royal Court System
+			[1]
+				 gay bar
+			[2]
+				 honorary title
+			[3]
+				 José Sarria
+			[4]
+				 pioneering LGBT
+			[5]
+				 Black Cat Cafe
+			[6]
+				 lesbian women
+			[7]
+				 drag shows
+			[8]
+				 San Francisco
+			[9]
+				 prominent merchant
+		[:metadata:entitites]
+			[0]
+				 Sarria
+			[1]
+				 Widow Norton
+			[2]
+				 League for Civil Education
+			[3]
+				 José
+			[4]
+				 Royal Court System
+			[5]
+				 International Court System
+			[6]
+				 Empress José
+			[7]
+				 Emperor Norton
+			[8]
+				 Maria Dolores
+			[9]
+				 Julio Sarria
+		[:metadata:title]
+			 Jose Sarria
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 93
+			[:metadata:gale:gale-fake-waiting]
+				 92
+		[:extracted_metadata:sha1]
+			 c36d6fa35c094f58aaa489916e6020f8d10e9cd6
+		[:extracted_metadata:filename]
+			 Jose Sarria.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 5ba4549a-109b-4a9f-a984-564de2603ca8
+		[:result_metadata:confidence]
+			 0.10572381019377211
+		[:result_metadata:score]
+			 12.107463
+	[:text]
+		 no title
+
+Ruby Jade Corado is a speaker and activist for lesbian, gay, bisexual, and transgender (LGBT) rights. She is best known for foundi[...]
+				[:enriched_text:sentiment:document:score]
+					 0.473851
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 22
+					[0:sentiment:score]
+						 -0.378551
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 founding member
+				[0:relevance]
+					 0.842442
+				[0:type]
+					 JobTitle
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Washington
+				[1:relevance]
+					 0.506037
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[1:disambiguation:name]
+						 Washington, D.C.
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.66434
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Casa Ruby
+				[2:relevance]
+					 0.419774
+				[2:type]
+					 Facility
+				[3:count]
+					 5
+					[3:sentiment:score]
+						 -0.447277
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Vince Gray
+				[3:relevance]
+					 0.374824
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 Vincent C. Gray
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vincent_C._Gray
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.453722
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Office of Human Rights
+				[4:relevance]
+					 0.33241
+				[4:type]
+					 Organization
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 D.C.
+				[5:relevance]
+					 0.310667
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 -0.731353
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Tyra Hunter
+				[6:relevance]
+					 0.290479
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Tyra Hunter
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tyra_Hunter
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 United States
+				[7:relevance]
+					 0.275513
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[7:disambiguation:name]
+						 United States
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 San Salvador
+				[8:relevance]
+					 0.259482
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+					[8:disambiguation:name]
+						 San Salvador
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Salvador
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 El Salvador
+				[9:relevance]
+					 0.253034
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+					[9:disambiguation:name]
+						 El Salvador, Cuba
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/El_Salvador,_Cuba
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Whitman-Walker Health
+				[10:relevance]
+					 0.237277
+				[10:type]
+					 Facility
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 DC Trans Coalition
+				[11:relevance]
+					 0.234192
+				[11:type]
+					 Organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.289346
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Gustavo Velasquez
+				[12:relevance]
+					 0.233103
+				[12:type]
+					 Person
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 director
+				[13:relevance]
+					 0.216005
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Vladimir Artiga
+				[14:relevance]
+					 0.215095
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Muriel Bowser
+				[15:relevance]
+					 0.202975
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 Muriel Bowser
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Muriel_Bowser
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 attorney
+				[16:relevance]
+					 0.201653
+				[16:type]
+					 JobTitle
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 David Walker
+				[17:relevance]
+					 0.190451
+				[17:type]
+					 Person
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 three years
+				[18:relevance]
+					 0.190451
+				[18:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 El Salvador
+				[0:relevance]
+					 0.954798
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/El_Salvador
+				[1:text]
+					 LGBT
+				[1:relevance]
+					 0.951096
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[2:text]
+					 Transgender
+				[2:relevance]
+					 0.857319
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Transgender
+				[3:text]
+					 Human rights
+				[3:relevance]
+					 0.735382
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Human_rights
+				[4:text]
+					 Gay
+				[4:relevance]
+					 0.634471
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[5:text]
+					 Homosexuality
+				[5:relevance]
+					 0.526553
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[6:text]
+					 Sexual orientation
+				[6:relevance]
+					 0.519509
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+				[7:text]
+					 Transphobia
+				[7:relevance]
+					 0.518599
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Transphobia
+		[:enriched_text:categories]
+				[0:score]
+					 0.987106
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K1650009785
+		[:metadata:concepts]
+			[0]
+				 El Salvador
+			[1]
+				 LGBT
+			[2]
+				 Transgender
+			[3]
+				 Human rights
+			[4]
+				 Gay
+			[5]
+				 Homosexuality
+			[6]
+				 Sexual orientation
+			[7]
+				 Transphobia
+			[8]
+				 San Salvador
+			[9]
+				 Bisexuality
+		[:metadata:keywords]
+			[0]
+				 Ruby Jade Corado
+			[1]
+				 Casa Ruby
+			[2]
+				 Salvadoran civil war
+			[3]
+				 donations of time
+			[4]
+				 community center
+			[5]
+				 city's director
+			[6]
+				 different skills
+			[7]
+				 News of a transgender woman
+			[8]
+				 United States
+			[9]
+				 different D.C. mayors
+		[:metadata:entitites]
+			[0]
+				 Corado
+			[1]
+				 Ruby Jade Corado
+			[2]
+				 Washington, D.C.
+			[3]
+				 Casa Ruby
+			[4]
+				 Casa Ruby
+			[5]
+				 Vladimir Artiga
+			[6]
+				 Office of Human Rights
+			[7]
+				 Tyra Hunter
+			[8]
+				 Walker Health
+			[9]
+				 DC Trans Coalition
+		[:metadata:title]
+			 Ruby Jade Corado
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 95
+			[:metadata:gale:gale-fake-waiting]
+				 81
+		[:extracted_metadata:sha1]
+			 5d6d8f4612b0ee331f032b7b4fa3e31e12e94f80
+		[:extracted_metadata:filename]
+			 Ruby Jade Corado.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 0eebe120-543c-4c39-a3f1-3970b24fbc03
+		[:result_metadata:confidence]
+			 0.09794081149956196
+		[:result_metadata:score]
+			 11.987441
+	[:text]
+		 no title
+
+Gay rights activist David Kato was a leading figure in the LGBT community of Uganda. Considered a father of the gay rights movemen[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.691873
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 31
+					[0:sentiment:score]
+						 -0.230506
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 David Kato
+				[0:relevance]
+					 0.933173
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 David Kato
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Kato
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 -0.370734
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Uganda
+				[1:relevance]
+					 0.380369
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 BoardMember
+						[2]
+							 Country
+					[1:disambiguation:name]
+						 Uganda
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Uganda
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 -0.562118
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 Ugandan legislature
+				[2:relevance]
+					 0.160434
+				[2:type]
+					 Organization
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Ugandan government
+				[3:relevance]
+					 0.159326
+				[3:type]
+					 Organization
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0.491131
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 South Africa
+				[4:relevance]
+					 0.145855
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Region
+				[5:count]
+					 4
+					[5:sentiment:score]
+						 -0.632846
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 murder
+				[5:relevance]
+					 0.126611
+				[5:type]
+					 Crime
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Waswa
+				[6:relevance]
+					 0.121393
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 4
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 advocacy officer
+				[7:relevance]
+					 0.114752
+				[7:type]
+					 JobTitle
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 -0.648873
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Sidney Nsubuga Enoch
+				[8:relevance]
+					 0.110988
+				[8:type]
+					 Person
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 officer
+				[9:relevance]
+					 0.09802
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Val Kalende
+				[10:relevance]
+					 0.092771
+				[10:type]
+					 Person
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.542117
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 U.S.
+				[11:relevance]
+					 0.089108
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[11:disambiguation:name]
+						 United States
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Mukono
+				[12:relevance]
+					 0.087691
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+					[12:disambiguation:name]
+						 Mukono Town
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mukono_Town
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Kampala
+				[13:relevance]
+					 0.086219
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 City
+					[13:disambiguation:name]
+						 Kampala
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kampala
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 30 years
+				[14:relevance]
+					 0.086219
+				[14:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.949182
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 LGBT social movements
+				[1:relevance]
+					 0.764679
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[2:text]
+					 LGBT
+				[2:relevance]
+					 0.663791
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[3:text]
+					 Sexual orientation
+				[3:relevance]
+					 0.621542
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexual_orientation
+				[4:text]
+					 Gay
+				[4:relevance]
+					 0.598
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[5:text]
+					 Coming out
+				[5:relevance]
+					 0.575162
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Coming_out
+				[6:text]
+					 Murder
+				[6:relevance]
+					 0.504936
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Murder
+				[7:text]
+					 Sexuality and gender identity-based cultures
+				[7:relevance]
+					 0.479691
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexuality_and_gender_identity-based_cultures
+		[:enriched_text:categories]
+				[0:score]
+					 0.999874
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K1650008003
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 LGBT social movements
+			[2]
+				 LGBT
+			[3]
+				 Sexual orientation
+			[4]
+				 Gay
+			[5]
+				 Coming out
+			[6]
+				 Murder
+			[7]
+				 Sexuality and gender identity-based cultures
+			[8]
+				 Human rights
+			[9]
+				 Queer
+		[:metadata:keywords]
+			[0]
+				 Gay rights activist David Kato
+			[1]
+				 Ugandan tabloid Kato
+			[2]
+				 following year
+			[3]
+				 small Ugandan village
+			[4]
+				 twin brother
+			[5]
+				 Sidney Nsubuga Enoch
+			[6]
+				 South Africa
+			[7]
+				 homosexual male
+			[8]
+				 LGBT community of Uganda
+			[9]
+				 Ugandan government
+		[:metadata:entitites]
+			[0]
+				 Kato
+			[1]
+				 Uganda
+			[2]
+				 Waswa
+			[3]
+				 David Kato
+			[4]
+				 South Africa
+			[5]
+				 SMUG
+			[6]
+				 Ugandan legislature
+			[7]
+				 Mukono
+			[8]
+				 Africa
+			[9]
+				 Val Kalende
+		[:metadata:title]
+			 David Kato
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 87
+			[:metadata:gale:gale-fake-waiting]
+				 91
+		[:extracted_metadata:sha1]
+			 e8f6a4b73320b3d29102fddb5500be09022d5988
+		[:extracted_metadata:filename]
+			 David Kato.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 e940e106-6475-4e43-970b-782d3f7c844b
+		[:result_metadata:confidence]
+			 0.0916400077458923
+		[:result_metadata:score]
+			 11.890276
+	[:text]
+		 no title
+
+TSANG, Daniel Chuen-Tuen (b.27 October 1949), activist, scholar, educator, journalist. Daniel Chuen-Tuen Tsang was born in 1949 in[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.326726
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 18
+					[0:sentiment:score]
+						 0.429468
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Daniel Chuen-Tuen Tsang
+				[0:relevance]
+					 0.912324
+				[0:type]
+					 Person
+				[1:count]
+					 3
+					[1:sentiment:score]
+						 0.450242
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Hong Kong
+				[1:relevance]
+					 0.175476
+				[1:type]
+					 Location
+					[1:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Country
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 BodyOfWater
+						[5]
+							 Cuisine
+						[6]
+							 City
+					[1:disambiguation:name]
+						 Hong Kong
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hong_Kong
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 University of Hong Kong
+				[2:relevance]
+					 0.157178
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[2:disambiguation:name]
+						 University of Hong Kong
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Hong_Kong
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 University of Michigan
+				[3:relevance]
+					 0.1497
+				[3:type]
+					 Organization
+					[3:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[3:disambiguation:name]
+						 University of Michigan
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Michigan
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 United States
+				[4:relevance]
+					 0.132471
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[4:disambiguation:name]
+						 United States
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Gay Liberation Front
+				[5:relevance]
+					 0.126023
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Gay Liberation Front
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gay_Liberation_Front
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Philadelphia
+				[6:relevance]
+					 0.120518
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicBiddingCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 AirportOperator
+						[5]
+							 City
+					[6:disambiguation:name]
+						 Philadelphia
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Philadelphia
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 University of Redlands
+				[7:relevance]
+					 0.118871
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[7:disambiguation:name]
+						 University of Redlands
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Redlands
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 University of Washington
+				[8:relevance]
+					 0.116098
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[8:disambiguation:name]
+						 University of Washington
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Washington
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Michigan
+				[9:relevance]
+					 0.115418
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[9:disambiguation:name]
+						 Michigan
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michigan
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Daniel Chuen-Tuen
+				[10:relevance]
+					 0.110935
+				[10:type]
+					 Person
+				[11:count]
+					 3
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 founder
+				[11:relevance]
+					 0.107638
+				[11:type]
+					 JobTitle
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Alternative Research Center and Alliance
+				[12:relevance]
+					 0.106581
+				[12:type]
+					 Organization
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Diocesan Boys School
+				[13:relevance]
+					 0.101892
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[13:disambiguation:name]
+						 Diocesan Boys' School
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Diocesan_Boys'_School
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.35975
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Kenneth
+				[14:relevance]
+					 0.100975
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Richard Fung
+				[15:relevance]
+					 0.099861
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 FilmDirector
+						[1]
+							 VisualArtist
+					[15:disambiguation:name]
+						 Richard Fung
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Richard_Fung
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 U.S. Underground Alternative Press
+				[16:relevance]
+					 0.099544
+				[16:type]
+					 Organization
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0.303115
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Josephine
+				[17:relevance]
+					 0.099292
+				[17:type]
+					 Person
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Mini Liu
+				[18:relevance]
+					 0.095419
+				[18:type]
+					 Company
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Washington
+				[19:relevance]
+					 0.095292
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[19:disambiguation:name]
+						 Washington, D.C.
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Temple University
+				[20:relevance]
+					 0.09529
+				[20:type]
+					 Organization
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0.323111
+					[21:sentiment:label]
+						 positive
+				[21:text]
+					 Don Kao
+				[21:relevance]
+					 0.092919
+				[21:type]
+					 Person
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Boston
+				[22:relevance]
+					 0.092748
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 City
+					[22:disambiguation:name]
+						 Boston
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Boston
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Anglican Anglo-Chinese school
+				[23:relevance]
+					 0.091528
+				[23:type]
+					 Organization
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Ann Arbor
+				[24:relevance]
+					 0.090438
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0.429303
+					[25:sentiment:label]
+						 positive
+				[25:text]
+					 Tana Loy
+				[25:relevance]
+					 0.090405
+				[25:type]
+					 Person
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Chua
+				[26:relevance]
+					 0.089213
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 D.C. Attendants
+				[27:relevance]
+					 0.088654
+				[27:type]
+					 Organization
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Graduate Employees Organization
+				[28:relevance]
+					 0.088599
+				[28:type]
+					 Organization
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Michiyo Cornell
+				[29:relevance]
+					 0.080887
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 thirty years
+				[30:relevance]
+					 0.080887
+				[30:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Homosexuality
+				[0:relevance]
+					 0.987386
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.840969
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[2:text]
+					 LGBT
+				[2:relevance]
+					 0.81074
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[3:text]
+					 Asian American
+				[3:relevance]
+					 0.668643
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Asian_American
+				[4:text]
+					 Bisexuality
+				[4:relevance]
+					 0.648489
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bisexuality
+				[5:text]
+					 Gay Liberation
+				[5:relevance]
+					 0.622493
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_Liberation
+				[6:text]
+					 LGBT social movements
+				[6:relevance]
+					 0.619572
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT_social_movements
+				[7:text]
+					 Coming out
+				[7:relevance]
+					 0.597336
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Coming_out
+		[:enriched_text:categories]
+				[0:score]
+					 0.999974
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600514
+		[:metadata:concepts]
+			[0]
+				 Homosexuality
+			[1]
+				 United States
+			[2]
+				 LGBT
+			[3]
+				 Asian American
+			[4]
+				 Bisexuality
+			[5]
+				 Gay Liberation
+			[6]
+				 LGBT social movements
+			[7]
+				 Coming out
+			[8]
+				 Sexual orientation
+			[9]
+				 Philadelphia
+		[:metadata:keywords]
+			[0]
+				 Daniel Chuen-Tuen Tsang
+			[1]
+				 Asian American activist organization
+			[2]
+				 graduate work
+			[3]
+				 Ann Arbor's Gay Liberation Front
+			[4]
+				 Hong Kong
+			[5]
+				 University of Hong Kong
+			[6]
+				 Daniel Chuen-Tuen
+			[7]
+				 independent alternative media
+			[8]
+				 United States
+			[9]
+				 Philadelphia's Asian Americans United
+		[:metadata:entitites]
+			[0]
+				 Tsang
+			[1]
+				 Daniel Chuen
+			[2]
+				 Hong Kong
+			[3]
+				 Tuen Tsang
+			[4]
+				 University of Hong Kong
+			[5]
+				 Diocesan Boys School
+			[6]
+				 Anglican Anglo
+			[7]
+				 GEO
+			[8]
+				 Gay Liberation Front
+			[9]
+				 Graduate Employees Organization
+		[:metadata:title]
+			 Daniel C. Tsang
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 7
+			[:metadata:gale:gale-fake-waiting]
+				 31
+		[:extracted_metadata:sha1]
+			 9488318e1dee8ba9e962d1a1eccb88a2986ccfa6
+		[:extracted_metadata:filename]
+			 Daniel C. Tsang.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 8da69fc9-5262-4258-a3b6-d7518ff899da
+		[:result_metadata:confidence]
+			 0.08903629373037902
+		[:result_metadata:score]
+			 11.850124
+	[:text]
+		 no title
+
+RUSSO, Vito (b. 11 July 1946; d. 7 November 1990), film critic, writer, activist. Born in New York, Russo received his bachelor's [...]
+				[:enriched_text:sentiment:document:score]
+					 0.423073
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 11
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Vito Russo
+				[0:relevance]
+					 0.869967
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 FilmWriter
+					[0:disambiguation:name]
+						 Vito Russo
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vito_Russo
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0.541832
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Russo Center Library
+				[1:relevance]
+					 0.373227
+				[1:type]
+					 Facility
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 New York City
+				[2:relevance]
+					 0.332636
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[2:disambiguation:name]
+						 New York City
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0.37025
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 AIDS
+				[3:relevance]
+					 0.234425
+				[3:type]
+					 HealthCondition
+					[3:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 DiseaseOrMedicalCondition
+						[2]
+							 CauseOfDeath
+						[3]
+							 DiseaseCause
+						[4]
+							 RiskFactor
+						[5]
+							 Disease
+						[6]
+							 OrganizationSector
+					[3:disambiguation:name]
+						 AIDS
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AIDS
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 New York University
+				[4:relevance]
+					 0.225402
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[4:disambiguation:name]
+						 New York University
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_University
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Hollywood
+				[5:relevance]
+					 0.216379
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 City
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Gay Activists Alliance
+				[6:relevance]
+					 0.215335
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Gay Activists Alliance
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Gay_Activists_Alliance
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Fairleigh Dickinson University
+				[7:relevance]
+					 0.20139
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[7:disambiguation:name]
+						 Fairleigh Dickinson University
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fairleigh_Dickinson_University
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Judy Garland
+				[8:relevance]
+					 0.196728
+				[8:type]
+					 Person
+					[8:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 MusicalArtist
+						[2]
+							 AwardNominee
+						[3]
+							 AwardWinner
+						[4]
+							 BroadcastArtist
+						[5]
+							 FilmActor
+						[6]
+							 MusicalGroupMember
+						[7]
+							 TVActor
+					[8:disambiguation:name]
+						 Judy Garland
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Judy_Garland
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 AIDS Coalition
+				[9:relevance]
+					 0.19103
+				[9:type]
+					 Organization
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Lesbian and Gay Community Services Center
+				[10:relevance]
+					 0.190716
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Museum of Modern Art
+				[11:relevance]
+					 0.189599
+				[11:type]
+					 Facility
+					[11:disambiguation:subtype]
+						[0]
+							 Organization
+						[1]
+							 Location
+						[2]
+							 TouristAttraction
+						[3]
+							 Building
+						[4]
+							 Museum
+					[11:disambiguation:name]
+						 Museum of Modern Art
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Museum_of_Modern_Art
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.396532
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Larry Kramer
+				[12:relevance]
+					 0.183451
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 Writer
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FilmProducer
+						[4]
+							 FilmWriter
+						[5]
+							 FilmActor
+					[12:disambiguation:name]
+						 Larry Kramer
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Larry_Kramer
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Department of Health and Human Services
+				[13:relevance]
+					 0.181699
+				[13:type]
+					 Organization
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 United States Department of Health and Human Services
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services[...]
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 writer
+				[14:relevance]
+					 0.180922
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Albany
+				[15:relevance]
+					 0.172007
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[15:disambiguation:name]
+						 Albany, New York
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Albany,_New_York
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Washington
+				[16:relevance]
+					 0.166346
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 MilitaryPost
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 City
+					[16:disambiguation:name]
+						 Washington, D.C.
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Washington,_D.C.
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 D.C.
+				[17:relevance]
+					 0.154893
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 founding member
+				[18:relevance]
+					 0.154638
+				[18:type]
+					 JobTitle
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0.326069
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 Stuart Marshall
+				[19:relevance]
+					 0.152913
+				[19:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Gay
+				[0:relevance]
+					 0.981202
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay
+				[1:text]
+					 Homosexuality
+				[1:relevance]
+					 0.928535
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Homosexuality
+				[2:text]
+					 LGBT
+				[2:relevance]
+					 0.792947
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/LGBT
+				[3:text]
+					 Queer
+				[3:relevance]
+					 0.726303
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Queer
+				[4:text]
+					 Gay community
+				[4:relevance]
+					 0.700207
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Gay_community
+				[5:text]
+					 Sexuality and gender identity-based cultures
+				[5:relevance]
+					 0.600723
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Sexuality_and_gender_identity-based_cultures
+				[6:text]
+					 Lesbian
+				[6:relevance]
+					 0.583668
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Lesbian
+				[7:text]
+					 New York City
+				[7:relevance]
+					 0.535438
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/New_York_City
+		[:enriched_text:categories]
+				[0:score]
+					 0.999785
+				[0:label]
+					 /society/gay life
+		[:metadata:docid]
+			 K3403600448
+		[:metadata:concepts]
+			[0]
+				 Gay
+			[1]
+				 Homosexuality
+			[2]
+				 LGBT
+			[3]
+				 Queer
+			[4]
+				 Gay community
+			[5]
+				 Sexuality and gender identity-based cultures
+			[6]
+				 Lesbian
+			[7]
+				 New York City
+			[8]
+				 Gay pride
+			[9]
+				 Bisexuality
+		[:metadata:keywords]
+			[0]
+				 New York
+			[1]
+				 film critic
+			[2]
+				 Human Services
+			[3]
+				 discussion of queer representation
+			[4]
+				 scholar-ship
+			[5]
+				 early work
+			[6]
+				 Russo's important contribution
+			[7]
+				 film department
+			[8]
+				 early 1970s
+			[9]
+				 Russo's premises
+		[:metadata:entitites]
+			[0]
+				 Russo
+			[1]
+				 Gay Activists Alliance
+			[2]
+				 Fairleigh Dickinson University
+			[3]
+				 Vito
+			[4]
+				 RUSSO
+			[5]
+				 Museum of Modern Art
+			[6]
+				 New York University
+			[7]
+				 AIDS
+			[8]
+				 New York
+			[9]
+				 Stuart Marshall
+		[:metadata:title]
+			 Vito Russo
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 2
+			[:metadata:gale:gale-fake-waiting]
+				 88
+		[:extracted_metadata:sha1]
+			 7f0abdd3967db7a06cb280bcf38e228fcfba4523
+		[:extracted_metadata:filename]
+			 Vito Russo.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

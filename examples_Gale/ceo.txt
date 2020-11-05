@@ -1,0 +1,7217 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 5463136d-255b-4446-8883-e1bf1395a29b
+		[:result_metadata:confidence]
+			 0.1419724160207949
+		[:result_metadata:score]
+			 8.955854
+	[:text]
+		 no title
+
+Robert Menendez (1954-), U.S. senator (D-NJ). Mary Jo White (1947-), Chair of the Securities and Exchange Commission. David Zaslav[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.264085
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 0.020969
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 CEO
+				[0:relevance]
+					 0.819428
+				[0:type]
+					 JobTitle
+				[1:count]
+					 8
+					[1:sentiment:score]
+						 -0.370253
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Securities and Exchange Commission
+				[1:relevance]
+					 0.448917
+				[1:type]
+					 Organization
+					[1:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+						[1]
+							 GovernmentalBody
+					[1:disambiguation:name]
+						 U.S. Securities and Exchange Commission
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 0.519842
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 United States
+				[2:relevance]
+					 0.37332
+				[2:type]
+					 Location
+					[2:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[2:disambiguation:name]
+						 United States
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 0.641842
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 executive
+				[3:relevance]
+					 0.322252
+				[3:type]
+					 JobTitle
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0.232018
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Harvard Business School
+				[4:relevance]
+					 0.321772
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 University
+					[4:disambiguation:name]
+						 Harvard Business School
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_Business_School
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.318007
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Senator Robert Menendez
+				[5:relevance]
+					 0.296333
+				[5:type]
+					 Person
+					[5:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Senator
+						[2]
+							 TVPersonality
+						[3]
+							 U.S.Congressperson
+					[5:disambiguation:name]
+						 Bob Menendez
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bob_Menendez
+				[6:count]
+					 3
+					[6:sentiment:score]
+						 0.728905
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 David Zaslav
+				[6:relevance]
+					 0.28387
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 David Zaslav
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/David_Zaslav
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Mary Jo White
+				[7:relevance]
+					 0.273294
+				[7:type]
+					 Person
+					[7:disambiguation:subtype]
+						[0]
+							 Athlete
+						[1]
+							 BasketballCoach
+						[2]
+							 BasketballPlayer
+						[3]
+							 OlympicAthlete
+						[4]
+							 SportsLeagueAwardWinner
+					[7:disambiguation:name]
+						 Jo Jo White
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jo_Jo_White
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Discovery Communications
+				[8:relevance]
+					 0.254555
+				[8:type]
+					 Company
+					[8:disambiguation:subtype]
+						[0]
+							 AwardWinner
+					[8:disambiguation:name]
+						 Discovery Communications
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Discovery_Communications
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Economic Policy Institute
+				[9:relevance]
+					 0.246912
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Economic Policy Institute
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Economic_Policy_Institute
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 U.S. Congress
+				[10:relevance]
+					 0.23298
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Dedicator
+						[1]
+							 GovernmentalBody
+						[2]
+							 Legislature
+						[3]
+							 NaturalOrCulturalPreservationAgency
+					[10:disambiguation:name]
+						 United States Congress
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Congress
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.717618
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 SEC
+				[11:relevance]
+					 0.223194
+				[11:type]
+					 Organization
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 senator
+				[12:relevance]
+					 0.210873
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 chief executive
+				[13:relevance]
+					 0.203492
+				[13:type]
+					 JobTitle
+				[14:count]
+					 2
+					[14:sentiment:score]
+						 0.484916
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Walmart
+				[14:relevance]
+					 0.200666
+				[14:type]
+					 Company
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 Walmart
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Walmart
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Hillary Clinton
+				[15:relevance]
+					 0.198146
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Appointee
+						[2]
+							 AwardWinner
+						[3]
+							 BoardMember
+						[4]
+							 Celebrity
+						[5]
+							 HallOfFameInductee
+						[6]
+							 OperaCharacter
+						[7]
+							 Senator
+						[8]
+							 U.S.Congressperson
+						[9]
+							 TVActor
+					[15:disambiguation:name]
+						 Hillary Rodham Clinton
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hillary_Rodham_Clinton
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 AFL-CIO
+				[16:relevance]
+					 0.198094
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+					[16:disambiguation:name]
+						 AFL–CIO
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AFL–CIO
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.478986
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Michael Norton
+				[17:relevance]
+					 0.197109
+				[17:type]
+					 Person
+					[17:disambiguation:subtype]
+					[17:disambiguation:name]
+						 Michael Norton
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michael_Norton
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Bernie Sanders
+				[18:relevance]
+					 0.194257
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 Senator
+						[2]
+							 U.S.Congressperson
+						[3]
+							 FilmActor
+					[18:disambiguation:name]
+						 Bernie Sanders
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bernie_Sanders
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 McDonalds
+				[19:relevance]
+					 0.19417
+				[19:type]
+					 Company
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 McDonald's
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/McDonald's
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Whole Foods
+				[20:relevance]
+					 0.189415
+				[20:type]
+					 Company
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0.345731
+					[21:sentiment:label]
+						 positive
+				[21:text]
+					 Doug McMillon
+				[21:relevance]
+					 0.189075
+				[21:type]
+					 Person
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 -0.432594
+					[22:sentiment:label]
+						 negative
+				[22:text]
+					 Daniel M. Gallagher
+				[22:relevance]
+					 0.18719
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Switzerland
+				[23:relevance]
+					 0.185477
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 Country
+					[23:disambiguation:name]
+						 Switzerland
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Switzerland
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Germany
+				[24:relevance]
+					 0.184386
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[24:disambiguation:name]
+						 Germany
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Germany
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 America
+				[25:relevance]
+					 0.183805
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 Continent
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Noble Energy
+				[26:relevance]
+					 0.17921
+				[26:type]
+					 Company
+					[26:disambiguation:subtype]
+					[26:disambiguation:name]
+						 Noble Energy
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Noble_Energy
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Starbucks
+				[27:relevance]
+					 0.177308
+				[27:type]
+					 Company
+					[27:disambiguation:subtype]
+					[27:disambiguation:name]
+						 Starbucks
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Starbucks
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Charles Elson
+				[28:relevance]
+					 0.175248
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Robert L. Jackson Jr.
+				[29:relevance]
+					 0.173462
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0.232018
+					[30:sentiment:label]
+						 positive
+				[30:text]
+					 professor
+				[30:relevance]
+					 0.171895
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 John L. Weinberg Center for Corporate Governance
+				[31:relevance]
+					 0.1675
+				[31:type]
+					 Organization
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0.728905
+					[32:sentiment:label]
+						 positive
+				[32:text]
+					 Chipotle
+				[32:relevance]
+					 0.166647
+				[32:type]
+					 Company
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 professor of law
+				[33:relevance]
+					 0.161348
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 University of Delaware
+				[34:relevance]
+					 0.161329
+				[34:type]
+					 Organization
+					[34:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[34:disambiguation:name]
+						 University of Delaware
+					[34:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Delaware
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 director
+				[35:relevance]
+					 0.160926
+				[35:type]
+					 JobTitle
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Columbia University
+				[36:relevance]
+					 0.157801
+				[36:type]
+					 Organization
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0.559923
+					[37:sentiment:label]
+						 positive
+				[37:text]
+					 CVS Health
+				[37:relevance]
+					 0.145743
+				[37:type]
+					 Company
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 $156.1 million
+				[38:relevance]
+					 0.145743
+				[38:type]
+					 Quantity
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 $25.6 million
+				[39:relevance]
+					 0.145743
+				[39:type]
+					 Quantity
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 10.9 percent
+				[40:relevance]
+					 0.145743
+				[40:type]
+					 Quantity
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 $12 million
+				[41:relevance]
+					 0.145743
+				[41:type]
+					 Quantity
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 997 percent
+				[42:relevance]
+					 0.145743
+				[42:type]
+					 Quantity
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Fifty years
+				[43:relevance]
+					 0.145743
+				[43:type]
+					 Quantity
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 five years
+				[44:relevance]
+					 0.145743
+				[44:type]
+					 Quantity
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 six months
+				[45:relevance]
+					 0.145743
+				[45:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Chief executive officer
+				[0:relevance]
+					 0.962743
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[1:text]
+					 Salary
+				[1:relevance]
+					 0.927288
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Salary
+				[2:text]
+					 Executive officer
+				[2:relevance]
+					 0.785117
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+				[3:text]
+					 Corporate governance
+				[3:relevance]
+					 0.730126
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Corporate_governance
+				[4:text]
+					 U.S. Securities and Exchange Commission
+				[4:relevance]
+					 0.715842
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+				[5:text]
+					 Laborer
+				[5:relevance]
+					 0.70816
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Laborer
+				[6:text]
+					 Executive compensation
+				[6:relevance]
+					 0.656078
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_compensation
+				[7:text]
+					 Chief executives
+				[7:relevance]
+					 0.621751
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executives
+		[:enriched_text:categories]
+				[0:score]
+					 0.855594
+				[0:label]
+					 /finance/financial news
+				[1:score]
+					 0.796852
+				[1:label]
+					 /society/work
+				[2:score]
+					 0.77811
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 BT2359039957
+		[:metadata:concepts]
+			[0]
+				 Chief executive officer
+			[1]
+				 Salary
+			[2]
+				 Executive officer
+			[3]
+				 Corporate governance
+			[4]
+				 U.S. Securities and Exchange Commission
+			[5]
+				 Laborer
+			[6]
+				 Executive compensation
+			[7]
+				 Chief executives
+			[8]
+				 Ratio
+			[9]
+				 Bob Menendez
+		[:metadata:keywords]
+			[0]
+				 median pay of company employees
+			[1]
+				 much power consumers
+			[2]
+				 Harvard Business School
+			[3]
+				 unskilled workers
+			[4]
+				 small businesses
+			[5]
+				 ratio of CEO salaries
+			[6]
+				 U.S. companies
+			[7]
+				 CEO of Discovery Communications
+			[8]
+				 pay ratio disclosure rule
+			[9]
+				 public companies
+		[:metadata:entitites]
+			[0]
+				 SEC
+			[1]
+				 David Zaslav
+			[2]
+				 America
+			[3]
+				 Discovery Communications
+			[4]
+				 Mary Jo White
+			[5]
+				 chairwoman Mary Jo White
+			[6]
+				 $12 million
+			[7]
+				 Economic Policy Institute
+			[8]
+				 $80,000
+			[9]
+				 $156.1 million
+		[:metadata:title]
+			 CEO Pay Shines Light on Gap between Executive and Worker Pay
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 25
+			[:metadata:gale:gale-fake-waiting]
+				 40
+		[:extracted_metadata:sha1]
+			 1f535a2fbf564fc8744c720f6608aec003136ea5
+		[:extracted_metadata:filename]
+			 CEO Pay Shines Light on Gap between Executive and Worker Pay.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 e660faaa-0f3a-4367-bc73-2627f2b4beb0
+		[:result_metadata:confidence]
+			 0.12364051102985374
+		[:result_metadata:score]
+			 8.897286
+	[:text]
+		 no title
+
+On January 1, 2012, Virginia Rometty was appointed the first female CEO of the technology corporation IBM. Having been senior vice[...]
+				[:enriched_text:sentiment:document:score]
+					 0.732843
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 16
+					[0:sentiment:score]
+						 -0.281517
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Virginia Rometty
+				[0:relevance]
+					 0.889024
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Ginni Rometty
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ginni_Rometty
+				[1:count]
+					 7
+					[1:sentiment:score]
+						 0.077763
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 IBM
+				[1:relevance]
+					 0.732172
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 SoftwareLicense
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CompanyFounder
+						[5]
+							 ProgrammingLanguageDesigner
+						[6]
+							 ProgrammingLanguageDeveloper
+					[1:disambiguation:name]
+						 IBM
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/IBM
+				[2:count]
+					 7
+					[2:sentiment:score]
+						 0.077763
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.694232
+				[2:type]
+					 JobTitle
+				[3:count]
+					 4
+					[3:sentiment:score]
+						 -0.281517
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 CEO Sam Palmisano
+				[3:relevance]
+					 0.607289
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[3:disambiguation:name]
+						 Samuel J. Palmisano
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Samuel_J._Palmisano
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 -0.338287
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 senior vice president and group executive
+				[4:relevance]
+					 0.316976
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 General Motors Institute
+				[5:relevance]
+					 0.283555
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[5:disambiguation:name]
+						 Kettering University
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kettering_University
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Meg Whitman
+				[6:relevance]
+					 0.272213
+				[6:type]
+					 Person
+					[6:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[6:disambiguation:name]
+						 Meg Whitman
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Meg_Whitman
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Northwestern University
+				[7:relevance]
+					 0.269312
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[7:disambiguation:name]
+						 Northwestern University
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Northwestern_University
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0.437043
+					[8:sentiment:label]
+						 positive
+				[8:text]
+					 Ginni
+				[8:relevance]
+					 0.261227
+				[8:type]
+					 Person
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 PricewaterhouseCoopers
+				[9:relevance]
+					 0.250281
+				[9:type]
+					 Company
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 PricewaterhouseCoopers
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/PricewaterhouseCoopers
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Hewlett-Packard
+				[10:relevance]
+					 0.246674
+				[10:type]
+					 Company
+					[10:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 AcademicInstitution
+					[10:disambiguation:name]
+						 Hewlett-Packard
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hewlett-Packard
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 CNN
+				[11:relevance]
+					 0.245108
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+						[0]
+							 Broadcast
+						[1]
+							 AwardWinner
+						[2]
+							 RadioNetwork
+						[3]
+							 TVNetwork
+					[11:disambiguation:name]
+						 CNN
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/CNN
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 Chicago
+				[12:relevance]
+					 0.242047
+				[12:type]
+					 Location
+					[12:disambiguation:subtype]
+						[0]
+							 City
+					[12:disambiguation:name]
+						 Chicago
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Chicago
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Africa
+				[13:relevance]
+					 0.241956
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 Continent
+					[13:disambiguation:name]
+						 Africa
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Africa
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 systems engineer
+				[14:relevance]
+					 0.236426
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Mark
+				[15:relevance]
+					 0.22645
+				[15:type]
+					 Person
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 China
+				[16:relevance]
+					 0.22016
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Kingdom
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 Country
+					[16:disambiguation:name]
+						 China
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/China
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.59184
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 IBMers
+				[17:relevance]
+					 0.218868
+				[17:type]
+					 Company
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 India
+				[18:relevance]
+					 0.187392
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 Country
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Brazil
+				[19:relevance]
+					 0.183587
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 Country
+		[:enriched_text:concepts]
+				[0:text]
+					 IBM
+				[0:relevance]
+					 0.968218
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/IBM
+				[1:text]
+					 Computer
+				[1:relevance]
+					 0.821949
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[2:text]
+					 Electrical engineering
+				[2:relevance]
+					 0.769996
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Electrical_engineering
+				[3:text]
+					 Engineering
+				[3:relevance]
+					 0.664622
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Engineering
+				[4:text]
+					 Samuel J. Palmisano
+				[4:relevance]
+					 0.642359
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Samuel_J._Palmisano
+				[5:text]
+					 Smarter Planet
+				[5:relevance]
+					 0.614023
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Smarter_Planet
+				[6:text]
+					 Louis V. Gerstner, Jr.
+				[6:relevance]
+					 0.570322
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Louis_V._Gerstner,_Jr.
+				[7:text]
+					 Bachelor of Science
+				[7:relevance]
+					 0.562108
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Bachelor_of_Science
+		[:enriched_text:categories]
+				[0:score]
+					 0.940153
+				[0:label]
+					 /business and industrial/company
+				[1:score]
+					 0.902362
+				[1:label]
+					 /business and industrial/company/merger and acquisition
+				[2:score]
+					 0.819359
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 K1650007963
+		[:metadata:concepts]
+			[0]
+				 IBM
+			[1]
+				 Computer
+			[2]
+				 Electrical engineering
+			[3]
+				 Engineering
+			[4]
+				 Samuel J. Palmisano
+			[5]
+				 Smarter Planet
+			[6]
+				 Louis V. Gerstner, Jr.
+			[7]
+				 Bachelor of Science
+			[8]
+				 Academic degree
+			[9]
+				 Bachelor's degree
+		[:metadata:keywords]
+			[0]
+				 Virginia Rometty
+			[1]
+				 Sam Palmisano
+			[2]
+				 media reports
+			[3]
+				 senior vice president
+			[4]
+				 television game show
+			[5]
+				 giant Hewlett-Packard
+			[6]
+				 Watson supercomputer
+			[7]
+				 company's CEO
+			[8]
+				 Northwestern University
+			[9]
+				 first female CEO
+		[:metadata:entitites]
+			[0]
+				 Rometty
+			[1]
+				 IBM
+			[2]
+				 Virginia Rometty
+			[3]
+				 Palmisano
+			[4]
+				 General Motors Institute
+			[5]
+				 Rometty
+			[6]
+				 Sam Palmisano
+			[7]
+				 Northwestern University
+			[8]
+				 Chicago
+			[9]
+				 Brazil
+		[:metadata:title]
+			 Virginia Rometty
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 82
+			[:metadata:gale:gale-fake-waiting]
+				 76
+		[:extracted_metadata:sha1]
+			 b583e0263ebe73cefb3736d7b213ed854c4a9d89
+		[:extracted_metadata:filename]
+			 Virginia Rometty.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 ff154ed1-3a0f-4a1b-910e-b0b28483ad24
+		[:result_metadata:confidence]
+			 0.11886785553023176
+		[:result_metadata:score]
+			 8.882038
+	[:text]
+		 no title
+
+Cathy Engelbert, an American businesswoman, is the chief executive officer (CEO) of Deloitte LLP. She made national headlines in 2[...]
+				[:enriched_text:sentiment:document:score]
+					 0.568455
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 14
+					[0:sentiment:score]
+						 0.724
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Deloitte LLP
+				[0:relevance]
+					 0.858861
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Deloitte
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Deloitte
+				[1:count]
+					 29
+					[1:sentiment:score]
+						 0.724
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 Cathy Engelbert
+				[1:relevance]
+					 0.680561
+				[1:type]
+					 Person
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.209685
+				[2:type]
+					 JobTitle
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0.325628
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 New Jersey
+				[3:relevance]
+					 0.16657
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[3:disambiguation:name]
+						 New Jersey
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Financial Accounting Standards Advisory Council
+				[4:relevance]
+					 0.140522
+				[4:type]
+					 Organization
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 United States
+				[5:relevance]
+					 0.117099
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[5:disambiguation:name]
+						 United States
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 chief executive officer
+				[6:relevance]
+					 0.110609
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Collingswood
+				[7:relevance]
+					 0.108982
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+					[7:disambiguation:name]
+						 Collingswood, New Jersey
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Collingswood,_New_Jersey
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 New York
+				[8:relevance]
+					 0.108043
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[8:disambiguation:name]
+						 New York City
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Lehigh University
+				[9:relevance]
+					 0.105626
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 CollegeUniversity
+						[1]
+							 University
+					[9:disambiguation:name]
+						 Lehigh University
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lehigh_University
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Pennsylvania
+				[10:relevance]
+					 0.099207
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 GovernmentAgency
+						[5]
+							 StateOrCounty
+					[10:disambiguation:name]
+						 Pennsylvania
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pennsylvania
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Frank Friedman
+				[11:relevance]
+					 0.090681
+				[11:type]
+					 Person
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.548514
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Ernst & Young
+				[12:relevance]
+					 0.090116
+				[12:type]
+					 Company
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 Ernst & Young
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ernst_&_Young
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 India
+				[13:relevance]
+					 0.088342
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 Region
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[13:disambiguation:name]
+						 India
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/India
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 PricewaterhouseCoopers
+				[14:relevance]
+					 0.085818
+				[14:type]
+					 Company
+					[14:disambiguation:subtype]
+					[14:disambiguation:name]
+						 PricewaterhouseCoopers
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/PricewaterhouseCoopers
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 KPMG
+				[15:relevance]
+					 0.084637
+				[15:type]
+					 Company
+					[15:disambiguation:subtype]
+					[15:disambiguation:name]
+						 KPMG
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/KPMG
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 $15 billion
+				[16:relevance]
+					 0.084637
+				[16:type]
+					 Quantity
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 30 years
+				[17:relevance]
+					 0.084637
+				[17:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Chief executive officer
+				[0:relevance]
+					 0.964219
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[1:text]
+					 United States
+				[1:relevance]
+					 0.873012
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/United_States
+				[2:text]
+					 Executive officer
+				[2:relevance]
+					 0.852677
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+				[3:text]
+					 New Jersey
+				[3:relevance]
+					 0.685621
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/New_Jersey
+				[4:text]
+					 Management consulting
+				[4:relevance]
+					 0.642525
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_consulting
+				[5:text]
+					 Chief executives
+				[5:relevance]
+					 0.619339
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executives
+				[6:text]
+					 Pennsylvania
+				[6:relevance]
+					 0.601761
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Pennsylvania
+				[7:text]
+					 Big Four auditors
+				[7:relevance]
+					 0.589815
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Big_Four_auditors
+		[:enriched_text:categories]
+				[0:score]
+					 0.999666
+				[0:label]
+					 /finance/accounting and auditing
+		[:metadata:docid]
+			 K1650009676
+		[:metadata:concepts]
+			[0]
+				 Chief executive officer
+			[1]
+				 United States
+			[2]
+				 Executive officer
+			[3]
+				 New Jersey
+			[4]
+				 Management consulting
+			[5]
+				 Chief executives
+			[6]
+				 Pennsylvania
+			[7]
+				 Big Four auditors
+			[8]
+				 Ernst & Young
+			[9]
+				 Business and financial operations occupations
+		[:metadata:keywords]
+			[0]
+				 Cathy Engelbert
+			[1]
+				 Deloitte LLP
+			[2]
+				 head of Deloitte
+			[3]
+				 ranks of the company
+			[4]
+				 first female CEO
+			[5]
+				 national headlines
+			[6]
+				 close attention
+			[7]
+				 CEO of Deloitte LLP
+			[8]
+				 American businesswoman
+			[9]
+				 chief executive officer
+		[:metadata:entitites]
+			[0]
+				 Deloitte
+			[1]
+				 Engelbert
+			[2]
+				 Cathy Engelbert
+			[3]
+				 New Jersey
+			[4]
+				 $15 billion
+			[5]
+				 Collingswood
+			[6]
+				 Lehigh University
+			[7]
+				 CEO Frank Friedman
+			[8]
+				 United States
+			[9]
+				 Pennsylvania
+		[:metadata:title]
+			 Cathy Engelbert
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 0
+			[:metadata:gale:gale-fake-waiting]
+				 87
+		[:extracted_metadata:sha1]
+			 927a65d7ff129012bc0426efcb449d4a0e1e106a
+		[:extracted_metadata:filename]
+			 Cathy Engelbert.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 f038b479-0460-48ed-a35b-616e20968987
+		[:result_metadata:confidence]
+			 0.09874964774965658
+		[:result_metadata:score]
+			 8.817763
+	[:text]
+		 no title
+
+Robert Duncan Krebs is chairman and chief executive officer (CEO) of the Burlington Northern Santa Fe Corporation (BNSF), Fort Wor[...]
+				[:enriched_text:sentiment:document:score]
+					 0.580602
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 18
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 assistant vice president
+				[0:relevance]
+					 0.885738
+				[0:type]
+					 JobTitle
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Santa Fe Railway Company
+				[1:relevance]
+					 0.589829
+				[1:type]
+					 Company
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Southern Pacific Transportation Company
+				[2:relevance]
+					 0.546267
+				[2:type]
+					 Company
+					[2:disambiguation:subtype]
+					[2:disambiguation:name]
+						 Southern Pacific Transportation Company
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Southern_Pacific_Transportation_Company
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 president and CEO
+				[3:relevance]
+					 0.531518
+				[3:type]
+					 JobTitle
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 chairman and CEO
+				[4:relevance]
+					 0.498166
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Burlington Northern Santa Fe Corporation
+				[5:relevance]
+					 0.472459
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 Burlington Northern Santa Fe Corporation
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Burlington_Northern_Santa_Fe_Corporation
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Santa Fe Southern Pacific Corporation
+				[6:relevance]
+					 0.462782
+				[6:type]
+					 Company
+					[6:disambiguation:subtype]
+					[6:disambiguation:name]
+						 Santa Fe Pacific Corporation
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Santa_Fe_Pacific_Corporation
+				[7:count]
+					 4
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 chairman
+				[7:relevance]
+					 0.459811
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Santa Fe Southern Pacific
+				[8:relevance]
+					 0.400462
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 chairman and chief executive officer
+				[9:relevance]
+					 0.369287
+				[9:type]
+					 JobTitle
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 St. Louis Southwestern Railway Company
+				[10:relevance]
+					 0.366453
+				[10:type]
+					 Facility
+				[11:count]
+					 4
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 BNSF
+				[11:relevance]
+					 0.343212
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+					[11:disambiguation:name]
+						 BNSF Railway
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/BNSF_Railway
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 CEO
+				[12:relevance]
+					 0.322766
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 president and chief operating officer
+				[13:relevance]
+					 0.291657
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 assistant to the president
+				[14:relevance]
+					 0.22554
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.565265
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Fort Worth
+				[15:relevance]
+					 0.203434
+				[15:type]
+					 Location
+					[15:disambiguation:subtype]
+						[0]
+							 City
+					[15:disambiguation:name]
+						 Fort Worth, Texas
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Fort_Worth,_Texas
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Burlington
+				[16:relevance]
+					 0.173974
+				[16:type]
+					 Location
+					[16:disambiguation:subtype]
+						[0]
+							 City
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.573362
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Texas
+				[17:relevance]
+					 0.170809
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[17:disambiguation:name]
+						 Texas
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Phelps Dodge Corporation
+				[18:relevance]
+					 0.169895
+				[18:type]
+					 Company
+					[18:disambiguation:subtype]
+					[18:disambiguation:name]
+						 Phelps Dodge
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Phelps_Dodge
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Fort Worth Symphony Orchestra Association
+				[19:relevance]
+					 0.16412
+				[19:type]
+					 Organization
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Northwestern Memorial Corporation
+				[20:relevance]
+					 0.161766
+				[20:type]
+					 Facility
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Harvard School of Business
+				[21:relevance]
+					 0.159527
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 University
+					[21:disambiguation:name]
+						 Harvard Business School
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_Business_School
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Anne Lindstrom
+				[22:relevance]
+					 0.15634
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Association of American Railroads
+				[23:relevance]
+					 0.153273
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Association of American Railroads
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Association_of_American_Railroads
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Phi Beta Kappa
+				[24:relevance]
+					 0.149623
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+					[24:disambiguation:name]
+						 Phi Beta Kappa Society
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Phi_Beta_Kappa_Society
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 executive
+				[25:relevance]
+					 0.14747
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Sacramento
+				[26:relevance]
+					 0.141685
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 PlaceWithNeighborhoods
+						[2]
+							 City
+					[26:disambiguation:name]
+						 Sacramento, California
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sacramento,_California
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Robert
+				[27:relevance]
+					 0.140613
+				[27:type]
+					 Person
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Stanford University
+				[28:relevance]
+					 0.14037
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 SportsAssociation
+						[3]
+							 AcademicInstitution
+						[4]
+							 ChivalricOrderMember
+						[5]
+							 CollegeUniversity
+						[6]
+							 University
+					[28:disambiguation:name]
+						 Stanford University
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stanford_University
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Atchison
+				[29:relevance]
+					 0.139976
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 City
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Topeka
+				[30:relevance]
+					 0.135885
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0.330461
+					[31:sentiment:label]
+						 positive
+				[31:text]
+					 Texas Christian University
+				[31:relevance]
+					 0.135148
+				[31:type]
+					 Organization
+					[31:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[31:disambiguation:name]
+						 Texas Christian University
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas_Christian_University
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Duncan
+				[32:relevance]
+					 0.134961
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 California
+				[33:relevance]
+					 0.129232
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[33:disambiguation:name]
+						 California
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Elisabeth
+				[34:relevance]
+					 0.118717
+				[34:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Management occupations
+				[0:relevance]
+					 0.984893
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[1:text]
+					 Atchison, Topeka and Santa Fe Railway
+				[1:relevance]
+					 0.981286
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway
+				[2:text]
+					 Executive officer
+				[2:relevance]
+					 0.904612
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+				[3:text]
+					 Chief executives
+				[3:relevance]
+					 0.895775
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executives
+				[4:text]
+					 Chief executive officer
+				[4:relevance]
+					 0.882831
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[5:text]
+					 BNSF Railway
+				[5:relevance]
+					 0.872833
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/BNSF_Railway
+				[6:text]
+					 Former Class I railroads in the United States
+				[6:relevance]
+					 0.84642
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Former_Class_I_railroads_in_the_United_States
+				[7:text]
+					 Corporate governance
+				[7:relevance]
+					 0.784469
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Corporate_governance
+		[:enriched_text:categories]
+				[0:score]
+					 0.807933
+				[0:label]
+					 /business and industrial/company
+				[1:score]
+					 0.782898
+				[1:label]
+					 /business and industrial/company/merger and acquisition
+		[:metadata:docid]
+			 K1650001173
+		[:metadata:concepts]
+			[0]
+				 Management occupations
+			[1]
+				 Atchison, Topeka and Santa Fe Railway
+			[2]
+				 Executive officer
+			[3]
+				 Chief executives
+			[4]
+				 Chief executive officer
+			[5]
+				 BNSF Railway
+			[6]
+				 Former Class I railroads in the United States
+			[7]
+				 Corporate governance
+		[:metadata:keywords]
+			[0]
+				 Robert Duncan Krebs
+			[1]
+				 Southern Pacific Company
+			[2]
+				 Burlington Northern Santa Fe Corporation
+			[3]
+				 following year
+			[4]
+				 chief executive officer
+			[5]
+				 assistant vice president
+			[6]
+				 Fort Worth
+			[7]
+				 Burlington Northern
+			[8]
+				 Texas Christian University
+			[9]
+				 undergraduate degree
+		[:metadata:entitites]
+			[0]
+				 Southern Pacific Transportation Company
+			[1]
+				 Krebs
+			[2]
+				 St. Louis Southwestern Railway Company
+			[3]
+				 BNSF
+			[4]
+				 Burlington Northern Santa Fe Corporation
+			[5]
+				 Burlington Northern and Santa Fe Railway Company
+			[6]
+				 Robert Duncan
+			[7]
+				 Southern Pacific Corporation
+			[8]
+				 Santa Fe Railway Company
+			[9]
+				 Santa Fe
+		[:metadata:title]
+			 Robert Duncan Krebs
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 35
+			[:metadata:gale:gale-fake-waiting]
+				 41
+		[:extracted_metadata:sha1]
+			 79a1089fedfa6561ee141659036f026a1b0aca38
+		[:extracted_metadata:filename]
+			 Robert Duncan Krebs.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 ebaf9c7b-fe20-4c8a-9729-af732e3a7a7e
+		[:result_metadata:confidence]
+			 0.09793427736819599
+		[:result_metadata:score]
+			 8.815158
+	[:text]
+		 no title
+
+An accountant by training, Vittorio Mincato spent his entire professional career at the Italian oil and gas company Eni. After 40 [...]
+				[:enriched_text:sentiment:document:score]
+					 -0.393337
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 17
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Eni
+				[0:relevance]
+					 0.861991
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Eni
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Eni
+				[1:count]
+					 23
+					[1:sentiment:score]
+						 -0.3076
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Vittorio Mincato
+				[1:relevance]
+					 0.568201
+				[1:type]
+					 Person
+				[2:count]
+					 11
+					[2:sentiment:score]
+						 -0.628055
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.428036
+				[2:type]
+					 JobTitle
+				[3:count]
+					 7
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 chairman
+				[3:relevance]
+					 0.310481
+				[3:type]
+					 JobTitle
+				[4:count]
+					 5
+					[4:sentiment:score]
+						 0.105996
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Mincato
+				[4:relevance]
+					 0.277441
+				[4:type]
+					 Company
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 chairman and CEO
+				[5:relevance]
+					 0.250699
+				[5:type]
+					 JobTitle
+				[6:count]
+					 5
+					[6:sentiment:score]
+						 -0.411863
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 director
+				[6:relevance]
+					 0.211062
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 deputy chairman
+				[7:relevance]
+					 0.181888
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 assistant to the chairman
+				[8:relevance]
+					 0.179064
+				[8:type]
+					 JobTitle
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Minato
+				[9:relevance]
+					 0.165792
+				[9:type]
+					 Person
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 The Italian government
+				[10:relevance]
+					 0.159746
+				[10:type]
+					 Organization
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Torrebelvicino
+				[11:relevance]
+					 0.152938
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 Torrebelvicino
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Torrebelvicino
+				[12:count]
+					 3
+					[12:sentiment:score]
+						 -0.361787
+					[12:sentiment:label]
+						 negative
+				[12:text]
+					 Renato Ruggiero
+				[12:relevance]
+					 0.149305
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 OfficeHolder
+					[12:disambiguation:name]
+						 Renato Ruggiero
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Renato_Ruggiero
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Elf Aquitaine
+				[13:relevance]
+					 0.145862
+				[13:type]
+					 Company
+					[13:disambiguation:subtype]
+					[13:disambiguation:name]
+						 Elf Aquitaine
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Elf_Aquitaine
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Italy
+				[14:relevance]
+					 0.143555
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 HumanLanguage
+						[1]
+							 PoliticalDistrict
+						[2]
+							 Region
+						[3]
+							 AdministrativeDivision
+						[4]
+							 GovernmentalJurisdiction
+						[5]
+							 Country
+					[14:disambiguation:name]
+						 Italy
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Italy
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 accountant
+				[15:relevance]
+					 0.140635
+				[15:type]
+					 JobTitle
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Franco Bernabe
+				[16:relevance]
+					 0.135732
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+					[16:disambiguation:name]
+						 Franco Bernabè
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Franco_Bernabè
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Enichem Agricoltura
+				[17:relevance]
+					 0.134454
+				[17:type]
+					 Person
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Enichem
+				[18:relevance]
+					 0.129447
+				[18:type]
+					 Company
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 chief executive
+				[19:relevance]
+					 0.12789
+				[19:type]
+					 JobTitle
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 -0.216551
+					[20:sentiment:label]
+						 negative
+				[20:text]
+					 Europe
+				[20:relevance]
+					 0.127439
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[20:disambiguation:name]
+						 Europe
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 World Trade Organization
+				[21:relevance]
+					 0.126971
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 World Trade Organization
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/World_Trade_Organization
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 director-general
+				[22:relevance]
+					 0.12525
+				[22:type]
+					 JobTitle
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Telecom Italia
+				[23:relevance]
+					 0.125122
+				[23:type]
+					 Company
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Telecom Italia
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Telecom_Italia
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Savio
+				[24:relevance]
+					 0.124884
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 analyst
+				[25:relevance]
+					 0.122562
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 -0.401191
+					[26:sentiment:label]
+						 negative
+				[26:text]
+					 United States
+				[26:relevance]
+					 0.121138
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[26:disambiguation:name]
+						 United States
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Gianmaria Gros-Pietro
+				[27:relevance]
+					 0.117961
+				[27:type]
+					 Person
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Savio
+				[28:relevance]
+					 0.115511
+				[28:type]
+					 Company
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Lanerossi
+				[29:relevance]
+					 0.115172
+				[29:type]
+					 Company
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 -0.486223
+					[30:sentiment:label]
+						 negative
+				[30:text]
+					 Croatia
+				[30:relevance]
+					 0.114201
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[30:disambiguation:name]
+						 Croatia
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Croatia
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 executive
+				[31:relevance]
+					 0.11383
+				[31:type]
+					 JobTitle
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Enterprise
+				[32:relevance]
+					 0.113435
+				[32:type]
+					 Company
+					[32:disambiguation:subtype]
+					[32:disambiguation:name]
+						 Enterprise Products
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Enterprise_Products
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Amerada Hess
+				[33:relevance]
+					 0.110895
+				[33:type]
+					 Person
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 -0.486223
+					[34:sentiment:label]
+						 negative
+				[34:text]
+					 Greece
+				[34:relevance]
+					 0.096146
+				[34:type]
+					 Location
+					[34:disambiguation:subtype]
+						[0]
+							 Country
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 35 percent
+				[35:relevance]
+					 0.096146
+				[35:type]
+					 Quantity
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 40 years
+				[36:relevance]
+					 0.096146
+				[36:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Management occupations
+				[0:relevance]
+					 0.943336
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[1:text]
+					 Chief executive officer
+				[1:relevance]
+					 0.917954
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[2:text]
+					 Silvio Berlusconi
+				[2:relevance]
+					 0.881387
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Silvio_Berlusconi
+				[3:text]
+					 Board of directors
+				[3:relevance]
+					 0.836634
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Board_of_directors
+				[4:text]
+					 Executive officer
+				[4:relevance]
+					 0.829937
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+				[5:text]
+					 Corporate governance
+				[5:relevance]
+					 0.809054
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Corporate_governance
+				[6:text]
+					 Deregulation
+				[6:relevance]
+					 0.763254
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Deregulation
+				[7:text]
+					 Corporate title
+				[7:relevance]
+					 0.757875
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Corporate_title
+		[:enriched_text:categories]
+				[0:score]
+					 0.86597
+				[0:label]
+					 /society/unrest and war
+				[1:score]
+					 0.853443
+				[1:label]
+					 /law, govt and politics
+				[2:score]
+					 0.847798
+				[2:label]
+					 /business and industrial/company/earnings
+		[:metadata:docid]
+			 K2440303206
+		[:metadata:concepts]
+			[0]
+				 Management occupations
+			[1]
+				 Chief executive officer
+			[2]
+				 Silvio Berlusconi
+			[3]
+				 Board of directors
+			[4]
+				 Executive officer
+			[5]
+				 Corporate governance
+			[6]
+				 Deregulation
+			[7]
+				 Corporate title
+			[8]
+				 Chairman
+			[9]
+				 Administration
+		[:metadata:keywords]
+			[0]
+				 Vittorio Mincato
+			[1]
+				 gas company Eni
+			[2]
+				 Italian government
+			[3]
+				 parent company
+			[4]
+				 Italian oil
+			[5]
+				 position of director of administration
+			[6]
+				 selection of the longtime Eni employee Mincato
+			[7]
+				 State officials
+			[8]
+				 power struggle
+			[9]
+				 executive power
+		[:metadata:entitites]
+			[0]
+				 Mincato
+			[1]
+				 Eni
+			[2]
+				 Mincato
+			[3]
+				 Enichem
+			[4]
+				 Vittorio Mincato
+			[5]
+				 Torrebelvicino
+			[6]
+				 Lanerossi
+			[7]
+				 Enichem Agricoltura
+			[8]
+				 Franco Bernabe
+			[9]
+				 Ruggiero
+		[:metadata:title]
+			 Vittorio Mincato
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 94
+			[:metadata:gale:gale-fake-waiting]
+				 68
+		[:extracted_metadata:sha1]
+			 539dd4a097d7d5e2a9ce8bc338ba71e58b819c60
+		[:extracted_metadata:filename]
+			 Vittorio Mincato.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 fcad0ed8-c7e7-4e8d-af88-4a6a603414ae
+		[:result_metadata:confidence]
+			 0.08497004480400107
+		[:result_metadata:score]
+			 8.773739
+	[:text]
+		 no title
+
+When David L. Calhoun was named vice chairman of General Electric (GE) and president and CEO of GE Infrastructure in 2005, he was [...]
+				[:enriched_text:sentiment:document:score]
+					 0.938291
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 33
+					[0:sentiment:score]
+						 0.630091
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 David L. Calhoun
+				[0:relevance]
+					 0.947474
+				[0:type]
+					 Person
+				[1:count]
+					 6
+					[1:sentiment:score]
+						 0.302517
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 GE
+				[1:relevance]
+					 0.564877
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[1:disambiguation:name]
+						 General Electric
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[2:count]
+					 4
+					[2:sentiment:score]
+						 0.409635
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 GE Employers Reinsurance Company
+				[2:relevance]
+					 0.522458
+				[2:type]
+					 Company
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 GE Infrastructure
+				[3:relevance]
+					 0.435405
+				[3:type]
+					 Company
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 GE Infrastructure
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/GE_Infrastructure
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 president and CEO of GE Lighting
+				[4:relevance]
+					 0.4196
+				[4:type]
+					 JobTitle
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 GE Plastics
+				[5:relevance]
+					 0.356349
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 SABIC
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/SABIC
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 GE Capital
+				[6:relevance]
+					 0.330924
+				[6:type]
+					 Company
+					[6:disambiguation:subtype]
+						[0]
+							 CompanyDivision
+					[6:disambiguation:name]
+						 GE Capital
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/GE_Capital
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 GE Transportation Systems
+				[7:relevance]
+					 0.329986
+				[7:type]
+					 Company
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 GE Transportation
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/GE_Transportation
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 GE Aircraft Engines
+				[8:relevance]
+					 0.323827
+				[8:type]
+					 Company
+					[8:disambiguation:subtype]
+						[0]
+							 CompanyDivision
+					[8:disambiguation:name]
+						 GE Aviation
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/GE_Aviation
+				[9:count]
+					 6
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 president and CEO
+				[9:relevance]
+					 0.322205
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 GE Company
+				[10:relevance]
+					 0.315103
+				[10:type]
+					 Company
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 GE Financial Management Program
+				[11:relevance]
+					 0.314269
+				[11:type]
+					 Organization
+				[12:count]
+					 3
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 vice president
+				[12:relevance]
+					 0.198902
+				[12:type]
+					 JobTitle
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 vice chairman
+				[13:relevance]
+					 0.194125
+				[13:type]
+					 JobTitle
+				[14:count]
+					 3
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Virginia Polytechnic University
+				[14:relevance]
+					 0.184379
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 University
+					[14:disambiguation:name]
+						 Virginia Polytechnic Institute and State University
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Virginia_Polytechnic_Institute_and_State_University
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.417418
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 president and COO
+				[15:relevance]
+					 0.177558
+				[15:type]
+					 JobTitle
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Amy Boyce
+				[16:relevance]
+					 0.167817
+				[16:type]
+					 Person
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Pennsylvania
+				[17:relevance]
+					 0.155473
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 StateOrCounty
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 United States
+				[18:relevance]
+					 0.147469
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[18:disambiguation:name]
+						 United States
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0.735088
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 executive
+				[19:relevance]
+					 0.141016
+				[19:type]
+					 JobTitle
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 salesman
+				[20:relevance]
+					 0.12776
+				[20:type]
+					 JobTitle
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 manager of programs and planning
+				[21:relevance]
+					 0.127616
+				[21:type]
+					 JobTitle
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Westinghouse
+				[22:relevance]
+					 0.126714
+				[22:type]
+					 Company
+					[22:disambiguation:subtype]
+						[0]
+							 AwardWinner
+						[1]
+							 TVProducer
+					[22:disambiguation:name]
+						 Westinghouse Broadcasting
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Westinghouse_Broadcasting
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Rossitsa Nicolova
+				[23:relevance]
+					 0.122616
+				[23:type]
+					 Person
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Pacific
+				[24:relevance]
+					 0.116475
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 Region
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Americas
+				[25:relevance]
+					 0.116112
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 Continent
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 officer
+				[26:relevance]
+					 0.108332
+				[26:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 General Electric
+				[0:relevance]
+					 0.972397
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/General_Electric
+				[1:text]
+					 Management occupations
+				[1:relevance]
+					 0.654579
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[2:text]
+					 Vice President of the United States
+				[2:relevance]
+					 0.585829
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Vice_President_of_the_United_States
+				[3:text]
+					 Virginia Polytechnic Institute and State University
+				[3:relevance]
+					 0.564656
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Virginia_Polytechnic_Institute_and_State_University
+				[4:text]
+					 Board of directors
+				[4:relevance]
+					 0.563025
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Board_of_directors
+				[5:text]
+					 GE Technology Infrastructure
+				[5:relevance]
+					 0.52376
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/GE_Technology_Infrastructure
+				[6:text]
+					 Blacksburg, Virginia
+				[6:relevance]
+					 0.51874
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Blacksburg,_Virginia
+				[7:text]
+					 President
+				[7:relevance]
+					 0.50741
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/President
+		[:enriched_text:categories]
+				[0:score]
+					 0.837152
+				[0:label]
+					 /business and industrial/company
+				[1:score]
+					 0.784834
+				[1:label]
+					 /finance/financial news
+				[2:score]
+					 0.730544
+				[2:label]
+					 /business and industrial/business operations
+		[:metadata:docid]
+			 K1650005163
+		[:metadata:concepts]
+			[0]
+				 General Electric
+			[1]
+				 Management occupations
+			[2]
+				 Vice President of the United States
+			[3]
+				 Virginia Polytechnic Institute and State University
+			[4]
+				 Board of directors
+			[5]
+				 GE Technology Infrastructure
+			[6]
+				 Blacksburg, Virginia
+			[7]
+				 President
+			[8]
+				 General Electric Infrastructure subsidiaries
+			[9]
+				 GE Infrastructure
+		[:metadata:keywords]
+			[0]
+				 David L. Calhoun
+			[1]
+				 great uncle
+			[2]
+				 CEO of GE Infrastructure
+			[3]
+				 Calhoun's mother
+			[4]
+				 Virginia Tech
+			[5]
+				 young Calhoun's choice
+			[6]
+				 kind of stability
+			[7]
+				 Amy Boyce
+			[8]
+				 long hours
+			[9]
+				 Virginia Polytechnic University
+		[:metadata:entitites]
+			[0]
+				 Calhoun
+			[1]
+				 GE
+			[2]
+				 David L. Calhoun
+			[3]
+				 Virginia Tech
+			[4]
+				 Amy Boyce
+			[5]
+				 Pennsylvania
+			[6]
+				 GE Transportation Systems
+			[7]
+				 Virginia Tech
+			[8]
+				 Westinghouse
+			[9]
+				 GE Company
+		[:metadata:title]
+			 David Calhoun
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 12
+			[:metadata:gale:gale-fake-waiting]
+				 44
+		[:extracted_metadata:sha1]
+			 926353c974bf0d33397bd5d912db2b2c0a5016f9
+		[:extracted_metadata:filename]
+			 David Calhoun.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 eded8245-a822-40ff-8cc5-cdf628d4c087
+		[:result_metadata:confidence]
+			 0.08400036440409055
+		[:result_metadata:score]
+			 8.770641
+	[:text]
+		 no title
+
+Executive Léo Apotheker was named the chief executive officer (CEO) and president of Hewlett-Packard (HP) in September of 2010. He[...]
+				[:enriched_text:sentiment:document:score]
+					 -0.284474
+				[:enriched_text:sentiment:document:label]
+					 negative
+		[:enriched_text:entities]
+				[0:count]
+					 11
+					[0:sentiment:score]
+						 -0.414465
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 SAP
+				[0:relevance]
+					 0.860004
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 SAP AG
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/SAP_AG
+				[1:count]
+					 16
+					[1:sentiment:score]
+						 -0.264798
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Léo Apotheker
+				[1:relevance]
+					 0.836832
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 Léo Apotheker
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Léo_Apotheker
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 -0.454132
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.591667
+				[2:type]
+					 JobTitle
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 SAP EMEA
+				[3:relevance]
+					 0.342618
+				[3:type]
+					 Company
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 president
+				[4:relevance]
+					 0.325865
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 SAP France
+				[5:relevance]
+					 0.32354
+				[5:type]
+					 Company
+				[6:count]
+					 6
+					[6:sentiment:score]
+						 0.140582
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 Hewlett-Packard
+				[6:relevance]
+					 0.32193
+				[6:type]
+					 Company
+					[6:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 AcademicInstitution
+					[6:disambiguation:name]
+						 Hewlett-Packard
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hewlett-Packard
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 SAP Belgium
+				[7:relevance]
+					 0.30792
+				[7:type]
+					 Company
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 president and chief operating officer
+				[8:relevance]
+					 0.268471
+				[8:type]
+					 JobTitle
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 deputy CEO
+				[9:relevance]
+					 0.257911
+				[9:type]
+					 JobTitle
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Germany
+				[10:relevance]
+					 0.246963
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[10:disambiguation:name]
+						 Germany
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Germany
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.69831
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Europe
+				[11:relevance]
+					 0.245651
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 FilmMusicContributor
+						[3]
+							 Lyricist
+						[4]
+							 MusicalArtist
+						[5]
+							 RecordProducer
+						[6]
+							 Continent
+					[11:disambiguation:name]
+						 Europe
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Europe
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 chief executive officer
+				[12:relevance]
+					 0.239575
+				[12:type]
+					 JobTitle
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Executive
+				[13:relevance]
+					 0.220484
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Aachen
+				[14:relevance]
+					 0.213792
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 GermanUrbanDistrict
+						[1]
+							 City
+					[14:disambiguation:name]
+						 Aachen
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Aachen
+				[15:count]
+					 2
+					[15:sentiment:score]
+						 -0.456131
+					[15:sentiment:label]
+						 negative
+				[15:text]
+					 Mark Hurd
+				[15:relevance]
+					 0.210615
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[15:disambiguation:name]
+						 Mark Hurd
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Mark_Hurd
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Légion d'honneur
+				[16:relevance]
+					 0.205264
+				[16:type]
+					 Award
+					[16:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.531241
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Dodge Europe
+				[17:relevance]
+					 0.202693
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 Country
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Middle East
+				[18:relevance]
+					 0.201439
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 Region
+					[18:disambiguation:name]
+						 Middle East
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Middle_East
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Jerusalem
+				[19:relevance]
+					 0.199734
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 City
+					[19:disambiguation:name]
+						 Jerusalem
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Jerusalem
+				[20:count]
+					 3
+					[20:sentiment:score]
+						 0.712875
+					[20:sentiment:label]
+						 positive
+				[20:text]
+					 Ray Wang
+				[20:relevance]
+					 0.199269
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Hebrew University
+				[21:relevance]
+					 0.198935
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Facility
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[21:disambiguation:name]
+						 Hebrew University of Jerusalem
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 ABP Partners
+				[22:relevance]
+					 0.197739
+				[22:type]
+					 Company
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Altex GmbH
+				[23:relevance]
+					 0.196612
+				[23:type]
+					 Company
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 -0.562058
+					[24:sentiment:label]
+						 negative
+				[24:text]
+					 Ashlee Vance
+				[24:relevance]
+					 0.195828
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+					[24:disambiguation:name]
+						 Ashlee Vance
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ashlee_Vance
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Africa
+				[25:relevance]
+					 0.187368
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 Continent
+					[25:disambiguation:name]
+						 Africa
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Africa
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.561021
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Ann Bednarz
+				[26:relevance]
+					 0.187116
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0.528624
+					[27:sentiment:label]
+						 positive
+				[27:text]
+					 Altimeter Group
+				[27:relevance]
+					 0.180311
+				[27:type]
+					 Company
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0.528624
+					[28:sentiment:label]
+						 positive
+				[28:text]
+					 partner
+				[28:relevance]
+					 0.172242
+				[28:type]
+					 JobTitle
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0.531241
+					[29:sentiment:label]
+						 positive
+				[29:text]
+					 McCormack
+				[29:relevance]
+					 0.169493
+				[29:type]
+					 Company
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 founder
+				[30:relevance]
+					 0.159379
+				[30:type]
+					 JobTitle
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 co-CEO
+				[31:relevance]
+					 0.156624
+				[31:type]
+					 JobTitle
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 five years
+				[32:relevance]
+					 0.156624
+				[32:type]
+					 Quantity
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 two years
+				[33:relevance]
+					 0.156624
+				[33:type]
+					 Quantity
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 20 years
+				[34:relevance]
+					 0.156624
+				[34:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Chief executive officer
+				[0:relevance]
+					 0.977895
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[1:text]
+					 Executive officer
+				[1:relevance]
+					 0.922052
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+				[2:text]
+					 Chief executives
+				[2:relevance]
+					 0.82606
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executives
+				[3:text]
+					 Silicon Valley
+				[3:relevance]
+					 0.780893
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Silicon_Valley
+				[4:text]
+					 Management occupations
+				[4:relevance]
+					 0.709172
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[5:text]
+					 Business and financial operations occupations
+				[5:relevance]
+					 0.652961
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Business_and_financial_operations_occupations
+				[6:text]
+					 Venture capital
+				[6:relevance]
+					 0.611415
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Venture_capital
+				[7:text]
+					 Corporate governance
+				[7:relevance]
+					 0.591943
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Corporate_governance
+		[:enriched_text:categories]
+				[0:score]
+					 0.888912
+				[0:label]
+					 /business and industrial/business operations
+				[1:score]
+					 0.867506
+				[1:label]
+					 /business and industrial/business software
+				[2:score]
+					 0.822663
+				[2:label]
+					 /business and industrial/company
+		[:metadata:docid]
+			 K1650007330
+		[:metadata:concepts]
+			[0]
+				 Chief executive officer
+			[1]
+				 Executive officer
+			[2]
+				 Chief executives
+			[3]
+				 Silicon Valley
+			[4]
+				 Management occupations
+			[5]
+				 Business and financial operations occupations
+			[6]
+				 Venture capital
+			[7]
+				 Corporate governance
+		[:metadata:keywords]
+			[0]
+				 Executive Léo Apotheker
+			[1]
+				 European companies
+			[2]
+				 chief executive officer
+			[3]
+				 venture capital startup Ecsoft BV
+			[4]
+				 president of Hewlett-Packard
+			[5]
+				 economic downturn
+			[6]
+				 American citizen
+			[7]
+				 founding president
+			[8]
+				 large corporations
+			[9]
+				 such companies
+		[:metadata:entitites]
+			[0]
+				 Apotheker
+			[1]
+				 SAP
+			[2]
+				 ECsoft BV
+			[3]
+				 Léo Apotheker
+			[4]
+				 HP
+			[5]
+				 Ecsoft BV
+			[6]
+				 Hebrew University
+			[7]
+				 ABP Partners
+			[8]
+				 McCormack & Dodge Europe
+			[9]
+				 S.W.I.F.T.
+		[:metadata:title]
+			 Leo Apotheker
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 60
+			[:metadata:gale:gale-fake-waiting]
+				 89
+		[:extracted_metadata:sha1]
+			 b64d9b33ea3f7748057b301220370bae004479ea
+		[:extracted_metadata:filename]
+			 Leo Apotheker.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 747fb0ef-f7b2-49b1-be8a-b07c7798721e
+		[:result_metadata:confidence]
+			 0.08264224844049796
+		[:result_metadata:score]
+			 8.766302
+	[:text]
+		 no title
+
+Since October 1, 2010, Bon-joon Koo has been the chief executive officer (CEO) of LG Electronics, Inc., one of the world's leaders[...]
+				[:enriched_text:sentiment:document:score]
+					 0.813122
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 21
+					[0:sentiment:score]
+						 0.357243
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 In-hwoi Koo
+				[0:relevance]
+					 0.865395
+				[0:type]
+					 Person
+				[1:count]
+					 2
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 LG Electronics
+				[1:relevance]
+					 0.459947
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 LG Electronics
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/LG_Electronics
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Koo Bon-Moo
+				[2:relevance]
+					 0.458994
+				[2:type]
+					 Person
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 LG Group
+				[3:relevance]
+					 0.40767
+				[3:type]
+					 Company
+					[3:disambiguation:subtype]
+					[3:disambiguation:name]
+						 LG Corp
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/LG_Corp
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 LG Electronics, Inc.
+				[4:relevance]
+					 0.393156
+				[4:type]
+					 Company
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 LG Philips
+				[5:relevance]
+					 0.357904
+				[5:type]
+					 Company
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0.535536
+					[6:sentiment:label]
+						 positive
+				[6:text]
+					 LG Electronics, Inc
+				[6:relevance]
+					 0.340692
+				[6:type]
+					 Company
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 LG Chemical
+				[7:relevance]
+					 0.32705
+				[7:type]
+					 Company
+					[7:disambiguation:subtype]
+					[7:disambiguation:name]
+						 LG Chem
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/LG_Chem
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 LG Group, Inc.
+				[8:relevance]
+					 0.310776
+				[8:type]
+					 Company
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 LG Semicon
+				[9:relevance]
+					 0.299363
+				[9:type]
+					 Company
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 LG Company
+				[10:relevance]
+					 0.298512
+				[10:type]
+					 Company
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 LG International
+				[11:relevance]
+					 0.288711
+				[11:type]
+					 Company
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 LG Display Co.
+				[12:relevance]
+					 0.264584
+				[12:type]
+					 Company
+				[13:count]
+					 3
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 vice chairman
+				[13:relevance]
+					 0.21723
+				[13:type]
+					 JobTitle
+				[14:count]
+					 5
+					[14:sentiment:score]
+						 -0.227217
+					[14:sentiment:label]
+						 negative
+				[14:text]
+					 CEO
+				[14:relevance]
+					 0.189683
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Koninklijke Philips Electronics NV
+				[15:relevance]
+					 0.183487
+				[15:type]
+					 Company
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 president and CEO
+				[16:relevance]
+					 0.165578
+				[16:type]
+					 JobTitle
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 executive vice president
+				[17:relevance]
+					 0.157907
+				[17:type]
+					 JobTitle
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Philips LCD Co. Ltd
+				[18:relevance]
+					 0.149306
+				[18:type]
+					 Company
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Philips Global
+				[19:relevance]
+					 0.137335
+				[19:type]
+					 Company
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 president and chief operating officer
+				[20:relevance]
+					 0.133137
+				[20:type]
+					 JobTitle
+				[21:count]
+					 2
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Korea
+				[21:relevance]
+					 0.132027
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Country
+					[21:disambiguation:name]
+						 South Korea
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/South_Korea
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 chief executive officer
+				[22:relevance]
+					 0.13152
+				[22:type]
+					 JobTitle
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Booth School of Business
+				[23:relevance]
+					 0.108401
+				[23:type]
+					 Organization
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Booth School of Business
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Booth_School_of_Business
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Seoul National University
+				[24:relevance]
+					 0.106973
+				[24:type]
+					 Organization
+					[24:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[24:disambiguation:name]
+						 Seoul National University
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Seoul_National_University
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 supervisor
+				[25:relevance]
+					 0.095574
+				[25:type]
+					 JobTitle
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 United States
+				[26:relevance]
+					 0.095107
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[26:disambiguation:name]
+						 United States
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 founder
+				[27:relevance]
+					 0.090057
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 University of Chicago
+				[28:relevance]
+					 0.088911
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 CollegeUniversity
+					[28:disambiguation:name]
+						 University of Chicago
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Chicago
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 representative
+				[29:relevance]
+					 0.086789
+				[29:type]
+					 JobTitle
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 COO
+				[30:relevance]
+					 0.085202
+				[30:type]
+					 JobTitle
+				[31:count]
+					 2
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 director
+				[31:relevance]
+					 0.084144
+				[31:type]
+					 JobTitle
+		[:enriched_text:concepts]
+				[0:text]
+					 Philips
+				[0:relevance]
+					 0.972053
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Philips
+				[1:text]
+					 LG Electronics
+				[1:relevance]
+					 0.93253
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/LG_Electronics
+				[2:text]
+					 South Korea
+				[2:relevance]
+					 0.884574
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/South_Korea
+				[3:text]
+					 Management occupations
+				[3:relevance]
+					 0.867168
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[4:text]
+					 LG Group
+				[4:relevance]
+					 0.790186
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/LG_Group
+				[5:text]
+					 Chief executive officer
+				[5:relevance]
+					 0.690931
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[6:text]
+					 LG Display
+				[6:relevance]
+					 0.6243
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/LG_Display
+				[7:text]
+					 Sony
+				[7:relevance]
+					 0.585
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Sony
+		[:enriched_text:categories]
+				[0:score]
+					 0.952278
+				[0:label]
+					 /technology and computing/consumer electronics/tv and video equipment/televisions/lcd tvs[...]
+				[1:score]
+					 0.704248
+				[1:label]
+					 /business and industrial/company
+				[2:score]
+					 0.620565
+				[2:label]
+					 /technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders[...]
+		[:metadata:docid]
+			 K1650007382
+		[:metadata:concepts]
+			[0]
+				 Philips
+			[1]
+				 LG Electronics
+			[2]
+				 South Korea
+			[3]
+				 Management occupations
+			[4]
+				 LG Group
+			[5]
+				 Chief executive officer
+			[6]
+				 LG Display
+			[7]
+				 Executive officer
+			[8]
+				 Sony
+			[9]
+				 Administration
+		[:metadata:keywords]
+			[0]
+				 Bon-joon Koo
+			[1]
+				 LG Electronics
+			[2]
+				 position of vice chairman of LG Electronics
+			[3]
+				 younger brother of Koo Bon-Moo
+			[4]
+				 hwoi Koo
+			[5]
+				 chief executive officer
+			[6]
+				 founder of LG Group
+			[7]
+				 United States
+			[8]
+				 Koo
+			[9]
+				 chief operating officer
+		[:metadata:entitites]
+			[0]
+				 Koo
+			[1]
+				 LG Electronics, Inc.
+			[2]
+				 joon Koo
+			[3]
+				 hwoi Koo
+			[4]
+				 LG Group, Inc.
+			[5]
+				 Koo Bon
+			[6]
+				 Booth School of Business
+			[7]
+				 Koo rose
+			[8]
+				 Korea
+			[9]
+				 LG International
+		[:metadata:title]
+			 Bon-joon Koo
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 24
+			[:metadata:gale:gale-fake-waiting]
+				 93
+		[:extracted_metadata:sha1]
+			 dc0ca505b6c1a9b19535da8b7ccde6ffcaa558a0
+		[:extracted_metadata:filename]
+			 Bon-joon Koo.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 fdcbeec9-bd52-4c58-938c-d4acdc7bfe9b
+		[:result_metadata:confidence]
+			 0.07831875090532778
+		[:result_metadata:score]
+			 8.752489
+	[:text]
+		 no title
+
+Starting at Xerox Corporation as an engineering intern, Ursula M. Burns climbed the corporate ladder to become the first woman pre[...]
+				[:enriched_text:sentiment:document:score]
+					 0.34735
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 24
+					[0:sentiment:score]
+						 -0.342801
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Ursula M. Burns
+				[0:relevance]
+					 0.828936
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[0:disambiguation:name]
+						 Ursula Burns
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ursula_Burns
+				[1:count]
+					 17
+					[1:sentiment:score]
+						 -0.189608
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Xerox Corporation
+				[1:relevance]
+					 0.666463
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 AwardWinner
+					[1:disambiguation:name]
+						 Xerox
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Xerox
+				[2:count]
+					 9
+					[2:sentiment:score]
+						 -0.257436
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.277741
+				[2:type]
+					 JobTitle
+				[3:count]
+					 5
+					[3:sentiment:score]
+						 0.082007
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Anne Mulcahy
+				[3:relevance]
+					 0.253188
+				[3:type]
+					 Person
+					[3:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[3:disambiguation:name]
+						 Anne M. Mulcahy
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Anne_M._Mulcahy
+				[4:count]
+					 4
+					[4:sentiment:score]
+						 -0.323049
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 president
+				[4:relevance]
+					 0.22403
+				[4:type]
+					 JobTitle
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Xerox Innovation Group
+				[5:relevance]
+					 0.220324
+				[5:type]
+					 Company
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Xerox Engineering Center
+				[6:relevance]
+					 0.21935
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 corporate vice president
+				[7:relevance]
+					 0.195362
+				[7:type]
+					 JobTitle
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 vice president and general manager
+				[8:relevance]
+					 0.191467
+				[8:type]
+					 JobTitle
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 chairman and CEO
+				[9:relevance]
+					 0.186446
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Chairman and CEO
+				[10:relevance]
+					 0.182458
+				[10:type]
+					 JobTitle
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Fortune 500 Company
+				[11:relevance]
+					 0.181091
+				[11:type]
+					 Company
+				[12:count]
+					 6
+					[12:sentiment:score]
+						 0.789484
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 VEON
+				[12:relevance]
+					 0.17955
+				[12:type]
+					 Company
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 senior vice president
+				[13:relevance]
+					 0.171415
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 President Barack Obama
+				[14:relevance]
+					 0.166975
+				[14:type]
+					 Person
+					[14:disambiguation:subtype]
+						[0]
+							 Politician
+						[1]
+							 President
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 PoliticalAppointer
+						[6]
+							 U.S.Congressperson
+						[7]
+							 USPresident
+						[8]
+							 TVActor
+					[14:disambiguation:name]
+						 Barack Obama
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Barack_Obama
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 vice president of marketing
+				[15:relevance]
+					 0.165816
+				[15:type]
+					 JobTitle
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 chief executive officer
+				[16:relevance]
+					 0.154597
+				[16:type]
+					 JobTitle
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 BGO
+				[17:relevance]
+					 0.152519
+				[17:type]
+					 Organization
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Lloyd F. Bean
+				[18:relevance]
+					 0.151918
+				[18:type]
+					 Person
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 New York City
+				[19:relevance]
+					 0.146562
+				[19:type]
+					 Location
+					[19:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 FilmScreeningVenue
+						[5]
+							 City
+					[19:disambiguation:name]
+						 New York City
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York_City
+				[20:count]
+					 2
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 executive assistant
+				[20:relevance]
+					 0.144875
+				[20:type]
+					 JobTitle
+				[21:count]
+					 2
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Cassandra Hayes
+				[21:relevance]
+					 0.142534
+				[21:type]
+					 Person
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 executive
+				[22:relevance]
+					 0.13926
+				[22:type]
+					 JobTitle
+				[23:count]
+					 2
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Paul A. Allaire
+				[23:relevance]
+					 0.135585
+				[23:type]
+					 Person
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Connecticut
+				[24:relevance]
+					 0.135326
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[24:disambiguation:name]
+						 Connecticut
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Connecticut
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 -0.307056
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 London
+				[25:relevance]
+					 0.135057
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 AdministrativeDivision
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 OlympicHostCity
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 City
+					[25:disambiguation:name]
+						 London
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/London
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0.47642
+					[26:sentiment:label]
+						 positive
+				[26:text]
+					 Manhattan
+				[26:relevance]
+					 0.134812
+				[26:type]
+					 Location
+					[26:disambiguation:subtype]
+						[0]
+							 GeographicFeature
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 Island
+						[4]
+							 PlaceWithNeighborhoods
+						[5]
+							 USCounty
+						[6]
+							 City
+					[26:disambiguation:name]
+						 Manhattan
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Manhattan
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 intern
+				[27:relevance]
+					 0.133829
+				[27:type]
+					 JobTitle
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Exxon Mobile
+				[28:relevance]
+					 0.131047
+				[28:type]
+					 Company
+					[28:disambiguation:subtype]
+					[28:disambiguation:name]
+						 ExxonMobil
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/ExxonMobil
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0.411212
+					[29:sentiment:label]
+						 positive
+				[29:text]
+					 Olga
+				[29:relevance]
+					 0.130053
+				[29:type]
+					 Person
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 United States
+				[30:relevance]
+					 0.129756
+				[30:type]
+					 Location
+					[30:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[30:disambiguation:name]
+						 United States
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 -0.589331
+					[31:sentiment:label]
+						 negative
+				[31:text]
+					 Rochester
+				[31:relevance]
+					 0.128648
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 City
+					[31:disambiguation:name]
+						 Rochester, Ulster County, New York
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Rochester,_Ulster_County,_New_York
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 New York
+				[32:relevance]
+					 0.122784
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 CityTown
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 StateOrCounty
+					[32:disambiguation:name]
+						 New York
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 chairman
+				[33:relevance]
+					 0.122599
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 engineer
+				[34:relevance]
+					 0.121963
+				[34:type]
+					 JobTitle
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 fraud
+				[35:relevance]
+					 0.11875
+				[35:type]
+					 Crime
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Affiliated Computer Services
+				[36:relevance]
+					 0.116737
+				[36:type]
+					 JobTitle
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Nestlé
+				[37:relevance]
+					 0.116662
+				[37:type]
+					 Location
+					[37:disambiguation:subtype]
+						[0]
+							 City
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 -0.463204
+					[38:sentiment:label]
+						 negative
+				[38:text]
+					 Claudia Deutsch
+				[38:relevance]
+					 0.111445
+				[38:type]
+					 Person
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Netherlands
+				[39:relevance]
+					 0.110555
+				[39:type]
+					 Location
+					[39:disambiguation:subtype]
+						[0]
+							 Country
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 scientist
+				[40:relevance]
+					 0.108882
+				[40:type]
+					 JobTitle
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 Export Council
+				[41:relevance]
+					 0.10489
+				[41:type]
+					 Organization
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 -0.201431
+					[42:sentiment:label]
+						 negative
+				[42:text]
+					 Joan Harrell Carter
+				[42:relevance]
+					 0.100237
+				[42:type]
+					 Person
+				[43:count]
+					 2
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 40 percent
+				[43:relevance]
+					 0.100237
+				[43:type]
+					 Quantity
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 $6.4 billion
+				[44:relevance]
+					 0.100237
+				[44:type]
+					 Quantity
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 $10 million
+				[45:relevance]
+					 0.100237
+				[45:type]
+					 Quantity
+				[46:count]
+					 1
+					[46:sentiment:score]
+						 0
+					[46:sentiment:label]
+						 neutral
+				[46:text]
+					 $14 billion
+				[46:relevance]
+					 0.100237
+				[46:type]
+					 Quantity
+				[47:count]
+					 1
+					[47:sentiment:score]
+						 0
+					[47:sentiment:label]
+						 neutral
+				[47:text]
+					 $2 billion
+				[47:relevance]
+					 0.100237
+				[47:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Xerox
+				[0:relevance]
+					 0.989388
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Xerox
+				[1:text]
+					 Ursula Burns
+				[1:relevance]
+					 0.925476
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Ursula_Burns
+				[2:text]
+					 Management occupations
+				[2:relevance]
+					 0.879934
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Management_occupations
+				[3:text]
+					 Anne M. Mulcahy
+				[3:relevance]
+					 0.811923
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Anne_M._Mulcahy
+				[4:text]
+					 Barack Obama
+				[4:relevance]
+					 0.800763
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Barack_Obama
+				[5:text]
+					 Chief executive officer
+				[5:relevance]
+					 0.796927
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[6:text]
+					 Democratic Party
+				[6:relevance]
+					 0.793274
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Democratic_Party_(United_States)
+				[7:text]
+					 Executive officer
+				[7:relevance]
+					 0.778022
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Executive_officer
+		[:enriched_text:categories]
+				[0:score]
+					 0.880491
+				[0:label]
+					 /business and industrial/business operations
+				[1:score]
+					 0.877913
+				[1:label]
+					 /business and industrial/company
+				[2:score]
+					 0.818166
+				[2:label]
+					 /finance/financial news
+		[:metadata:docid]
+			 K1606003619
+		[:metadata:concepts]
+			[0]
+				 Xerox
+			[1]
+				 Ursula Burns
+			[2]
+				 Management occupations
+			[3]
+				 Anne M. Mulcahy
+			[4]
+				 Barack Obama
+			[5]
+				 Chief executive officer
+			[6]
+				 Democratic Party
+			[7]
+				 Executive officer
+			[8]
+				 Chief executives
+			[9]
+				 Vice President of the United States
+		[:metadata:keywords]
+			[0]
+				 Ursula M. Burns
+			[1]
+				 Xerox Corporation
+			[2]
+				 following year
+			[3]
+				 single mother
+			[4]
+				 Anne Mulcahy
+			[5]
+				 Xerox's largest unit
+			[6]
+				 middle child
+			[7]
+				 executive officer
+			[8]
+				 Xerox chief
+			[9]
+				 PR Newswire
+		[:metadata:entitites]
+			[0]
+				 Xerox
+			[1]
+				 Burns
+			[2]
+				 Ursula M. Burns
+			[3]
+				 BGO
+			[4]
+				 40 percent
+			[5]
+				 VEON
+			[6]
+				 Anne Mulcahy
+			[7]
+				 Claudia Deutsch
+			[8]
+				 Paul A. Allaire
+			[9]
+				 Cassandra Hayes
+		[:metadata:title]
+			 Ursula M. Burns
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 89
+			[:metadata:gale:gale-fake-waiting]
+				 59
+		[:extracted_metadata:sha1]
+			 c08b170883c2977d21ed42ec67605ced3a901b1e
+		[:extracted_metadata:filename]
+			 Ursula M. Burns.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 e650f228-5766-4086-b3dd-d21a8583ecec
+		[:result_metadata:confidence]
+			 0.0777046408521889
+		[:result_metadata:score]
+			 8.750527
+	[:text]
+		 no title
+
+Roger Enrico, chief executive officer (CEO) of PepsiCo Inc., is credited with using brand-building to increase sales for the soft [...]
+				[:enriched_text:sentiment:document:score]
+					 0.520635
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 49
+					[0:sentiment:score]
+						 0.052501
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Roger Enrico
+				[0:relevance]
+					 0.921764
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+					[0:disambiguation:name]
+						 Roger Enrico
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Roger_Enrico
+				[1:count]
+					 16
+					[1:sentiment:score]
+						 -0.134246
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 PepsiCo International
+				[1:relevance]
+					 0.383031
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+					[1:disambiguation:name]
+						 PepsiCo
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/PepsiCo
+				[2:count]
+					 13
+					[2:sentiment:score]
+						 -0.36161
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 CEO
+				[2:relevance]
+					 0.249355
+				[2:type]
+					 JobTitle
+				[3:count]
+					 6
+					[3:sentiment:score]
+						 0.58683
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Frito-Lay
+				[3:relevance]
+					 0.21976
+				[3:type]
+					 Company
+					[3:disambiguation:subtype]
+						[0]
+							 Brand
+					[3:disambiguation:name]
+						 Frito-Lay
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Frito-Lay
+				[4:count]
+					 9
+					[4:sentiment:score]
+						 -0.250965
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Pepsi
+				[4:relevance]
+					 0.199125
+				[4:type]
+					 Company
+				[5:count]
+					 5
+					[5:sentiment:score]
+						 0.365686
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Coca-Cola
+				[5:relevance]
+					 0.179974
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 The Coca-Cola Company
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/The_Coca-Cola_Company
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 president of PepsiCo Foods Japan
+				[6:relevance]
+					 0.165233
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 president and CEO
+				[7:relevance]
+					 0.150419
+				[7:type]
+					 JobTitle
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 -0.576001
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 Minnesota
+				[8:relevance]
+					 0.137022
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[8:disambiguation:name]
+						 Minnesota
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Minnesota
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 chairman and CEO
+				[9:relevance]
+					 0.13368
+				[9:type]
+					 JobTitle
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 General Mills
+				[10:relevance]
+					 0.130392
+				[10:type]
+					 Company
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 General Mills
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Mills
+				[11:count]
+					 3
+					[11:sentiment:score]
+						 -0.370825
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 Dallas
+				[11:relevance]
+					 0.128022
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 Dallas
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dallas
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0.440192
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Babson College
+				[12:relevance]
+					 0.125779
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[12:disambiguation:name]
+						 Babson College
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Babson_College
+				[13:count]
+					 2
+					[13:sentiment:score]
+						 0.482662
+					[13:sentiment:label]
+						 positive
+				[13:text]
+					 Rosemary Margo
+				[13:relevance]
+					 0.121199
+				[13:type]
+					 Person
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0.440192
+					[14:sentiment:label]
+						 positive
+				[14:text]
+					 Massachusetts
+				[14:relevance]
+					 0.116981
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[14:disambiguation:name]
+						 Massachusetts
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0.364194
+					[15:sentiment:label]
+						 positive
+				[15:text]
+					 Grand Cayman
+				[15:relevance]
+					 0.115824
+				[15:type]
+					 GeographicFeature
+					[15:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Island
+					[15:disambiguation:name]
+						 Grand Cayman
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Grand_Cayman
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 -0.40991
+					[16:sentiment:label]
+						 negative
+				[16:text]
+					 navy
+				[16:relevance]
+					 0.11283
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 ArmedForce
+						[1]
+							 VideoGameDeveloper
+					[16:disambiguation:name]
+						 United States Navy
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Navy
+				[17:count]
+					 2
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Tropicana
+				[17:relevance]
+					 0.112511
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+						[0]
+							 Brand
+					[17:disambiguation:name]
+						 Tropicana Products
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tropicana_Products
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 South Vietnam
+				[18:relevance]
+					 0.112134
+				[18:type]
+					 Location
+					[18:disambiguation:subtype]
+						[0]
+							 Region
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 -0.370825
+					[19:sentiment:label]
+						 negative
+				[19:text]
+					 President John F. Kennedy
+				[19:relevance]
+					 0.111474
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+						[0]
+							 FilmCharacter
+						[1]
+							 Politician
+						[2]
+							 President
+						[3]
+							 AwardNominee
+						[4]
+							 AwardWinner
+						[5]
+							 Celebrity
+						[6]
+							 Dedicatee
+						[7]
+							 MilitaryCommander
+						[8]
+							 MilitaryPerson
+						[9]
+							 OperaCharacter
+						[10]
+							 PoliticalAppointer
+						[11]
+							 U.S.Congressperson
+						[12]
+							 USPresident
+						[13]
+							 FilmActor
+					[19:disambiguation:name]
+						 John F. Kennedy
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/John_F._Kennedy
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Montana
+				[20:relevance]
+					 0.111099
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[20:disambiguation:name]
+						 Montana
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Montana
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 -0.211695
+					[21:sentiment:label]
+						 negative
+				[21:text]
+					 Japan
+				[21:relevance]
+					 0.109414
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 MusicalGroup
+						[1]
+							 BroadcastArtist
+						[2]
+							 MusicalArtist
+						[3]
+							 RecordProducer
+						[4]
+							 Country
+					[21:disambiguation:name]
+						 Japan
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Japan
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 chief executive officer
+				[22:relevance]
+					 0.108152
+				[22:type]
+					 JobTitle
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Turkey
+				[23:relevance]
+					 0.10716
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 Brand
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 ProjectParticipant
+						[3]
+							 Country
+					[23:disambiguation:name]
+						 Turkey
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Turkey
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 foreman
+				[24:relevance]
+					 0.106939
+				[24:type]
+					 JobTitle
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Chisolm
+				[25:relevance]
+					 0.106887
+				[25:type]
+					 Location
+					[25:disambiguation:subtype]
+						[0]
+							 City
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Pepsi Foods International
+				[26:relevance]
+					 0.105347
+				[26:type]
+					 Company
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Pizza Hut
+				[27:relevance]
+					 0.104871
+				[27:type]
+					 Company
+					[27:disambiguation:subtype]
+					[27:disambiguation:name]
+						 Pizza Hut
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Pizza_Hut
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 McDonalds
+				[28:relevance]
+					 0.1042
+				[28:type]
+					 Company
+					[28:disambiguation:subtype]
+					[28:disambiguation:name]
+						 McDonald's
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/McDonald's
+				[29:count]
+					 2
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Vietnam
+				[29:relevance]
+					 0.103525
+				[29:type]
+					 Location
+					[29:disambiguation:subtype]
+						[0]
+							 Country
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Steve Reinemund
+				[30:relevance]
+					 0.102993
+				[30:type]
+					 Person
+					[30:disambiguation:subtype]
+						[0]
+							 BoardMember
+					[30:disambiguation:name]
+						 Steven Reinemund
+					[30:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Steven_Reinemund
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0.470381
+					[31:sentiment:label]
+						 positive
+				[31:text]
+					 executive
+				[31:relevance]
+					 0.102761
+				[31:type]
+					 JobTitle
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 United States
+				[32:relevance]
+					 0.10232
+				[32:type]
+					 Location
+					[32:disambiguation:subtype]
+						[0]
+							 Region
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 FilmEditor
+						[4]
+							 Country
+					[32:disambiguation:name]
+						 United States
+					[32:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Associated Press
+				[33:relevance]
+					 0.101391
+				[33:type]
+					 Company
+					[33:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 AwardWinner
+					[33:disambiguation:name]
+						 Associated Press
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Associated_Press
+				[34:count]
+					 2
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 John Scully
+				[34:relevance]
+					 0.100962
+				[34:type]
+					 Person
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 president and chief operating officer
+				[35:relevance]
+					 0.100617
+				[35:type]
+					 JobTitle
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Taco Bell
+				[36:relevance]
+					 0.100223
+				[36:type]
+					 Person
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 -0.518994
+					[37:sentiment:label]
+						 negative
+				[37:text]
+					 heart attack
+				[37:relevance]
+					 0.098994
+				[37:type]
+					 HealthCondition
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0
+					[38:sentiment:label]
+						 neutral
+				[38:text]
+					 Brazil
+				[38:relevance]
+					 0.098744
+				[38:type]
+					 Location
+					[38:disambiguation:subtype]
+						[0]
+							 Country
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0.599951
+					[39:sentiment:label]
+						 positive
+				[39:text]
+					 Aaron
+				[39:relevance]
+					 0.094345
+				[39:type]
+					 Person
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 0
+					[40:sentiment:label]
+						 neutral
+				[40:text]
+					 North America
+				[40:relevance]
+					 0.09376
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 Continent
+					[40:disambiguation:name]
+						 North America
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_America
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0
+					[41:sentiment:label]
+						 neutral
+				[41:text]
+					 brand manager
+				[41:relevance]
+					 0.093183
+				[41:type]
+					 JobTitle
+				[42:count]
+					 1
+					[42:sentiment:score]
+						 0
+					[42:sentiment:label]
+						 neutral
+				[42:text]
+					 Laguna Niguel
+				[42:relevance]
+					 0.093073
+				[42:type]
+					 Location
+					[42:disambiguation:subtype]
+						[0]
+							 City
+					[42:disambiguation:name]
+						 Laguna Niguel, California
+					[42:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Laguna_Niguel,_California
+				[43:count]
+					 1
+					[43:sentiment:score]
+						 0
+					[43:sentiment:label]
+						 neutral
+				[43:text]
+					 Minute Maid
+				[43:relevance]
+					 0.092062
+				[43:type]
+					 PrintMedia
+				[44:count]
+					 1
+					[44:sentiment:score]
+						 0
+					[44:sentiment:label]
+						 neutral
+				[44:text]
+					 Coke
+				[44:relevance]
+					 0.091073
+				[44:type]
+					 Company
+				[45:count]
+					 1
+					[45:sentiment:score]
+						 0
+					[45:sentiment:label]
+						 neutral
+				[45:text]
+					 George Lucas
+				[45:relevance]
+					 0.090284
+				[45:type]
+					 Person
+					[45:disambiguation:subtype]
+						[0]
+							 Actor
+						[1]
+							 AwardNominee
+						[2]
+							 AwardWinner
+						[3]
+							 FictionalUniverseCreator
+						[4]
+							 FilmActor
+						[5]
+							 FilmCinematographer
+						[6]
+							 FilmDirector
+						[7]
+							 FilmEditor
+						[8]
+							 FilmProducer
+						[9]
+							 HallOfFameInductee
+						[10]
+							 RecordProducer
+						[11]
+							 TVActor
+						[12]
+							 TVProducer
+						[13]
+							 FilmWriter
+					[45:disambiguation:name]
+						 George Lucas
+					[45:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/George_Lucas
+				[46:count]
+					 1
+					[46:sentiment:score]
+						 0
+					[46:sentiment:label]
+						 neutral
+				[46:text]
+					 Wayne Calloway
+				[46:relevance]
+					 0.090018
+				[46:type]
+					 Person
+				[47:count]
+					 1
+					[47:sentiment:score]
+						 0
+					[47:sentiment:label]
+						 neutral
+				[47:text]
+					 Gibney
+				[47:relevance]
+					 0.088727
+				[47:type]
+					 Person
+				[48:count]
+					 1
+					[48:sentiment:score]
+						 -0.229309
+					[48:sentiment:label]
+						 negative
+				[48:text]
+					 California Ritz Carlton
+				[48:relevance]
+					 0.088701
+				[48:type]
+					 Facility
+		[:enriched_text:concepts]
+				[0:text]
+					 PepsiCo
+				[0:relevance]
+					 0.940727
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/PepsiCo
+				[1:text]
+					 Pepsi
+				[1:relevance]
+					 0.623589
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Pepsi
+				[2:text]
+					 Coca-Cola
+				[2:relevance]
+					 0.51658
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Coca-Cola
+				[3:text]
+					 Cola
+				[3:relevance]
+					 0.387313
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Cola
+				[4:text]
+					 Pepsi Challenge
+				[4:relevance]
+					 0.385275
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Pepsi_Challenge
+				[5:text]
+					 Soft drink
+				[5:relevance]
+					 0.311609
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Soft_drink
+				[6:text]
+					 Chief executive officer
+				[6:relevance]
+					 0.307163
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Chief_executive_officer
+				[7:text]
+					 Crystal Pepsi
+				[7:relevance]
+					 0.293643
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Crystal_Pepsi
+		[:enriched_text:categories]
+				[0:score]
+					 0.890224
+				[0:label]
+					 /food and drink/food/snack foods
+				[1:score]
+					 0.883566
+				[1:label]
+					 /food and drink/beverages
+				[2:score]
+					 0.811775
+				[2:label]
+					 /business and industrial/company
+		[:metadata:docid]
+			 K1604000342
+		[:metadata:concepts]
+			[0]
+				 PepsiCo
+			[1]
+				 Pepsi
+			[2]
+				 Coca-Cola
+			[3]
+				 Cola
+			[4]
+				 Pepsi Challenge
+			[5]
+				 Soft drink
+			[6]
+				 Chief executive officer
+			[7]
+				 Crystal Pepsi
+			[8]
+				 Gatorade
+			[9]
+				 New Coke
+		[:metadata:keywords]
+			[0]
+				 Roger Enrico
+			[1]
+				 soft drink company
+			[2]
+				 PepsiCo Inc.
+			[3]
+				 Frito-Lay division of PepsiCo
+			[4]
+				 Enrico
+			[5]
+				 job of president of PepsiCo Foods Japan
+			[6]
+				 previous year
+			[7]
+				 reflection of his personal values
+			[8]
+				 Babson College
+			[9]
+				 offer of a full scholarship
+		[:metadata:entitites]
+			[0]
+				 Enrico
+			[1]
+				 PepsiCo
+			[2]
+				 Pepsi
+			[3]
+				 Frito
+			[4]
+				 Roger Enrico
+			[5]
+				 Coca
+			[6]
+				 Minnesota
+			[7]
+				 Chisolm
+			[8]
+				 General Mills
+			[9]
+				 Vietnam
+		[:metadata:title]
+			 Roger Enrico
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 29
+			[:metadata:gale:gale-fake-waiting]
+				 78
+		[:extracted_metadata:sha1]
+			 db6df0f3d472f97bcde39a0ef4caff68e77919a1
+		[:extracted_metadata:filename]
+			 Roger Enrico.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]

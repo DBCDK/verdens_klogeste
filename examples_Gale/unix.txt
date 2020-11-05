@@ -1,0 +1,6182 @@
+********************************************************************************
+[result 0]
+********************************************************************************
+	[:id]
+		 9b329410-a813-43f2-87b5-dab53ba0d00a
+		[:result_metadata:confidence]
+			 0.24041974530144583
+		[:result_metadata:score]
+			 16.06758
+	[:text]
+		 no title
+
+Unix is an operating system that was developed by There are two main types of Unix. System V was produced by AT&T, which sold it t[...]
+				[:enriched_text:sentiment:document:score]
+					 0.708036
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 2
+					[0:sentiment:score]
+						 0
+					[0:sentiment:label]
+						 neutral
+				[0:text]
+					 Novell
+				[0:relevance]
+					 0.187085
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[0:disambiguation:name]
+						 Novell
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Novell
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Austin Group
+				[1:relevance]
+					 0.155077
+				[1:type]
+					 Organization
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Institute of Electrical and Electronic Engineers
+				[2:relevance]
+					 0.153579
+				[2:type]
+					 Organization
+					[2:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+						[2]
+							 Non-ProfitOrganisation
+						[3]
+							 PeriodicalPublisher
+					[2:disambiguation:name]
+						 Institute of Electrical and Electronics Engineers
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 OCS Group
+				[3:relevance]
+					 0.150899
+				[3:type]
+					 Organization
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 AT&T
+				[4:relevance]
+					 0.146109
+				[4:type]
+					 Company
+					[4:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[4:disambiguation:name]
+						 AT&T
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 University of California
+				[5:relevance]
+					 0.133725
+				[5:type]
+					 Organization
+					[5:disambiguation:subtype]
+					[5:disambiguation:name]
+						 UC Davis Graduate School of Management
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/UC_Davis_Graduate_School_of_Management
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Berkeley
+				[6:relevance]
+					 0.126466
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Cshell
+				[7:relevance]
+					 0.119354
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 City
+		[:enriched_text:concepts]
+				[0:text]
+					 Unix
+				[0:relevance]
+					 0.94223
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[1:text]
+					 Single UNIX Specification
+				[1:relevance]
+					 0.774517
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Single_UNIX_Specification
+				[2:text]
+					 Unix-like
+				[2:relevance]
+					 0.723321
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix-like
+				[3:text]
+					 C
+				[3:relevance]
+					 0.552628
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[4:text]
+					 Berkeley Software Distribution
+				[4:relevance]
+					 0.551555
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Berkeley_Software_Distribution
+				[5:text]
+					 POSIX
+				[5:relevance]
+					 0.547245
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/POSIX
+				[6:text]
+					 Operating system
+				[6:relevance]
+					 0.536066
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[7:text]
+					 The Open Group
+				[7:relevance]
+					 0.514452
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/The_Open_Group
+		[:enriched_text:categories]
+				[0:score]
+					 1
+				[0:label]
+					 /technology and computing/operating systems/unix
+				[1:score]
+					 0.990107
+				[1:label]
+					 /technology and computing/operating systems/linux
+		[:metadata:docid]
+			 CV2424500602
+		[:metadata:concepts]
+			[0]
+				 Unix
+			[1]
+				 Single UNIX Specification
+			[2]
+				 Unix-like
+			[3]
+				 C
+			[4]
+				 Berkeley Software Distribution
+			[5]
+				 POSIX
+			[6]
+				 Operating system
+			[7]
+				 The Open Group
+			[8]
+				 Linux
+			[9]
+				 Unix wars
+		[:metadata:keywords]
+			[0]
+				 operating system
+			[1]
+				 main types of Unix
+			[2]
+				 operation of a computer
+			[3]
+				 owners of the Unix trademark
+			[4]
+				 Unix
+			[5]
+				 Single Unix Specification
+			[6]
+				 formal consensus definition of Unix
+			[7]
+				 System V
+			[8]
+				 Open Group
+			[9]
+				 Single Unix Specification Version
+		[:metadata:entitites]
+			[0]
+				 Austin Group
+			[1]
+				 Institute of Electrical and Electronic Engineers
+			[2]
+				 Novell
+			[3]
+				 University of California
+			[4]
+				 Berkeley
+			[5]
+				 AT
+			[6]
+				 Open Group
+			[7]
+				 OCS Group
+		[:metadata:title]
+			 Unix
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 61
+			[:metadata:gale:gale-fake-waiting]
+				 33
+		[:extracted_metadata:sha1]
+			 35e5875cc986bda8acab1e4f11bc5f44f61df7a5
+		[:extracted_metadata:filename]
+			 Unix.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 1]
+********************************************************************************
+	[:id]
+		 0c6046d0-90c9-43e5-9c3e-ab3f7c346070
+		[:result_metadata:confidence]
+			 0.23254887238848332
+		[:result_metadata:score]
+			 15.734544
+	[:text]
+		 no title
+
+Dennis Ritchie and Kenneth Thompson are computer scientists who created the Unix operating system, a popular program for running c[...]
+				[:enriched_text:sentiment:document:score]
+					 0.431205
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 19
+					[0:sentiment:score]
+						 0.203124
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Jean McGee Ritchie
+				[0:relevance]
+					 0.879893
+				[0:type]
+					 Person
+				[1:count]
+					 22
+					[1:sentiment:score]
+						 -0.107816
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Kenneth Randall Thompson
+				[1:relevance]
+					 0.818719
+				[1:type]
+					 Person
+					[1:disambiguation:subtype]
+						[0]
+							 Composer
+						[1]
+							 MusicalArtist
+					[1:disambiguation:name]
+						 Randall Thompson
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Randall_Thompson
+				[2:count]
+					 10
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Bell Laboratories
+				[2:relevance]
+					 0.558503
+				[2:type]
+					 Company
+					[2:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[2:disambiguation:name]
+						 Bell Labs
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[3:count]
+					 6
+					[3:sentiment:score]
+						 -0.51148
+					[3:sentiment:label]
+						 negative
+				[3:text]
+					 Bell
+				[3:relevance]
+					 0.400438
+				[3:type]
+					 Person
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 Unix System Laboratories
+				[4:relevance]
+					 0.238225
+				[4:type]
+					 Company
+					[4:disambiguation:subtype]
+					[4:disambiguation:name]
+						 Unix System Laboratories
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Unix_System_Laboratories
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.308716
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 New Jersey
+				[5:relevance]
+					 0.232289
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[5:disambiguation:name]
+						 New Jersey
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 San Diego
+				[6:relevance]
+					 0.232253
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 San Diego
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Diego
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 0.326648
+					[7:sentiment:label]
+						 positive
+				[7:text]
+					 Massachusetts Institute of Technology
+				[7:relevance]
+					 0.227252
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 CollegeUniversity
+						[6]
+							 JobTitle
+						[7]
+							 University
+					[7:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[8:count]
+					 3
+					[8:sentiment:score]
+						 -0.309756
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 AT&T
+				[8:relevance]
+					 0.220568
+				[8:type]
+					 Company
+					[8:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[8:disambiguation:name]
+						 AT&T
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Berkeley
+				[9:relevance]
+					 0.218851
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+				[10:count]
+					 2
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 University of California
+				[10:relevance]
+					 0.217597
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 University
+					[10:disambiguation:name]
+						 Haas School of Business
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Haas_School_of_Business
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Kingsville
+				[11:relevance]
+					 0.203704
+				[11:type]
+					 Location
+					[11:disambiguation:subtype]
+						[0]
+							 City
+					[11:disambiguation:name]
+						 Kingsville, Texas
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kingsville,_Texas
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 General Dynamics
+				[12:relevance]
+					 0.203098
+				[12:type]
+					 Company
+					[12:disambiguation:subtype]
+						[0]
+							 AircraftManufacturer
+					[12:disambiguation:name]
+						 General Dynamics
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Dynamics
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Bill Gates
+				[13:relevance]
+					 0.199662
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 ChivalricOrderMember
+						[2]
+							 CompanyFounder
+						[3]
+							 TVActor
+						[4]
+							 VideoGameDeveloper
+					[13:disambiguation:name]
+						 Bill Gates
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Gates
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Harvard University
+				[14:relevance]
+					 0.199578
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[14:disambiguation:name]
+						 Harvard University
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Bjarne Stroustrup
+				[15:relevance]
+					 0.19898
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 ProgrammingLanguageDesigner
+					[15:disambiguation:name]
+						 Bjarne Stroustrup
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bjarne_Stroustrup
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 U.S. Navy
+				[16:relevance]
+					 0.197562
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 ArmedForce
+						[1]
+							 VideoGameDeveloper
+					[16:disambiguation:name]
+						 United States Navy
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Navy
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.292047
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 New Orleans
+				[17:relevance]
+					 0.193667
+				[17:type]
+					 Location
+					[17:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 City
+					[17:disambiguation:name]
+						 New Orleans
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Orleans
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Bill Clinton
+				[18:relevance]
+					 0.191857
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Politician
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OfficeHolder
+						[7]
+							 PoliticalAppointer
+						[8]
+							 TVPersonality
+						[9]
+							 FilmActor
+						[10]
+							 FilmWriter
+						[11]
+							 USPresident
+					[18:disambiguation:name]
+						 Bill Clinton
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Clinton
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 systems engineer
+				[19:relevance]
+					 0.190721
+				[19:type]
+					 JobTitle
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Louisiana
+				[20:relevance]
+					 0.188754
+				[20:type]
+					 Location
+					[20:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[20:disambiguation:name]
+						 Louisiana
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Louisiana
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Bronxville
+				[21:relevance]
+					 0.188494
+				[21:type]
+					 Location
+					[21:disambiguation:subtype]
+						[0]
+							 City
+					[21:disambiguation:name]
+						 Bronxville, New York
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bronxville,_New_York
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Alistair
+				[22:relevance]
+					 0.187112
+				[22:type]
+					 Person
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Australia
+				[23:relevance]
+					 0.187062
+				[23:type]
+					 Location
+					[23:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[23:disambiguation:name]
+						 Australia
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Australia
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0.43412
+					[24:sentiment:label]
+						 positive
+				[24:text]
+					 Texas
+				[24:relevance]
+					 0.186749
+				[24:type]
+					 Location
+					[24:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[24:disambiguation:name]
+						 Texas
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Texas
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 Digital Equipment Corporation
+				[25:relevance]
+					 0.185931
+				[25:type]
+					 Company
+					[25:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+					[25:disambiguation:name]
+						 Digital Equipment Corporation
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 General Electric
+				[26:relevance]
+					 0.184111
+				[26:type]
+					 Company
+					[26:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[26:disambiguation:name]
+						 General Electric
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Robert Slater
+				[27:relevance]
+					 0.183709
+				[27:type]
+					 Person
+					[27:disambiguation:subtype]
+						[0]
+							 Athlete
+						[1]
+							 FootballPlayer
+						[2]
+							 OlympicAthlete
+					[27:disambiguation:name]
+						 Robbie Slater
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Robbie_Slater
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 University of Sydney
+				[28:relevance]
+					 0.182685
+				[28:type]
+					 Organization
+					[28:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[28:disambiguation:name]
+						 University of Sydney
+					[28:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Sydney
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Microsoft
+				[29:relevance]
+					 0.17651
+				[29:type]
+					 Company
+					[29:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 VentureFundedCompany
+						[4]
+							 VideoGameDeveloper
+						[5]
+							 VideoGamePublisher
+						[6]
+							 ProgrammingLanguageDesigner
+					[29:disambiguation:name]
+						 Microsoft
+					[29:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Microsoft
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 Software Systems Award
+				[30:relevance]
+					 0.168884
+				[30:type]
+					 JobTitle
+				[31:count]
+					 2
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 ACM
+				[31:relevance]
+					 0.168129
+				[31:type]
+					 Organization
+					[31:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+					[31:disambiguation:name]
+						 Association for Computing Machinery
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Association_for_Computing_Machinery
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0
+					[32:sentiment:label]
+						 neutral
+				[32:text]
+					 Lewis Elwood
+				[32:relevance]
+					 0.167753
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 President
+				[33:relevance]
+					 0.167279
+				[33:type]
+					 JobTitle
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0
+					[34:sentiment:label]
+						 neutral
+				[34:text]
+					 Carlstadt
+				[34:relevance]
+					 0.165894
+				[34:type]
+					 Location
+					[34:disambiguation:subtype]
+						[0]
+							 City
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0
+					[35:sentiment:label]
+						 neutral
+				[35:text]
+					 San Francisco
+				[35:relevance]
+					 0.165376
+				[35:type]
+					 Location
+					[35:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[35:disambiguation:name]
+						 San Francisco
+					[35:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[36:count]
+					 2
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 IEEE
+				[36:relevance]
+					 0.163873
+				[36:type]
+					 Organization
+					[36:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+						[2]
+							 Non-ProfitOrganisation
+						[3]
+							 PeriodicalPublisher
+					[36:disambiguation:name]
+						 Institute of Electrical and Electronics Engineers
+					[36:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Indianapolis
+				[37:relevance]
+					 0.163338
+				[37:type]
+					 Location
+					[37:disambiguation:subtype]
+						[0]
+							 City
+					[37:disambiguation:name]
+						 Indianapolis
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Indianapolis
+		[:enriched_text:concepts]
+				[0:text]
+					 Unix
+				[0:relevance]
+					 0.978102
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[1:text]
+					 C
+				[1:relevance]
+					 0.897784
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[2:text]
+					 Dennis Ritchie
+				[2:relevance]
+					 0.767165
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[3:text]
+					 Operating system
+				[3:relevance]
+					 0.763151
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[4:text]
+					 Bell Labs
+				[4:relevance]
+					 0.750919
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bell_Labs
+				[5:text]
+					 Plan 9 from Bell Labs
+				[5:relevance]
+					 0.680601
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Plan_9_from_Bell_Labs
+				[6:text]
+					 Computer
+				[6:relevance]
+					 0.627154
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[7:text]
+					 Inferno
+				[7:relevance]
+					 0.524623
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Inferno_(operating_system)
+		[:enriched_text:categories]
+				[0:score]
+					 0.999103
+				[0:label]
+					 /technology and computing/operating systems/unix
+				[1:score]
+					 0.987613
+				[1:label]
+					 /technology and computing/hardware/computer
+				[2:score]
+					 0.961033
+				[2:label]
+					 /technology and computing/hardware/computer peripherals
+		[:metadata:docid]
+			 K1618002901
+		[:metadata:concepts]
+			[0]
+				 Unix
+			[1]
+				 C
+			[2]
+				 Dennis Ritchie
+			[3]
+				 Operating system
+			[4]
+				 Bell Labs
+			[5]
+				 Plan 9 from Bell Labs
+			[6]
+				 Computer
+			[7]
+				 Inferno
+			[8]
+				 C++
+			[9]
+				 Digital Equipment Corporation
+		[:metadata:keywords]
+			[0]
+				 Unix operating system
+			[1]
+				 Dennis Ritchie
+			[2]
+				 Kenneth Thompson
+			[3]
+				 Bell Laboratories
+			[4]
+				 Unix system
+			[5]
+				 C programming language
+			[6]
+				 Bell Labs
+			[7]
+				 computer scientists
+			[8]
+				 Dennis M. Ritchie
+			[9]
+				 Kenneth Randall Thompson
+		[:metadata:entitites]
+			[0]
+				 Ritchie
+			[1]
+				 Thompson
+			[2]
+				 Bell Labs
+			[3]
+				 Dennis M. Ritchie
+			[4]
+				 MIT
+			[5]
+				 Kenneth Thompson
+			[6]
+				 Bell
+			[7]
+				 Kingsville
+			[8]
+				 Jean McGee Ritchie
+			[9]
+				 Robert Slater
+		[:metadata:title]
+			 Dennis Ritchie and Kenneth Thompson
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 91
+			[:metadata:gale:gale-fake-waiting]
+				 17
+		[:extracted_metadata:sha1]
+			 aa6ba8556f2311ac226d8bbbed6855901be742eb
+		[:extracted_metadata:filename]
+			 Dennis Ritchie and Kenneth Thompson.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 2]
+********************************************************************************
+	[:id]
+		 444b1e59-f275-4633-9ab1-273783394f0a
+		[:result_metadata:confidence]
+			 0.23187403571870369
+		[:result_metadata:score]
+			 15.70599
+	[:text]
+		 no title
+
+An operating system is a specialized software package that operates a computer on behalf of the user. Functions of an operating sy[...]
+				[:enriched_text:sentiment:document:score]
+					 0.426786
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 1
+					[0:sentiment:score]
+						 0.219376
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 IBM
+				[0:relevance]
+					 0.239644
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+						[0]
+							 SoftwareLicense
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CompanyFounder
+						[5]
+							 ProgrammingLanguageDesigner
+						[6]
+							 ProgrammingLanguageDeveloper
+					[0:disambiguation:name]
+						 IBM
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/IBM
+				[1:count]
+					 1
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Microsoft
+				[1:relevance]
+					 0.230111
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 VentureFundedCompany
+						[4]
+							 VideoGameDeveloper
+						[5]
+							 VideoGamePublisher
+						[6]
+							 ProgrammingLanguageDesigner
+					[1:disambiguation:name]
+						 Microsoft
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Microsoft
+		[:enriched_text:concepts]
+				[0:text]
+					 Computer
+				[0:relevance]
+					 0.961624
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[1:text]
+					 Microsoft Windows
+				[1:relevance]
+					 0.948196
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Microsoft_Windows
+				[2:text]
+					 Operating system
+				[2:relevance]
+					 0.881489
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[3:text]
+					 Graphical user interface
+				[3:relevance]
+					 0.873987
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Graphical_user_interface
+				[4:text]
+					 Unix
+				[4:relevance]
+					 0.77252
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[5:text]
+					 Personal computer
+				[5:relevance]
+					 0.730729
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Personal_computer
+				[6:text]
+					 MS-DOS
+				[6:relevance]
+					 0.695869
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/MS-DOS
+				[7:text]
+					 Multi-user
+				[7:relevance]
+					 0.641674
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Multi-user
+		[:enriched_text:categories]
+				[0:score]
+					 0.999998
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.999705
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.994668
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 CV2424500429
+		[:metadata:concepts]
+			[0]
+				 Computer
+			[1]
+				 Microsoft Windows
+			[2]
+				 Operating system
+			[3]
+				 Graphical user interface
+			[4]
+				 Unix
+			[5]
+				 Personal computer
+			[6]
+				 MS-DOS
+			[7]
+				 Multi-user
+			[8]
+				 Windows NT
+			[9]
+				 Microsoft
+		[:metadata:keywords]
+			[0]
+				 operating system
+			[1]
+				 behalf of the user
+			[2]
+				 Functions of an operating system
+			[3]
+				 home use
+			[4]
+				 single user
+			[5]
+				 personal computers
+			[6]
+				 earliest operating systems
+			[7]
+				 OSs of this kind include MS-DOS
+			[8]
+				 computing utility
+			[9]
+				 few of the researchers
+		[:metadata:entitites]
+			[0]
+				 IBM
+			[1]
+				 Microsoft
+		[:metadata:title]
+			 Operating systems (types)
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 45
+			[:metadata:gale:gale-fake-waiting]
+				 41
+		[:extracted_metadata:sha1]
+			 cf6d56161987613187de8fe51880d0c768de028f
+		[:extracted_metadata:filename]
+			 Operating systems (types).txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 3]
+********************************************************************************
+	[:id]
+		 2c5136c8-b807-4c8b-bf8a-12251e8eabfe
+		[:result_metadata:confidence]
+			 0.23114330534842578
+		[:result_metadata:score]
+			 15.675071
+	[:text]
+		 no title
+
+William N. ("Bill") Joy, Jr. earned respect as one of the first technology "gurus" associated with the early days of the computer [...]
+				[:enriched_text:sentiment:document:score]
+					 0.704739
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 27
+					[0:sentiment:score]
+						 0.549473
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Joy
+				[0:relevance]
+					 0.894134
+				[0:type]
+					 Person
+				[1:count]
+					 5
+					[1:sentiment:score]
+						 0.632746
+					[1:sentiment:label]
+						 positive
+				[1:text]
+					 AT&T
+				[1:relevance]
+					 0.229618
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[1:disambiguation:name]
+						 AT&T
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[2:count]
+					 2
+					[2:sentiment:score]
+						 0.896514
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Sun Microsystems Incorporated
+				[2:relevance]
+					 0.212495
+				[2:type]
+					 Company
+					[2:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 VentureFundedCompany
+						[4]
+							 ProgrammingLanguageDeveloper
+					[2:disambiguation:name]
+						 Sun Microsystems
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Sun_Microsystems
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0.391428
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Berkeley
+				[3:relevance]
+					 0.197632
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+				[4:count]
+					 3
+					[4:sentiment:score]
+						 0.495373
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 Vinod Khosla
+				[4:relevance]
+					 0.193894
+				[4:type]
+					 Person
+					[4:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 CompanyAdvisor
+						[2]
+							 CompanyFounder
+					[4:disambiguation:name]
+						 Vinod Khosla
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Vinod_Khosla
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 -0.528943
+					[5:sentiment:label]
+						 negative
+				[5:text]
+					 Sun
+				[5:relevance]
+					 0.192732
+				[5:type]
+					 Company
+				[6:count]
+					 2
+					[6:sentiment:score]
+						 -0.528943
+					[6:sentiment:label]
+						 negative
+				[6:text]
+					 Palo Alto
+				[6:relevance]
+					 0.176967
+				[6:type]
+					 Location
+					[6:disambiguation:subtype]
+						[0]
+							 City
+					[6:disambiguation:name]
+						 Palo Alto, California
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Palo_Alto,_California
+				[7:count]
+					 2
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Silicon Valley
+				[7:relevance]
+					 0.17425
+				[7:type]
+					 GeographicFeature
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 UNIX International
+				[8:relevance]
+					 0.171871
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+					[8:disambiguation:name]
+						 Unix International
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Unix_International
+				[9:count]
+					 2
+					[9:sentiment:score]
+						 0.514572
+					[9:sentiment:label]
+						 positive
+				[9:text]
+					 Aspen
+				[9:relevance]
+					 0.170712
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 City
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Detroit
+				[10:relevance]
+					 0.168058
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Detroit
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Detroit
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 North Farmington High School
+				[11:relevance]
+					 0.167733
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 School
+					[11:disambiguation:name]
+						 North Farmington High School
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/North_Farmington_High_School
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0.796992
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 Andreas Bechtolsheim
+				[12:relevance]
+					 0.165023
+				[12:type]
+					 Person
+					[12:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 CompanyAdvisor
+						[2]
+							 CompanyFounder
+						[3]
+							 ComputerScientist
+						[4]
+							 ProjectParticipant
+					[12:disambiguation:name]
+						 Andy Bechtolsheim
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Andy_Bechtolsheim
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Michigan
+				[13:relevance]
+					 0.162636
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[13:disambiguation:name]
+						 Michigan
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Michigan
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 William N.
+				[14:relevance]
+					 0.153555
+				[14:type]
+					 Person
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 University of Michigan
+				[15:relevance]
+					 0.152874
+				[15:type]
+					 Organization
+					[15:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[15:disambiguation:name]
+						 University of Michigan
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Michigan
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0.635032
+					[16:sentiment:label]
+						 positive
+				[16:text]
+					 Defense Department
+				[16:relevance]
+					 0.15277
+				[16:type]
+					 Organization
+					[16:disambiguation:subtype]
+						[0]
+							 ArmedForce
+						[1]
+							 AwardPresentingOrganization
+						[2]
+							 GovernmentAgency
+						[3]
+							 GovernmentalBody
+					[16:disambiguation:name]
+						 United States Department of Defense
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Department_of_Defense
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.54798
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Kleiner Perkins Caulfield & Byers
+				[17:relevance]
+					 0.152474
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+						[0]
+							 CompanyShareholder
+					[17:disambiguation:name]
+						 Kleiner Perkins Caufield & Byers
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Kleiner_Perkins_Caufield_&_Byers
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 co-founder
+				[18:relevance]
+					 0.148061
+				[18:type]
+					 JobTitle
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0.359512
+					[19:sentiment:label]
+						 positive
+				[19:text]
+					 University of California
+				[19:relevance]
+					 0.147502
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 UC Davis College of Letters and Science
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/UC_Davis_College_of_Letters_and_Science
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Stanford University Network
+				[20:relevance]
+					 0.147047
+				[20:type]
+					 Organization
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0.271875
+					[21:sentiment:label]
+						 positive
+				[21:text]
+					 President Clinton
+				[21:relevance]
+					 0.147016
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Politician
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OfficeHolder
+						[7]
+							 PoliticalAppointer
+						[8]
+							 TVPersonality
+						[9]
+							 FilmActor
+						[10]
+							 FilmWriter
+						[11]
+							 USPresident
+					[21:disambiguation:name]
+						 Bill Clinton
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Clinton
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Smithsonian Awards
+				[22:relevance]
+					 0.146362
+				[22:type]
+					 Award
+					[22:disambiguation:subtype]
+						[0]
+							 EntertainmentAward
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Digital Equipment Corporation
+				[23:relevance]
+					 0.14587
+				[23:type]
+					 Company
+					[23:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+					[23:disambiguation:name]
+						 Digital Equipment Corporation
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0.3638
+					[24:sentiment:label]
+						 positive
+				[24:text]
+					 Eric Schmidt
+				[24:relevance]
+					 0.145794
+				[24:type]
+					 Person
+					[24:disambiguation:subtype]
+					[24:disambiguation:name]
+						 Eric Schmidt
+					[24:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Eric_Schmidt
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 DARPA
+				[25:relevance]
+					 0.14454
+				[25:type]
+					 Organization
+					[25:disambiguation:subtype]
+						[0]
+							 GovernmentAgency
+					[25:disambiguation:name]
+						 DARPA
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/DARPA
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Scott McNealy
+				[26:relevance]
+					 0.142695
+				[26:type]
+					 Person
+					[26:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 CompanyFounder
+					[26:disambiguation:name]
+						 Scott McNealy
+					[26:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Scott_McNealy
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 Stanford University
+				[27:relevance]
+					 0.14203
+				[27:type]
+					 Organization
+					[27:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 SportsAssociation
+						[3]
+							 AcademicInstitution
+						[4]
+							 ChivalricOrderMember
+						[5]
+							 CollegeUniversity
+						[6]
+							 University
+					[27:disambiguation:name]
+						 Stanford University
+					[27:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Stanford_University
+				[28:count]
+					 3
+					[28:sentiment:score]
+						 0.533498
+					[28:sentiment:label]
+						 positive
+				[28:text]
+					 Oak
+				[28:relevance]
+					 0.137734
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 Aspen Smallworks
+				[29:relevance]
+					 0.136594
+				[29:type]
+					 GeographicFeature
+				[30:count]
+					 1
+					[30:sentiment:score]
+						 0
+					[30:sentiment:label]
+						 neutral
+				[30:text]
+					 U.S. Department of Defense Advanced Research Projects Agency
+				[30:relevance]
+					 0.135481
+				[30:type]
+					 Organization
+				[31:count]
+					 1
+					[31:sentiment:score]
+						 0
+					[31:sentiment:label]
+						 neutral
+				[31:text]
+					 California
+				[31:relevance]
+					 0.135123
+				[31:type]
+					 Location
+					[31:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 Appellation
+						[3]
+							 GovernmentalJurisdiction
+						[4]
+							 USState
+						[5]
+							 WineRegion
+						[6]
+							 StateOrCounty
+					[31:disambiguation:name]
+						 California
+					[31:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/California
+				[32:count]
+					 1
+					[32:sentiment:score]
+						 0.348694
+					[32:sentiment:label]
+						 positive
+				[32:text]
+					 Madison
+				[32:relevance]
+					 0.134732
+				[32:type]
+					 Person
+				[33:count]
+					 1
+					[33:sentiment:score]
+						 0
+					[33:sentiment:label]
+						 neutral
+				[33:text]
+					 Osaka
+				[33:relevance]
+					 0.134166
+				[33:type]
+					 Location
+					[33:disambiguation:subtype]
+						[0]
+							 JapaneseDesignatedCity
+						[1]
+							 OlympicBiddingCity
+						[2]
+							 City
+					[33:disambiguation:name]
+						 Osaka
+					[33:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Osaka
+				[34:count]
+					 1
+					[34:sentiment:score]
+						 0.752644
+					[34:sentiment:label]
+						 positive
+				[34:text]
+					 vice president of research
+				[34:relevance]
+					 0.133125
+				[34:type]
+					 JobTitle
+				[35:count]
+					 1
+					[35:sentiment:score]
+						 0.206807
+					[35:sentiment:label]
+						 positive
+				[35:text]
+					 Jr.
+				[35:relevance]
+					 0.133106
+				[35:type]
+					 Person
+				[36:count]
+					 1
+					[36:sentiment:score]
+						 0
+					[36:sentiment:label]
+						 neutral
+				[36:text]
+					 Jini
+				[36:relevance]
+					 0.132302
+				[36:type]
+					 Company
+				[37:count]
+					 1
+					[37:sentiment:score]
+						 0
+					[37:sentiment:label]
+						 neutral
+				[37:text]
+					 Colorado
+				[37:relevance]
+					 0.132262
+				[37:type]
+					 Location
+					[37:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[37:disambiguation:name]
+						 Colorado
+					[37:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Colorado
+				[38:count]
+					 1
+					[38:sentiment:score]
+						 0.271875
+					[38:sentiment:label]
+						 positive
+				[38:text]
+					 co-chair
+				[38:relevance]
+					 0.132158
+				[38:type]
+					 JobTitle
+				[39:count]
+					 1
+					[39:sentiment:score]
+						 0
+					[39:sentiment:label]
+						 neutral
+				[39:text]
+					 Lucent Technologies
+				[39:relevance]
+					 0.131235
+				[39:type]
+					 Company
+					[39:disambiguation:subtype]
+					[39:disambiguation:name]
+						 Lucent
+					[39:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lucent
+				[40:count]
+					 1
+					[40:sentiment:score]
+						 -0.528943
+					[40:sentiment:label]
+						 negative
+				[40:text]
+					 San Francisco
+				[40:relevance]
+					 0.131003
+				[40:type]
+					 Location
+					[40:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 PlaceWithNeighborhoods
+						[4]
+							 USCounty
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 City
+					[40:disambiguation:name]
+						 San Francisco
+					[40:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/San_Francisco
+				[41:count]
+					 1
+					[41:sentiment:score]
+						 0.314477
+					[41:sentiment:label]
+						 positive
+				[41:text]
+					 Hayden
+				[41:relevance]
+					 0.129602
+				[41:type]
+					 Person
+		[:enriched_text:concepts]
+				[0:text]
+					 Sun Microsystems
+				[0:relevance]
+					 0.981323
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Sun_Microsystems
+				[1:text]
+					 Unix
+				[1:relevance]
+					 0.701382
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[2:text]
+					 Digital Equipment Corporation
+				[2:relevance]
+					 0.58886
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[3:text]
+					 Workstation
+				[3:relevance]
+					 0.556598
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Workstation
+				[4:text]
+					 Vinod Khosla
+				[4:relevance]
+					 0.542393
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Vinod_Khosla
+				[5:text]
+					 Berkeley Software Distribution
+				[5:relevance]
+					 0.520058
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Berkeley_Software_Distribution
+				[6:text]
+					 Scott McNealy
+				[6:relevance]
+					 0.47912
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Scott_McNealy
+				[7:text]
+					 Bill Joy
+				[7:relevance]
+					 0.473261
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Bill_Joy
+		[:enriched_text:categories]
+				[0:score]
+					 0.999872
+				[0:label]
+					 /technology and computing/operating systems/unix
+				[1:score]
+					 0.993544
+				[1:label]
+					 /technology and computing/hardware/computer
+				[2:score]
+					 0.973298
+				[2:label]
+					 /technology and computing/hardware/computer peripherals
+		[:metadata:docid]
+			 K1650000581
+		[:metadata:concepts]
+			[0]
+				 Sun Microsystems
+			[1]
+				 Unix
+			[2]
+				 Digital Equipment Corporation
+			[3]
+				 Workstation
+			[4]
+				 Vinod Khosla
+			[5]
+				 Berkeley Software Distribution
+			[6]
+				 Scott McNealy
+			[7]
+				 Bill Joy
+			[8]
+				 Linux
+			[9]
+				 Andy Bechtolsheim
+		[:metadata:keywords]
+			[0]
+				 Joy's comprehension
+			[1]
+				 founder of Sun Microsystems
+			[2]
+				 Joy
+			[3]
+				 early days of the computer industry
+			[4]
+				 development group
+			[5]
+				 charge of a second project
+			[6]
+				 operating system's network connectivity
+			[7]
+				 original developers of the system
+			[8]
+				 Vinod Khosla
+			[9]
+				 intricacies of UNIX
+		[:metadata:entitites]
+			[0]
+				 Sun Microsystems
+			[1]
+				 Joy
+			[2]
+				 William N.
+			[3]
+				 Bill") Joy, Jr.
+			[4]
+				 North Farmington High School
+			[5]
+				 $50
+			[6]
+				 $300
+			[7]
+				 DARPA
+			[8]
+				 U.S. Department of Defense Advanced Research Projects Agency
+			[9]
+				 Khosla
+		[:metadata:title]
+			 William N. Joy, Jr.
+		[:metadata:cluster_id]
+			 1
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 22
+			[:metadata:gale:gale-fake-waiting]
+				 5
+		[:extracted_metadata:sha1]
+			 2095605776d91f14dc49a209d274451ecdd8cddb
+		[:extracted_metadata:filename]
+			 William N. Joy, Jr..txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 4]
+********************************************************************************
+	[:id]
+		 9110117f-f0a4-46d9-a8a1-3cace0e0a178
+		[:result_metadata:confidence]
+			 0.23076457530593716
+		[:result_metadata:score]
+			 15.659046
+	[:text]
+		 no title
+
+Dennis Ritchie was a computer scientist best known for his work with Dennis MacAlistair Ritchie was born in Bronxville, New York, [...]
+				[:enriched_text:sentiment:document:score]
+					 0.628353
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 16
+					[0:sentiment:score]
+						 -0.3328
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Dennis MacAlistair Ritchie
+				[0:relevance]
+					 0.857358
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ComputerScientist
+						[3]
+							 ProgrammingLanguageDesigner
+						[4]
+							 Scientist
+						[5]
+							 OperatingSystemDeveloper
+					[0:disambiguation:name]
+						 Dennis Ritchie
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dennis_Ritchie
+				[1:count]
+					 8
+					[1:sentiment:score]
+						 -0.3328
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Thompson
+				[1:relevance]
+					 0.350886
+				[1:type]
+					 Person
+				[2:count]
+					 6
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Bell Laboratories
+				[2:relevance]
+					 0.336634
+				[2:type]
+					 Company
+					[2:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[2:disambiguation:name]
+						 Bell Labs
+					[2:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Bronxville
+				[3:relevance]
+					 0.158952
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 City
+					[3:disambiguation:name]
+						 Bronxville, New York
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bronxville,_New_York
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 New Jersey
+				[4:relevance]
+					 0.158904
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 New Jersey
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 New York
+				[5:relevance]
+					 0.157621
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 CityTown
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 StateOrCounty
+					[5:disambiguation:name]
+						 New York
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 systems engineer
+				[6:relevance]
+					 0.153375
+				[6:type]
+					 JobTitle
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 head of Lucent Technologies System Software Research Department
+				[7:relevance]
+					 0.148706
+				[7:type]
+					 JobTitle
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Harvard University
+				[8:relevance]
+					 0.139604
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[8:disambiguation:name]
+						 Harvard University
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 scientist
+				[9:relevance]
+					 0.136502
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 General Electric
+				[10:relevance]
+					 0.126041
+				[10:type]
+					 Company
+					[10:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[10:disambiguation:name]
+						 General Electric
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 -0.407001
+					[11:sentiment:label]
+						 negative
+				[11:text]
+					 AT&T
+				[11:relevance]
+					 0.124152
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[11:disambiguation:name]
+						 AT&T
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 ACM Turing
+				[12:relevance]
+					 0.121869
+				[12:type]
+					 Company
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 MIT
+				[13:relevance]
+					 0.121246
+				[13:type]
+					 Company
+					[13:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CollegeUniversity
+						[5]
+							 JobTitle
+						[6]
+							 University
+					[13:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 National Medal of Technology
+				[14:relevance]
+					 0.117782
+				[14:type]
+					 Organization
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 American Telephone
+				[15:relevance]
+					 0.101501
+				[15:type]
+					 Company
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 $20 billion
+				[16:relevance]
+					 0.101501
+				[16:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 C
+				[0:relevance]
+					 0.971691
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[1:text]
+					 Unix
+				[1:relevance]
+					 0.935458
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[2:text]
+					 Operating system
+				[2:relevance]
+					 0.908679
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[3:text]
+					 Dennis Ritchie
+				[3:relevance]
+					 0.846325
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[4:text]
+					 Digital Equipment Corporation
+				[4:relevance]
+					 0.779313
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[5:text]
+					 Bell Labs
+				[5:relevance]
+					 0.744559
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Bell_Labs
+				[6:text]
+					 Plan 9 from Bell Labs
+				[6:relevance]
+					 0.696909
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Plan_9_from_Bell_Labs
+				[7:text]
+					 Computer
+				[7:relevance]
+					 0.631286
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+		[:enriched_text:categories]
+				[0:score]
+					 0.999944
+				[0:label]
+					 /technology and computing/operating systems/unix
+				[1:score]
+					 0.9843
+				[1:label]
+					 /technology and computing/hardware/computer
+				[2:score]
+					 0.96463
+				[2:label]
+					 /technology and computing/hardware/computer peripherals
+		[:metadata:docid]
+			 K2424100096
+		[:metadata:concepts]
+			[0]
+				 C
+			[1]
+				 Unix
+			[2]
+				 Operating system
+			[3]
+				 Dennis Ritchie
+			[4]
+				 Digital Equipment Corporation
+			[5]
+				 Bell Labs
+			[6]
+				 Plan 9 from Bell Labs
+			[7]
+				 Computer
+			[8]
+				 Computer program
+			[9]
+				 Programming language
+		[:metadata:keywords]
+			[0]
+				 Dennis Ritchie
+			[1]
+				 switching systems engineer
+			[2]
+				 Dennis MacAlistair Ritchie
+			[3]
+				 Bell Labs
+			[4]
+				 New York
+			[5]
+				 Bell Laboratories
+			[6]
+				 computer scientist
+			[7]
+				 copyright C
+			[8]
+				 PDP-7
+			[9]
+				 UNIX operating system
+		[:metadata:entitites]
+			[0]
+				 Ritchie
+			[1]
+				 Bell Laboratories
+			[2]
+				 Thompson
+			[3]
+				 Dennis MacAlistair Ritchie
+			[4]
+				 Alistair Ritchie
+			[5]
+				 Jean McGee Ritchie
+			[6]
+				 PDP
+			[7]
+				 Bronxville
+			[8]
+				 Harvard University
+			[9]
+				 General Electric
+		[:metadata:title]
+			 Dennis Ritchie
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 78
+			[:metadata:gale:gale-fake-waiting]
+				 26
+		[:extracted_metadata:sha1]
+			 44e2eabe0a87386a8df1267970e5d0004e1fb47d
+		[:extracted_metadata:filename]
+			 Dennis Ritchie.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 5]
+********************************************************************************
+	[:id]
+		 696dc93e-e108-4ac8-b79f-826cf5ddcc76
+		[:result_metadata:confidence]
+			 0.2278000821465266
+		[:result_metadata:score]
+			 15.533611
+	[:text]
+		 no title
+
+Dennis Ritchie was a computer scientist most well-known for his work with Kenneth Thompson in creating UNIX, a computer operating [...]
+				[:enriched_text:sentiment:document:score]
+					 0.3766
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 22
+					[0:sentiment:score]
+						 -0.265262
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Jean McGee Ritchie
+				[0:relevance]
+					 0.875671
+				[0:type]
+					 Person
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 -0.507591
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Bell Laboratories
+				[1:relevance]
+					 0.487519
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[1:disambiguation:name]
+						 Bell Labs
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[2:count]
+					 11
+					[2:sentiment:score]
+						 0.067733
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Kenneth Thompson
+				[2:relevance]
+					 0.476335
+				[2:type]
+					 Person
+				[3:count]
+					 2
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Bell
+				[3:relevance]
+					 0.221819
+				[3:type]
+					 Person
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.277908
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 New Jersey
+				[4:relevance]
+					 0.194088
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 New Jersey
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Harvard
+				[5:relevance]
+					 0.175917
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[5:disambiguation:name]
+						 Harvard University
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Harvard University
+				[6:relevance]
+					 0.170287
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[6:disambiguation:name]
+						 Harvard University
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 New York
+				[7:relevance]
+					 0.16489
+				[7:type]
+					 Location
+					[7:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 CityTown
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 StateOrCounty
+					[7:disambiguation:name]
+						 New York
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Bronxville
+				[8:relevance]
+					 0.163558
+				[8:type]
+					 Location
+					[8:disambiguation:subtype]
+						[0]
+							 City
+					[8:disambiguation:name]
+						 Bronxville, New York
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bronxville,_New_York
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 systems engineer
+				[9:relevance]
+					 0.161409
+				[9:type]
+					 JobTitle
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Murray Hill
+				[10:relevance]
+					 0.157999
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Murray Hill, New Jersey
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Murray_Hill,_New_Jersey
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 scientist
+				[11:relevance]
+					 0.148414
+				[11:type]
+					 JobTitle
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0.278671
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 MIT
+				[12:relevance]
+					 0.14812
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 CollegeUniversity
+						[6]
+							 JobTitle
+						[7]
+							 University
+					[12:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Computing Techniques Research Department
+				[13:relevance]
+					 0.14285
+				[13:type]
+					 Organization
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 -0.396077
+					[14:sentiment:label]
+						 negative
+				[14:text]
+					 ACM Turing
+				[14:relevance]
+					 0.13995
+				[14:type]
+					 Company
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Digital Equipment Corporation
+				[15:relevance]
+					 0.139018
+				[15:type]
+					 Company
+					[15:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+					[15:disambiguation:name]
+						 Digital Equipment Corporation
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[16:count]
+					 2
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 International Business Machines
+				[16:relevance]
+					 0.136845
+				[16:type]
+					 Company
+					[16:disambiguation:subtype]
+						[0]
+							 SoftwareLicense
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CompanyFounder
+						[5]
+							 ProgrammingLanguageDesigner
+						[6]
+							 ProgrammingLanguageDeveloper
+					[16:disambiguation:name]
+						 IBM
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/IBM
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 ATT
+				[17:relevance]
+					 0.13455
+				[17:type]
+					 Company
+					[17:disambiguation:subtype]
+					[17:disambiguation:name]
+						 AT&T Corporation
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T_Corporation
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 General Electric
+				[18:relevance]
+					 0.133739
+				[18:type]
+					 Company
+					[18:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[18:disambiguation:name]
+						 General Electric
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 MIT
+				[19:relevance]
+					 0.131833
+				[19:type]
+					 Company
+					[19:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CollegeUniversity
+						[5]
+							 JobTitle
+						[6]
+							 University
+					[19:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Patrick Moore
+				[20:relevance]
+					 0.124454
+				[20:type]
+					 Person
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 American Telephone
+				[21:relevance]
+					 0.11906
+				[21:type]
+					 Company
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 $20 billion
+				[22:relevance]
+					 0.11906
+				[22:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 C
+				[0:relevance]
+					 0.96383
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[1:text]
+					 Computer
+				[1:relevance]
+					 0.944618
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[2:text]
+					 Operating system
+				[2:relevance]
+					 0.863173
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[3:text]
+					 Digital Equipment Corporation
+				[3:relevance]
+					 0.832413
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[4:text]
+					 Programming language
+				[4:relevance]
+					 0.79756
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Programming_language
+				[5:text]
+					 Unix
+				[5:relevance]
+					 0.761207
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[6:text]
+					 Dennis Ritchie
+				[6:relevance]
+					 0.724831
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[7:text]
+					 Computer program
+				[7:relevance]
+					 0.707823
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer_program
+		[:enriched_text:categories]
+				[0:score]
+					 0.999962
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.999436
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.998052
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 H1000124028
+		[:metadata:concepts]
+			[0]
+				 C
+			[1]
+				 Computer
+			[2]
+				 Operating system
+			[3]
+				 Digital Equipment Corporation
+			[4]
+				 Programming language
+			[5]
+				 Unix
+			[6]
+				 Dennis Ritchie
+			[7]
+				 Computer program
+			[8]
+				 Bell Labs
+			[9]
+				 Computer programming
+		[:metadata:keywords]
+			[0]
+				 Dennis Ritchie
+			[1]
+				 computer operating system
+			[2]
+				 computer scientist
+			[3]
+				 popular computer programming language Ritchie
+			[4]
+				 Bell Laboratories
+			[5]
+				 Bell Labs
+			[6]
+				 New York
+			[7]
+				 Kenneth Thompson
+			[8]
+				 switching systems engineer
+			[9]
+				 PDP-7
+		[:metadata:entitites]
+			[0]
+				 Ritchie
+			[1]
+				 Bell Labs
+			[2]
+				 Kenneth Thompson
+			[3]
+				 Thompson
+			[4]
+				 MIT
+			[5]
+				 Alistair Ritchie
+			[6]
+				 Jean McGee Ritchie
+			[7]
+				 Computer Science Research Department
+			[8]
+				 Harvard
+			[9]
+				 Dennis Ritchie
+		[:metadata:title]
+			 Dennis Ritchie
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Biography
+			[:metadata:gale:gale-fake-level]
+				 96
+			[:metadata:gale:gale-fake-waiting]
+				 13
+		[:extracted_metadata:sha1]
+			 97f7bfedad02b0a34b2d12de716c7938d104c2fd
+		[:extracted_metadata:filename]
+			 Dennis Ritchie.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 6]
+********************************************************************************
+	[:id]
+		 885908ed-121f-4d22-9b15-69453afcc155
+		[:result_metadata:confidence]
+			 0.2277309299403287
+		[:result_metadata:score]
+			 15.530685
+	[:text]
+		 no title
+
+For most people, understanding their computers extends no further than needing to know how to be able to install programs. However[...]
+				[:enriched_text:sentiment:document:score]
+					 0.669511
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 22
+					[0:sentiment:score]
+						 -0.394988
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Microsoft Corporation
+				[0:relevance]
+					 0.793178
+				[0:type]
+					 Company
+					[0:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+						[3]
+							 VentureFundedCompany
+						[4]
+							 VideoGameDeveloper
+						[5]
+							 VideoGamePublisher
+						[6]
+							 ProgrammingLanguageDesigner
+					[0:disambiguation:name]
+						 Microsoft
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Microsoft
+				[1:count]
+					 8
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Apple
+				[1:relevance]
+					 0.637289
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 Brand
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 ProgrammingLanguageDesigner
+						[4]
+							 ProgrammingLanguageDeveloper
+						[5]
+							 ProtocolProvider
+						[6]
+							 SoftwareDeveloper
+						[7]
+							 VentureFundedCompany
+						[8]
+							 VideoGameDeveloper
+						[9]
+							 VideoGamePublisher
+					[1:disambiguation:name]
+						 Apple Inc.
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Apple_Inc.
+				[2:count]
+					 5
+					[2:sentiment:score]
+						 -0.386934
+					[2:sentiment:label]
+						 negative
+				[2:text]
+					 programmer
+				[2:relevance]
+					 0.471923
+				[2:type]
+					 JobTitle
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Apple, Inc.
+				[3:relevance]
+					 0.453798
+				[3:type]
+					 Company
+				[4:count]
+					 9
+					[4:sentiment:score]
+						 -0.291129
+					[4:sentiment:label]
+						 negative
+				[4:text]
+					 Macintosh
+				[4:relevance]
+					 0.422586
+				[4:type]
+					 Company
+				[5:count]
+					 3
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Intel
+				[5:relevance]
+					 0.377753
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+					[5:disambiguation:name]
+						 Intel
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Intel
+				[6:count]
+					 4
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 IBM
+				[6:relevance]
+					 0.37507
+				[6:type]
+					 Company
+					[6:disambiguation:subtype]
+						[0]
+							 SoftwareLicense
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CompanyFounder
+						[5]
+							 ProgrammingLanguageDesigner
+						[6]
+							 ProgrammingLanguageDeveloper
+					[6:disambiguation:name]
+						 IBM
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/IBM
+				[7:count]
+					 3
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Bell Laboratories
+				[7:relevance]
+					 0.369098
+				[7:type]
+					 Company
+					[7:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[7:disambiguation:name]
+						 Bell Labs
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[8:count]
+					 2
+					[8:sentiment:score]
+						 -0.294412
+					[8:sentiment:label]
+						 negative
+				[8:text]
+					 AT&T
+				[8:relevance]
+					 0.355536
+				[8:type]
+					 Company
+					[8:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[8:disambiguation:name]
+						 AT&T
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Bell Labs
+				[9:relevance]
+					 0.311411
+				[9:type]
+					 Organization
+					[9:disambiguation:subtype]
+						[0]
+							 Company
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 SoftwareDeveloper
+					[9:disambiguation:name]
+						 Bell Labs
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[10:count]
+					 3
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Dennis Ritchie
+				[10:relevance]
+					 0.309277
+				[10:type]
+					 Person
+					[10:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ComputerScientist
+						[3]
+							 ProgrammingLanguageDesigner
+						[4]
+							 Scientist
+						[5]
+							 OperatingSystemDeveloper
+					[10:disambiguation:name]
+						 Dennis Ritchie
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dennis_Ritchie
+				[11:count]
+					 2
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 scientist
+				[11:relevance]
+					 0.306361
+				[11:type]
+					 JobTitle
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 University of California
+				[12:relevance]
+					 0.303047
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 University
+					[12:disambiguation:name]
+						 Haas School of Business
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Haas_School_of_Business
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Ken Thompson
+				[13:relevance]
+					 0.298327
+				[13:type]
+					 Person
+					[13:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ComputerDesigner
+						[3]
+							 ComputerScientist
+						[4]
+							 ProgrammingLanguageDesigner
+						[5]
+							 Scientist
+						[6]
+							 OperatingSystemDeveloper
+					[13:disambiguation:name]
+						 Ken Thompson
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Ken_Thompson
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Massachusetts Institute of Technology
+				[14:relevance]
+					 0.298294
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 CollegeUniversity
+						[6]
+							 JobTitle
+						[7]
+							 University
+					[14:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[15:count]
+					 4
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Linus Torvalds
+				[15:relevance]
+					 0.2981
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[15:disambiguation:name]
+						 Linus Torvalds
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Linus_Torvalds
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Bill Gates
+				[16:relevance]
+					 0.297571
+				[16:type]
+					 Person
+					[16:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 ChivalricOrderMember
+						[2]
+							 CompanyFounder
+						[3]
+							 TVActor
+						[4]
+							 VideoGameDeveloper
+					[16:disambiguation:name]
+						 Bill Gates
+					[16:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Gates
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Steve Jobs
+				[17:relevance]
+					 0.297184
+				[17:type]
+					 Person
+					[17:disambiguation:subtype]
+						[0]
+							 BoardMember
+						[1]
+							 CompanyFounder
+						[2]
+							 ComputerDesigner
+						[3]
+							 FilmProducer
+					[17:disambiguation:name]
+						 Steve Jobs
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Steve_Jobs
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Brian Kernighan
+				[18:relevance]
+					 0.28929
+				[18:type]
+					 Person
+					[18:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ComputerScientist
+					[18:disambiguation:name]
+						 Brian Kernighan
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Brian_Kernighan
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 Tim Paterson
+				[19:relevance]
+					 0.286279
+				[19:type]
+					 Person
+					[19:disambiguation:subtype]
+					[19:disambiguation:name]
+						 Tim Paterson
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Tim_Paterson
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 Steve Wozniak
+				[20:relevance]
+					 0.28578
+				[20:type]
+					 Person
+					[20:disambiguation:subtype]
+						[0]
+							 CompanyFounder
+						[1]
+							 ComputerDesigner
+						[2]
+							 ComputerScientist
+						[3]
+							 Hobbyist
+						[4]
+							 Inventor
+						[5]
+							 VideoGameDesigner
+						[6]
+							 FilmActor
+						[7]
+							 TVActor
+					[20:disambiguation:name]
+						 Steve Wozniak
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Steve_Wozniak
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 U.S. District Court
+				[21:relevance]
+					 0.282749
+				[21:type]
+					 Organization
+					[21:disambiguation:subtype]
+					[21:disambiguation:name]
+						 United States district court
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_district_court
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Free Software Foundation
+				[22:relevance]
+					 0.281881
+				[22:type]
+					 Organization
+					[22:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+					[22:disambiguation:name]
+						 Free Software Foundation
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Free_Software_Foundation
+		[:enriched_text:concepts]
+				[0:text]
+					 Microsoft Windows
+				[0:relevance]
+					 0.961948
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Microsoft_Windows
+				[1:text]
+					 Operating system
+				[1:relevance]
+					 0.91055
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[2:text]
+					 Graphical user interface
+				[2:relevance]
+					 0.851876
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Graphical_user_interface
+				[3:text]
+					 Personal computer
+				[3:relevance]
+					 0.754765
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Personal_computer
+				[4:text]
+					 Microsoft
+				[4:relevance]
+					 0.753953
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Microsoft
+				[5:text]
+					 Unix
+				[5:relevance]
+					 0.66052
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[6:text]
+					 Apple Inc.
+				[6:relevance]
+					 0.536418
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Apple_Inc.
+				[7:text]
+					 Computer
+				[7:relevance]
+					 0.535015
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+		[:enriched_text:categories]
+				[0:score]
+					 0.999991
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.997944
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.997891
+				[2:label]
+					 /technology and computing/hardware
+		[:metadata:docid]
+			 CV2643450779
+		[:metadata:concepts]
+			[0]
+				 Microsoft Windows
+			[1]
+				 Operating system
+			[2]
+				 Graphical user interface
+			[3]
+				 Personal computer
+			[4]
+				 Microsoft
+			[5]
+				 Unix
+			[6]
+				 Apple Inc.
+			[7]
+				 Computer
+			[8]
+				 MS-DOS
+			[9]
+				 Linux
+		[:metadata:keywords]
+			[0]
+				 Microsoft Corporation
+			[1]
+				 use of the computer hardware
+			[2]
+				 American computer scientists Ken Thompson
+			[3]
+				 operating system
+			[4]
+				 user of a computer
+			[5]
+				 Apple Computer
+			[6]
+				 Examples of OSs
+			[7]
+				 concept of a PC
+			[8]
+				 main components of a computer system
+			[9]
+				 software resources of the computer
+		[:metadata:entitites]
+			[0]
+				 Microsoft
+			[1]
+				 Apple
+			[2]
+				 Bell Laboratories
+			[3]
+				 IBM
+			[4]
+				 Intel
+			[5]
+				 Ritchie
+			[6]
+				 Berkeley Software Distributions
+			[7]
+				 Tim Paterson
+			[8]
+				 Dennis Ritchie
+			[9]
+				 Brian Kernighan
+		[:metadata:title]
+			 The Development of Computer Operating Systems
+		[:metadata:cluster_id]
+			 0
+			[:metadata:gale:gale-collection]
+				 Student
+			[:metadata:gale:gale-fake-level]
+				 2
+			[:metadata:gale:gale-fake-waiting]
+				 86
+		[:extracted_metadata:sha1]
+			 11e05241d84c42ab423142d2472dae819ba7a6cf
+		[:extracted_metadata:filename]
+			 The Development of Computer Operating Systems.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 7]
+********************************************************************************
+	[:id]
+		 162a1113-99b5-46f0-834f-f66568ff0f68
+		[:result_metadata:confidence]
+			 0.2268330620436558
+		[:result_metadata:score]
+			 15.492694
+	[:text]
+		 no title
+
+Kenneth Lane Thompson studied programming languages, operating systems, and computer games. He was one of the inventors of the UNI[...]
+				[:enriched_text:sentiment:document:score]
+					 0.705917
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 20
+					[0:sentiment:score]
+						 0.30454
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Anna Hazel Lane Thompson
+				[0:relevance]
+					 0.905061
+				[0:type]
+					 Person
+				[1:count]
+					 9
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Bell Laboratories
+				[1:relevance]
+					 0.444666
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[1:disambiguation:name]
+						 Bell Labs
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[2:count]
+					 1
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Bell
+				[2:relevance]
+					 0.213443
+				[2:type]
+					 Person
+				[3:count]
+					 3
+					[3:sentiment:score]
+						 0.383031
+					[3:sentiment:label]
+						 positive
+				[3:text]
+					 Berkeley
+				[3:relevance]
+					 0.212037
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 City
+					[3:disambiguation:name]
+						 Berkeley, California
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Berkeley,_California
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 University of California
+				[4:relevance]
+					 0.199928
+				[4:type]
+					 Organization
+					[4:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 University
+					[4:disambiguation:name]
+						 Haas School of Business
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Haas_School_of_Business
+				[5:count]
+					 1
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 General Dynamics Corporation
+				[5:relevance]
+					 0.175275
+				[5:type]
+					 Company
+					[5:disambiguation:subtype]
+						[0]
+							 AircraftManufacturer
+					[5:disambiguation:name]
+						 General Dynamics
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Dynamics
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 U.S. National Medal of Technology
+				[6:relevance]
+					 0.173035
+				[6:type]
+					 Organization
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Association for Computing Machinery
+				[7:relevance]
+					 0.170232
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+					[7:disambiguation:name]
+						 Association for Computing Machinery
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Association_for_Computing_Machinery
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Computing Science Research Center
+				[8:relevance]
+					 0.169542
+				[8:type]
+					 Organization
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 New Orleans
+				[9:relevance]
+					 0.16954
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 City
+					[9:disambiguation:name]
+						 New Orleans
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Orleans
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 National Academy of Sciences
+				[10:relevance]
+					 0.16922
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+					[10:disambiguation:name]
+						 National Academy of Sciences
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Academy_of_Sciences
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 U.S. Navy
+				[11:relevance]
+					 0.168172
+				[11:type]
+					 Organization
+					[11:disambiguation:subtype]
+						[0]
+							 ArmedForce
+						[1]
+							 VideoGameDeveloper
+					[11:disambiguation:name]
+						 United States Navy
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Navy
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 General Electric
+				[12:relevance]
+					 0.167866
+				[12:type]
+					 Company
+					[12:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[12:disambiguation:name]
+						 General Electric
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Louisiana
+				[13:relevance]
+					 0.167134
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[13:disambiguation:name]
+						 Louisiana
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Louisiana
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 New Jersey
+				[14:relevance]
+					 0.166423
+				[14:type]
+					 Location
+					[14:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[14:disambiguation:name]
+						 New Jersey
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 Bonnie
+				[15:relevance]
+					 0.166132
+				[15:type]
+					 Person
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Kanai Award
+				[16:relevance]
+					 0.162723
+				[16:type]
+					 Company
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0.48925
+					[17:sentiment:label]
+						 positive
+				[17:text]
+					 Corey
+				[17:relevance]
+					 0.159493
+				[17:type]
+					 Person
+				[18:count]
+					 2
+					[18:sentiment:score]
+						 0.290283
+					[18:sentiment:label]
+						 positive
+				[18:text]
+					 Massachusetts Institute of Technology
+				[18:relevance]
+					 0.158713
+				[18:type]
+					 Organization
+					[18:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 CollegeUniversity
+						[6]
+							 JobTitle
+						[7]
+							 University
+					[18:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[19:count]
+					 2
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 IEEE
+				[19:relevance]
+					 0.157276
+				[19:type]
+					 Organization
+					[19:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+						[2]
+							 Non-ProfitOrganisation
+						[3]
+							 PeriodicalPublisher
+					[19:disambiguation:name]
+						 Institute of Electrical and Electronics Engineers
+					[19:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers
+				[20:count]
+					 1
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 University of Sydney
+				[20:relevance]
+					 0.153514
+				[20:type]
+					 Organization
+					[20:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 CollegeUniversity
+						[3]
+							 University
+					[20:disambiguation:name]
+						 University of Sydney
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/University_of_Sydney
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 Richard Hamming
+				[21:relevance]
+					 0.150733
+				[21:type]
+					 Person
+					[21:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 Scientist
+					[21:disambiguation:name]
+						 Richard Hamming
+					[21:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Richard_Hamming
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 Australia
+				[22:relevance]
+					 0.149525
+				[22:type]
+					 Location
+					[22:disambiguation:subtype]
+						[0]
+							 GovernmentalJurisdiction
+						[1]
+							 Kingdom
+						[2]
+							 Country
+					[22:disambiguation:name]
+						 Australia
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Australia
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 Lucent Technologies
+				[23:relevance]
+					 0.147656
+				[23:type]
+					 Company
+					[23:disambiguation:subtype]
+					[23:disambiguation:name]
+						 Lucent
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lucent
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 Ritchie
+				[24:relevance]
+					 0.146984
+				[24:type]
+					 Person
+				[25:count]
+					 1
+					[25:sentiment:score]
+						 0
+					[25:sentiment:label]
+						 neutral
+				[25:text]
+					 AT&T
+				[25:relevance]
+					 0.143666
+				[25:type]
+					 Company
+					[25:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[25:disambiguation:name]
+						 AT&T
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 American Telephone
+				[26:relevance]
+					 0.143242
+				[26:type]
+					 Company
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0.358204
+					[27:sentiment:label]
+						 positive
+				[27:text]
+					 Japan
+				[27:relevance]
+					 0.142336
+				[27:type]
+					 Location
+					[27:disambiguation:subtype]
+						[0]
+							 Country
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 Emmanuel R. Piore
+				[28:relevance]
+					 0.142216
+				[28:type]
+					 Person
+				[29:count]
+					 1
+					[29:sentiment:score]
+						 0
+					[29:sentiment:label]
+						 neutral
+				[29:text]
+					 thirty hours
+				[29:relevance]
+					 0.138322
+				[29:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 Computer
+				[0:relevance]
+					 0.981664
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[1:text]
+					 C
+				[1:relevance]
+					 0.883057
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[2:text]
+					 Operating system
+				[2:relevance]
+					 0.796914
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[3:text]
+					 Dennis Ritchie
+				[3:relevance]
+					 0.712439
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[4:text]
+					 Bell Labs
+				[4:relevance]
+					 0.693143
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Bell_Labs
+				[5:text]
+					 Unix
+				[5:relevance]
+					 0.674745
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[6:text]
+					 Computer program
+				[6:relevance]
+					 0.601396
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer_program
+				[7:text]
+					 Plan 9 from Bell Labs
+				[7:relevance]
+					 0.600575
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Plan_9_from_Bell_Labs
+		[:enriched_text:categories]
+				[0:score]
+					 0.999912
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.999791
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.998206
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 K1619002789
+		[:metadata:concepts]
+			[0]
+				 Computer
+			[1]
+				 C
+			[2]
+				 Operating system
+			[3]
+				 Dennis Ritchie
+			[4]
+				 Bell Labs
+			[5]
+				 Unix
+			[6]
+				 Computer program
+			[7]
+				 Plan 9 from Bell Labs
+			[8]
+				 Software engineering
+			[9]
+				 Programming language
+		[:metadata:keywords]
+			[0]
+				 Kenneth Lane Thompson
+			[1]
+				 operating systems
+			[2]
+				 computer games
+			[3]
+				 Kenneth Thompson
+			[4]
+				 Bell Laboratories
+			[5]
+				 Bell Labs
+			[6]
+				 inventors of the UNIX operating system
+			[7]
+				 work-study program
+			[8]
+				 son of Lewis Elwood Thompson
+			[9]
+				 computer system
+		[:metadata:entitites]
+			[0]
+				 Thompson
+			[1]
+				 Bell Labs
+			[2]
+				 Kenneth Lane Thompson
+			[3]
+				 Kenneth Thompson
+			[4]
+				 Lewis Elwood
+			[5]
+				 Anna Hazel Lane Thompson
+			[6]
+				 General Dynamics Corporation
+			[7]
+				 chess
+			[8]
+				 Berkeley
+			[9]
+				 Computing Science Research Center
+		[:metadata:title]
+			 Kenneth Lane Thompson
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 23
+			[:metadata:gale:gale-fake-waiting]
+				 92
+		[:extracted_metadata:sha1]
+			 dbbaab6acdd6d6050fa207f418b420ef32e83eb8
+		[:extracted_metadata:filename]
+			 Kenneth Lane Thompson.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 8]
+********************************************************************************
+	[:id]
+		 8b76389c-2d5b-4cf4-9f60-37af3052ec30
+		[:result_metadata:confidence]
+			 0.2255937344493932
+		[:result_metadata:score]
+			 15.440255
+	[:text]
+		 no title
+
+Dennis Ritchie was a computer scientist most well-known for his work with Dennis MacAlistair Ritchie was born in Bronxville, New Y[...]
+				[:enriched_text:sentiment:document:score]
+					 0.359563
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 -0.265262
+					[0:sentiment:label]
+						 negative
+				[0:text]
+					 Dennis MacAlistair Ritchie
+				[0:relevance]
+					 0.937136
+				[0:type]
+					 Person
+					[0:disambiguation:subtype]
+						[0]
+							 Academic
+						[1]
+							 AwardWinner
+						[2]
+							 ComputerScientist
+						[3]
+							 ProgrammingLanguageDesigner
+						[4]
+							 Scientist
+						[5]
+							 OperatingSystemDeveloper
+					[0:disambiguation:name]
+						 Dennis Ritchie
+					[0:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Dennis_Ritchie
+				[1:count]
+					 11
+					[1:sentiment:score]
+						 -0.507591
+					[1:sentiment:label]
+						 negative
+				[1:text]
+					 Bell Laboratories
+				[1:relevance]
+					 0.48765
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[1:disambiguation:name]
+						 Bell Labs
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[2:count]
+					 10
+					[2:sentiment:score]
+						 0.067733
+					[2:sentiment:label]
+						 positive
+				[2:text]
+					 Kenneth Thompson
+				[2:relevance]
+					 0.404174
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Computer Science Laboratory
+				[3:relevance]
+					 0.197399
+				[3:type]
+					 JobTitle
+				[4:count]
+					 2
+					[4:sentiment:score]
+						 0.277908
+					[4:sentiment:label]
+						 positive
+				[4:text]
+					 New Jersey
+				[4:relevance]
+					 0.193259
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[4:disambiguation:name]
+						 New Jersey
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Jersey
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0
+					[5:sentiment:label]
+						 neutral
+				[5:text]
+					 Bell
+				[5:relevance]
+					 0.188471
+				[5:type]
+					 Person
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 Bell Labs/Lucent Technology
+				[6:relevance]
+					 0.185502
+				[6:type]
+					 Company
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Harvard
+				[7:relevance]
+					 0.175805
+				[7:type]
+					 Company
+					[7:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[7:disambiguation:name]
+						 Harvard University
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 Harvard University
+				[8:relevance]
+					 0.170068
+				[8:type]
+					 Organization
+					[8:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 CollegeUniversity
+						[2]
+							 University
+					[8:disambiguation:name]
+						 Harvard University
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Harvard_University
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 New York
+				[9:relevance]
+					 0.16448
+				[9:type]
+					 Location
+					[9:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 WineRegion
+						[4]
+							 CityTown
+						[5]
+							 FilmScreeningVenue
+						[6]
+							 StateOrCounty
+					[9:disambiguation:name]
+						 New York
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_York
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 Bronxville
+				[10:relevance]
+					 0.163477
+				[10:type]
+					 Location
+					[10:disambiguation:subtype]
+						[0]
+							 City
+					[10:disambiguation:name]
+						 Bronxville, New York
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bronxville,_New_York
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 systems engineer
+				[11:relevance]
+					 0.162752
+				[11:type]
+					 JobTitle
+				[12:count]
+					 2
+					[12:sentiment:score]
+						 0.278671
+					[12:sentiment:label]
+						 positive
+				[12:text]
+					 MIT
+				[12:relevance]
+					 0.160957
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 Company
+						[2]
+							 AcademicInstitution
+						[3]
+							 PeriodicalPublisher
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 CollegeUniversity
+						[6]
+							 JobTitle
+						[7]
+							 University
+					[12:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 Murray Hill
+				[13:relevance]
+					 0.158154
+				[13:type]
+					 Location
+					[13:disambiguation:subtype]
+						[0]
+							 City
+					[13:disambiguation:name]
+						 Murray Hill, New Jersey
+					[13:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Murray_Hill,_New_Jersey
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 head of Lucent Technologies System Software Research Department
+				[14:relevance]
+					 0.157607
+				[14:type]
+					 JobTitle
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 scientist
+				[15:relevance]
+					 0.148053
+				[15:type]
+					 JobTitle
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Systems Sciences Research Department
+				[16:relevance]
+					 0.146141
+				[16:type]
+					 Organization
+				[17:count]
+					 1
+					[17:sentiment:score]
+						 0
+					[17:sentiment:label]
+						 neutral
+				[17:text]
+					 Industrial Research Institute
+				[17:relevance]
+					 0.14519
+				[17:type]
+					 Organization
+					[17:disambiguation:subtype]
+					[17:disambiguation:name]
+						 Industrial Research Institute
+					[17:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Industrial_Research_Institute
+				[18:count]
+					 1
+					[18:sentiment:score]
+						 0
+					[18:sentiment:label]
+						 neutral
+				[18:text]
+					 Digital Equipment Corporation
+				[18:relevance]
+					 0.139761
+				[18:type]
+					 Company
+					[18:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 ProcessorManufacturer
+						[2]
+							 SoftwareDeveloper
+					[18:disambiguation:name]
+						 Digital Equipment Corporation
+					[18:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[19:count]
+					 1
+					[19:sentiment:score]
+						 0
+					[19:sentiment:label]
+						 neutral
+				[19:text]
+					 ACM Turing
+				[19:relevance]
+					 0.137595
+				[19:type]
+					 Company
+				[20:count]
+					 2
+					[20:sentiment:score]
+						 0
+					[20:sentiment:label]
+						 neutral
+				[20:text]
+					 International Business Machines
+				[20:relevance]
+					 0.137445
+				[20:type]
+					 Company
+					[20:disambiguation:subtype]
+						[0]
+							 SoftwareLicense
+						[1]
+							 OperatingSystemDeveloper
+						[2]
+							 ProcessorManufacturer
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CompanyFounder
+						[5]
+							 ProgrammingLanguageDesigner
+						[6]
+							 ProgrammingLanguageDeveloper
+					[20:disambiguation:name]
+						 IBM
+					[20:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/IBM
+				[21:count]
+					 1
+					[21:sentiment:score]
+						 0
+					[21:sentiment:label]
+						 neutral
+				[21:text]
+					 researcher
+				[21:relevance]
+					 0.134593
+				[21:type]
+					 JobTitle
+				[22:count]
+					 1
+					[22:sentiment:score]
+						 0
+					[22:sentiment:label]
+						 neutral
+				[22:text]
+					 General Electric
+				[22:relevance]
+					 0.134161
+				[22:type]
+					 Company
+					[22:disambiguation:subtype]
+						[0]
+							 ProductionCompany
+					[22:disambiguation:name]
+						 General Electric
+					[22:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Electric
+				[23:count]
+					 1
+					[23:sentiment:score]
+						 0
+					[23:sentiment:label]
+						 neutral
+				[23:text]
+					 MIT
+				[23:relevance]
+					 0.132072
+				[23:type]
+					 Company
+					[23:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 AcademicInstitution
+						[2]
+							 PeriodicalPublisher
+						[3]
+							 SoftwareDeveloper
+						[4]
+							 CollegeUniversity
+						[5]
+							 JobTitle
+						[6]
+							 University
+					[23:disambiguation:name]
+						 Massachusetts Institute of Technology
+					[23:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+				[24:count]
+					 1
+					[24:sentiment:score]
+						 0
+					[24:sentiment:label]
+						 neutral
+				[24:text]
+					 National Medal of Technology
+				[24:relevance]
+					 0.131067
+				[24:type]
+					 Organization
+				[25:count]
+					 2
+					[25:sentiment:score]
+						 -0.407001
+					[25:sentiment:label]
+						 negative
+				[25:text]
+					 AT&T
+				[25:relevance]
+					 0.129084
+				[25:type]
+					 Company
+					[25:disambiguation:subtype]
+						[0]
+							 SoftwareDeveloper
+						[1]
+							 VideoGamePublisher
+					[25:disambiguation:name]
+						 AT&T
+					[25:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/AT&T
+				[26:count]
+					 1
+					[26:sentiment:score]
+						 0
+					[26:sentiment:label]
+						 neutral
+				[26:text]
+					 Patrick Moore
+				[26:relevance]
+					 0.124739
+				[26:type]
+					 Person
+				[27:count]
+					 1
+					[27:sentiment:score]
+						 0
+					[27:sentiment:label]
+						 neutral
+				[27:text]
+					 American Telephone
+				[27:relevance]
+					 0.107526
+				[27:type]
+					 Company
+				[28:count]
+					 1
+					[28:sentiment:score]
+						 0
+					[28:sentiment:label]
+						 neutral
+				[28:text]
+					 $20 billion
+				[28:relevance]
+					 0.107526
+				[28:type]
+					 Quantity
+		[:enriched_text:concepts]
+				[0:text]
+					 C
+				[0:relevance]
+					 0.96965
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[1:text]
+					 Operating system
+				[1:relevance]
+					 0.960732
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[2:text]
+					 Computer
+				[2:relevance]
+					 0.946466
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[3:text]
+					 Unix
+				[3:relevance]
+					 0.917741
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[4:text]
+					 Dennis Ritchie
+				[4:relevance]
+					 0.844634
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[5:text]
+					 Digital Equipment Corporation
+				[5:relevance]
+					 0.8079
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Digital_Equipment_Corporation
+				[6:text]
+					 Bell Labs
+				[6:relevance]
+					 0.784368
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Bell_Labs
+				[7:text]
+					 Programming language
+				[7:relevance]
+					 0.781227
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Programming_language
+		[:enriched_text:categories]
+				[0:score]
+					 0.999941
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.999289
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.998162
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 K1619002585
+		[:metadata:concepts]
+			[0]
+				 C
+			[1]
+				 Operating system
+			[2]
+				 Computer
+			[3]
+				 Unix
+			[4]
+				 Dennis Ritchie
+			[5]
+				 Digital Equipment Corporation
+			[6]
+				 Bell Labs
+			[7]
+				 Programming language
+			[8]
+				 Plan 9 from Bell Labs
+			[9]
+				 Computer program
+		[:metadata:keywords]
+			[0]
+				 Dennis Ritchie
+			[1]
+				 switching systems engineer
+			[2]
+				 Dennis MacAlistair Ritchie
+			[3]
+				 computer scientist
+			[4]
+				 Bell Laboratories
+			[5]
+				 Bell Labs
+			[6]
+				 computer system
+			[7]
+				 New York
+			[8]
+				 Alistair Ritchie
+			[9]
+				 PDP-7
+		[:metadata:entitites]
+			[0]
+				 Ritchie
+			[1]
+				 Bell Labs
+			[2]
+				 Thompson
+			[3]
+				 Dennis Ritchie
+			[4]
+				 MIT
+			[5]
+				 Alistair Ritchie
+			[6]
+				 Jean McGee Ritchie
+			[7]
+				 Computer Science Research Department
+			[8]
+				 Kenneth Thompson
+			[9]
+				 Harvard
+		[:metadata:title]
+			 Dennis Ritchie
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 5
+			[:metadata:gale:gale-fake-waiting]
+				 38
+		[:extracted_metadata:sha1]
+			 78f8e3b57b2455f7a07d58d1c87fc87ea694cf69
+		[:extracted_metadata:filename]
+			 Dennis Ritchie.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
+********************************************************************************
+[result 9]
+********************************************************************************
+	[:id]
+		 74436f2d-d03a-429f-8408-bc42af4f7666
+		[:result_metadata:confidence]
+			 0.2245562150194245
+		[:result_metadata:score]
+			 15.396355
+	[:text]
+		 no title
+
+Kenneth Lane Thompson studied UNIX is well known for its simplicity, generality, and portability. Thompson conceived of the system[...]
+				[:enriched_text:sentiment:document:score]
+					 0.675785
+				[:enriched_text:sentiment:document:label]
+					 positive
+		[:enriched_text:entities]
+				[0:count]
+					 23
+					[0:sentiment:score]
+						 0.234716
+					[0:sentiment:label]
+						 positive
+				[0:text]
+					 Anna Hazel Lane Thompson
+				[0:relevance]
+					 0.861178
+				[0:type]
+					 Person
+				[1:count]
+					 4
+					[1:sentiment:score]
+						 0
+					[1:sentiment:label]
+						 neutral
+				[1:text]
+					 Bell Labs
+				[1:relevance]
+					 0.227968
+				[1:type]
+					 Company
+					[1:disambiguation:subtype]
+						[0]
+							 OperatingSystemDeveloper
+						[1]
+							 SoftwareDeveloper
+					[1:disambiguation:name]
+						 Bell Labs
+					[1:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bell_Labs
+				[2:count]
+					 3
+					[2:sentiment:score]
+						 0
+					[2:sentiment:label]
+						 neutral
+				[2:text]
+					 Ritchie
+				[2:relevance]
+					 0.204849
+				[2:type]
+					 Person
+				[3:count]
+					 1
+					[3:sentiment:score]
+						 0
+					[3:sentiment:label]
+						 neutral
+				[3:text]
+					 Louisiana
+				[3:relevance]
+					 0.167706
+				[3:type]
+					 Location
+					[3:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 AdministrativeDivision
+						[2]
+							 GovernmentalJurisdiction
+						[3]
+							 USState
+						[4]
+							 StateOrCounty
+					[3:disambiguation:name]
+						 Louisiana
+					[3:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Louisiana
+				[4:count]
+					 1
+					[4:sentiment:score]
+						 0
+					[4:sentiment:label]
+						 neutral
+				[4:text]
+					 New Orleans
+				[4:relevance]
+					 0.164039
+				[4:type]
+					 Location
+					[4:disambiguation:subtype]
+						[0]
+							 PlaceWithNeighborhoods
+						[1]
+							 City
+					[4:disambiguation:name]
+						 New Orleans
+					[4:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/New_Orleans
+				[5:count]
+					 2
+					[5:sentiment:score]
+						 0.383031
+					[5:sentiment:label]
+						 positive
+				[5:text]
+					 Berkeley
+				[5:relevance]
+					 0.163402
+				[5:type]
+					 Location
+					[5:disambiguation:subtype]
+						[0]
+							 PoliticalDistrict
+						[1]
+							 GovernmentalJurisdiction
+						[2]
+							 PlaceWithNeighborhoods
+						[3]
+							 City
+					[5:disambiguation:name]
+						 Berkeley, California
+					[5:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Berkeley,_California
+				[6:count]
+					 1
+					[6:sentiment:score]
+						 0
+					[6:sentiment:label]
+						 neutral
+				[6:text]
+					 U.S. Navy
+				[6:relevance]
+					 0.162806
+				[6:type]
+					 Organization
+					[6:disambiguation:subtype]
+						[0]
+							 ArmedForce
+						[1]
+							 VideoGameDeveloper
+					[6:disambiguation:name]
+						 United States Navy
+					[6:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/United_States_Navy
+				[7:count]
+					 1
+					[7:sentiment:score]
+						 0
+					[7:sentiment:label]
+						 neutral
+				[7:text]
+					 Institute of Electrical and Electronics Engineers
+				[7:relevance]
+					 0.155002
+				[7:type]
+					 Organization
+					[7:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+						[2]
+							 Non-ProfitOrganisation
+						[3]
+							 PeriodicalPublisher
+					[7:disambiguation:name]
+						 Institute of Electrical and Electronics Engineers
+					[7:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers
+				[8:count]
+					 1
+					[8:sentiment:score]
+						 0
+					[8:sentiment:label]
+						 neutral
+				[8:text]
+					 General Dynamics Corporation
+				[8:relevance]
+					 0.153285
+				[8:type]
+					 Company
+					[8:disambiguation:subtype]
+						[0]
+							 AircraftManufacturer
+					[8:disambiguation:name]
+						 General Dynamics
+					[8:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/General_Dynamics
+				[9:count]
+					 1
+					[9:sentiment:score]
+						 0
+					[9:sentiment:label]
+						 neutral
+				[9:text]
+					 Lucent Technologies
+				[9:relevance]
+					 0.151029
+				[9:type]
+					 Company
+					[9:disambiguation:subtype]
+					[9:disambiguation:name]
+						 Lucent
+					[9:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Lucent
+				[10:count]
+					 1
+					[10:sentiment:score]
+						 0
+					[10:sentiment:label]
+						 neutral
+				[10:text]
+					 University of California
+				[10:relevance]
+					 0.145677
+				[10:type]
+					 Organization
+					[10:disambiguation:subtype]
+						[0]
+							 Location
+						[1]
+							 University
+					[10:disambiguation:name]
+						 Haas School of Business
+					[10:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Haas_School_of_Business
+				[11:count]
+					 1
+					[11:sentiment:score]
+						 0
+					[11:sentiment:label]
+						 neutral
+				[11:text]
+					 Google
+				[11:relevance]
+					 0.142197
+				[11:type]
+					 Company
+					[11:disambiguation:subtype]
+						[0]
+							 AcademicInstitution
+						[1]
+							 AwardPresentingOrganization
+						[2]
+							 OperatingSystemDeveloper
+						[3]
+							 ProgrammingLanguageDeveloper
+						[4]
+							 SoftwareDeveloper
+						[5]
+							 VentureFundedCompany
+					[11:disambiguation:name]
+						 Google
+					[11:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Google
+				[12:count]
+					 1
+					[12:sentiment:score]
+						 0
+					[12:sentiment:label]
+						 neutral
+				[12:text]
+					 National Academy of Sciences
+				[12:relevance]
+					 0.14175
+				[12:type]
+					 Organization
+					[12:disambiguation:subtype]
+					[12:disambiguation:name]
+						 National Academy of Sciences
+					[12:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/National_Academy_of_Sciences
+				[13:count]
+					 1
+					[13:sentiment:score]
+						 0
+					[13:sentiment:label]
+						 neutral
+				[13:text]
+					 research fellow
+				[13:relevance]
+					 0.140366
+				[13:type]
+					 JobTitle
+				[14:count]
+					 1
+					[14:sentiment:score]
+						 0
+					[14:sentiment:label]
+						 neutral
+				[14:text]
+					 Association for Computing Machinery
+				[14:relevance]
+					 0.136283
+				[14:type]
+					 Organization
+					[14:disambiguation:subtype]
+						[0]
+							 AwardPresentingOrganization
+						[1]
+							 MembershipOrganization
+					[14:disambiguation:name]
+						 Association for Computing Machinery
+					[14:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Association_for_Computing_Machinery
+				[15:count]
+					 1
+					[15:sentiment:score]
+						 0
+					[15:sentiment:label]
+						 neutral
+				[15:text]
+					 President Bill Clinton
+				[15:relevance]
+					 0.133595
+				[15:type]
+					 Person
+					[15:disambiguation:subtype]
+						[0]
+							 MusicalArtist
+						[1]
+							 Politician
+						[2]
+							 Appointer
+						[3]
+							 AwardWinner
+						[4]
+							 Celebrity
+						[5]
+							 MusicalGroupMember
+						[6]
+							 OfficeHolder
+						[7]
+							 PoliticalAppointer
+						[8]
+							 TVPersonality
+						[9]
+							 FilmActor
+						[10]
+							 FilmWriter
+						[11]
+							 USPresident
+					[15:disambiguation:name]
+						 Bill Clinton
+					[15:disambiguation:dbpedia_resource]
+						 http://dbpedia.org/resource/Bill_Clinton
+				[16:count]
+					 1
+					[16:sentiment:score]
+						 0
+					[16:sentiment:label]
+						 neutral
+				[16:text]
+					 Entrisphere, Inc.
+				[16:relevance]
+					 0.131586
+				[16:type]
+					 Company
+		[:enriched_text:concepts]
+				[0:text]
+					 Computer
+				[0:relevance]
+					 0.973141
+				[0:dbpedia_resource]
+					 http://dbpedia.org/resource/Computer
+				[1:text]
+					 Operating system
+				[1:relevance]
+					 0.766816
+				[1:dbpedia_resource]
+					 http://dbpedia.org/resource/Operating_system
+				[2:text]
+					 Electrical engineering
+				[2:relevance]
+					 0.580531
+				[2:dbpedia_resource]
+					 http://dbpedia.org/resource/Electrical_engineering
+				[3:text]
+					 Dennis Ritchie
+				[3:relevance]
+					 0.576077
+				[3:dbpedia_resource]
+					 http://dbpedia.org/resource/Dennis_Ritchie
+				[4:text]
+					 C
+				[4:relevance]
+					 0.566281
+				[4:dbpedia_resource]
+					 http://dbpedia.org/resource/C_(programming_language)
+				[5:text]
+					 Unix
+				[5:relevance]
+					 0.500439
+				[5:dbpedia_resource]
+					 http://dbpedia.org/resource/Unix
+				[6:text]
+					 Plan 9 from Bell Labs
+				[6:relevance]
+					 0.497123
+				[6:dbpedia_resource]
+					 http://dbpedia.org/resource/Plan_9_from_Bell_Labs
+				[7:text]
+					 Bell Labs
+				[7:relevance]
+					 0.497039
+				[7:dbpedia_resource]
+					 http://dbpedia.org/resource/Bell_Labs
+		[:enriched_text:categories]
+				[0:score]
+					 0.99854
+				[0:label]
+					 /technology and computing/operating systems
+				[1:score]
+					 0.998162
+				[1:label]
+					 /technology and computing/operating systems/unix
+				[2:score]
+					 0.998104
+				[2:label]
+					 /technology and computing/hardware/computer
+		[:metadata:docid]
+			 K2424100111
+		[:metadata:concepts]
+			[0]
+				 Computer
+			[1]
+				 Operating system
+			[2]
+				 Electrical engineering
+			[3]
+				 Dennis Ritchie
+			[4]
+				 C
+			[5]
+				 Unix
+			[6]
+				 Plan 9 from Bell Labs
+			[7]
+				 Bell Labs
+			[8]
+				 Computer programming
+			[9]
+				 Computer program
+		[:metadata:keywords]
+			[0]
+				 Kenneth Lane Thompson
+			[1]
+				 computer center
+			[2]
+				 Kenneth Thompson
+			[3]
+				 computer operating system
+			[4]
+				 son of Lewis Elwood Thompson
+			[5]
+				 Anna Hazel Lane Thompson
+			[6]
+				 UNIX system
+			[7]
+				 work-study program
+			[8]
+				 Thompson's formal education
+			[9]
+				 number of awards
+		[:metadata:entitites]
+			[0]
+				 Thompson
+			[1]
+				 Kenneth Lane Thompson
+			[2]
+				 Kenneth Thompson
+			[3]
+				 Lewis Elwood
+			[4]
+				 Anna Hazel Lane Thompson
+			[5]
+				 General Dynamics Corporation
+			[6]
+				 Berkeley
+			[7]
+				 chess
+			[8]
+				 Ritchie
+			[9]
+				 Bell Labs
+		[:metadata:title]
+			 Kenneth Lane Thompson
+		[:metadata:cluster_id]
+			 2
+			[:metadata:gale:gale-collection]
+				 Science
+			[:metadata:gale:gale-fake-level]
+				 28
+			[:metadata:gale:gale-fake-waiting]
+				 27
+		[:extracted_metadata:sha1]
+			 ce118c15aee5df2160eb95f6e50ac5c4e5ffd76a
+		[:extracted_metadata:filename]
+			 Kenneth Lane Thompson.txt
+		[:extracted_metadata:file_type]
+			 html
+		[:extracted_metadata:title]
+			 no title
+	[:title]
+		 no title
+	[:html]
+		 <?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/[...]
