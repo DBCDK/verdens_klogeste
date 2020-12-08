@@ -64,6 +64,20 @@ class QueryHandler(BaseHandler):
         #response = {"clusters": clusters}
         self.write(f"{json.dumps(response)}\n")
 
+
+class SimilarityHandler(BaseHandler):
+
+    def post(self):
+        data = json.loads(self.request.body.decode("utf8"))
+        if "similar_document_ids" not in data or "key" not in data:
+            self.set_status(415)
+            return self.write("Request body must contain a \"similar_document_ids\" and a \"key\" key.")
+        similar_document_ids = data["similar_document_ids"]
+        key = data["key"]
+        if key != AUTHKEY:
+            return self.set_status(401)
+        
+        
 def main():
     args = setup_args()
     info = build_info.get_info("verdens_klogeste")
@@ -73,6 +87,7 @@ def main():
 
     tornado_app = tornado.web.Application([
         ("/query", QueryHandler, {'gale_fake_data': gale_fake_data}),
+        ("/similar", SimilarHandler),
         ("/status", StatusHandler, {"ab_id": 1, "info": info}),
     ])
     tornado_app.listen(args.port)
