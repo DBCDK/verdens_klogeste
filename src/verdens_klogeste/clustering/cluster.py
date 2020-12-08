@@ -47,9 +47,43 @@ def query(query_string, disc, n_results=50, n_clusters=3):
     coll_id = disc['coll_id']
     response = discovery.discovery.query(env_id, coll_id, query=query_string, count=n_results)
     query_end_time = time.time()
-    # print(f'Query: {query_end_time-query_start_time}')
+    result, cluster_start_time, cluster_end_time = _handle_clustering(response, n_clusters)
+    total_end_time = time.time()
+    timings = {
+        'total_time': int((total_end_time-total_start_time)*1000),
+        'query_time': int((query_end_time-query_start_time)*1000),
+        'cluster_time': int((cluster_end_time-cluster_start_time)*1000),
+        }
+    result['timings'] = timings
+    return result
+
+
+def similar(similar_document_ids, similar_fields, disc, n_results=50, n_clusters=3):
+    total_start_time = time.time()
+    query_start_time = time.time()
+    discovery = disc['discovery']
+    env_id = disc['env_id']
+    coll_id = disc['coll_id']
+    response = discovery.discovery.query(env_id, coll_id,
+                                         similar=True,
+                                         similar_document_ids=similar_document_ids,
+                                         similar_fields=similar_fields,
+                                         count=n_results)
+    query_end_time = time.time()
+    result, cluster_start_time, cluster_end_time = _handle_clustering(response, n_clusters)
+    total_end_time = time.time()
+    timings = {
+        'total_time': int((total_end_time-total_start_time)*1000),
+        'query_time': int((query_end_time-query_start_time)*1000),
+        'cluster_time': int((cluster_end_time-cluster_start_time)*1000),
+        }
+    result['timings'] = timings
+    return result
+
+
+def _handle_clustering(response, n_clusters):
     cluster_start_time = time.time()
-    matching_results = response.result['matching_results']    
+    matching_results = response.result['matching_results']
     if matching_results == 0:
         return response.result
 
@@ -78,15 +112,15 @@ def query(query_string, disc, n_results=50, n_clusters=3):
         title = metadata['title']
         metadata['cluster_id'] = int(title2y[title])
     cluster_end_time = time.time()
-    total_end_time = time.time()
-    #print(f'Total: {total_end_time-total_start_time}')
-    timings = {
-        'total_time': int((total_end_time-total_start_time)*1000),
-        'query_time': int((query_end_time-query_start_time)*1000),
-        'cluster_time': int((cluster_end_time-cluster_start_time)*1000),
-        }
-    response.result['timings'] = timings
-    return response.result
+    # total_end_time = time.time()
+    # #print(f'Total: {total_end_time-total_start_time}')
+    # timings = {
+    #     'total_time': int((total_end_time-total_start_time)*1000),
+    #     'query_time': int((query_end_time-query_start_time)*1000),
+    #     'cluster_time': int((cluster_end_time-cluster_start_time)*1000),
+    #     }
+    # response.result['timings'] = timings
+    return response.result, cluster_start_time, cluster_end_time
 
 
 def print_response(response, number_of_clusters):
