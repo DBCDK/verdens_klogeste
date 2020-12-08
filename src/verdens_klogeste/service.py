@@ -65,19 +65,38 @@ class QueryHandler(BaseHandler):
         self.write(f"{json.dumps(response)}\n")
 
 
-class SimilarityHandler(BaseHandler):
+class SimilarHandler(BaseHandler):
+
+    def initialize(self, gale_fake_data):
+        self.gale_fake_data = gale_fake_data
+
+    def insert_fake_data(self, response):
+        for result in response['results']:
+            logger.info(result['metadata'])
+            if 'metadata' in result and 'docid' in result['metadata']:
+                docid = result['metadata']['docid']
+                if docid in self.gale_fake_data:
+                    result['metadata']['gale'] = self.gale_fake_data[docid]
+        return response
 
     def post(self):
         data = json.loads(self.request.body.decode("utf8"))
-        if "similar_document_ids" not in data or "key" not in data:
+        if "similar-document-ids" not in data or "key" not in data:
             self.set_status(415)
-            return self.write("Request body must contain a \"similar_document_ids\" and a \"key\" key.")
-        similar_document_ids = data["similar_document_ids"]
+            return self.write("Request body must contain a \"similar-document-ids\" and a \"key\" key.")
+        similar_document_ids = data["similar-document-ids"]
         key = data["key"]
         if key != AUTHKEY:
             return self.set_status(401)
-        
-        
+        n_results = int(self.get_argument("results-count", 50))
+        n_clusters = int(self.get_argument("num-clusters", 3))
+        similar_fields = str(self.get_argument("similar-fields", ""))
+        response = cluster.similar(similar_document_ids, similar_fields, disc, n_results, n_clusters)
+        response = self.insert_fake_data(response)
+        #response = {"clusters": clusters}
+        self.write(f"{json.dumps(response)}\n")
+
+
 def main():
     args = setup_args()
     info = build_info.get_info("verdens_klogeste")
@@ -87,7 +106,7 @@ def main():
 
     tornado_app = tornado.web.Application([
         ("/query", QueryHandler, {'gale_fake_data': gale_fake_data}),
-        ("/similar", SimilarHandler),
+        ("/similar", SimilarHandler, {'gale_fake_data': gale_fake_data}),
         ("/status", StatusHandler, {"ab_id": 1, "info": info}),
     ])
     tornado_app.listen(args.port)
